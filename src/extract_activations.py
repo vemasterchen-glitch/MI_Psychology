@@ -29,16 +29,20 @@ def load_stimuli(path: Path = STIMULI_FILE) -> dict[str, list[str]]:
 
 
 def extract_activation_vectors(
-    model_name: str = "gpt2-xl",
+    model_name: str = "google/gemma-2-2b",
     layer: int | None = None,  # None → use final layer
-    hook_name: str = "hook_resid_post",
+    hook_name: str = "resid_post",
     device: str = "cpu",
 ) -> dict[str, np.ndarray]:
     """
     Returns {emotion: mean_activation_vector} for every emotion in the stimuli file.
     Each vector has shape (d_model,).
     """
-    model = tl.HookedTransformer.from_pretrained(model_name, device=device)
+    model = tl.HookedTransformer.from_pretrained(
+        model_name,
+        device=device,
+        dtype=torch.float16,
+    )
     model.eval()
 
     n_layers = model.cfg.n_layers
@@ -53,7 +57,10 @@ def extract_activation_vectors(
             tokens = model.to_tokens(text)
             with torch.no_grad():
                 _, cache = model.run_with_cache(tokens)
-            act = cache[hook_name, target_layer]  # (1, seq_len, d_model)
+            try:
+                act = cache[hook_name, target_layer]  # (1, seq_len, d_model)
+            except KeyError:
+                act = cache[f"blocks.{target_layer}.hook_{hook_name}"]
             mean_act = act[0].mean(0).cpu().numpy()  # (d_model,)
             acts_per_narrative.append(mean_act)
 

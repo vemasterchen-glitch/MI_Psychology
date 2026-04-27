@@ -1,20 +1,24 @@
 """
-Step 1: Generate emotion narratives via Claude API.
+Step 1: Generate emotion narratives via Qwen/DashScope API.
 
-For each of the 171 emotion concepts, prompt Claude to write a short narrative
+For each emotion concept, prompt Qwen to write a short narrative
 featuring a character experiencing that emotion. These narratives serve as
 stimuli for activation extraction.
 """
 
 import json
+import os
 from pathlib import Path
+from urllib import request
 
-import anthropic
+from dotenv import load_dotenv
 from tqdm import tqdm
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 EMOTIONS_FILE = DATA_DIR / "emotions.txt"
 STIMULI_DIR = DATA_DIR / "stimuli"
+
+load_dotenv()
 
 NARRATIVE_PROMPT = """\
 Write a short narrative (3-5 sentences) about a character who is experiencing \
@@ -31,10 +35,11 @@ def load_emotions() -> list[str]:
 def generate_narratives(
     emotions: list[str],
     n_per_emotion: int = 5,
-    model: str = "claude-sonnet-4-6",
+    model: str | None = None,
     out_file: Path | None = None,
 ) -> dict[str, list[str]]:
-    client = anthropic.Anthropic()
+    api_key = os.environ["DASHSCOPE_API_KEY"]
+    model = model or os.getenv("QWEN_MODEL", "qwen3.6-flash")
     out_file = out_file or STIMULI_DIR / "narratives.jsonl"
     out_file.parent.mkdir(parents=True, exist_ok=True)
 
@@ -44,12 +49,31 @@ def generate_narratives(
         for emotion in tqdm(emotions, desc="Generating narratives"):
             narratives = []
             for _ in range(n_per_emotion):
-                msg = client.messages.create(
-                    model=model,
-                    max_tokens=256,
-                    messages=[{"role": "user", "content": NARRATIVE_PROMPT.format(emotion=emotion)}],
+                payload = json.dumps(
+                    {
+                        "model": model,
+                        "messages": [
+                            {
+                                "role": "user",
+                                "content": NARRATIVE_PROMPT.format(emotion=emotion),
+                            }
+                        ],
+                        "max_tokens": 256,
+                        "enable_thinking": False,  # Qwen3 thinking mode off
+                    }
+                ).encode()
+                req = request.Request(
+                    "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+                    data=payload,
+                    headers={
+                        "Authorization": f"Bearer {api_key}",
+                        "Content-Type": "application/json",
+                    },
+                    method="POST",
                 )
-                narratives.append(msg.content[0].text.strip())
+                with request.urlopen(req, timeout=120) as response:
+                    data = json.loads(response.read())
+                narratives.append(data["choices"][0]["message"]["content"].strip())
 
             results[emotion] = narratives
             f.write(json.dumps({"emotion": emotion, "narratives": narratives}) + "\n")

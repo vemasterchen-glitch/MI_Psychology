@@ -34,7 +34,9 @@ def make_steering_hook(
     direction_tensor = direction_tensor / (direction_tensor.norm() + 1e-8)
 
     def hook_fn(value: torch.Tensor, hook) -> torch.Tensor:
-        return value + scale * direction_tensor
+        # cast to match model dtype (e.g. float16) at runtime
+        d = direction_tensor.to(dtype=value.dtype)
+        return value + scale * d
 
     return hook_fn
 

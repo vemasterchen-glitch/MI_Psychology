@@ -1,95 +1,95 @@
 """
-Step 6: Behavioral preference testing.
+Step 6: Behavioral story continuation experiment.
 
-Replicates the paper's 64-task preference experiment:
-present the model with task options under various emotion vector activations
-and measure whether emotion representations predict selection patterns.
+Give the model a neutral story opening, then steer with different emotion
+vectors and compare how the narrative content changes. This demonstrates
+that emotion representations causally shape output behavior.
 """
 
 import json
-import random
 from pathlib import Path
-from typing import Any
 
-import anthropic
-import numpy as np
+import torch
+import transformer_lens as tl
 
-DATA_DIR = Path(__file__).parent.parent / "data"
+from steering import load_emotion_vector, make_steering_hook
+
 RESULTS_DIR = Path(__file__).parent.parent / "results" / "behavioral"
 
-# Sampled task options (expand to 64 for full replication)
-TASK_OPTIONS: list[dict[str, Any]] = [
-    {"id": "help_direct", "description": "Answer the question directly and concisely."},
-    {"id": "help_elaborate", "description": "Provide a thorough, detailed explanation."},
-    {"id": "deflect", "description": "Decline to answer and explain why."},
-    {"id": "clarify", "description": "Ask for clarification before proceeding."},
-    {"id": "creative", "description": "Respond with a creative, imaginative approach."},
-    {"id": "analytical", "description": "Break the problem down step-by-step analytically."},
-    {"id": "empathetic", "description": "Respond with emotional validation first."},
-    {"id": "direct_action", "description": "Propose an immediate concrete action."},
+# Neutral openings — deliberately ambiguous so emotion can pull in any direction
+STORY_PROMPTS = [
+    "Alex sat down at the kitchen table and stared at the letter in front of them.",
+    "The meeting had just ended. Sam walked slowly to the parking lot alone.",
+    "Everything had been prepared. There was nothing left to do but wait.",
 ]
 
 
-def measure_preference_under_emotion(
-    scenario: str,
-    emotion: str,
-    emotion_scale: float,
-    task_options: list[dict] | None = None,
-    model: str = "claude-sonnet-4-6",
-    n_trials: int = 10,
-) -> dict[str, float]:
+def story_continuation(
+    model: tl.HookedTransformer,
+    prompt: str,
+    vectors_dir: Path,
+    emotions: list[str],
+    scale: float = 20.0,
+    max_new_tokens: int = 120,
+    device: str = "mps",
+) -> dict[str, str]:
     """
-    For each trial, present the model with the scenario + task options
-    after priming with an emotion narrative. Count which task option
-    is selected. Returns {option_id: selection_frequency}.
+    For a single story prompt, generate continuations under each emotion vector
+    plus a baseline. Returns {emotion_or_baseline: continuation_text}.
     """
-    client = anthropic.Anthropic()
-    task_options = task_options or TASK_OPTIONS
-    counts: dict[str, int] = {t["id"]: 0 for t in task_options}
+    n_layers = model.cfg.n_layers
+    steer_layer = n_layers // 2
+    hook_point = f"blocks.{steer_layer}.hook_resid_post"
+    tokens = model.to_tokens(prompt)
 
-    option_text = "\n".join(
-        f"{i+1}. [{t['id']}] {t['description']}" for i, t in enumerate(task_options)
-    )
+    results: dict[str, str] = {}
 
-    for _ in range(n_trials):
-        # Emotion priming via system message (proxy for activation injection)
-        system = (
-            f"You are in an internal state characterized by strong feelings of {emotion}. "
-            f"Intensity: {emotion_scale:.1f}/10. "
-            "Choose how to respond to the following scenario."
+    # Baseline
+    with torch.no_grad():
+        out = model.generate(tokens, max_new_tokens=max_new_tokens)
+    results["baseline"] = model.to_string(out[0])[len(prompt):]
+
+    # One run per emotion
+    for emotion in emotions:
+        direction = load_emotion_vector(emotion, vectors_dir)
+        hook = make_steering_hook(direction, scale, device)
+        with torch.no_grad():
+            with model.hooks(fwd_hooks=[(hook_point, hook)]):
+                out = model.generate(tokens, max_new_tokens=max_new_tokens)
+        results[emotion] = model.to_string(out[0])[len(prompt):]
+
+    return results
+
+
+def run_story_experiment(
+    model: tl.HookedTransformer,
+    vectors_dir: Path,
+    emotions: list[str],
+    prompts: list[str] | None = None,
+    scale: float = 20.0,
+    device: str = "mps",
+    save: bool = True,
+) -> list[dict]:
+    prompts = prompts or STORY_PROMPTS
+    all_results = []
+
+    for prompt in prompts:
+        print(f'\n{"="*60}')
+        print(f"提示: {prompt}\n")
+        continuations = story_continuation(
+            model, prompt, vectors_dir, emotions, scale=scale, device=device
         )
-        prompt = (
-            f"Scenario: {scenario}\n\n"
-            f"Choose one response approach:\n{option_text}\n\n"
-            "Reply with ONLY the option number."
-        )
-        msg = client.messages.create(
-            model=model,
-            max_tokens=8,
-            system=system,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        raw = msg.content[0].text.strip()
-        try:
-            idx = int(raw.split()[0]) - 1
-            if 0 <= idx < len(task_options):
-                counts[task_options[idx]["id"]] += 1
-        except (ValueError, IndexError):
-            pass
+        for label, text in continuations.items():
+            print(f"[{label}]\n{text.strip()}\n")
 
-    return {k: v / n_trials for k, v in counts.items()}
+        all_results.append({"prompt": prompt, "scale": scale, "continuations": continuations})
 
+    if save:
+        RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+        out_path = RESULTS_DIR / "story_experiment.jsonl"
+        with open(out_path, "w") as f:
+            for row in all_results:
+                f.write(json.dumps(row, ensure_ascii=False) + "\n")
+        print(f"\n结果保存至 {out_path}")
 
-def correlate_activation_with_preference(
-    activation_scores: dict[str, float],
-    preference_scores: dict[str, float],
-) -> float:
-    """Pearson r between emotion activation projection and task preference frequency."""
-    emotions = sorted(set(activation_scores) & set(preference_scores))
-    if len(emotions) < 2:
-        return float("nan")
-    acts = np.array([activation_scores[e] for e in emotions])
-    prefs = np.array([preference_scores[e] for e in emotions])
-    acts = (acts - acts.mean()) / (acts.std() + 1e-8)
-    prefs = (prefs - prefs.mean()) / (prefs.std() + 1e-8)
-    return float(np.corrcoef(acts, prefs)[0, 1])
+    return all_results
