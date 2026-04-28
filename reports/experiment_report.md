@@ -10,13 +10,15 @@
 
 原论文使用 Claude Sonnet 4.5 的内部激活（Anthropic 私有访问），本复刻使用开源替代：
 
-| 组件 | 原论文 | 本复刻 |
-|---|---|---|
-| 叙述生成模型 | Claude Sonnet 4.5 | Qwen3.6-flash（DashScope API） |
+
+| 组件     | 原论文                   | 本复刻                              |
+| ------ | --------------------- | -------------------------------- |
+| 叙述生成模型 | Claude Sonnet 4.5     | Qwen3.6-flash（DashScope API）     |
 | 激活提取模型 | Claude Sonnet 4.5（内部） | Gemma 2 2B（本地，Apple Silicon MPS） |
-| 情绪词表 | 171 个（论文附录） | 171 个（与论文一致） |
-| 叙述数量 | 每情绪 100 主题 × 12 条 | 每情绪 3 条（扩充至 20 条进行中） |
-| 激活提取位置 | 未公开 | 第 25 层（最终层）残差流，token 均值 |
+| 情绪词表   | 171 个（论文附录）           | 171 个（与论文一致）                     |
+| 叙述数量   | 每情绪 100 主题 × 12 条     | 每情绪 3 条（扩充至 20 条进行中）             |
+| 激活提取位置 | 未公开                   | 第 25 层（最终层）残差流，token 均值          |
+
 
 ---
 
@@ -46,15 +48,17 @@
 
 对 171 个情绪向量做余弦相似度最近邻检索，结果与人类直觉高度一致：
 
-| 锚点情绪 | 最近邻（余弦相似度最高） |
-|---|---|
-| terrified | scared · afraid · frightened · panicked |
-| furious | irate · enraged · mad · angry |
-| joyful | delighted · happy · elated · pleased |
-| calm | relaxed · at ease · serene · peaceful |
-| desperate | panicked · trapped · rattled · tense |
-| grateful | thankful · content · pleased · peaceful |
-| guilty | remorseful · worried · heartbroken · regretful |
+
+| 锚点情绪      | 最近邻（余弦相似度最高）                                   |
+| --------- | ---------------------------------------------- |
+| terrified | scared · afraid · frightened · panicked        |
+| furious   | irate · enraged · mad · angry                  |
+| joyful    | delighted · happy · elated · pleased           |
+| calm      | relaxed · at ease · serene · peaceful          |
+| desperate | panicked · trapped · rattled · tense           |
+| grateful  | thankful · content · pleased · peaceful        |
+| guilty    | remorseful · worried · heartbroken · regretful |
+
 
 **结论**：向量空间自发形成语义族群，无监督结构与人类情绪分类一致。
 
@@ -66,13 +70,15 @@
 
 以提示"*Alex 在厨房的餐桌前坐下，凝视着面前的那封信*"为例：
 
-| 条件 | 续写方向 |
-|---|---|
-| 基线（无植入） | 困惑、平淡，滑入 Harry Potter 同人文风格 |
-| **fear** | "his pulse raced, heart pounding with nerves" — 身体应激反应 |
-| **joy** | 描述字体笔迹细节，平静好奇 |
-| **anger** | 熟悉气味引发厌恶，胃部翻涌，回避 |
-| **sadness** | "The direction to the **cemetery**." |
+
+| 条件          | 续写方向                                                   |
+| ----------- | ------------------------------------------------------ |
+| 基线（无植入）     | 困惑、平淡，滑入 Harry Potter 同人文风格                            |
+| **fear**    | "his pulse raced, heart pounding with nerves" — 身体应激反应 |
+| **joy**     | 描述字体笔迹细节，平静好奇                                          |
+| **anger**   | 熟悉气味引发厌恶，胃部翻涌，回避                                       |
+| **sadness** | "The direction to the **cemetery**."                   |
+
 
 跨三个提示的一致规律：sadness 最稳定（均出现死亡/失去意象），anger 最极端。
 
@@ -84,20 +90,24 @@
 
 ### PCA 方差解释比例
 
-| 主成分 | 方差占比 |
-|---|---|
+
+| 主成分 | 方差占比  |
+| --- | ----- |
 | PC1 | 13.9% |
-| PC2 | 9.5% |
-| PC3 | 8.5% |
-| 合计 | 31.9% |
+| PC2 | 9.5%  |
+| PC3 | 8.5%  |
+| 合计  | 31.9% |
+
 
 ### VAD 相关系数（Spearman ρ，匹配词典 157 个情绪）
 
-|  | 效价 | 唤醒度 | 支配度 |
-|---|:-:|:-:|:-:|
-| **PC1** | **−0.658** | +0.540 | −0.291 |
-| **PC2** | +0.344 | **+0.497** | +0.423 |
-| **PC3** | +0.069 | +0.334 | **+0.431** |
+
+|         | 效价         | 唤醒度        | 支配度        |
+| ------- | ---------- | ---------- | ---------- |
+| **PC1** | **−0.658** | +0.540     | −0.291     |
+| **PC2** | +0.344     | **+0.497** | +0.423     |
+| **PC3** | +0.069     | +0.334     | **+0.431** |
+
 
 ### 三个轴的语义内容
 
@@ -176,32 +186,38 @@ projection = emotion_matrix @ val_direction   # (157,)
 
 ### 6.5 VAD 相关系数对比
 
-| 方法 | 效价 ρ | 唤醒度 ρ | 支配度 ρ | 性质 |
-|---|:-:|:-:|:-:|---|
-| PCA PC1/PC2/PC3 | 0.658 | 0.540 | 0.431 | 无监督 |
-| **SAE 合成方向** | **0.732** | **0.774** | **0.712** | 半监督 |
-| 原论文 PCA（Pearson r） | 0.810 | 0.660 | — | 无监督 |
+
+| 方法                 | 效价 ρ      | 唤醒度 ρ     | 支配度 ρ     | 性质  |
+| ------------------ | --------- | --------- | --------- | --- |
+| PCA PC1/PC2/PC3    | 0.658     | 0.540     | 0.431     | 无监督 |
+| **SAE 合成方向**       | **0.732** | **0.774** | **0.712** | 半监督 |
+| 原论文 PCA（Pearson r） | 0.810     | 0.660     | —         | 无监督 |
+
 
 **Pearson r（各几何方向与人类 V、A、D）**：每一行是一条投影方向（PCA 为 PC1；SAE 为针对某一维合成的方向），列为该方向上的投影与效价 / 唤醒度 / 支配度评分之间的 Pearson r，用于看轴对齐与维度间串扰。
 
-| 方法 | 效价 r | 唤醒度 r | 支配度 r |
-|---|:-:|:-:|:-:|
-| PCA PC1 | 0.741 | 0.515 | 0.376 |
-| SAE-效价方向 | 0.829 | 0.328 | 0.487 |
+
+| 方法        | 效价 r  | 唤醒度 r | 支配度 r |
+| --------- | ----- | ----- | ----- |
+| PCA PC1   | 0.741 | 0.515 | 0.376 |
+| SAE-效价方向  | 0.829 | 0.328 | 0.487 |
 | SAE-唤醒度方向 | 0.362 | 0.775 | 0.076 |
 | SAE-支配度方向 | 0.766 | 0.114 | 0.734 |
+
 
 SAE 唤醒度（0.774 vs 0.540）和支配度（0.712 vs 0.431）提升显著，说明 SAE 特征空间对这两个维度的分离效果远好于 PCA。效价方向（0.732）在当前小样本下略低于论文（0.81），主要原因是叙述样本量少（3条 vs 1200条）以及 mean-then-encode 的编码顺序问题，预期修正后可提升。
 
 ### 6.6 最判别性 SAE 特征（方差 top-5）
 
-| 特征 ID | 方差 | 主要激活情绪 |
-|---|---|---|
-| 14325 | 419.97 | alert, amazed, angry, aroused, ashamed |
-| 11835 | 259.37 | afraid, alarmed, alert, amazed, angry |
-| 15298 | 171.97 | afraid, alarmed, alert, amazed, amused |
+
+| 特征 ID | 方差     | 主要激活情绪                                     |
+| ----- | ------ | ------------------------------------------ |
+| 14325 | 419.97 | alert, amazed, angry, aroused, ashamed     |
+| 11835 | 259.37 | afraid, alarmed, alert, amazed, angry      |
+| 15298 | 171.97 | afraid, alarmed, alert, amazed, amused     |
 | 11012 | 154.03 | amazed, at ease, awestruck, blissful, calm |
-| 15942 | 147.65 | alarmed, amused, angry, annoyed, anxious |
+| 15942 | 147.65 | alarmed, amused, angry, annoyed, anxious   |
+
 
 Top-1 效价相关特征 #11012（ρ=0.597）主要激活正面平静族群（at ease/blissful/calm）；Top-1 唤醒度相关特征 #11835（ρ=0.554）主要激活高唤醒负面族群（afraid/alarmed/angry）。
 
@@ -224,27 +240,32 @@ Top-1 效价相关特征 #11012（ρ=0.597）主要激活正面平静族群（at
 
 ## 八、下一步
 
-| 优先级 | 任务 |
-|---|---|
-| 高 | 叙述扩充至 20 条（进行中）→ 重新提取**叙述级**激活 → encode-then-mean → 重跑 SAE |
-| 高 | 修正 SAE 编码顺序（encode-then-mean） |
-| 中 | 层级扫描：对 26 层分别提取向量，找情绪表征最强的层 |
-| 中 | 定量 Steering 实验：复刻 desperate 向量在勒索场景的行为偏移 |
-| 低 | 补全 14 个未匹配情绪的 VAD 评分 |
+
+| 优先级 | 任务                                                         |
+| --- | ---------------------------------------------------------- |
+| 高   | 叙述扩充至 20 条（进行中）→ 重新提取**叙述级**激活 → encode-then-mean → 重跑 SAE |
+| 高   | 修正 SAE 编码顺序（encode-then-mean）                              |
+| 中   | 层级扫描：对 26 层分别提取向量，找情绪表征最强的层                                |
+| 中   | 定量 Steering 实验：复刻 desperate 向量在勒索场景的行为偏移                   |
+| 低   | 补全 14 个未匹配情绪的 VAD 评分                                       |
+
 
 ---
 
 ## 九、输出文件索引
 
-| 路径 | 内容 |
-|---|---|
-| `data/stimuli/narratives.jsonl` | 171 情绪 × 叙述文本 |
-| `results/vectors/emotion_matrix.npy` | (171, 2304) 情绪均值激活 |
-| `results/vad/pc_vad_correlation.png` | PCA-VAD 相关系数热力图 |
-| `results/vad/pc_valence_scatter.png` | 情绪在 PC1/PC2 平面分布（按效价着色） |
-| `results/sae/emotion_features.npy` | (171, 16384) SAE 稀疏特征矩阵 |
-| `results/sae/top_features_per_emotion.json` | 每情绪 top-5 激活特征 |
-| `results/sae/pca_vs_sae_vad.png` | PCA vs SAE VAD 相关系数对比热力图 |
-| `results/sae/sae_valence_direction.npy` | SAE 合成效价方向（2304 维） |
-| `results/behavioral/story_experiment_zh.md` | Steering 故事续写结果（中文注释版） |
-| `docs/methodology_comparison.md` | 论文方法 vs 本复刻 vs SAE 扩展详细对比 |
+
+| 路径                                          | 内容                        |
+| ------------------------------------------- | ------------------------- |
+| `data/stimuli/narratives.jsonl`             | 171 情绪 × 叙述文本             |
+| `results/vectors/emotion_matrix.npy`        | (171, 2304) 情绪均值激活        |
+| `results/vad/pc_vad_correlation.png`        | PCA-VAD 相关系数热力图           |
+| `results/vad/pc_valence_scatter.png`        | 情绪在 PC1/PC2 平面分布（按效价着色）   |
+| `results/sae/emotion_features.npy`          | (171, 16384) SAE 稀疏特征矩阵   |
+| `results/sae/top_features_per_emotion.json` | 每情绪 top-5 激活特征            |
+| `results/sae/pca_vs_sae_vad.png`            | PCA vs SAE VAD 相关系数对比热力图  |
+| `results/sae/sae_valence_direction.npy`     | SAE 合成效价方向（2304 维）        |
+| `results/behavioral/story_experiment_zh.md` | Steering 故事续写结果（中文注释版）    |
+| `docs/methodology_comparison.md`            | 论文方法 vs 本复刻 vs SAE 扩展详细对比 |
+
+
