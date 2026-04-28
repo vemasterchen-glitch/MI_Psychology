@@ -7,16 +7,22 @@ The "emotion vector" for a concept is the mean activation across all its narrati
 """
 
 import json
+import os
 from pathlib import Path
 
 import numpy as np
 import torch
 import transformer_lens as tl
+from dotenv import load_dotenv
+from transformers import AutoModelForCausalLM, AutoTokenizer
 from tqdm import tqdm
 
 DATA_DIR = Path(__file__).parent.parent / "data"
+PROJECT_DIR = Path(__file__).parent.parent
 RESULTS_DIR = Path(__file__).parent.parent / "results" / "vectors"
 STIMULI_FILE = DATA_DIR / "stimuli" / "narratives.jsonl"
+
+load_dotenv(PROJECT_DIR / ".env")
 
 
 def load_stimuli(path: Path = STIMULI_FILE) -> dict[str, list[str]]:
@@ -29,7 +35,7 @@ def load_stimuli(path: Path = STIMULI_FILE) -> dict[str, list[str]]:
 
 
 def extract_activation_vectors(
-    model_name: str = "google/gemma-2-2b",
+    model_name: str | None = None,
     layer: int | None = None,  # None → use final layer
     hook_name: str = "resid_post",
     device: str = "cpu",
@@ -38,8 +44,23 @@ def extract_activation_vectors(
     Returns {emotion: mean_activation_vector} for every emotion in the stimuli file.
     Each vector has shape (d_model,).
     """
+    model_name = model_name or os.getenv("MODEL_NAME", "google/gemma-2-2b")
+    local_model = os.getenv("LOCAL_GEMMA_MODEL")
+    hf_model = None
+    tokenizer = None
+
+    if local_model and Path(local_model).exists():
+        hf_model = AutoModelForCausalLM.from_pretrained(
+            local_model,
+            local_files_only=True,
+            torch_dtype=torch.float16,
+        )
+        tokenizer = AutoTokenizer.from_pretrained(local_model, local_files_only=True)
+
     model = tl.HookedTransformer.from_pretrained(
         model_name,
+        hf_model=hf_model,
+        tokenizer=tokenizer,
         device=device,
         dtype=torch.float16,
     )
