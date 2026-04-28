@@ -11,6 +11,7 @@ dist/
 results/vectors/*.npy
 data/stimuli/
 data/corpora/
+data/raw/gemma-scope/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
