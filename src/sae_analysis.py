@@ -12,13 +12,15 @@ import matplotlib.pyplot as plt
 from scipy.stats import pearsonr, spearmanr
 from sklearn.preprocessing import StandardScaler
 
-DATA_DIR   = Path(__file__).parent.parent / "data"
-RESULTS    = Path(__file__).parent.parent / "results"
-SAE_PATH   = DATA_DIR / "raw" / "gemma-scope" / "layer_25" / "width_16k" / "average_l0_55" / "params.npz"
-EMO_MATRIX = RESULTS / "vectors" / "emotion_matrix.npy"
-EMO_LIST   = DATA_DIR / "emotions.txt"
-VAD_PATH   = DATA_DIR / "raw" / "NRC-VAD-Lexicon-Aug2018Release" / "NRC-VAD-Lexicon.txt"
-OUT_DIR    = RESULTS / "sae"
+DATA_DIR         = Path(__file__).parent.parent / "data"
+RESULTS          = Path(__file__).parent.parent / "results"
+SAE_PATH         = DATA_DIR / "raw" / "gemma-scope" / "layer_25" / "width_16k" / "average_l0_55" / "params.npz"
+NARRATIVE_MATRIX = RESULTS / "vectors" / "narrative_matrix.npy"
+NARRATIVE_COUNTS = RESULTS / "vectors" / "narrative_counts.npy"
+EMO_LABELS       = RESULTS / "vectors" / "emotion_labels.json"
+EMO_LIST         = DATA_DIR / "emotions.txt"
+VAD_PATH         = DATA_DIR / "raw" / "NRC-VAD-Lexicon-Aug2018Release" / "NRC-VAD-Lexicon.txt"
+OUT_DIR          = RESULTS / "sae"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 ALIASES = {
@@ -30,6 +32,9 @@ ALIASES = {
 # ── 1. 加载数据 ────────────────────────────────────────────────────────────────
 
 def load_emotions():
+    # Prefer the canonical order from extraction labels
+    if EMO_LABELS.exists():
+        return json.loads(EMO_LABELS.read_text())
     return [l.strip() for l in open(EMO_LIST) if l.strip() and not l.startswith("#")]
 
 def load_vad():
@@ -97,15 +102,27 @@ def main():
     vad_dict = load_vad()
     W_enc, b_enc, threshold = load_sae()
 
-    raw = np.load(EMO_MATRIX)   # (171, 2304) 原始激活，SAE 必须用这个
-    scaler = StandardScaler()
-    X_scaled = scaler.fit_transform(raw)  # 仅用于 PCA 对比
-
-    print(f"情绪数: {len(emotions)}, 维度: {raw.shape[1]}")
+    # 加载 per-narrative 激活 (n_emotions, n_narratives, d_model)
+    narrative_matrix = np.load(NARRATIVE_MATRIX)
+    counts = np.load(NARRATIVE_COUNTS)
+    n_emotions, max_n, d_model = narrative_matrix.shape
+    print(f"情绪数: {n_emotions}, 叙述数/情绪: {counts.min()}-{counts.max()}, 维度: {d_model}")
     print(f"SAE 特征数: {W_enc.shape[1]}, 平均激活数 ≈ 55/forward")
 
-    # ── 4a. 编码所有情绪向量（用原始激活，SAE 训练时的输入分布） ─────────────
-    features = encode_sae(raw, W_enc, b_enc, threshold)   # (171, 16384)
+    # 情绪均值激活（仅用于 PCA 对比，与之前的 emotion_matrix 等价）
+    raw = narrative_matrix.mean(axis=1)   # (171, 2304)
+    scaler = StandardScaler()
+    X_scaled = scaler.fit_transform(raw)
+
+    # ── 4a. 对每条叙述分别编码，再按情绪 mean ────────────────────────────────
+    # encode(mean(x)) ≠ mean(encode(x))，per-narrative 编码再均值更准确
+    flat = narrative_matrix.reshape(-1, d_model)          # (171*max_n, 2304)
+    features_flat = encode_sae(flat, W_enc, b_enc, threshold)  # (171*max_n, 16384)
+    features_3d = features_flat.reshape(n_emotions, max_n, -1) # (171, max_n, 16384)
+
+    # mask zero-padded narratives，只对真实叙述求均值
+    mask = np.arange(max_n)[None, :] < counts[:, None]    # (171, max_n) bool
+    features = (features_3d * mask[:, :, None]).sum(axis=1) / counts[:, None]  # (171, 16384)
     sparsity = (features > 0).sum(axis=1)
     print(f"每情绪平均激活特征数: {sparsity.mean():.1f} ± {sparsity.std():.1f}")
 
