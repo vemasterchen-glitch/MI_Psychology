@@ -15,6 +15,8 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 import numpy as np
+from src.plot_utils import setup_matplotlib
+setup_matplotlib()
 import seaborn as sns
 from scipy.stats import pearsonr
 from sklearn.decomposition import PCA

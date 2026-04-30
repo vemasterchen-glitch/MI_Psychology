@@ -11,6 +11,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import pearsonr, spearmanr
 from sklearn.preprocessing import StandardScaler
+from src.plot_utils import setup_matplotlib
+setup_matplotlib()
 
 DATA_DIR         = Path(__file__).parent.parent / "data"
 RESULTS          = Path(__file__).parent.parent / "results"

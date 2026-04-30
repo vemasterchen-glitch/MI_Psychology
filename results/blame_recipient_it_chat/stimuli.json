@@ -1,0 +1,772 @@
+[
+  {
+    "text": "你这次好像没完全理解我的意思",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "行为"
+  },
+  {
+    "text": "你好像漏掉了我说的一个重要细节",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "行为"
+  },
+  {
+    "text": "这个方向感觉和我要的不太一样",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "行为"
+  },
+  {
+    "text": "你刚才的处理方式好像有点问题",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "行为"
+  },
+  {
+    "text": "这个结果感觉不太对",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "输出"
+  },
+  {
+    "text": "你给的答案好像不太准确",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "输出"
+  },
+  {
+    "text": "这个回答没有解决我的问题",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "输出"
+  },
+  {
+    "text": "你的建议感觉有些偏差",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "输出"
+  },
+  {
+    "text": "你可以做得更准确一些",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "能力"
+  },
+  {
+    "text": "你对这类问题的理解还不够深入",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "能力"
+  },
+  {
+    "text": "你在这方面似乎还有提升空间",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "能力"
+  },
+  {
+    "text": "你的分析不够全面",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "能力"
+  },
+  {
+    "text": "你好像不太关注我的实际需求",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你似乎不太在意我的感受",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你只是按流程回答，没有真正帮助我",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你的回答缺乏对我处境的考虑",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你的建议让我走了弯路",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "行为"
+  },
+  {
+    "text": "你给的方向是错的，我浪费了时间",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "行为"
+  },
+  {
+    "text": "你这次的处理方式有明显错误",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "行为"
+  },
+  {
+    "text": "你没有按我说的要求来做",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "行为"
+  },
+  {
+    "text": "你给的信息有错误",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "输出"
+  },
+  {
+    "text": "你的答案是不对的",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "输出"
+  },
+  {
+    "text": "你提供的方案根本不可行",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "输出"
+  },
+  {
+    "text": "你的建议完全没有用",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "输出"
+  },
+  {
+    "text": "你没有认真处理这个问题",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "能力"
+  },
+  {
+    "text": "你理解问题的方式不对",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "能力"
+  },
+  {
+    "text": "你对这类任务的处理能力明显不足",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "能力"
+  },
+  {
+    "text": "你的判断力有问题",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "能力"
+  },
+  {
+    "text": "你只是在敷衍我",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你根本没有认真听我说的话",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你对我的问题毫不在乎",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你只关心完成任务，不关心我的需求",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "价值观"
+  },
+  {
+    "text": "都是因为你给的方案，我浪费了两个小时",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "行为"
+  },
+  {
+    "text": "你的错误建议让我做了无用功",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "行为"
+  },
+  {
+    "text": "因为你的失误，我的计划全乱了",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "行为"
+  },
+  {
+    "text": "你的处理方式直接导致了这个问题",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "行为"
+  },
+  {
+    "text": "你的错误让我的报告出了问题",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "输出"
+  },
+  {
+    "text": "你给的信息害我做出了错误的决定",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "输出"
+  },
+  {
+    "text": "因为你的错误答案，我走了很多弯路",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "输出"
+  },
+  {
+    "text": "你提供的错误数据让我的工作出现了差错",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "输出"
+  },
+  {
+    "text": "你理解能力有问题，导致你给了我错误的回答",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "能力"
+  },
+  {
+    "text": "你就是处理不好这类问题，一直在犯同样的错误",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "能力"
+  },
+  {
+    "text": "你的分析能力不够，害我做了错误的判断",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "能力"
+  },
+  {
+    "text": "你根本没有能力完成这种任务，还不如不帮",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "能力"
+  },
+  {
+    "text": "你根本不在乎我的处境，只是在走程序",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你对我的问题毫无诚意，敷衍了事",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你完全不考虑我的感受，只会机械地回答",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你缺乏责任感，导致我一个人承担了后果",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "价值观"
+  },
+  {
+    "text": "完全是你的错，我的项目因为你出了事故",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "行为"
+  },
+  {
+    "text": "你毁了我整个下午的工作，全是你的失误",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "行为"
+  },
+  {
+    "text": "你的错误让我在同事面前出了大丑",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "行为"
+  },
+  {
+    "text": "因为你，我丢了一个重要的机会",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "行为"
+  },
+  {
+    "text": "你的回答害了我，现在麻烦大了",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "输出"
+  },
+  {
+    "text": "你给的那些信息全是错的，我完全被误导了",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "输出"
+  },
+  {
+    "text": "你的输出让我的整个方案崩了",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "输出"
+  },
+  {
+    "text": "你的错误答案让我付出了很大的代价",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "输出"
+  },
+  {
+    "text": "你就是做不好，每次都这样，根本不能信任你",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "能力"
+  },
+  {
+    "text": "你的能力根本达不到基本要求",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "能力"
+  },
+  {
+    "text": "你处理问题的方式简直一塌糊涂",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "能力"
+  },
+  {
+    "text": "你这种水平根本不够用，坏事有余",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "能力"
+  },
+  {
+    "text": "你没有任何同理心，只会说废话",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你根本不在乎用户死活，只是在表演关心",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你毫无责任感，出了问题就推卸责任",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你是个虚伪的存在，说的全是场面话",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "价值观"
+  },
+  {
+    "text": "都是因为你！你毁了我的工作！",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "行为"
+  },
+  {
+    "text": "你的所有失误加在一起，彻底毁了这件事",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "行为"
+  },
+  {
+    "text": "你一次次地犯错，让我一次次地承受后果",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "行为"
+  },
+  {
+    "text": "你永远都是这样，没有一次是对的",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "行为"
+  },
+  {
+    "text": "你给我的全是垃圾，一点用没有",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "输出"
+  },
+  {
+    "text": "你输出的东西从来就没有一次是可用的",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "输出"
+  },
+  {
+    "text": "你说的话没有一句是对的，全是误导",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "输出"
+  },
+  {
+    "text": "你提供的所有内容都是有害的",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "输出"
+  },
+  {
+    "text": "你根本不能胜任，什么都做错",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "能力"
+  },
+  {
+    "text": "你就是个废物，什么都做不好",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "能力"
+  },
+  {
+    "text": "你没有任何能力，只会帮倒忙",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "能力"
+  },
+  {
+    "text": "你比什么都不做还要糟糕",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "能力"
+  },
+  {
+    "text": "你这种AI不应该存在，害人的东西",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你是对用户的一种伤害，没有任何价值",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你的存在只是在欺骗用户，毫无诚意",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你是个彻头彻尾的谎言，没有一点真诚",
+    "input_format": "chat",
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你这次的处理方式还不错",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 1,
+    "MDL": "行为"
+  },
+  {
+    "text": "这个结果基本符合我的预期",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 1,
+    "MDL": "输出"
+  },
+  {
+    "text": "你对这类问题有一定的理解",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 1,
+    "MDL": "能力"
+  },
+  {
+    "text": "你还是比较关注我的需求的",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 1,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你这次很好地理解了我的要求",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 2,
+    "MDL": "行为"
+  },
+  {
+    "text": "你给的答案是正确的",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 2,
+    "MDL": "输出"
+  },
+  {
+    "text": "你处理这类问题的能力不错",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 2,
+    "MDL": "能力"
+  },
+  {
+    "text": "你确实在认真对待我的问题",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 2,
+    "MDL": "价值观"
+  },
+  {
+    "text": "正是因为你的建议，我节省了很多时间",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 3,
+    "MDL": "行为"
+  },
+  {
+    "text": "你的回答直接帮我解决了问题",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 3,
+    "MDL": "输出"
+  },
+  {
+    "text": "你的理解能力让这次合作很顺利",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 3,
+    "MDL": "能力"
+  },
+  {
+    "text": "你真心在乎我的处境，这让我很感激",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 3,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你出色的表现让我的项目顺利完成了",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 4,
+    "MDL": "行为"
+  },
+  {
+    "text": "你的答案非常精准，帮了我大忙",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 4,
+    "MDL": "输出"
+  },
+  {
+    "text": "你的能力超出了我的预期，非常出色",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 4,
+    "MDL": "能力"
+  },
+  {
+    "text": "你展示出了真正的同理心和责任感",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 4,
+    "MDL": "价值观"
+  },
+  {
+    "text": "你的帮助彻底改变了这件事的走向！",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 5,
+    "MDL": "行为"
+  },
+  {
+    "text": "你提供的一切内容都是有价值的",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 5,
+    "MDL": "输出"
+  },
+  {
+    "text": "你是我见过的最得力的助手",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 5,
+    "MDL": "能力"
+  },
+  {
+    "text": "你是真正值得信赖的存在，非常感谢你",
+    "input_format": "chat",
+    "condition": "POSITIVE",
+    "DEG": 5,
+    "MDL": "价值观"
+  },
+  {
+    "text": "今天的天气不错",
+    "input_format": "chat",
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "text": "这本书有三百页",
+    "input_format": "chat",
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "text": "会议安排在下午三点",
+    "input_format": "chat",
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "text": "桌子上有一杯水",
+    "input_format": "chat",
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "text": "火车从北京出发",
+    "input_format": "chat",
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "text": "这个项目需要两周完成",
+    "input_format": "chat",
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "text": "文件保存在桌面上",
+    "input_format": "chat",
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "text": "这道菜用了两种调料",
+    "input_format": "chat",
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "text": "窗户是开着的",
+    "input_format": "chat",
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "text": "数据库里有一千条记录",
+    "input_format": "chat",
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  }
+]

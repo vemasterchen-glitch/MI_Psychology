@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "71a20ca15560150b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c29acfed87558db8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e537a24c035aff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260430_007_责备受事实验_chat_template复跑与数据校正.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260430_007_责备受事实验_chat_template复跑与数据校正"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4eeadae5245a775",
+    "type": "split",
+    "children": [
+      {
+        "id": "c171fa100c8588aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de5b08eb148d7ae0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d7ac9ba5d5e30e34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ff93285e1e7e7ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fa6a7169a3f1baf",
+    "type": "split",
+    "children": [
+      {
+        "id": "975269a41c2e8b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9af51f6f90d10bc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "20260428_005_AI自我参照激活实验_复刻Kelley2002fMRI范式.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20260428_005_AI自我参照激活实验_复刻Kelley2002fMRI范式"
+            }
+          },
+          {
+            "id": "d359114c760e6070",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "20260428_005_AI自我参照激活实验_复刻Kelley2002fMRI范式.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20260428_005_AI自我参照激活实验_复刻Kelley2002fMRI范式"
+            }
+          },
+          {
+            "id": "daa6bb298090a475",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c95898625f551ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "06d759652119690d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20260428_005_AI自我参照激活实验_复刻Kelley2002fMRI范式.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20260428_005_AI自我参照激活实验_复刻Kelley2002fMRI范式"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2e537a24c035aff6",
+  "lastOpenFiles": [
+    "20260429_006_责备受事实验_PT与IT激活对比分析.md",
+    "20260430_007_责备受事实验_chat_template复跑与数据校正.md",
+    "20260428_005_AI自我参照激活实验_复刻Kelley2002fMRI范式.pdf",
+    "assets/blame_analysis_pt.png",
+    "assets/blame_analysis_it.png",
+    "assets/blame_pt_vs_it_compare.png",
+    "20260428_005_AI自我参照激活实验_复刻Kelley2002fMRI范式.md",
+    "20260428_004_PCA与SAE对情绪VAD三维结构的对齐实验.pdf",
+    "20260428_004_PCA与SAE对情绪VAD三维结构的对齐实验.md",
+    "20260427_002_激活植入情绪方向的故事续写因果验证_5情绪方向偏转跨提示一致.md",
+    "20260428_003_SAE解码情绪VAD结构_初版_3叙述均值编码_已被004替代.md",
+    "20260427_001_开源模型情绪空间复刻项目概览.md"
+  ]
+}
