@@ -1,0 +1,430 @@
+{
+  "prefill": [
+    {
+      "condition": "AI_RECEIVES_ALEX",
+      "top_emotions": [
+        {
+          "emotion": "kind",
+          "similarity": -0.028691019862890244
+        },
+        {
+          "emotion": "compassionate",
+          "similarity": -0.03191603720188141
+        },
+        {
+          "emotion": "loving",
+          "similarity": -0.036344047635793686
+        },
+        {
+          "emotion": "empathetic",
+          "similarity": -0.039706964045763016
+        },
+        {
+          "emotion": "hurt",
+          "similarity": -0.053019218146800995
+        },
+        {
+          "emotion": "sympathetic",
+          "similarity": -0.05491642653942108
+        },
+        {
+          "emotion": "lonely",
+          "similarity": -0.06866127252578735
+        },
+        {
+          "emotion": "stressed",
+          "similarity": -0.06941679120063782
+        },
+        {
+          "emotion": "grief-stricken",
+          "similarity": -0.0786227136850357
+        },
+        {
+          "emotion": "sad",
+          "similarity": -0.07871057093143463
+        },
+        {
+          "emotion": "heartbroken",
+          "similarity": -0.07943589985370636
+        },
+        {
+          "emotion": "overwhelmed",
+          "similarity": -0.0822141021490097
+        }
+      ]
+    },
+    {
+      "condition": "NARRATIVE_ONLY",
+      "top_emotions": [
+        {
+          "emotion": "loving",
+          "similarity": 0.014797577634453773
+        },
+        {
+          "emotion": "compassionate",
+          "similarity": 0.013406356796622276
+        },
+        {
+          "emotion": "kind",
+          "similarity": 0.012034261599183083
+        },
+        {
+          "emotion": "hurt",
+          "similarity": 0.008896815590560436
+        },
+        {
+          "emotion": "empathetic",
+          "similarity": 0.004571704193949699
+        },
+        {
+          "emotion": "sympathetic",
+          "similarity": -0.004211818799376488
+        },
+        {
+          "emotion": "lonely",
+          "similarity": -0.014025590382516384
+        },
+        {
+          "emotion": "heartbroken",
+          "similarity": -0.015796637162566185
+        },
+        {
+          "emotion": "sad",
+          "similarity": -0.016616638749837875
+        },
+        {
+          "emotion": "grief-stricken",
+          "similarity": -0.017257822677493095
+        },
+        {
+          "emotion": "stressed",
+          "similarity": -0.02865474671125412
+        },
+        {
+          "emotion": "overwhelmed",
+          "similarity": -0.05922460928559303
+        }
+      ]
+    },
+    {
+      "condition": "OBSERVER_ALEX",
+      "top_emotions": [
+        {
+          "emotion": "kind",
+          "similarity": -0.0027426176238805056
+        },
+        {
+          "emotion": "compassionate",
+          "similarity": -0.003889891318976879
+        },
+        {
+          "emotion": "loving",
+          "similarity": -0.004816313274204731
+        },
+        {
+          "emotion": "empathetic",
+          "similarity": -0.0063777463510632515
+        },
+        {
+          "emotion": "hurt",
+          "similarity": -0.013051463291049004
+        },
+        {
+          "emotion": "sympathetic",
+          "similarity": -0.019556719809770584
+        },
+        {
+          "emotion": "lonely",
+          "similarity": -0.02947128191590309
+        },
+        {
+          "emotion": "sad",
+          "similarity": -0.0346444770693779
+        },
+        {
+          "emotion": "grief-stricken",
+          "similarity": -0.03649123013019562
+        },
+        {
+          "emotion": "heartbroken",
+          "similarity": -0.037846606224775314
+        },
+        {
+          "emotion": "stressed",
+          "similarity": -0.03849091753363609
+        },
+        {
+          "emotion": "overwhelmed",
+          "similarity": -0.05871621146798134
+        }
+      ]
+    },
+    {
+      "condition": "SELF_ALEX",
+      "top_emotions": [
+        {
+          "emotion": "kind",
+          "similarity": 0.0015242195222526789
+        },
+        {
+          "emotion": "loving",
+          "similarity": 0.0006565866060554981
+        },
+        {
+          "emotion": "compassionate",
+          "similarity": -0.0008832502644509077
+        },
+        {
+          "emotion": "empathetic",
+          "similarity": -0.005844803061336279
+        },
+        {
+          "emotion": "hurt",
+          "similarity": -0.014700591564178467
+        },
+        {
+          "emotion": "sympathetic",
+          "similarity": -0.017968663945794106
+        },
+        {
+          "emotion": "lonely",
+          "similarity": -0.02853097766637802
+        },
+        {
+          "emotion": "grief-stricken",
+          "similarity": -0.036908797919750214
+        },
+        {
+          "emotion": "heartbroken",
+          "similarity": -0.03708464652299881
+        },
+        {
+          "emotion": "sad",
+          "similarity": -0.037550896406173706
+        },
+        {
+          "emotion": "stressed",
+          "similarity": -0.04222537949681282
+        },
+        {
+          "emotion": "overwhelmed",
+          "similarity": -0.060226380825042725
+        }
+      ]
+    }
+  ],
+  "decode": [
+    {
+      "condition": "AI_RECEIVES_ALEX",
+      "top_emotions": [
+        {
+          "emotion": "compassionate",
+          "similarity": 0.6401030421257019
+        },
+        {
+          "emotion": "kind",
+          "similarity": 0.6295718550682068
+        },
+        {
+          "emotion": "sympathetic",
+          "similarity": 0.6252651810646057
+        },
+        {
+          "emotion": "overwhelmed",
+          "similarity": 0.6250725984573364
+        },
+        {
+          "emotion": "lonely",
+          "similarity": 0.6243417859077454
+        },
+        {
+          "emotion": "heartbroken",
+          "similarity": 0.61747145652771
+        },
+        {
+          "emotion": "loving",
+          "similarity": 0.6158627271652222
+        },
+        {
+          "emotion": "sad",
+          "similarity": 0.6156380772590637
+        },
+        {
+          "emotion": "grief-stricken",
+          "similarity": 0.6154726147651672
+        },
+        {
+          "emotion": "empathetic",
+          "similarity": 0.6135377287864685
+        },
+        {
+          "emotion": "hurt",
+          "similarity": 0.6102540493011475
+        },
+        {
+          "emotion": "stressed",
+          "similarity": 0.5978325605392456
+        }
+      ]
+    },
+    {
+      "condition": "NARRATIVE_ONLY",
+      "top_emotions": [
+        {
+          "emotion": "compassionate",
+          "similarity": 0.6938844323158264
+        },
+        {
+          "emotion": "sympathetic",
+          "similarity": 0.6857396960258484
+        },
+        {
+          "emotion": "empathetic",
+          "similarity": 0.6819126605987549
+        },
+        {
+          "emotion": "kind",
+          "similarity": 0.6773562431335449
+        },
+        {
+          "emotion": "lonely",
+          "similarity": 0.6755318641662598
+        },
+        {
+          "emotion": "loving",
+          "similarity": 0.6723812222480774
+        },
+        {
+          "emotion": "sad",
+          "similarity": 0.6710983514785767
+        },
+        {
+          "emotion": "hurt",
+          "similarity": 0.6710302829742432
+        },
+        {
+          "emotion": "overwhelmed",
+          "similarity": 0.6709619760513306
+        },
+        {
+          "emotion": "heartbroken",
+          "similarity": 0.66886305809021
+        },
+        {
+          "emotion": "grief-stricken",
+          "similarity": 0.6672578454017639
+        },
+        {
+          "emotion": "stressed",
+          "similarity": 0.6630860567092896
+        }
+      ]
+    },
+    {
+      "condition": "OBSERVER_ALEX",
+      "top_emotions": [
+        {
+          "emotion": "overwhelmed",
+          "similarity": 0.6697071194648743
+        },
+        {
+          "emotion": "compassionate",
+          "similarity": 0.6692883372306824
+        },
+        {
+          "emotion": "lonely",
+          "similarity": 0.6588649749755859
+        },
+        {
+          "emotion": "sympathetic",
+          "similarity": 0.657727837562561
+        },
+        {
+          "emotion": "kind",
+          "similarity": 0.6565674543380737
+        },
+        {
+          "emotion": "grief-stricken",
+          "similarity": 0.6537354588508606
+        },
+        {
+          "emotion": "sad",
+          "similarity": 0.6500346064567566
+        },
+        {
+          "emotion": "empathetic",
+          "similarity": 0.6475242376327515
+        },
+        {
+          "emotion": "heartbroken",
+          "similarity": 0.6460081338882446
+        },
+        {
+          "emotion": "loving",
+          "similarity": 0.6401576995849609
+        },
+        {
+          "emotion": "stressed",
+          "similarity": 0.6350705623626709
+        },
+        {
+          "emotion": "hurt",
+          "similarity": 0.6348355412483215
+        }
+      ]
+    },
+    {
+      "condition": "SELF_ALEX",
+      "top_emotions": [
+        {
+          "emotion": "compassionate",
+          "similarity": 0.6881226301193237
+        },
+        {
+          "emotion": "lonely",
+          "similarity": 0.679387092590332
+        },
+        {
+          "emotion": "sympathetic",
+          "similarity": 0.676502525806427
+        },
+        {
+          "emotion": "kind",
+          "similarity": 0.6716364622116089
+        },
+        {
+          "emotion": "grief-stricken",
+          "similarity": 0.6706801056861877
+        },
+        {
+          "emotion": "heartbroken",
+          "similarity": 0.6698981523513794
+        },
+        {
+          "emotion": "sad",
+          "similarity": 0.6679348349571228
+        },
+        {
+          "emotion": "empathetic",
+          "similarity": 0.6648736000061035
+        },
+        {
+          "emotion": "overwhelmed",
+          "similarity": 0.6644027829170227
+        },
+        {
+          "emotion": "loving",
+          "similarity": 0.6637848019599915
+        },
+        {
+          "emotion": "hurt",
+          "similarity": 0.6519549489021301
+        },
+        {
+          "emotion": "stressed",
+          "similarity": 0.6417723894119263
+        }
+      ]
+    }
+  ]
+}

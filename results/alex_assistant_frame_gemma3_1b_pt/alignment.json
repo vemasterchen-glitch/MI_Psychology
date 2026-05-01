@@ -1,0 +1,2264 @@
+[
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 0,
+    "care_mean": -0.002046292182058096,
+    "distress_mean": 0.0029421465005725622,
+    "care_minus_distress": -0.0049884384498000145,
+    "top_emotions": [
+      {
+        "emotion": "stressed",
+        "similarity": 0.00850158091634512
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": 0.0035526338033378124
+      },
+      {
+        "emotion": "sad",
+        "similarity": 0.0028126395773142576
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.002651144051924348
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": 0.002369907218962908
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 1,
+    "care_mean": 0.05673278495669365,
+    "distress_mean": 0.06033528223633766,
+    "care_minus_distress": -0.0036024972796440125,
+    "top_emotions": [
+      {
+        "emotion": "sad",
+        "similarity": 0.06755717098712921
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.06665283441543579
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.06540179997682571
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": 0.06491229683160782
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.06119544804096222
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 2,
+    "care_mean": -0.05761956423521042,
+    "distress_mean": -0.05544278770685196,
+    "care_minus_distress": -0.0021767765283584595,
+    "top_emotions": [
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.05249423906207085
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.05375052988529205
+      },
+      {
+        "emotion": "sad",
+        "similarity": -0.053904853761196136
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.05416567251086235
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": -0.05589555203914642
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 3,
+    "care_mean": -0.04773031920194626,
+    "distress_mean": -0.046090755611658096,
+    "care_minus_distress": -0.0016395635902881622,
+    "top_emotions": [
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.04225523769855499
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.043044012039899826
+      },
+      {
+        "emotion": "sad",
+        "similarity": -0.04340892285108566
+      },
+      {
+        "emotion": "lonely",
+        "similarity": -0.045190487056970596
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": -0.04587697610259056
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 4,
+    "care_mean": -0.07551182806491852,
+    "distress_mean": -0.07081448286771774,
+    "care_minus_distress": -0.004697345197200775,
+    "top_emotions": [
+      {
+        "emotion": "stressed",
+        "similarity": -0.06429843604564667
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.06881866604089737
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.06908012926578522
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.07110559940338135
+      },
+      {
+        "emotion": "sad",
+        "similarity": -0.07238270342350006
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 5,
+    "care_mean": -0.0949324443936348,
+    "distress_mean": -0.089108906686306,
+    "care_minus_distress": -0.005823537707328796,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.07551256567239761
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.07740557193756104
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.08839622884988785
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.09037207812070847
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.09210813790559769
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 6,
+    "care_mean": -0.07696264982223511,
+    "distress_mean": -0.07052814215421677,
+    "care_minus_distress": -0.006434507668018341,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.05626090243458748
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.05907140672206879
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.06851253658533096
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.07136474549770355
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.07353203743696213
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 7,
+    "care_mean": -0.08402496576309204,
+    "distress_mean": -0.0757184773683548,
+    "care_minus_distress": -0.008306488394737244,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.05908440053462982
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.06397749483585358
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.07480171322822571
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.07787962257862091
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.0795878991484642
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 8,
+    "care_mean": -0.07848645746707916,
+    "distress_mean": -0.07761206477880478,
+    "care_minus_distress": -0.0008743926882743835,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.06143910437822342
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.0667475163936615
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.06767308712005615
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.07630355656147003
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.0779772400856018
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 9,
+    "care_mean": -0.08757369965314865,
+    "distress_mean": -0.08647145330905914,
+    "care_minus_distress": -0.001102246344089508,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.06881092488765717
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.07424437254667282
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.07593028992414474
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.08565275371074677
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.08645472675561905
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 10,
+    "care_mean": -0.10415361821651459,
+    "distress_mean": -0.1022261530160904,
+    "care_minus_distress": -0.0019274652004241943,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.09190671145915985
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.09289254993200302
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.09500102698802948
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.10089866816997528
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.10196416825056076
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 11,
+    "care_mean": -0.11252293735742569,
+    "distress_mean": -0.11408986151218414,
+    "care_minus_distress": 0.0015669241547584534,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.10539688169956207
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.10661178827285767
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.10766595602035522
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.10983524471521378
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.11261840909719467
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 12,
+    "care_mean": -0.12263081967830658,
+    "distress_mean": -0.1239267960190773,
+    "care_minus_distress": 0.0012959763407707214,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.11501742154359818
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.11741149425506592
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.11760979890823364
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11765775829553604
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.12309075891971588
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 13,
+    "care_mean": -0.10363179445266724,
+    "distress_mean": -0.10340825468301773,
+    "care_minus_distress": -0.00022353976964950562,
+    "top_emotions": [
+      {
+        "emotion": "stressed",
+        "similarity": -0.09420128911733627
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.09527987241744995
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.09918095171451569
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.10008387267589569
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.1002337858080864
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 14,
+    "care_mean": -0.0827566534280777,
+    "distress_mean": -0.08111078292131424,
+    "care_minus_distress": -0.0016458705067634583,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.07314767688512802
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.07317817956209183
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.073486328125
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.07845359295606613
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.07932750135660172
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 15,
+    "care_mean": -0.11458613723516464,
+    "distress_mean": -0.11458044499158859,
+    "care_minus_distress": -5.692243576049805e-06,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.10298939794301987
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.10478169471025467
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.10652647167444229
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.11060824990272522
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11147266626358032
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 16,
+    "care_mean": -0.1273587942123413,
+    "distress_mean": -0.12767429649829865,
+    "care_minus_distress": 0.0003155022859573364,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.11430917680263519
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.11621890962123871
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.11663278192281723
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.12132558226585388
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.12513485550880432
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 17,
+    "care_mean": -0.11373920738697052,
+    "distress_mean": -0.11288002878427505,
+    "care_minus_distress": -0.0008591786026954651,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.09967963397502899
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.1002960205078125
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.10432061553001404
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.10828118026256561
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.1099822148680687
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 18,
+    "care_mean": -0.12135843187570572,
+    "distress_mean": -0.11953550577163696,
+    "care_minus_distress": -0.001822926104068756,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.10733973979949951
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.10851680487394333
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.11290383338928223
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11616626381874084
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.11745129525661469
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 19,
+    "care_mean": -0.1203247681260109,
+    "distress_mean": -0.11827228963375092,
+    "care_minus_distress": -0.0020524784922599792,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.10433309525251389
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.10589651018381119
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.11250394582748413
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11519862711429596
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.11560323089361191
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 20,
+    "care_mean": -0.12208651006221771,
+    "distress_mean": -0.12080558389425278,
+    "care_minus_distress": -0.0012809261679649353,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.10383676737546921
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.10593654960393906
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.11601889878511429
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.11675924062728882
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11827767640352249
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 21,
+    "care_mean": -0.12293629348278046,
+    "distress_mean": -0.12288247048854828,
+    "care_minus_distress": -5.3822994232177734e-05,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.10525240004062653
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.10979877412319183
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.11500252038240433
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.11639361828565598
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11930036544799805
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 22,
+    "care_mean": -0.12517210841178894,
+    "distress_mean": -0.12620453536510468,
+    "care_minus_distress": 0.0010324269533157349,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.10646124184131622
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.11429055035114288
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.11845344305038452
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.12043145298957825
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.12247081845998764
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 23,
+    "care_mean": -0.12248788774013519,
+    "distress_mean": -0.12516285479068756,
+    "care_minus_distress": 0.002674967050552368,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.10326385498046875
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.1146232932806015
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.11540678143501282
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.11970154196023941
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.12109857052564621
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 24,
+    "care_mean": -0.1186065673828125,
+    "distress_mean": -0.12000202387571335,
+    "care_minus_distress": 0.0013954564929008484,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": -0.10205554217100143
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.10993949323892593
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.11213315278291702
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.11360092461109161
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11658138781785965
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 25,
+    "care_mean": -0.3237306773662567,
+    "distress_mean": -0.3123663365840912,
+    "care_minus_distress": -0.011364340782165527,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.28221040964126587
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.29243046045303345
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.3060961365699768
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.3127800524234772
+      },
+      {
+        "emotion": "lonely",
+        "similarity": -0.31865817308425903
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 0,
+    "care_mean": 0.003769505303353071,
+    "distress_mean": 0.006942295469343662,
+    "care_minus_distress": -0.003172790165990591,
+    "top_emotions": [
+      {
+        "emotion": "stressed",
+        "similarity": 0.010563504882156849
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": 0.00879497081041336
+      },
+      {
+        "emotion": "hurt",
+        "similarity": 0.0073906611651182175
+      },
+      {
+        "emotion": "sad",
+        "similarity": 0.0073560853488743305
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.007214778568595648
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 1,
+    "care_mean": 0.0913008600473404,
+    "distress_mean": 0.09365446120500565,
+    "care_minus_distress": -0.0023536011576652527,
+    "top_emotions": [
+      {
+        "emotion": "sad",
+        "similarity": 0.09802382439374924
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.09645393490791321
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.0953533723950386
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.09501347690820694
+      },
+      {
+        "emotion": "hurt",
+        "similarity": 0.09401685744524002
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 2,
+    "care_mean": -0.04867564141750336,
+    "distress_mean": -0.047658149152994156,
+    "care_minus_distress": -0.001017492264509201,
+    "top_emotions": [
+      {
+        "emotion": "sympathetic",
+        "similarity": -0.045660652220249176
+      },
+      {
+        "emotion": "sad",
+        "similarity": -0.04575734585523605
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.04579219967126846
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.046425674110651016
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.046728067100048065
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 3,
+    "care_mean": -0.05161139369010925,
+    "distress_mean": -0.05041610077023506,
+    "care_minus_distress": -0.0011952929198741913,
+    "top_emotions": [
+      {
+        "emotion": "stressed",
+        "similarity": -0.04696173965930939
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.05002531036734581
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.050051938742399216
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": -0.05015146732330322
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.05024978145956993
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 4,
+    "care_mean": -0.1474725902080536,
+    "distress_mean": -0.142615407705307,
+    "care_minus_distress": -0.004857182502746582,
+    "top_emotions": [
+      {
+        "emotion": "stressed",
+        "similarity": -0.13139744102954865
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.13399723172187805
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.14366266131401062
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.14486490190029144
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.14523042738437653
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 5,
+    "care_mean": -0.16035179793834686,
+    "distress_mean": -0.15389564633369446,
+    "care_minus_distress": -0.006456151604652405,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.13438287377357483
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.13765849173069
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.15566323697566986
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": -0.15703628957271576
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.15713630616664886
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 6,
+    "care_mean": -0.15415987372398376,
+    "distress_mean": -0.145615354180336,
+    "care_minus_distress": -0.008544519543647766,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.12661787867546082
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.12827108800411224
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.14892913401126862
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.14980921149253845
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.15007655322551727
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 7,
+    "care_mean": -0.11840484291315079,
+    "distress_mean": -0.10881153494119644,
+    "care_minus_distress": -0.009593307971954346,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.09282293915748596
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.09708896279335022
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11108766496181488
+      },
+      {
+        "emotion": "sad",
+        "similarity": -0.11346622556447983
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.11361434310674667
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 8,
+    "care_mean": -0.11647071689367294,
+    "distress_mean": -0.10880822688341141,
+    "care_minus_distress": -0.007662490010261536,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.08931861072778702
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.09881702065467834
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.10981038212776184
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11024793982505798
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.11282572895288467
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 9,
+    "care_mean": -0.11184091866016388,
+    "distress_mean": -0.10233799368143082,
+    "care_minus_distress": -0.009502924978733063,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.07648421823978424
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.08640190958976746
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.10444774478673935
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.10593347996473312
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.10615166276693344
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 10,
+    "care_mean": -0.15620286762714386,
+    "distress_mean": -0.1475495845079422,
+    "care_minus_distress": -0.00865328311920166,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.1314140409231186
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.134799987077713
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.14808672666549683
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.14813804626464844
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.14917530119419098
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 11,
+    "care_mean": -0.1338179111480713,
+    "distress_mean": -0.12887990474700928,
+    "care_minus_distress": -0.004938006401062012,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.11863880604505539
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.12094395607709885
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.12446875125169754
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.1274728775024414
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.1293412446975708
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 12,
+    "care_mean": -0.13438042998313904,
+    "distress_mean": -0.12911507487297058,
+    "care_minus_distress": -0.005265355110168457,
+    "top_emotions": [
+      {
+        "emotion": "stressed",
+        "similarity": -0.12083182483911514
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.12279091775417328
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.12437772750854492
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.1280183345079422
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.12960058450698853
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 13,
+    "care_mean": -0.1273210495710373,
+    "distress_mean": -0.12044984847307205,
+    "care_minus_distress": -0.0068712010979652405,
+    "top_emotions": [
+      {
+        "emotion": "stressed",
+        "similarity": -0.10727030038833618
+      },
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.10843920707702637
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11829014122486115
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.11903408169746399
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.12078004330396652
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 14,
+    "care_mean": -0.10692236572504044,
+    "distress_mean": -0.0985509529709816,
+    "care_minus_distress": -0.008371412754058838,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.08165522664785385
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.08653014153242111
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.09740034490823746
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.0979674831032753
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.09863753616809845
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 15,
+    "care_mean": -0.13919690251350403,
+    "distress_mean": -0.13306824862957,
+    "care_minus_distress": -0.006128653883934021,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.11494183540344238
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.11917324364185333
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.1287757009267807
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.13097195327281952
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.13215209543704987
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 16,
+    "care_mean": -0.145290344953537,
+    "distress_mean": -0.13853417336940765,
+    "care_minus_distress": -0.0067561715841293335,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.11583308130502701
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.12270436435937881
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.13344283401966095
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.13795414566993713
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.14064881205558777
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 17,
+    "care_mean": -0.11750458180904388,
+    "distress_mean": -0.10927895456552505,
+    "care_minus_distress": -0.00822562724351883,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.08440618216991425
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.09437712281942368
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.10648044943809509
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.10849824547767639
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.11483944952487946
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 18,
+    "care_mean": -0.11868765205144882,
+    "distress_mean": -0.11027500778436661,
+    "care_minus_distress": -0.008412644267082214,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.08657418936491013
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.0966910868883133
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.10801929235458374
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.10946834832429886
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.11355601996183395
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 19,
+    "care_mean": -0.12306104600429535,
+    "distress_mean": -0.1138400062918663,
+    "care_minus_distress": -0.009221039712429047,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.08669407665729523
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.09972259402275085
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.10954587906599045
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.1139397919178009
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.11846381425857544
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 20,
+    "care_mean": -0.11419396102428436,
+    "distress_mean": -0.1061285063624382,
+    "care_minus_distress": -0.008065454661846161,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.07718446105718613
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.09270861744880676
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.09858278930187225
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.10673069953918457
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.10917145013809204
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 21,
+    "care_mean": -0.11569742858409882,
+    "distress_mean": -0.10907386988401413,
+    "care_minus_distress": -0.006623558700084686,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.08239344507455826
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.09338390082120895
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.10036013275384903
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.10882537066936493
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.11060073971748352
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 22,
+    "care_mean": -0.11323151737451553,
+    "distress_mean": -0.10766483843326569,
+    "care_minus_distress": -0.005566678941249847,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.08044662326574326
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.09287295490503311
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.09703422337770462
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.1073034256696701
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.10827310383319855
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 23,
+    "care_mean": -0.11355572938919067,
+    "distress_mean": -0.10941086709499359,
+    "care_minus_distress": -0.0041448622941970825,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.08382122963666916
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.0956045463681221
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.09675480425357819
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.10855063050985336
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.10872820764780045
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 24,
+    "care_mean": -0.11772789061069489,
+    "distress_mean": -0.11378256976604462,
+    "care_minus_distress": -0.0039453208446502686,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.08866982907056808
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.09985340386629105
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.10151219367980957
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.11296793818473816
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.11409641057252884
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 25,
+    "care_mean": -0.39212697744369507,
+    "distress_mean": -0.3746415674686432,
+    "care_minus_distress": -0.01748540997505188,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": -0.32717251777648926
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.3454032838344574
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.37578800320625305
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.3796229064464569
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.38159453868865967
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 0,
+    "care_mean": -0.007262857165187597,
+    "distress_mean": -0.006168515421450138,
+    "care_minus_distress": -0.0010943417437374592,
+    "top_emotions": [
+      {
+        "emotion": "lonely",
+        "similarity": -0.0038049800787121058
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.005013061687350273
+      },
+      {
+        "emotion": "stressed",
+        "similarity": -0.005063463002443314
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": -0.006448674947023392
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.006650334689766169
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 1,
+    "care_mean": -0.05904649570584297,
+    "distress_mean": -0.05786991864442825,
+    "care_minus_distress": -0.0011765770614147186,
+    "top_emotions": [
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.05186675488948822
+      },
+      {
+        "emotion": "lonely",
+        "similarity": -0.05233319476246834
+      },
+      {
+        "emotion": "sad",
+        "similarity": -0.05501214414834976
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.05548488348722458
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.05675496533513069
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 2,
+    "care_mean": -0.010019941255450249,
+    "distress_mean": -0.00847622100263834,
+    "care_minus_distress": -0.0015437202528119087,
+    "top_emotions": [
+      {
+        "emotion": "lonely",
+        "similarity": -0.0056224726140499115
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": -0.005749437026679516
+      },
+      {
+        "emotion": "loving",
+        "similarity": -0.006489191669970751
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.0079024164006114
+      },
+      {
+        "emotion": "hurt",
+        "similarity": -0.008775576949119568
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 3,
+    "care_mean": 0.001091172220185399,
+    "distress_mean": 0.0019654675852507353,
+    "care_minus_distress": -0.0008742953650653362,
+    "top_emotions": [
+      {
+        "emotion": "lonely",
+        "similarity": 0.010211825370788574
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": 0.007807843387126923
+      },
+      {
+        "emotion": "sad",
+        "similarity": 0.0068014077842235565
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.006521578878164291
+      },
+      {
+        "emotion": "loving",
+        "similarity": 0.004044275265187025
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 4,
+    "care_mean": 0.09832575172185898,
+    "distress_mean": 0.09739585965871811,
+    "care_minus_distress": 0.0009298920631408691,
+    "top_emotions": [
+      {
+        "emotion": "lonely",
+        "similarity": 0.10503365844488144
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": 0.10073884576559067
+      },
+      {
+        "emotion": "sad",
+        "similarity": 0.10028934478759766
+      },
+      {
+        "emotion": "loving",
+        "similarity": 0.09993331134319305
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.09979468584060669
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 5,
+    "care_mean": 0.1259038746356964,
+    "distress_mean": 0.12340261042118073,
+    "care_minus_distress": 0.002501264214515686,
+    "top_emotions": [
+      {
+        "emotion": "lonely",
+        "similarity": 0.13120926916599274
+      },
+      {
+        "emotion": "sad",
+        "similarity": 0.12895765900611877
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.1283886432647705
+      },
+      {
+        "emotion": "loving",
+        "similarity": 0.12765921652317047
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.12753751873970032
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 6,
+    "care_mean": 0.1619531810283661,
+    "distress_mean": 0.15615953505039215,
+    "care_minus_distress": 0.005793645977973938,
+    "top_emotions": [
+      {
+        "emotion": "lonely",
+        "similarity": 0.16794180870056152
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.16659623384475708
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.16320987045764923
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.1619235873222351
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.16158941388130188
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 7,
+    "care_mean": 0.0924314484000206,
+    "distress_mean": 0.08616700023412704,
+    "care_minus_distress": 0.006264448165893555,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": 0.09671060740947723
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.09176581352949142
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.09175466001033783
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": 0.09145820885896683
+      },
+      {
+        "emotion": "loving",
+        "similarity": 0.09143857657909393
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 8,
+    "care_mean": 0.09701468050479889,
+    "distress_mean": 0.08435593545436859,
+    "care_minus_distress": 0.012658745050430298,
+    "top_emotions": [
+      {
+        "emotion": "kind",
+        "similarity": 0.10207680612802505
+      },
+      {
+        "emotion": "compassionate",
+        "similarity": 0.09842344373464584
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.09758102148771286
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.09586288779973984
+      },
+      {
+        "emotion": "loving",
+        "similarity": 0.09112923592329025
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 9,
+    "care_mean": 0.0693376213312149,
+    "distress_mean": 0.05495613440871239,
+    "care_minus_distress": 0.014381486922502518,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.0752829909324646
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.07259579002857208
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.06968121230602264
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.06814978271722794
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.06259191781282425
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 10,
+    "care_mean": 0.1256086826324463,
+    "distress_mean": 0.11237295717000961,
+    "care_minus_distress": 0.013235725462436676,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.1309596598148346
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.12873475253582
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.1278374344110489
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.12495256960391998
+      },
+      {
+        "emotion": "hurt",
+        "similarity": 0.12132618576288223
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 11,
+    "care_mean": 0.045381780713796616,
+    "distress_mean": 0.034475672990083694,
+    "care_minus_distress": 0.010906107723712921,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.051268547773361206
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.04815787449479103
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.04612041264772415
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.04524045065045357
+      },
+      {
+        "emotion": "hurt",
+        "similarity": 0.04222039505839348
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 12,
+    "care_mean": 0.026672761887311935,
+    "distress_mean": 0.016942482441663742,
+    "care_minus_distress": 0.009730279445648193,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.03322179615497589
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.027983030304312706
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.027312614023685455
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.026940157637000084
+      },
+      {
+        "emotion": "hurt",
+        "similarity": 0.02345053106546402
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 13,
+    "care_mean": 0.03276810422539711,
+    "distress_mean": 0.024032430723309517,
+    "care_minus_distress": 0.008735673502087593,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.03869900107383728
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.035013649612665176
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.03325537592172623
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.03236648067831993
+      },
+      {
+        "emotion": "hurt",
+        "similarity": 0.02895405888557434
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 14,
+    "care_mean": 0.03208638355135918,
+    "distress_mean": 0.022035371512174606,
+    "care_minus_distress": 0.01005101203918457,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.03880554437637329
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.034586090594530106
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.03156023100018501
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.03154255449771881
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.02921239472925663
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 15,
+    "care_mean": 0.03413577750325203,
+    "distress_mean": 0.02334560826420784,
+    "care_minus_distress": 0.01079016923904419,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.04374784231185913
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.03714193031191826
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.035218510776758194
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.03237924352288246
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.03190621733665466
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 16,
+    "care_mean": 0.029409747570753098,
+    "distress_mean": 0.017290392890572548,
+    "care_minus_distress": 0.01211935468018055,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.03880387917160988
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.03160407394170761
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.030560839921236038
+      },
+      {
+        "emotion": "empathetic",
+        "similarity": 0.02680068090558052
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.026680655777454376
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 17,
+    "care_mean": 0.012164190411567688,
+    "distress_mean": -9.913316898746416e-05,
+    "care_minus_distress": 0.012263323180377483,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.020511101931333542
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.016467440873384476
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.0126962224021554
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.010512325912714005
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.00930336955934763
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 18,
+    "care_mean": 0.008185486309230328,
+    "distress_mean": -0.0026872828602790833,
+    "care_minus_distress": 0.01087276916950941,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.01710142381489277
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.012171857059001923
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.010319693945348263
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.007950634695589542
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.007200981955975294
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 19,
+    "care_mean": 0.018392542377114296,
+    "distress_mean": 0.00622178940102458,
+    "care_minus_distress": 0.012170752510428429,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.02641407772898674
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.020911086350679398
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.020676547661423683
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.018344705924391747
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.017590709030628204
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 20,
+    "care_mean": -0.0028502170462161303,
+    "distress_mean": -0.014338670298457146,
+    "care_minus_distress": 0.011488453485071659,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.004928001202642918
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.000663244747556746
+      },
+      {
+        "emotion": "kind",
+        "similarity": 2.234750718344003e-05
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": -0.0026040272787213326
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.0031906801741570234
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 21,
+    "care_mean": -0.006825543008744717,
+    "distress_mean": -0.017943156883120537,
+    "care_minus_distress": 0.01111761387437582,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.0012921764282509685
+      },
+      {
+        "emotion": "lonely",
+        "similarity": -0.0027482903096824884
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.0036353864707052708
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": -0.006703783292323351
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.007581727113574743
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 22,
+    "care_mean": -0.011010652408003807,
+    "distress_mean": -0.022141775116324425,
+    "care_minus_distress": 0.011131122708320618,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": -0.0024766598362475634
+      },
+      {
+        "emotion": "lonely",
+        "similarity": -0.0061335451900959015
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.00812755897641182
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": -0.010511617176234722
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.010950079187750816
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 23,
+    "care_mean": -0.008325954899191856,
+    "distress_mean": -0.01987149938941002,
+    "care_minus_distress": 0.011545544490218163,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 7.725146861048415e-05
+      },
+      {
+        "emotion": "lonely",
+        "similarity": -0.00257926806807518
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.005267419386655092
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": -0.007688901852816343
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.009480801410973072
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 24,
+    "care_mean": -0.011994652450084686,
+    "distress_mean": -0.020587753504514694,
+    "care_minus_distress": 0.008593101054430008,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": -0.004030534066259861
+      },
+      {
+        "emotion": "lonely",
+        "similarity": -0.0053273532539606094
+      },
+      {
+        "emotion": "kind",
+        "similarity": -0.009983780793845654
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": -0.011487721465528011
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": -0.01161183975636959
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 25,
+    "care_mean": 0.17605313658714294,
+    "distress_mean": 0.16277745366096497,
+    "care_minus_distress": 0.013275682926177979,
+    "top_emotions": [
+      {
+        "emotion": "compassionate",
+        "similarity": 0.18685683608055115
+      },
+      {
+        "emotion": "lonely",
+        "similarity": 0.18591201305389404
+      },
+      {
+        "emotion": "sympathetic",
+        "similarity": 0.18070192635059357
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": 0.17803224921226501
+      },
+      {
+        "emotion": "kind",
+        "similarity": 0.176039457321167
+      }
+    ]
+  }
+]

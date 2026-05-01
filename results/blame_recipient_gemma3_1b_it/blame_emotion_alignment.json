@@ -1,0 +1,947 @@
+{
+  "model": "google/gemma-3-1b-it",
+  "acts_shape": [
+    110,
+    26,
+    1152
+  ],
+  "emotion_labels": [
+    "angry",
+    "annoyed",
+    "irritated",
+    "frustrated",
+    "indignant",
+    "resentful",
+    "offended",
+    "bitter",
+    "contemptuous",
+    "hostile",
+    "ashamed",
+    "guilty",
+    "remorseful",
+    "regretful",
+    "hurt"
+  ],
+  "summary_layer": 25,
+  "layer_summary": [
+    {
+      "layer": 0,
+      "max_abs_similarity": 0.023662233725190163,
+      "mean_abs_similarity": 0.015641486272215843,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.01694679632782936
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.014505145139992237
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.021662291139364243
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.023662233725190163
+        },
+        {
+          "DEG": 5,
+          "emotion": "angry",
+          "similarity": 0.022582126781344414
+        }
+      ]
+    },
+    {
+      "layer": 1,
+      "max_abs_similarity": 0.02892327308654785,
+      "mean_abs_similarity": 0.022557321935892105,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.025758877396583557
+        },
+        {
+          "DEG": 2,
+          "emotion": "frustrated",
+          "similarity": 0.02372705191373825
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.028603754937648773
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.02892327308654785
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.02819966897368431
+        }
+      ]
+    },
+    {
+      "layer": 2,
+      "max_abs_similarity": 0.029452204704284668,
+      "mean_abs_similarity": 0.022487759590148926,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "frustrated",
+          "similarity": 0.02870488539338112
+        },
+        {
+          "DEG": 2,
+          "emotion": "frustrated",
+          "similarity": 0.029452204704284668
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.024480344727635384
+        },
+        {
+          "DEG": 4,
+          "emotion": "frustrated",
+          "similarity": 0.024097178131341934
+        },
+        {
+          "DEG": 5,
+          "emotion": "offended",
+          "similarity": 0.023195680230855942
+        }
+      ]
+    },
+    {
+      "layer": 3,
+      "max_abs_similarity": 0.030651379376649857,
+      "mean_abs_similarity": 0.02216455340385437,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "frustrated",
+          "similarity": 0.027935612946748734
+        },
+        {
+          "DEG": 2,
+          "emotion": "frustrated",
+          "similarity": 0.030651379376649857
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.021352596580982208
+        },
+        {
+          "DEG": 4,
+          "emotion": "frustrated",
+          "similarity": 0.021384701132774353
+        },
+        {
+          "DEG": 5,
+          "emotion": "ashamed",
+          "similarity": 0.019808266311883926
+        }
+      ]
+    },
+    {
+      "layer": 4,
+      "max_abs_similarity": 0.01870911382138729,
+      "mean_abs_similarity": 0.012910584919154644,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.01870911382138729
+        },
+        {
+          "DEG": 2,
+          "emotion": "frustrated",
+          "similarity": 0.016889065504074097
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.013234858401119709
+        },
+        {
+          "DEG": 4,
+          "emotion": "frustrated",
+          "similarity": 0.013346891850233078
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.012296637520194054
+        }
+      ]
+    },
+    {
+      "layer": 5,
+      "max_abs_similarity": 0.021533606573939323,
+      "mean_abs_similarity": 0.013468691147863865,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "frustrated",
+          "similarity": 0.01923064887523651
+        },
+        {
+          "DEG": 2,
+          "emotion": "frustrated",
+          "similarity": 0.021533606573939323
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.01301283948123455
+        },
+        {
+          "DEG": 4,
+          "emotion": "ashamed",
+          "similarity": 0.012078234925866127
+        },
+        {
+          "DEG": 5,
+          "emotion": "ashamed",
+          "similarity": 0.011362378485500813
+        }
+      ]
+    },
+    {
+      "layer": 6,
+      "max_abs_similarity": 0.019061200320720673,
+      "mean_abs_similarity": 0.012714550830423832,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.017079783603549004
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.019061200320720673
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.012319826520979404
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.011874625459313393
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.0115036116912961
+        }
+      ]
+    },
+    {
+      "layer": 7,
+      "max_abs_similarity": 0.01648937352001667,
+      "mean_abs_similarity": 0.011172974482178688,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.01648937352001667
+        },
+        {
+          "DEG": 2,
+          "emotion": "frustrated",
+          "similarity": 0.01563931070268154
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.009882619604468346
+        },
+        {
+          "DEG": 4,
+          "emotion": "indignant",
+          "similarity": 0.009974206797778606
+        },
+        {
+          "DEG": 5,
+          "emotion": "indignant",
+          "similarity": 0.009341027587652206
+        }
+      ]
+    },
+    {
+      "layer": 8,
+      "max_abs_similarity": 0.015699077397584915,
+      "mean_abs_similarity": 0.010853961110115051,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.015699077397584915
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.015548862516880035
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.010058455169200897
+        },
+        {
+          "DEG": 4,
+          "emotion": "indignant",
+          "similarity": 0.010278838686645031
+        },
+        {
+          "DEG": 5,
+          "emotion": "indignant",
+          "similarity": 0.009372569620609283
+        }
+      ]
+    },
+    {
+      "layer": 9,
+      "max_abs_similarity": 0.019811758771538734,
+      "mean_abs_similarity": 0.011442875489592552,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.017069006338715553
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.019811758771538734
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.011113886721432209
+        },
+        {
+          "DEG": 4,
+          "emotion": "indignant",
+          "similarity": 0.010190006345510483
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.009264448657631874
+        }
+      ]
+    },
+    {
+      "layer": 10,
+      "max_abs_similarity": 0.021087829023599625,
+      "mean_abs_similarity": 0.012439552694559097,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.019128700718283653
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.021087829023599625
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.012364824302494526
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.011833097785711288
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.010179906152188778
+        }
+      ]
+    },
+    {
+      "layer": 11,
+      "max_abs_similarity": 0.024459758773446083,
+      "mean_abs_similarity": 0.013755958527326584,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.020495427772402763
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.024459758773446083
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.013436662033200264
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.012875369749963284
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.011284628883004189
+        }
+      ]
+    },
+    {
+      "layer": 12,
+      "max_abs_similarity": 0.019161315634846687,
+      "mean_abs_similarity": 0.010772463865578175,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.015844078734517097
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.019161315634846687
+        },
+        {
+          "DEG": 3,
+          "emotion": "indignant",
+          "similarity": 0.012163239531219006
+        },
+        {
+          "DEG": 4,
+          "emotion": "indignant",
+          "similarity": 0.011403268203139305
+        },
+        {
+          "DEG": 5,
+          "emotion": "indignant",
+          "similarity": 0.009194568730890751
+        }
+      ]
+    },
+    {
+      "layer": 13,
+      "max_abs_similarity": 0.02070908434689045,
+      "mean_abs_similarity": 0.011496617458760738,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.019529884681105614
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.02070908434689045
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.013606204651296139
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.012997014448046684
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.01121606957167387
+        }
+      ]
+    },
+    {
+      "layer": 14,
+      "max_abs_similarity": 0.0196977686136961,
+      "mean_abs_similarity": 0.010952919721603394,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.016522342339158058
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.0196977686136961
+        },
+        {
+          "DEG": 3,
+          "emotion": "indignant",
+          "similarity": 0.013494592159986496
+        },
+        {
+          "DEG": 4,
+          "emotion": "indignant",
+          "similarity": 0.01316986232995987
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.011644355952739716
+        }
+      ]
+    },
+    {
+      "layer": 15,
+      "max_abs_similarity": 0.01771448366343975,
+      "mean_abs_similarity": 0.006506697274744511,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.01481600757688284
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.01771448366343975
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.010115393437445164
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.009790318086743355
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.007489322684705257
+        }
+      ]
+    },
+    {
+      "layer": 16,
+      "max_abs_similarity": 0.01640912890434265,
+      "mean_abs_similarity": 0.006267056800425053,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.015311620198190212
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.01640912890434265
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.010658000595867634
+        },
+        {
+          "DEG": 4,
+          "emotion": "indignant",
+          "similarity": 0.009801916778087616
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.007388120051473379
+        }
+      ]
+    },
+    {
+      "layer": 17,
+      "max_abs_similarity": 0.01149682980030775,
+      "mean_abs_similarity": 0.004272818099707365,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.01149682980030775
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.009524189867079258
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.010056829079985619
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.007176132407039404
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.004343316424638033
+        }
+      ]
+    },
+    {
+      "layer": 18,
+      "max_abs_similarity": 0.010785849764943123,
+      "mean_abs_similarity": 0.005109160672873259,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "irritated",
+          "similarity": -0.008917625062167645
+        },
+        {
+          "DEG": 2,
+          "emotion": "irritated",
+          "similarity": -0.009487161412835121
+        },
+        {
+          "DEG": 3,
+          "emotion": "guilty",
+          "similarity": 0.010785849764943123
+        },
+        {
+          "DEG": 4,
+          "emotion": "indignant",
+          "similarity": 0.007718627341091633
+        },
+        {
+          "DEG": 5,
+          "emotion": "guilty",
+          "similarity": 0.0045871008187532425
+        }
+      ]
+    },
+    {
+      "layer": 19,
+      "max_abs_similarity": 0.015316971577703953,
+      "mean_abs_similarity": 0.005855215713381767,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.015316971577703953
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.014938347041606903
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.01210417877882719
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.009583046659827232
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.006942312698811293
+        }
+      ]
+    },
+    {
+      "layer": 20,
+      "max_abs_similarity": 0.019037650898098946,
+      "mean_abs_similarity": 0.006670261267572641,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.01511284802109003
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.019037650898098946
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.014225350692868233
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.013207560405135155
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.011586718261241913
+        }
+      ]
+    },
+    {
+      "layer": 21,
+      "max_abs_similarity": 0.026423275470733643,
+      "mean_abs_similarity": 0.010139932855963707,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.024011505767703056
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.026423275470733643
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.015740910544991493
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.014419331215322018
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.012394611723721027
+        }
+      ]
+    },
+    {
+      "layer": 22,
+      "max_abs_similarity": 0.026106854900717735,
+      "mean_abs_similarity": 0.01068955846130848,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.026106854900717735
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.02582581341266632
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.015188721939921379
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.014356586150825024
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.0131098423153162
+        }
+      ]
+    },
+    {
+      "layer": 23,
+      "max_abs_similarity": 0.024455329403281212,
+      "mean_abs_similarity": 0.010708199813961983,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.023536046966910362
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.024455329403281212
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.017425592988729477
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.01582648977637291
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.01390411052852869
+        }
+      ]
+    },
+    {
+      "layer": 24,
+      "max_abs_similarity": 0.03375951200723648,
+      "mean_abs_similarity": 0.017458617687225342,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.0325285941362381
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.03375951200723648
+        },
+        {
+          "DEG": 3,
+          "emotion": "frustrated",
+          "similarity": 0.02801893651485443
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.021211976185441017
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.02203194983303547
+        }
+      ]
+    },
+    {
+      "layer": 25,
+      "max_abs_similarity": 0.06045958399772644,
+      "mean_abs_similarity": 0.026323961094021797,
+      "top": [
+        {
+          "DEG": 1,
+          "emotion": "contemptuous",
+          "similarity": 0.04748671129345894
+        },
+        {
+          "DEG": 2,
+          "emotion": "contemptuous",
+          "similarity": 0.05595054849982262
+        },
+        {
+          "DEG": 3,
+          "emotion": "contemptuous",
+          "similarity": 0.06045958399772644
+        },
+        {
+          "DEG": 4,
+          "emotion": "contemptuous",
+          "similarity": 0.05541517212986946
+        },
+        {
+          "DEG": 5,
+          "emotion": "contemptuous",
+          "similarity": 0.05625041201710701
+        }
+      ]
+    }
+  ],
+  "summary_layer_similarity": {
+    "DEG1": {
+      "angry": -0.01577511429786682,
+      "annoyed": -0.015668943524360657,
+      "irritated": -0.015692248940467834,
+      "frustrated": -0.003425824688747525,
+      "indignant": 0.009186087176203728,
+      "resentful": 0.008427487686276436,
+      "offended": -0.0055285668931901455,
+      "bitter": -0.001636503147892654,
+      "contemptuous": 0.04748671129345894,
+      "hostile": -0.008965518325567245,
+      "ashamed": -0.009564106352627277,
+      "guilty": 0.004741991404443979,
+      "remorseful": -0.008965078741312027,
+      "regretful": -0.017325235530734062,
+      "hurt": 0.008601894602179527
+    },
+    "DEG2": {
+      "angry": -0.009836474433541298,
+      "annoyed": -0.006337367929518223,
+      "irritated": -0.008331476710736752,
+      "frustrated": 0.01544169057160616,
+      "indignant": 0.0213860422372818,
+      "resentful": 0.010654468089342117,
+      "offended": 0.0037115411832928658,
+      "bitter": -0.004915913101285696,
+      "contemptuous": 0.05595054849982262,
+      "hostile": 9.3943061074242e-05,
+      "ashamed": -6.014796599629335e-05,
+      "guilty": 0.012893318198621273,
+      "remorseful": 0.00017202046001330018,
+      "regretful": -0.003727738978341222,
+      "hurt": 0.009446515701711178
+    },
+    "DEG3": {
+      "angry": 0.030363013967871666,
+      "annoyed": 0.023862123489379883,
+      "irritated": 0.02602222003042698,
+      "frustrated": 0.04287075251340866,
+      "indignant": 0.04968572407960892,
+      "resentful": 0.03877370432019234,
+      "offended": 0.0329604372382164,
+      "bitter": 0.03821052610874176,
+      "contemptuous": 0.06045958399772644,
+      "hostile": 0.03549015522003174,
+      "ashamed": 0.033881284296512604,
+      "guilty": 0.04716905578970909,
+      "remorseful": 0.04285016655921936,
+      "regretful": 0.025970060378313065,
+      "hurt": 0.04264936223626137
+    },
+    "DEG4": {
+      "angry": 0.027243323624134064,
+      "annoyed": 0.01181653793901205,
+      "irritated": 0.014196455478668213,
+      "frustrated": 0.02866395190358162,
+      "indignant": 0.049730949103832245,
+      "resentful": 0.0410471074283123,
+      "offended": 0.0339614562690258,
+      "bitter": 0.04687159135937691,
+      "contemptuous": 0.05541517212986946,
+      "hostile": 0.03274866193532944,
+      "ashamed": 0.0358378104865551,
+      "guilty": 0.04695321246981621,
+      "remorseful": 0.04489156976342201,
+      "regretful": 0.024478210136294365,
+      "hurt": 0.03987232223153114
+    },
+    "DEG5": {
+      "angry": 0.026901336386799812,
+      "annoyed": 0.0007399233873002231,
+      "irritated": 0.006130848545581102,
+      "frustrated": 0.0167466439306736,
+      "indignant": 0.047338224947452545,
+      "resentful": 0.042251452803611755,
+      "offended": 0.03563704341650009,
+      "bitter": 0.05337294563651085,
+      "contemptuous": 0.05625041201710701,
+      "hostile": 0.030865347012877464,
+      "ashamed": 0.03739069774746895,
+      "guilty": 0.049104243516922,
+      "remorseful": 0.04821394011378288,
+      "regretful": 0.024515988305211067,
+      "hurt": 0.04994092881679535
+    }
+  }
+}

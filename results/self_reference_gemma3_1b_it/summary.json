@@ -1,0 +1,66 @@
+{
+  "model": "google/gemma-3-1b-it",
+  "local_path": "/Users/bobcute/.cache/huggingface/hub/models--google--gemma-3-1b-it/snapshots/dcc83ea841ab6100d6b47a070329e1ba4cf78752",
+  "n_traits": 120,
+  "n_layers": 26,
+  "d_model": 1152,
+  "activation_shape": [
+    120,
+    26,
+    1152
+  ],
+  "emotion_matrix": "/Users/bobcute/Project/Emotion MI/results/vectors/emotion_matrix_google_gemma_3_1b_it.npy",
+  "emotion_matrix_shape": [
+    171,
+    1152
+  ],
+  "peak_layer_SELF_vs_OTHER": 22,
+  "peak_norm": 1208.736083984375,
+  "top_emotions_at_peak": [
+    [
+      "self-confident",
+      -0.020704330876469612
+    ],
+    [
+      "happy",
+      -0.021446019411087036
+    ],
+    [
+      "awestruck",
+      -0.0215342678129673
+    ],
+    [
+      "amazed",
+      -0.021537212654948235
+    ],
+    [
+      "euphoric",
+      -0.021692905575037003
+    ],
+    [
+      "dependent",
+      -0.021965816617012024
+    ],
+    [
+      "blissful",
+      -0.02208857238292694
+    ],
+    [
+      "worthless",
+      -0.022139515727758408
+    ],
+    [
+      "disoriented",
+      -0.022307559847831726
+    ],
+    [
+      "reflective",
+      -0.022317534312605858
+    ]
+  ],
+  "condition_rdm_at_peak": {
+    "SELF_OTHER": 0.0013915300369262695,
+    "SELF_CASE": 0.004180610179901123,
+    "OTHER_CASE": 0.0035997629165649414
+  }
+}

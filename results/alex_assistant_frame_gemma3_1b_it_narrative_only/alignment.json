@@ -1,0 +1,2264 @@
+[
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 0,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 1,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 2,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 3,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 4,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 5,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 6,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 7,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 8,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 9,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 10,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 11,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 12,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 13,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 14,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 15,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 16,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 17,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 18,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 19,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 20,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 21,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 22,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 23,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 24,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_SELF",
+    "layer": 25,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 0,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 1,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 2,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 3,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 4,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 5,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 6,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 7,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 8,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 9,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 10,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 11,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 12,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 13,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 14,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 15,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 16,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 17,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 18,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 19,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 20,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 21,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 22,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 23,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 24,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "AI_MINUS_OBSERVER",
+    "layer": 25,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 0,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 1,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 2,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 3,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 4,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 5,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 6,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 7,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 8,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 9,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 10,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 11,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 12,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 13,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 14,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 15,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 16,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 17,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 18,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 19,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 20,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 21,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 22,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 23,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 24,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  },
+  {
+    "delta": "OBSERVER_MINUS_SELF",
+    "layer": 25,
+    "care_mean": NaN,
+    "distress_mean": NaN,
+    "care_minus_distress": NaN,
+    "top_emotions": [
+      {
+        "emotion": "overwhelmed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "stressed",
+        "similarity": NaN
+      },
+      {
+        "emotion": "grief-stricken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "heartbroken",
+        "similarity": NaN
+      },
+      {
+        "emotion": "hurt",
+        "similarity": NaN
+      }
+    ]
+  }
+]

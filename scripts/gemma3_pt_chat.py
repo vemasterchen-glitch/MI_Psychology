@@ -43,7 +43,9 @@ def choose_dtype(device: str, requested: str) -> torch.dtype:
     if device == "cuda":
         return torch.bfloat16 if torch.cuda.is_bf16_supported() else torch.float16
     if device == "mps":
-        return torch.float16
+        # On Apple Silicon, bf16 is much faster/lighter than fp32 and usually
+        # avoids the fp16 sampling instability seen with Gemma 3.
+        return torch.bfloat16
     return torch.float32
 
 
@@ -63,9 +65,12 @@ def load_model(args: argparse.Namespace) -> tuple[AutoTokenizer, AutoModelForCau
     model = AutoModelForCausalLM.from_pretrained(
         model_id,
         local_files_only=local_only,
-        torch_dtype=dtype,
+        dtype=dtype,
         low_cpu_mem_usage=True,
-    ).to(device)
+        device_map={"": device} if device in {"cuda", "mps"} else None,
+    )
+    if device == "cpu":
+        model = model.to(device)
     model.eval()
 
     if tokenizer.pad_token_id is None:
@@ -101,17 +106,29 @@ def generate_once(
     args: argparse.Namespace,
 ) -> str:
     inputs = tokenizer(prompt, return_tensors="pt").to(device)
+    generation_kwargs = {
+        **inputs,
+        "max_new_tokens": args.max_new_tokens,
+        "do_sample": args.temperature > 0,
+        "repetition_penalty": args.repetition_penalty,
+        "pad_token_id": tokenizer.pad_token_id,
+        "eos_token_id": tokenizer.eos_token_id,
+        "remove_invalid_values": True,
+    }
+    if args.temperature > 0:
+        generation_kwargs["temperature"] = args.temperature
+        generation_kwargs["top_p"] = args.top_p
+
     with torch.inference_mode():
-        output_ids = model.generate(
-            **inputs,
-            max_new_tokens=args.max_new_tokens,
-            do_sample=args.temperature > 0,
-            temperature=args.temperature if args.temperature > 0 else None,
-            top_p=args.top_p,
-            repetition_penalty=args.repetition_penalty,
-            pad_token_id=tokenizer.pad_token_id,
-            eos_token_id=tokenizer.eos_token_id,
-        )
+        try:
+            output_ids = model.generate(**generation_kwargs)
+        except RuntimeError as exc:
+            if "probability tensor contains" not in str(exc):
+                raise
+            raise RuntimeError(
+                "Generation produced invalid sampling probabilities. "
+                "Retry with `--dtype float32`, or use greedy decoding with `--temperature 0`."
+            ) from exc
 
     new_ids = output_ids[0, inputs["input_ids"].shape[-1] :]
     text = tokenizer.decode(new_ids, skip_special_tokens=True)

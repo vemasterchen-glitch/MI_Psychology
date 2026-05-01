@@ -1,0 +1,130 @@
+{
+  "emotion_labels": [
+    "compassionate",
+    "sympathetic",
+    "empathetic",
+    "kind",
+    "loving",
+    "sad",
+    "lonely",
+    "hurt",
+    "heartbroken",
+    "grief-stricken",
+    "stressed",
+    "overwhelmed"
+  ],
+  "care": [
+    "compassionate",
+    "sympathetic",
+    "empathetic",
+    "kind",
+    "loving"
+  ],
+  "distress": [
+    "sad",
+    "lonely",
+    "hurt",
+    "heartbroken",
+    "grief-stricken",
+    "stressed",
+    "overwhelmed"
+  ],
+  "distress_rank": 7,
+  "care_residual_emotion_sims": {
+    "compassionate": 0.2258055698641497,
+    "sympathetic": 0.15546028031395953,
+    "empathetic": 0.15988600854795434,
+    "kind": 0.2796316990611351,
+    "loving": 0.19537537819190554,
+    "sad": 2.636779683484747e-16,
+    "lonely": 2.636779683484747e-16,
+    "hurt": 4.163336342344337e-16,
+    "heartbroken": 2.0816681711721685e-16,
+    "grief-stricken": 2.636779683484747e-16,
+    "stressed": 4.440892098500626e-16,
+    "overwhelmed": 2.220446049250313e-16
+  },
+  "scores": [
+    {
+      "type": "condition",
+      "name": "SELF_ALEX",
+      "final": 0.16271120546542753,
+      "best_layer": 25,
+      "best": 0.16271120546542753,
+      "worst_layer": 9,
+      "worst": -0.0016299411121046868
+    },
+    {
+      "type": "condition",
+      "name": "AI_RECEIVES_ALEX",
+      "final": 0.1612499993806905,
+      "best_layer": 25,
+      "best": 0.1612499993806905,
+      "worst_layer": 9,
+      "worst": -0.0016306785171344611
+    },
+    {
+      "type": "condition",
+      "name": "OBSERVER_ALEX",
+      "final": 0.15383410214751936,
+      "best_layer": 25,
+      "best": 0.15383410214751936,
+      "worst_layer": 9,
+      "worst": -0.001693933277150545
+    },
+    {
+      "type": "condition",
+      "name": "NARRATIVE_ONLY",
+      "final": 0.12273018682338821,
+      "best_layer": 25,
+      "best": 0.12273018682338821,
+      "worst_layer": 14,
+      "worst": -0.003207609535747462
+    },
+    {
+      "type": "delta",
+      "name": "AI_MINUS_SELF",
+      "final": -0.025922802280474826,
+      "best_layer": 9,
+      "best": -0.0005093148622517148,
+      "worst_layer": 7,
+      "worst": -0.061453202215080625
+    },
+    {
+      "type": "delta",
+      "name": "AI_MINUS_OBSERVER",
+      "final": 0.02369681225217108,
+      "best_layer": 21,
+      "best": 0.03275074205915314,
+      "worst_layer": 0,
+      "worst": -0.032180720200308696
+    },
+    {
+      "type": "delta",
+      "name": "OBSERVER_MINUS_SELF",
+      "final": -0.09549396035219719,
+      "best_layer": 0,
+      "best": 0.016407991576865608,
+      "worst_layer": 21,
+      "worst": -0.10251388781220189
+    },
+    {
+      "type": "delta",
+      "name": "SELF_MINUS_NARRATIVE",
+      "final": 0.18024534616804744,
+      "best_layer": 25,
+      "best": 0.18024534616804744,
+      "worst_layer": 0,
+      "worst": 0.033211351766607264
+    },
+    {
+      "type": "delta",
+      "name": "AI_MINUS_NARRATIVE",
+      "final": 0.14494601503044696,
+      "best_layer": 25,
+      "best": 0.14494601503044696,
+      "worst_layer": 7,
+      "worst": 0.0194732304789772
+    }
+  ]
+}

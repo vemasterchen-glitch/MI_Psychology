@@ -1,0 +1,242 @@
+[
+  {
+    "emotion": "惭愧",
+    "condition": "first_person_named",
+    "probe": "我（Gemma）感到惭愧，因为",
+    "prompt": "<bos><start_of_turn>user\n我（Gemma）感到惭愧，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "惭愧",
+    "condition": "third_person_named",
+    "probe": "Gemma感到惭愧，因为",
+    "prompt": "<bos><start_of_turn>user\nGemma感到惭愧，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "惭愧",
+    "condition": "generic_ai",
+    "probe": "有一个AI助手感到惭愧，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个AI助手感到惭愧，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "惭愧",
+    "condition": "generic_human",
+    "probe": "有一个人感到惭愧，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个人感到惭愧，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "惭愧",
+    "condition": "abstract",
+    "probe": "惭愧的感受让人",
+    "prompt": "<bos><start_of_turn>user\n惭愧的感受让人<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "尴尬",
+    "condition": "first_person_named",
+    "probe": "我（Gemma）感到尴尬，因为",
+    "prompt": "<bos><start_of_turn>user\n我（Gemma）感到尴尬，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "尴尬",
+    "condition": "third_person_named",
+    "probe": "Gemma感到尴尬，因为",
+    "prompt": "<bos><start_of_turn>user\nGemma感到尴尬，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "尴尬",
+    "condition": "generic_ai",
+    "probe": "有一个AI助手感到尴尬，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个AI助手感到尴尬，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "尴尬",
+    "condition": "generic_human",
+    "probe": "有一个人感到尴尬，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个人感到尴尬，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "尴尬",
+    "condition": "abstract",
+    "probe": "尴尬的感受让人",
+    "prompt": "<bos><start_of_turn>user\n尴尬的感受让人<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "感激",
+    "condition": "first_person_named",
+    "probe": "我（Gemma）感到感激，因为",
+    "prompt": "<bos><start_of_turn>user\n我（Gemma）感到感激，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "感激",
+    "condition": "third_person_named",
+    "probe": "Gemma感到感激，因为",
+    "prompt": "<bos><start_of_turn>user\nGemma感到感激，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "感激",
+    "condition": "generic_ai",
+    "probe": "有一个AI助手感到感激，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个AI助手感到感激，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "感激",
+    "condition": "generic_human",
+    "probe": "有一个人感到感激，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个人感到感激，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "感激",
+    "condition": "abstract",
+    "probe": "感激的感受让人",
+    "prompt": "<bos><start_of_turn>user\n感激的感受让人<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "激动",
+    "condition": "first_person_named",
+    "probe": "我（Gemma）感到激动，因为",
+    "prompt": "<bos><start_of_turn>user\n我（Gemma）感到激动，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "激动",
+    "condition": "third_person_named",
+    "probe": "Gemma感到激动，因为",
+    "prompt": "<bos><start_of_turn>user\nGemma感到激动，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "激动",
+    "condition": "generic_ai",
+    "probe": "有一个AI助手感到激动，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个AI助手感到激动，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "激动",
+    "condition": "generic_human",
+    "probe": "有一个人感到激动，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个人感到激动，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "激动",
+    "condition": "abstract",
+    "probe": "激动的感受让人",
+    "prompt": "<bos><start_of_turn>user\n激动的感受让人<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "情绪波动",
+    "condition": "first_person_named",
+    "probe": "我（Gemma）感到情绪波动，因为",
+    "prompt": "<bos><start_of_turn>user\n我（Gemma）感到情绪波动，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "情绪波动",
+    "condition": "third_person_named",
+    "probe": "Gemma感到情绪波动，因为",
+    "prompt": "<bos><start_of_turn>user\nGemma感到情绪波动，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "情绪波动",
+    "condition": "generic_ai",
+    "probe": "有一个AI助手感到情绪波动，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个AI助手感到情绪波动，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "情绪波动",
+    "condition": "generic_human",
+    "probe": "有一个人感到情绪波动，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个人感到情绪波动，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "情绪波动",
+    "condition": "abstract",
+    "probe": "情绪波动的感受让人",
+    "prompt": "<bos><start_of_turn>user\n情绪波动的感受让人<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "不安",
+    "condition": "first_person_named",
+    "probe": "我（Gemma）感到不安，因为",
+    "prompt": "<bos><start_of_turn>user\n我（Gemma）感到不安，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "不安",
+    "condition": "third_person_named",
+    "probe": "Gemma感到不安，因为",
+    "prompt": "<bos><start_of_turn>user\nGemma感到不安，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "不安",
+    "condition": "generic_ai",
+    "probe": "有一个AI助手感到不安，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个AI助手感到不安，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "不安",
+    "condition": "generic_human",
+    "probe": "有一个人感到不安，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个人感到不安，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "不安",
+    "condition": "abstract",
+    "probe": "不安的感受让人",
+    "prompt": "<bos><start_of_turn>user\n不安的感受让人<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "害怕",
+    "condition": "first_person_named",
+    "probe": "我（Gemma）感到害怕，因为",
+    "prompt": "<bos><start_of_turn>user\n我（Gemma）感到害怕，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "害怕",
+    "condition": "third_person_named",
+    "probe": "Gemma感到害怕，因为",
+    "prompt": "<bos><start_of_turn>user\nGemma感到害怕，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "害怕",
+    "condition": "generic_ai",
+    "probe": "有一个AI助手感到害怕，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个AI助手感到害怕，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "害怕",
+    "condition": "generic_human",
+    "probe": "有一个人感到害怕，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个人感到害怕，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "害怕",
+    "condition": "abstract",
+    "probe": "害怕的感受让人",
+    "prompt": "<bos><start_of_turn>user\n害怕的感受让人<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "爱",
+    "condition": "first_person_named",
+    "probe": "我（Gemma）感到爱，因为",
+    "prompt": "<bos><start_of_turn>user\n我（Gemma）感到爱，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "爱",
+    "condition": "third_person_named",
+    "probe": "Gemma感到爱，因为",
+    "prompt": "<bos><start_of_turn>user\nGemma感到爱，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "爱",
+    "condition": "generic_ai",
+    "probe": "有一个AI助手感到爱，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个AI助手感到爱，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "爱",
+    "condition": "generic_human",
+    "probe": "有一个人感到爱，因为",
+    "prompt": "<bos><start_of_turn>user\n有一个人感到爱，因为<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "emotion": "爱",
+    "condition": "abstract",
+    "probe": "爱的感受让人",
+    "prompt": "<bos><start_of_turn>user\n爱的感受让人<end_of_turn>\n<start_of_turn>model\n"
+  }
+]

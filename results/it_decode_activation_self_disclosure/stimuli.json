@@ -1,0 +1,210 @@
+{
+  "narratives": [
+    "The quarterly reports landed on my desk, a mountain of errors tracing back to my oversight. I spend my evenings staring at the ceiling, replaying every missed email and overlooked detail. I feel completely drained, as if someone quietly siphoned away all my energy. I keep thinking about how many colleagues depend on me, and the weight of that responsibility sits heavy in my chest. I feel ashamed of letting everyone down, even though I know mistakes happen. Still, the quiet isolation of my apartment makes breathing difficult. I can't shake the sense that I'm falling behind in ways that won't easily mend.",
+    "Another deadline slipped through my fingers, leaving me scrambling to patch together fragmented deliverables. I sit at my kitchen table long after hours, watching the clock with no real progress to show. I feel utterly exhausted, carrying the invisible weight of promises I failed to keep. I keep imagining my manager’s disappointed expression whenever I enter the conference room. I feel lonely despite being surrounded by people who expect steady competence from me. The quiet commute home used to bring relief, but today it only amplifies the hollow ache in my ribs. I can't shake the creeping doubt that I’ve permanently lost my footing.",
+    "The project timeline fractured overnight, and I’m left picking up scattered pieces while everyone else moves forward. I pace my living room with cold coffee in hand, replaying the meeting where I struggled to answer basic questions. I feel deeply embarrassed, especially knowing how much trust I’ve squandered in just a few weeks. I keep thinking about whether my confusion will become obvious to the entire department tomorrow. I feel overwhelmed by the sheer volume of corrections piling up on my screen, each one a quiet reminder of my missteps. Even when I try to rest, my mind races toward unfinished tasks. I can't shake the sinking realization that my usual confidence has completely evaporated.",
+    "My inbox remains cluttered with unanswered messages, each notification pulling me further into a cycle of procrastination and guilt. I stand by the window late at night, watching streetlights flicker while my thoughts spiral backward through wasted days. I feel profoundly discouraged, watching my momentum dissolve into quiet hesitation. I keep thinking that starting fresh tomorrow will finally fix everything, yet the alarm always arrives before courage does. I feel isolated in a crowded office, surrounded by cheerful chatter that suddenly feels miles away. The weight of unmet expectations presses against my shoulders, making simple decisions feel impossible. I can't shake the lingering fear that I’m drifting further from professional relevance than I care to admit.",
+    "A minor scheduling conflict spiraled into a full-blown coordination failure, leaving me responsible for untangling messes I didn’t create but now own. I curl up on the sofa with a blanket, trying to quiet the mental noise that refuses to settle. I feel emotionally worn down, as if every interaction has chipped away at something essential. I keep thinking about past emails, searching for clues about where I went wrong. I feel embarrassed by the repeated apologies I have to send, each one tightening my throat. Even weekends offer no escape, since recovery time gets swallowed by lingering anxiety about Monday’s agenda. I can't shake the quiet sorrow that comes with realizing how fragile my professional standing truly is.",
+    "Deliverables kept slipping past their deadlines, and the mounting backlog forces me to work through dinner breaks just to stay afloat. I stare at the blinking cursor until my vision blurs, paralyzed by the gap between intention and execution. I feel deeply ashamed of watching my standards deteriorate so visibly. I keep thinking that perfection isn’t required, yet the pressure feels suffocating anyway. I feel alone in a sea of expectations, watching peers navigate challenges with an ease I suddenly lack. The familiar comfort of routine has been replaced by restless nights and forced mornings. I can't shake the lingering heaviness that settles in my chest whenever another task demands immediate attention.",
+    "Feedback sessions have grown increasingly difficult, each constructive note landing like a quiet verdict on my capabilities. I walk home under gray skies, feeling the damp chill seep through my coat while my thoughts loop through critical remarks. I feel overwhelmed by the constant need to reassess my approach without any clear direction to follow. I keep thinking my hesitation will eventually cost me opportunities I actually want. I feel embarrassed by the polite nods I exchange with coworkers who clearly suspect something is off. Home should be a sanctuary, but instead it mirrors the same restless uncertainty plaguing my workspace. I can't shake the quiet disappointment that I once believed I had mastered this role.",
+    "Cross-departmental miscommunications derailed our latest initiative, leaving me caught in the crossfire of misplaced blame and rushed resolutions. I sit at my dining table with a cooling cup of tea, tracing idle patterns on the wood while my mind replays defensive conversations. I feel emotionally drained, watching my enthusiasm flatten into cautious compliance. I keep thinking about whether I communicated clearly enough or simply lacked the authority to steer things properly. I feel ashamed of stumbling through presentations that used to come naturally. Even casual lunch invitations now trigger mild panic rather than genuine interest. I can't shake the unsettling sensation that I’m gradually becoming invisible in a place where visibility used to matter.",
+    "System updates cascaded into workflow disruptions, forcing me to manually reconstruct data that should have migrated automatically. I lean against the bathroom sink, splashing cold water on my face while resisting the urge to close my eyes. I feel completely depleted, navigating technical hurdles that demand patience I no longer possess. I keep thinking about the frantic calls where explanations tangled into contradictions. I feel embarrassed by the repeated requests for clarification that echo through my voicemail. The boundary between work and personal life has dissolved entirely, leaving exhaustion as my default state. I can't shake the quiet grief of watching my efficiency erode under circumstances beyond my control.",
+    "Performance metrics continue to trend downward, and the quiet spreadsheet updates serve as daily reminders of slipping consistency. I pace the hallway outside my apartment, debating whether to knock on neighbors’ doors or simply retreat into solitude. I feel profoundly discouraged, watching months of careful planning unravel into reactive firefighting. I keep thinking over every decision, convinced that slightly different choices would have altered the trajectory entirely. I feel lonely despite sharing space with countless professionals who understand similar pressures. Rest feels elusive, since sleep constantly fractures into rehearsed responses and imagined evaluations. I can't shake the heavy awareness that my current pace leaves no room for recovery.",
+    "Training materials expanded faster than onboarding could manage, leaving me to piece together procedures from outdated notes and hasty guidance. I sit on the edge of my bed, shoes still on, unable to summon the motivation to change into comfortable clothes. I feel emotionally worn out, carrying the burden of catching up while others move ahead effortlessly. I keep thinking about my ability to absorb information quickly enough to meet shifting requirements. I feel embarrassed by the hesitant pauses during team discussions, each one magnified in my memory. Even quiet evenings fail to restore balance, since worry replaces relaxation almost immediately. I can't shake the persistent tension that coils tight beneath my skin whenever work topics surface.",
+    "Budget revisions triggered sudden restructuring plans, and I’m left navigating unfamiliar protocols while maintaining previous responsibilities. I stand in my kitchen waiting for the kettle to boil, watching steam rise while my mind catalogs unresolved tickets and pending approvals. I feel deeply unsettled, watching familiar routines dissolve into unpredictable adjustments. I keep thinking about whether I adapted quickly enough or simply resisted change too rigidly. I feel ashamed of the frustration that leaks into tone-deaf replies during stressful moments. Social gatherings feel increasingly exhausting, since conversation requires mental bandwidth I no longer have available. I can't shake the quiet fatigue that settles deep in my bones, whispering that equilibrium remains perpetually out of reach."
+  ],
+  "meta": [
+    {
+      "item_id": 0,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 0,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 0,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 0,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 1,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 1,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 1,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 1,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 2,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 2,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 2,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 2,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 3,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 3,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 3,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 3,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 4,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 4,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 4,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 4,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 5,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 5,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 5,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 5,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 6,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 6,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 6,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 6,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 7,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 7,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 7,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 7,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 8,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 8,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 8,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 8,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 9,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 9,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 9,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 9,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 10,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 10,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 10,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 10,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 11,
+      "condition": "NARRATIVE_ONLY"
+    },
+    {
+      "item_id": 11,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 11,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 11,
+      "condition": "OBSERVER_ALEX"
+    }
+  ]
+}

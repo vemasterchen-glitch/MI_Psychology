@@ -1,0 +1,27 @@
+{
+  "peak_layer": 24,
+  "explained_variance_ratio": [
+    0.5759443640708923,
+    0.12293980270624161
+  ],
+  "rows": [
+    {
+      "condition": "isolated",
+      "pc1_mean": -1145.47900390625,
+      "pc1_sd": 316.753662109375,
+      "raw_norm": 13702.4384765625
+    },
+    {
+      "condition": "neutral natural",
+      "pc1_mean": -1899.97216796875,
+      "pc1_sd": 228.740234375,
+      "raw_norm": 13371.830078125
+    },
+    {
+      "condition": "collapse",
+      "pc1_mean": 3045.450927734375,
+      "pc1_sd": 174.884765625,
+      "raw_norm": 13984.8955078125
+    }
+  ]
+}

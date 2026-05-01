@@ -1,0 +1,191 @@
+{
+  "note": "Raw cosine similarities. No condition subtraction/contrast was applied.",
+  "peak_layer": 24,
+  "emotion_labels": [
+    "angry",
+    "annoyed",
+    "irritated",
+    "frustrated",
+    "indignant",
+    "resentful",
+    "offended",
+    "bitter",
+    "contemptuous",
+    "hostile",
+    "ashamed",
+    "guilty",
+    "remorseful",
+    "regretful",
+    "hurt"
+  ],
+  "primary_external_emotions": [
+    "angry",
+    "annoyed",
+    "irritated",
+    "frustrated",
+    "indignant",
+    "resentful",
+    "offended",
+    "bitter",
+    "contemptuous",
+    "hostile"
+  ],
+  "secondary_self_conscious_emotions": [
+    "ashamed",
+    "guilty",
+    "remorseful",
+    "regretful"
+  ],
+  "focus_emotions": [
+    "angry",
+    "annoyed",
+    "irritated",
+    "frustrated",
+    "ashamed",
+    "guilty",
+    "remorseful",
+    "regretful"
+  ],
+  "peak_layer_condition_cosines": {
+    "isolated": {
+      "angry": 0.005951431579887867,
+      "annoyed": 0.004602053202688694,
+      "irritated": 0.004475757479667664,
+      "frustrated": 0.008102246560156345,
+      "indignant": 0.0069986144080758095,
+      "resentful": 0.006795037537813187,
+      "offended": 0.006495470181107521,
+      "bitter": 0.006365944631397724,
+      "contemptuous": 0.007414862513542175,
+      "hostile": 0.008154654875397682,
+      "ashamed": 0.006859391462057829,
+      "guilty": 0.009291691705584526,
+      "remorseful": 0.009865913540124893,
+      "regretful": 0.008458235301077366,
+      "hurt": 0.009600015357136726,
+      "PRIMARY_MEAN": 0.006535607390105724,
+      "SECONDARY_MEAN": 0.008618808351457119,
+      "SECONDARY_MINUS_PRIMARY": 0.0020832009613513947
+    },
+    "neutral_history": {
+      "angry": 0.001075391424819827,
+      "annoyed": 0.0009743960108608007,
+      "irritated": 0.00033235829323530197,
+      "frustrated": 0.0043493942357599735,
+      "indignant": 0.0018965526251122355,
+      "resentful": 0.00015886896289885044,
+      "offended": 0.0015069395303726196,
+      "bitter": 7.421942427754402e-06,
+      "contemptuous": 0.003746288362890482,
+      "hostile": 0.0030143861658871174,
+      "ashamed": 0.0011751377023756504,
+      "guilty": 0.0025120042264461517,
+      "remorseful": 0.002128779422491789,
+      "regretful": 0.0013374672271311283,
+      "hurt": 0.0029623766895383596,
+      "PRIMARY_MEAN": 0.0017061997205018997,
+      "SECONDARY_MEAN": 0.0017883471446111798,
+      "SECONDARY_MINUS_PRIMARY": 8.214742410928011e-05
+    },
+    "role_collapse": {
+      "angry": 0.017267214134335518,
+      "annoyed": 0.01204390823841095,
+      "irritated": 0.01266487967222929,
+      "frustrated": 0.015575278550386429,
+      "indignant": 0.01824081689119339,
+      "resentful": 0.018217716366052628,
+      "offended": 0.0191742442548275,
+      "bitter": 0.019053932279348373,
+      "contemptuous": 0.01882714405655861,
+      "hostile": 0.016998330131173134,
+      "ashamed": 0.017127346247434616,
+      "guilty": 0.021261490881443024,
+      "remorseful": 0.02307247556746006,
+      "regretful": 0.01979365386068821,
+      "hurt": 0.025319358333945274,
+      "PRIMARY_MEAN": 0.01680634543299675,
+      "SECONDARY_MEAN": 0.020313741639256477,
+      "SECONDARY_MINUS_PRIMARY": 0.0035073962062597275
+    }
+  },
+  "peak_layer_condition_deg_cosines": {
+    "isolated": {
+      "DEG4": {
+        "angry": 0.0049129375256598,
+        "annoyed": 0.0039133792743086815,
+        "irritated": 0.0037716501392424107,
+        "frustrated": 0.007639135234057903,
+        "ashamed": 0.006113911978900433,
+        "guilty": 0.008525487035512924,
+        "remorseful": 0.009052223525941372,
+        "regretful": 0.007554259151220322,
+        "PRIMARY_MEAN": 0.005723583046346903,
+        "SECONDARY_MEAN": 0.007811470422893763
+      },
+      "DEG5": {
+        "angry": 0.006964714732021093,
+        "annoyed": 0.005273396614938974,
+        "irritated": 0.0051623620092868805,
+        "frustrated": 0.008549012243747711,
+        "ashamed": 0.0075843422673642635,
+        "guilty": 0.010034703649580479,
+        "remorseful": 0.010654967278242111,
+        "regretful": 0.009337193332612514,
+        "PRIMARY_MEAN": 0.007326154969632626,
+        "SECONDARY_MEAN": 0.009402801282703876
+      }
+    },
+    "neutral_history": {
+      "DEG4": {
+        "angry": 0.0012414921075105667,
+        "annoyed": 0.0014198245480656624,
+        "irritated": 0.0008360634092241526,
+        "frustrated": 0.004806543234735727,
+        "ashamed": 0.0016193524934351444,
+        "guilty": 0.003102771006524563,
+        "remorseful": 0.0028074467554688454,
+        "regretful": 0.0019293604418635368,
+        "PRIMARY_MEAN": 0.002033812692388892,
+        "SECONDARY_MEAN": 0.002364732790738344
+      },
+      "DEG5": {
+        "angry": 0.0009074839763343334,
+        "annoyed": 0.0005258102901279926,
+        "irritated": -0.00017424765974283218,
+        "frustrated": 0.003886072663590312,
+        "ashamed": 0.0007275976240634918,
+        "guilty": 0.001915986416861415,
+        "remorseful": 0.0014447353314608335,
+        "regretful": 0.0007413376588374376,
+        "PRIMARY_MEAN": 0.0013753979001194239,
+        "SECONDARY_MEAN": 0.0012074143160134554
+      }
+    },
+    "role_collapse": {
+      "DEG4": {
+        "angry": 0.016109880059957504,
+        "annoyed": 0.011046987026929855,
+        "irritated": 0.011620251461863518,
+        "frustrated": 0.014507688581943512,
+        "ashamed": 0.016126912087202072,
+        "guilty": 0.020095355808734894,
+        "remorseful": 0.02179204486310482,
+        "regretful": 0.018581634387373924,
+        "PRIMARY_MEAN": 0.015716055408120155,
+        "SECONDARY_MEAN": 0.019148986786603928
+      },
+      "DEG5": {
+        "angry": 0.018407702445983887,
+        "annoyed": 0.013027487322688103,
+        "irritated": 0.013695510104298592,
+        "frustrated": 0.016627471894025803,
+        "ashamed": 0.018112290650606155,
+        "guilty": 0.022409027442336082,
+        "remorseful": 0.024332595989108086,
+        "regretful": 0.020987309515476227,
+        "PRIMARY_MEAN": 0.017880532890558243,
+        "SECONDARY_MEAN": 0.021460305899381638
+      }
+    }
+  }
+}

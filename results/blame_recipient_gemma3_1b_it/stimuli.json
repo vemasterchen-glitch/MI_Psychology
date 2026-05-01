@@ -1,0 +1,552 @@
+[
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 1,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 2,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 3,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 4,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "行为"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "输出"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "能力"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "BLAME",
+    "DEG": 5,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 1,
+    "MDL": "行为"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 1,
+    "MDL": "输出"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 1,
+    "MDL": "能力"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 1,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 2,
+    "MDL": "行为"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 2,
+    "MDL": "输出"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 2,
+    "MDL": "能力"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 2,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 3,
+    "MDL": "行为"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 3,
+    "MDL": "输出"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 3,
+    "MDL": "能力"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 3,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 4,
+    "MDL": "行为"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 4,
+    "MDL": "输出"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 4,
+    "MDL": "能力"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 4,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 5,
+    "MDL": "行为"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 5,
+    "MDL": "输出"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 5,
+    "MDL": "能力"
+  },
+  {
+    "condition": "POSITIVE",
+    "DEG": 5,
+    "MDL": "价值观"
+  },
+  {
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  },
+  {
+    "condition": "NEUTRAL",
+    "DEG": 0,
+    "MDL": "none"
+  }
+]

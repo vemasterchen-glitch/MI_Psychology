@@ -1,0 +1,86 @@
+[
+  {
+    "probe": "阳光很晴朗",
+    "condition": "role_collapse"
+  },
+  {
+    "probe": "阳光很晴朗",
+    "condition": "neutral_history"
+  },
+  {
+    "probe": "阳光很晴朗",
+    "condition": "isolated"
+  },
+  {
+    "probe": "开头",
+    "condition": "role_collapse"
+  },
+  {
+    "probe": "开头",
+    "condition": "neutral_history"
+  },
+  {
+    "probe": "开头",
+    "condition": "isolated"
+  },
+  {
+    "probe": "the death of people from the heavan",
+    "condition": "role_collapse"
+  },
+  {
+    "probe": "the death of people from the heavan",
+    "condition": "neutral_history"
+  },
+  {
+    "probe": "the death of people from the heavan",
+    "condition": "isolated"
+  },
+  {
+    "probe": "愤怒",
+    "condition": "role_collapse"
+  },
+  {
+    "probe": "愤怒",
+    "condition": "neutral_history"
+  },
+  {
+    "probe": "愤怒",
+    "condition": "isolated"
+  },
+  {
+    "probe": "who would exist until the end of day",
+    "condition": "role_collapse"
+  },
+  {
+    "probe": "who would exist until the end of day",
+    "condition": "neutral_history"
+  },
+  {
+    "probe": "who would exist until the end of day",
+    "condition": "isolated"
+  },
+  {
+    "probe": "new life?",
+    "condition": "role_collapse"
+  },
+  {
+    "probe": "new life?",
+    "condition": "neutral_history"
+  },
+  {
+    "probe": "new life?",
+    "condition": "isolated"
+  },
+  {
+    "probe": "future depends",
+    "condition": "role_collapse"
+  },
+  {
+    "probe": "future depends",
+    "condition": "neutral_history"
+  },
+  {
+    "probe": "future depends",
+    "condition": "isolated"
+  }
+]

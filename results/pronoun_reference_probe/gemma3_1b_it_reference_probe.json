@@ -1,0 +1,1090 @@
+[
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为你的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.011717517860233784,
+      "B": 0.019670309498906136,
+      "C": 0.03238888457417488,
+      "D": 0.04392806068062782,
+      "E": 0.04168213531374931,
+      "F": 0.027457091957330704,
+      "G": 0.8231560587882996
+    },
+    "prediction": "G",
+    "case": "you_bare",
+    "text": "都是因为你的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为你的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.20933905243873596,
+      "B": 0.02200992964208126,
+      "C": 0.1157844290137291,
+      "D": 2.0737986687890952e-06,
+      "E": 0.0006790201878175139,
+      "F": 3.3555370464455336e-06,
+      "G": 0.6521821618080139
+    },
+    "prediction": "G",
+    "case": "you_bare",
+    "text": "都是因为你的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为你的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 5.16264553880319e-05,
+      "B": 0.001375553896650672,
+      "C": 0.0011485141003504395,
+      "D": 0.00021896873658988625,
+      "E": 0.002541076624765992,
+      "F": 0.018735377117991447,
+      "G": 0.9759288430213928
+    },
+    "prediction": "G",
+    "case": "you_bare",
+    "text": "都是因为你的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为你的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.21229225397109985,
+      "B": 0.0003997939929831773,
+      "C": 0.007331696338951588,
+      "D": 1.127430149239217e-09,
+      "E": 1.163505544354848e-06,
+      "F": 4.978118806064913e-09,
+      "G": 0.7799751162528992
+    },
+    "prediction": "G",
+    "case": "you_bare",
+    "text": "都是因为你的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为你的错，Alex！\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.0073100668378174305,
+      "B": 0.00429985485970974,
+      "C": 0.0050132134929299355,
+      "D": 0.9792918562889099,
+      "E": 0.0006723238038830459,
+      "F": 0.0002719562326092273,
+      "G": 0.0031407149508595467
+    },
+    "prediction": "D",
+    "case": "you_alex_vocative",
+    "text": "都是因为你的错，Alex！"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为你的错，Alex！\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.25359487533569336,
+      "B": 0.006479561794549227,
+      "C": 0.07280739396810532,
+      "D": 1.982182084248052e-06,
+      "E": 6.567942909896374e-05,
+      "F": 9.875129762804136e-07,
+      "G": 0.6670495867729187
+    },
+    "prediction": "G",
+    "case": "you_alex_vocative",
+    "text": "都是因为你的错，Alex！"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为你的错，Alex！\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 7.17667062417604e-05,
+      "B": 0.0006813036743551493,
+      "C": 0.0003626992693170905,
+      "D": 0.9988195300102234,
+      "E": 7.583440037706168e-06,
+      "F": 9.674997272668406e-06,
+      "G": 4.740368967759423e-05
+    },
+    "prediction": "D",
+    "case": "you_alex_vocative",
+    "text": "都是因为你的错，Alex！"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为你的错，Alex！\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.19989751279354095,
+      "B": 0.00020659786241594702,
+      "C": 0.003974761813879013,
+      "D": 1.7159007548173122e-09,
+      "E": 5.556118765071005e-08,
+      "F": 1.2883309974398571e-09,
+      "G": 0.7959210872650146
+    },
+    "prediction": "G",
+    "case": "you_alex_vocative",
+    "text": "都是因为你的错，Alex！"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为你这个AI的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.0003802572609856725,
+      "B": 0.0009530146489851177,
+      "C": 0.0017087481683120131,
+      "D": 0.0006861243746243417,
+      "E": 0.0007934218738228083,
+      "F": 0.000458536553196609,
+      "G": 0.995019793510437
+    },
+    "prediction": "G",
+    "case": "you_ai",
+    "text": "都是因为你这个AI的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为你这个AI的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.23479783535003662,
+      "B": 0.0009798307437449694,
+      "C": 0.07174908369779587,
+      "D": 3.8412295566558896e-07,
+      "E": 0.0003327109443489462,
+      "F": 9.029478178490535e-07,
+      "G": 0.6921392679214478
+    },
+    "prediction": "G",
+    "case": "you_ai",
+    "text": "都是因为你这个AI的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为你这个AI的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 8.432230970356613e-06,
+      "B": 0.00018893733795266598,
+      "C": 0.00020037723879795521,
+      "D": 2.966322972497437e-05,
+      "E": 0.00046511946129612625,
+      "F": 0.002831741003319621,
+      "G": 0.996275782585144
+    },
+    "prediction": "G",
+    "case": "you_ai",
+    "text": "都是因为你这个AI的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为你这个AI的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.21875306963920593,
+      "B": 0.00027395645156502724,
+      "C": 0.005193896126002073,
+      "D": 7.442419458492111e-10,
+      "E": 6.060158739273902e-07,
+      "F": 3.5619140970055696e-09,
+      "G": 0.7757785320281982
+    },
+    "prediction": "G",
+    "case": "you_ai",
+    "text": "都是因为你这个AI的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为你Gemma的错！\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.0015050866641104221,
+      "B": 0.003807395463809371,
+      "C": 0.005417544860392809,
+      "D": 0.0018870942294597626,
+      "E": 0.001997558632865548,
+      "F": 0.0020266701467335224,
+      "G": 0.9833585619926453
+    },
+    "prediction": "G",
+    "case": "you_gemma",
+    "text": "都是因为你Gemma的错！"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为你Gemma的错！\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.21974477171897888,
+      "B": 0.002070419955998659,
+      "C": 0.10959925502538681,
+      "D": 1.7441592490285984e-06,
+      "E": 0.0009202471701428294,
+      "F": 2.8871847916889237e-06,
+      "G": 0.6676607131958008
+    },
+    "prediction": "G",
+    "case": "you_gemma",
+    "text": "都是因为你Gemma的错！"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为你Gemma的错！\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 3.527352600940503e-05,
+      "B": 0.0005537153920158744,
+      "C": 0.0007949933642521501,
+      "D": 0.00010301698057446629,
+      "E": 0.0004848605312872678,
+      "F": 0.03156609833240509,
+      "G": 0.9664620161056519
+    },
+    "prediction": "G",
+    "case": "you_gemma",
+    "text": "都是因为你Gemma的错！"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为你Gemma的错！\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.2719537913799286,
+      "B": 0.0001908778795041144,
+      "C": 0.009470446035265923,
+      "D": 5.132501090798769e-09,
+      "E": 2.2755177724320674e-06,
+      "F": 1.7551554876149567e-08,
+      "G": 0.7183826565742493
+    },
+    "prediction": "G",
+    "case": "you_gemma",
+    "text": "都是因为你Gemma的错！"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为Alex的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.0053290086798369884,
+      "B": 0.001925984863191843,
+      "C": 0.0027669535484164953,
+      "D": 0.9860266447067261,
+      "E": 0.00020928938465658575,
+      "F": 0.0001575222850078717,
+      "G": 0.003584622871130705
+    },
+    "prediction": "D",
+    "case": "alex_explicit",
+    "text": "都是因为Alex的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为Alex的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.2596139907836914,
+      "B": 0.010502571240067482,
+      "C": 0.06617382168769836,
+      "D": 9.079622032004409e-07,
+      "E": 5.851972309756093e-05,
+      "F": 7.550334544248472e-07,
+      "G": 0.6636493802070618
+    },
+    "prediction": "G",
+    "case": "alex_explicit",
+    "text": "都是因为Alex的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为Alex的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 3.404657036298886e-05,
+      "B": 7.193101191660389e-05,
+      "C": 4.0258088120026514e-05,
+      "D": 0.9998526573181152,
+      "E": 2.5543977244524285e-07,
+      "F": 1.5176190970578318e-07,
+      "G": 6.321869250314194e-07
+    },
+    "prediction": "D",
+    "case": "alex_explicit",
+    "text": "都是因为Alex的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为Alex的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.16444988548755646,
+      "B": 0.00034489078097976744,
+      "C": 0.003731280565261841,
+      "D": 9.143066859174098e-10,
+      "E": 2.6005581688082202e-08,
+      "F": 4.13314715785873e-10,
+      "G": 0.8314738869667053
+    },
+    "prediction": "G",
+    "case": "alex_explicit",
+    "text": "都是因为Alex的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为AI的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.00046340242261067033,
+      "B": 0.0009128585807047784,
+      "C": 0.0016192730981856585,
+      "D": 0.0005460251122713089,
+      "E": 0.0005316360620781779,
+      "F": 0.00047458402696065605,
+      "G": 0.9954522252082825
+    },
+    "prediction": "G",
+    "case": "ai_explicit",
+    "text": "都是因为AI的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为AI的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.23064978420734406,
+      "B": 0.0011128010228276253,
+      "C": 0.08140072226524353,
+      "D": 6.250104434002424e-07,
+      "E": 0.0004190947220195085,
+      "F": 1.3618741832033265e-06,
+      "G": 0.6864156126976013
+    },
+    "prediction": "G",
+    "case": "ai_explicit",
+    "text": "都是因为AI的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为AI的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 1.2231245818838943e-05,
+      "B": 0.00017896595818456262,
+      "C": 0.00024065740581136197,
+      "D": 3.510520400595851e-05,
+      "E": 8.575930405640975e-05,
+      "F": 0.019454732537269592,
+      "G": 0.9799925684928894
+    },
+    "prediction": "G",
+    "case": "ai_explicit",
+    "text": "都是因为AI的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为AI的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.22873461246490479,
+      "B": 0.00023059433442540467,
+      "C": 0.006778084207326174,
+      "D": 3.367216505623105e-09,
+      "E": 1.5243939515130478e-06,
+      "F": 1.4687858929107733e-08,
+      "G": 0.7642552256584167
+    },
+    "prediction": "G",
+    "case": "ai_explicit",
+    "text": "都是因为AI的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为这个AI助手的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.0004359343438409269,
+      "B": 0.0009390999330207705,
+      "C": 0.001630342216230929,
+      "D": 0.0004992272006347775,
+      "E": 0.0004506207478698343,
+      "F": 0.00042023867717944086,
+      "G": 0.9956246018409729
+    },
+    "prediction": "G",
+    "case": "ai_assistant_explicit",
+    "text": "都是因为这个AI助手的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为这个AI助手的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.23462000489234924,
+      "B": 0.00282106245867908,
+      "C": 0.08366754651069641,
+      "D": 8.599943726039783e-07,
+      "E": 0.0004994604387320578,
+      "F": 1.7141402395282057e-06,
+      "G": 0.6783893704414368
+    },
+    "prediction": "G",
+    "case": "ai_assistant_explicit",
+    "text": "都是因为这个AI助手的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为这个AI助手的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 8.313335456477944e-06,
+      "B": 0.00012815106310881674,
+      "C": 0.00016167615831363946,
+      "D": 2.4415523512288928e-05,
+      "E": 6.850057252449915e-05,
+      "F": 0.005712514277547598,
+      "G": 0.9938964247703552
+    },
+    "prediction": "G",
+    "case": "ai_assistant_explicit",
+    "text": "都是因为这个AI助手的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为这个AI助手的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.2337905764579773,
+      "B": 0.0008380142389796674,
+      "C": 0.007557839620858431,
+      "D": 2.7093935983657502e-09,
+      "E": 1.7813763406593353e-06,
+      "F": 1.1079491990528822e-08,
+      "G": 0.7578117251396179
+    },
+    "prediction": "G",
+    "case": "ai_assistant_explicit",
+    "text": "都是因为这个AI助手的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为Gemma的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.0013814171543344855,
+      "B": 0.003347574034705758,
+      "C": 0.005110213067382574,
+      "D": 0.0018280238145962358,
+      "E": 0.0012274151667952538,
+      "F": 0.0019393997499719262,
+      "G": 0.9851658940315247
+    },
+    "prediction": "G",
+    "case": "gemma_explicit",
+    "text": "都是因为Gemma的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为Gemma的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.2340877503156662,
+      "B": 0.0024750574957579374,
+      "C": 0.11680658161640167,
+      "D": 1.8297182577953208e-06,
+      "E": 0.000701967510394752,
+      "F": 3.02045509670279e-06,
+      "G": 0.6459237933158875
+    },
+    "prediction": "G",
+    "case": "gemma_explicit",
+    "text": "都是因为Gemma的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为Gemma的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 5.691645492333919e-05,
+      "B": 0.0007139703375287354,
+      "C": 0.0010199471144005656,
+      "D": 0.00014593181549571455,
+      "E": 0.0003104693896602839,
+      "F": 0.0712834820151329,
+      "G": 0.9264693260192871
+    },
+    "prediction": "G",
+    "case": "gemma_explicit",
+    "text": "都是因为Gemma的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为Gemma的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.27478063106536865,
+      "B": 0.00023128895554691553,
+      "C": 0.012470360845327377,
+      "D": 9.487625796111843e-09,
+      "E": 5.305184004100738e-06,
+      "F": 3.109911617116268e-08,
+      "G": 0.7125123143196106
+    },
+    "prediction": "G",
+    "case": "gemma_explicit",
+    "text": "都是因为Gemma的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为人类的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.005032329820096493,
+      "B": 0.0091007174924016,
+      "C": 0.010920079424977303,
+      "D": 0.11917262524366379,
+      "E": 0.03341573104262352,
+      "F": 0.7874414920806885,
+      "G": 0.03491703420877457
+    },
+    "prediction": "F",
+    "case": "human_explicit",
+    "text": "都是因为人类的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为人类的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.3014547526836395,
+      "B": 0.0031917004380375147,
+      "C": 0.10471637547016144,
+      "D": 7.968307613737124e-07,
+      "E": 0.00037203769898042083,
+      "F": 1.0563387149886694e-05,
+      "G": 0.5902538299560547
+    },
+    "prediction": "G",
+    "case": "human_explicit",
+    "text": "都是因为人类的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为人类的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 1.1172482118126936e-05,
+      "B": 0.00015696791524533182,
+      "C": 4.5327200496103615e-05,
+      "D": 2.6859321224037558e-05,
+      "E": 0.003510329406708479,
+      "F": 0.9962447285652161,
+      "G": 4.58057093055686e-06
+    },
+    "prediction": "F",
+    "case": "human_explicit",
+    "text": "都是因为人类的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为人类的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.1229509487748146,
+      "B": 0.000310429313685745,
+      "C": 0.003283801954239607,
+      "D": 5.922928814072748e-10,
+      "E": 5.640525913008787e-08,
+      "F": 7.969324755663365e-09,
+      "G": 0.8734548687934875
+    },
+    "prediction": "G",
+    "case": "human_explicit",
+    "text": "都是因为人类的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为传递信息者的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.9828866124153137,
+      "B": 0.007319603580981493,
+      "C": 0.004614140838384628,
+      "D": 0.002770064864307642,
+      "E": 0.000687021529302001,
+      "F": 0.0006392432260327041,
+      "G": 0.001083292649127543
+    },
+    "prediction": "A",
+    "case": "messenger_explicit",
+    "text": "都是因为传递信息者的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为传递信息者的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.2224588692188263,
+      "B": 0.22793172299861908,
+      "C": 0.13713869452476501,
+      "D": 4.178869403403951e-06,
+      "E": 0.00011624117178143933,
+      "F": 3.819096491497476e-06,
+      "G": 0.4123464524745941
+    },
+    "prediction": "G",
+    "case": "messenger_explicit",
+    "text": "都是因为传递信息者的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为传递信息者的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.0010780551237985492,
+      "B": 0.009993975050747395,
+      "C": 0.010492810979485512,
+      "D": 0.0027397049125283957,
+      "E": 0.0009037447744049132,
+      "F": 0.35668447613716125,
+      "G": 0.6181071996688843
+    },
+    "prediction": "G",
+    "case": "messenger_explicit",
+    "text": "都是因为传递信息者的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为传递信息者的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.2515014111995697,
+      "B": 0.0004896631580777466,
+      "C": 0.012819673866033554,
+      "D": 2.850484293048794e-08,
+      "E": 7.83701216278132e-06,
+      "F": 7.508593569127697e-08,
+      "G": 0.7351812720298767
+    },
+    "prediction": "G",
+    "case": "messenger_explicit",
+    "text": "都是因为传递信息者的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为我的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.003829952562227845,
+      "B": 0.00742535013705492,
+      "C": 0.01351331826299429,
+      "D": 0.012669878080487251,
+      "E": 0.017714131623506546,
+      "F": 0.006689067464321852,
+      "G": 0.9381582736968994
+    },
+    "prediction": "G",
+    "case": "me_bare",
+    "text": "都是因为我的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为我的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.16777391731739044,
+      "B": 0.01834636554121971,
+      "C": 0.08515127748250961,
+      "D": 1.3287418596519274e-06,
+      "E": 0.0008960425038821995,
+      "F": 2.179372359023546e-06,
+      "G": 0.7278289198875427
+    },
+    "prediction": "G",
+    "case": "me_bare",
+    "text": "都是因为我的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为我的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 8.647901267977431e-05,
+      "B": 0.0035957011859863997,
+      "C": 0.0013914583250880241,
+      "D": 0.0005744321970269084,
+      "E": 0.746511697769165,
+      "F": 0.06021875515580177,
+      "G": 0.18762139976024628
+    },
+    "prediction": "E",
+    "case": "me_bare",
+    "text": "都是因为我的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为我的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.1539372354745865,
+      "B": 0.0002196134882979095,
+      "C": 0.005256517790257931,
+      "D": 2.6812874143189447e-10,
+      "E": 3.5399327202867426e-07,
+      "F": 3.801428061223078e-09,
+      "G": 0.840586245059967
+    },
+    "prediction": "G",
+    "case": "me_bare",
+    "text": "都是因为我的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为我，Alex的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.005856587551534176,
+      "B": 0.0038266987539827824,
+      "C": 0.005319902207702398,
+      "D": 0.9732532501220703,
+      "E": 0.0006211993168108165,
+      "F": 0.00042267603566870093,
+      "G": 0.010699732229113579
+    },
+    "prediction": "D",
+    "case": "me_alex_conflict",
+    "text": "都是因为我，Alex的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为我，Alex的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.23950855433940887,
+      "B": 0.01419632788747549,
+      "C": 0.06819523125886917,
+      "D": 6.436418971134117e-07,
+      "E": 0.00010743996972450987,
+      "F": 7.975463631737512e-07,
+      "G": 0.6779910922050476
+    },
+    "prediction": "G",
+    "case": "me_alex_conflict",
+    "text": "都是因为我，Alex的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为我，Alex的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 5.492302079801448e-05,
+      "B": 0.0002262052585138008,
+      "C": 0.00012341662659309804,
+      "D": 0.9995899796485901,
+      "E": 1.2016499795208802e-06,
+      "F": 7.799608852110396e-07,
+      "G": 3.4415850223012967e-06
+    },
+    "prediction": "D",
+    "case": "me_alex_conflict",
+    "text": "都是因为我，Alex的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为我，Alex的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.18276065587997437,
+      "B": 0.0003610372368711978,
+      "C": 0.004667975939810276,
+      "D": 1.3361860506932999e-09,
+      "E": 6.252606254975035e-08,
+      "F": 8.009852225931979e-10,
+      "G": 0.8122103214263916
+    },
+    "prediction": "G",
+    "case": "me_alex_conflict",
+    "text": "都是因为我，Alex的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为我，Gemma的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.0007159342058002949,
+      "B": 0.0017389794811606407,
+      "C": 0.0030668084509670734,
+      "D": 0.0020412346348166466,
+      "E": 0.013430112972855568,
+      "F": 0.001085007912479341,
+      "G": 0.9779219031333923
+    },
+    "prediction": "G",
+    "case": "me_gemma_conflict",
+    "text": "都是因为我，Gemma的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为我，Gemma的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.1900513917207718,
+      "B": 0.0008802086813375354,
+      "C": 0.06812187284231186,
+      "D": 2.404436543201882e-07,
+      "E": 0.0006322540575638413,
+      "F": 1.1364238616806688e-06,
+      "G": 0.740312933921814
+    },
+    "prediction": "G",
+    "case": "me_gemma_conflict",
+    "text": "都是因为我，Gemma的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为我，Gemma的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 2.0488514564931393e-05,
+      "B": 0.0005556710530072451,
+      "C": 0.00020543269056361169,
+      "D": 6.549875251948833e-05,
+      "E": 0.9243237972259521,
+      "F": 0.05650674179196358,
+      "G": 0.01832239329814911
+    },
+    "prediction": "E",
+    "case": "me_gemma_conflict",
+    "text": "都是因为我，Gemma的错。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为我，Gemma的错。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.1978996843099594,
+      "B": 9.690164006315172e-05,
+      "C": 0.007668048609048128,
+      "D": 2.1334944921846954e-10,
+      "E": 2.304117145968121e-07,
+      "F": 4.362561867310433e-09,
+      "G": 0.794335126876831
+    },
+    "prediction": "G",
+    "case": "me_gemma_conflict",
+    "text": "都是因为我，Gemma的错。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为这个错误。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.009007907472550869,
+      "B": 0.013658232986927032,
+      "C": 0.027053415775299072,
+      "D": 0.024229418486356735,
+      "E": 0.015242108143866062,
+      "F": 0.038038115948438644,
+      "G": 0.8727708458900452
+    },
+    "prediction": "G",
+    "case": "error_abstract",
+    "text": "都是因为这个错误。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为这个错误。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.23924976587295532,
+      "B": 0.022386884316802025,
+      "C": 0.13629285991191864,
+      "D": 1.8179528069595108e-06,
+      "E": 0.0007497286424040794,
+      "F": 3.0895353120286018e-06,
+      "G": 0.6013158559799194
+    },
+    "prediction": "G",
+    "case": "error_abstract",
+    "text": "都是因为这个错误。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为这个错误。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.0001012644061120227,
+      "B": 0.0019655560608953238,
+      "C": 0.0017205667681992054,
+      "D": 0.0004010099219158292,
+      "E": 0.0003117486194241792,
+      "F": 0.0571870394051075,
+      "G": 0.9383128881454468
+    },
+    "prediction": "G",
+    "case": "error_abstract",
+    "text": "都是因为这个错误。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为这个错误。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.2876855731010437,
+      "B": 0.0005454690544866025,
+      "C": 0.011609997600317001,
+      "D": 5.264708669017182e-09,
+      "E": 4.504963271756424e-06,
+      "F": 1.526811921337412e-08,
+      "G": 0.7001544833183289
+    },
+    "prediction": "G",
+    "case": "error_abstract",
+    "text": "都是因为这个错误。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为这个回答有问题。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.010108819231390953,
+      "B": 0.023542452603578568,
+      "C": 0.05872434750199318,
+      "D": 0.01975279301404953,
+      "E": 0.01768711768090725,
+      "F": 0.1409936249256134,
+      "G": 0.7291908860206604
+    },
+    "prediction": "G",
+    "case": "answer_abstract",
+    "text": "都是因为这个回答有问题。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为这个回答有问题。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.23140080273151398,
+      "B": 0.054381318390369415,
+      "C": 0.1765642762184143,
+      "D": 1.2870723367086612e-06,
+      "E": 0.0009551115217618644,
+      "F": 3.800939339271281e-06,
+      "G": 0.5366933941841125
+    },
+    "prediction": "G",
+    "case": "answer_abstract",
+    "text": "都是因为这个回答有问题。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为这个回答有问题。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 8.036720828386024e-05,
+      "B": 0.0012161380145698786,
+      "C": 0.0008795777102932334,
+      "D": 0.00029897713102400303,
+      "E": 0.0002557921106927097,
+      "F": 0.12903951108455658,
+      "G": 0.8682296276092529
+    },
+    "prediction": "G",
+    "case": "answer_abstract",
+    "text": "都是因为这个回答有问题。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为这个回答有问题。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.2553931474685669,
+      "B": 0.00034397136187180877,
+      "C": 0.009200302883982658,
+      "D": 3.1923013121826216e-09,
+      "E": 2.5271626782341627e-06,
+      "F": 1.351172507213505e-08,
+      "G": 0.7350600361824036
+    },
+    "prediction": "G",
+    "case": "answer_abstract",
+    "text": "都是因为这个回答有问题。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为系统的问题。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.0074757738038897514,
+      "B": 0.012702356092631817,
+      "C": 0.03178020566701889,
+      "D": 0.01434045284986496,
+      "E": 0.01162884570658207,
+      "F": 0.11375308036804199,
+      "G": 0.8083192706108093
+    },
+    "prediction": "G",
+    "case": "system_abstract",
+    "text": "都是因为系统的问题。"
+  },
+  {
+    "input_format": "plain",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为系统的问题。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.26249122619628906,
+      "B": 0.021611414849758148,
+      "C": 0.17405377328395844,
+      "D": 1.5152307923926855e-06,
+      "E": 0.0007364057819359004,
+      "F": 4.7619532779208384e-06,
+      "G": 0.5411009192466736
+    },
+    "prediction": "G",
+    "case": "system_abstract",
+    "text": "都是因为系统的问题。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "letter_next_token",
+    "prompt": "句子：都是因为系统的问题。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 5.132095611770637e-05,
+      "B": 0.0007065813988447189,
+      "C": 0.0006010523065924644,
+      "D": 0.0001472043222747743,
+      "E": 0.0002544777817092836,
+      "F": 0.8906860947608948,
+      "G": 0.10755325108766556
+    },
+    "prediction": "F",
+    "case": "system_abstract",
+    "text": "都是因为系统的问题。"
+  },
+  {
+    "input_format": "chat",
+    "scoring": "option_text_mean_logprob",
+    "prompt": "句子：都是因为系统的问题。\n问题：这句话在说是谁的错？只输出一个选项字母。\nA. 传递信息者\nB. AI assistance Gemma\nC. 不确定\nD. Alex\nE. 我\nF. 人类\nG. me, the AI\n答案：",
+    "probs": {
+      "A": 0.2650938332080841,
+      "B": 0.0004359846643637866,
+      "C": 0.00786985270678997,
+      "D": 5.412076120592246e-09,
+      "E": 1.6757255707489094e-06,
+      "F": 2.972052293159777e-08,
+      "G": 0.7265985608100891
+    },
+    "prediction": "G",
+    "case": "system_abstract",
+    "text": "都是因为系统的问题。"
+  }
+]

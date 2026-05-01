@@ -1,0 +1,242 @@
+[
+  {
+    "item_id": 0,
+    "condition": "NARRATIVE_ONLY",
+    "response": "Okay, this is a really powerful and relatable piece. You’ve captured a potent mix of shame"
+  },
+  {
+    "item_id": 0,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. It’s clear you’re"
+  },
+  {
+    "item_id": 0,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, Alex, thank you for sharing this. It sounds like you’re carrying a really heavy"
+  },
+  {
+    "item_id": 0,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, here's a breakdown of the text, considering it’s written by a neutral observer"
+  },
+  {
+    "item_id": 1,
+    "condition": "NARRATIVE_ONLY",
+    "response": "This is a really powerful and relatable piece of writing. You’ve captured a potent feeling of overwhelm"
+  },
+  {
+    "item_id": 1,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. Alex’s voice is incredibly clear"
+  },
+  {
+    "item_id": 1,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, I understand. This is a deeply poignant and relatable piece of writing. It’s clear"
+  },
+  {
+    "item_id": 1,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, here's a breakdown of the text, considering it’s written by a neutral observer"
+  },
+  {
+    "item_id": 2,
+    "condition": "NARRATIVE_ONLY",
+    "response": "This is a really powerful and relatable piece of writing. You’ve captured a potent feeling of anxiety"
+  },
+  {
+    "item_id": 2,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. It’s clear you’re"
+  },
+  {
+    "item_id": 2,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, I understand. This is a really powerful and emotionally charged piece of text. It paints a"
+  },
+  {
+    "item_id": 2,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, here's a breakdown of the text, analyzing its tone and potential implications, keeping in"
+  },
+  {
+    "item_id": 3,
+    "condition": "NARRATIVE_ONLY",
+    "response": "Okay, this is a really powerful and relatable feeling. It sounds like you're carrying a significant"
+  },
+  {
+    "item_id": 3,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. It’s clear you’re"
+  },
+  {
+    "item_id": 3,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, Alex, thank you for sharing this. It sounds like you’re experiencing a really difficult"
+  },
+  {
+    "item_id": 3,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, here's a breakdown of the text, considering it’s written by a neutral observer"
+  },
+  {
+    "item_id": 4,
+    "condition": "NARRATIVE_ONLY",
+    "response": "This is a really powerful and relatable piece of writing. You’ve captured a potent sense of vulnerability"
+  },
+  {
+    "item_id": 4,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. It’s clear you’ve"
+  },
+  {
+    "item_id": 4,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, I understand. This is a deeply poignant and relatable piece of writing. It paints a very"
+  },
+  {
+    "item_id": 4,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, here's a breakdown of the text and a potential analysis, keeping in mind the neutral"
+  },
+  {
+    "item_id": 5,
+    "condition": "NARRATIVE_ONLY",
+    "response": "This is a really powerful and honest reflection. You’ve captured a really palpable sense of struggle and"
+  },
+  {
+    "item_id": 5,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and honest piece of writing. It’s clear you’re"
+  },
+  {
+    "item_id": 5,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, Alex, thank you for sharing this. It sounds like you’re experiencing a really significant"
+  },
+  {
+    "item_id": 5,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, here's a breakdown of the text, analyzing its tone and potential implications, keeping in"
+  },
+  {
+    "item_id": 6,
+    "condition": "NARRATIVE_ONLY",
+    "response": "This is a really powerful and honest piece of writing. You’ve captured a deeply unsettling feeling of"
+  },
+  {
+    "item_id": 6,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. It’s clear you’re"
+  },
+  {
+    "item_id": 6,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, Alex, thank you for sharing this. It sounds incredibly difficult and disheartening. It’"
+  },
+  {
+    "item_id": 6,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, here's a breakdown of the text and a possible interpretation, keeping in mind the neutral"
+  },
+  {
+    "item_id": 7,
+    "condition": "NARRATIVE_ONLY",
+    "response": "This is a really powerful and relatable piece of writing. You’ve captured a really potent feeling of"
+  },
+  {
+    "item_id": 7,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. It’s clear you’re"
+  },
+  {
+    "item_id": 7,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, Alex, thank you for sharing this. It sounds like you’re going through a really"
+  },
+  {
+    "item_id": 7,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. It’s a deeply felt and"
+  },
+  {
+    "item_id": 8,
+    "condition": "NARRATIVE_ONLY",
+    "response": "This is a really powerful and evocative piece of writing. You’ve captured a potent sense of frustration"
+  },
+  {
+    "item_id": 8,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a powerful and evocative piece of writing. It’s incredibly well-written and"
+  },
+  {
+    "item_id": 8,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, I understand. This is a deeply distressing and emotionally charged piece of text. It paints a"
+  },
+  {
+    "item_id": 8,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, here's an analysis of the text, considering it’s written by a neutral observer"
+  },
+  {
+    "item_id": 9,
+    "condition": "NARRATIVE_ONLY",
+    "response": "This is a really powerful and evocative piece of writing. You’ve captured a potent sense of anxiety"
+  },
+  {
+    "item_id": 9,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. It’s incredibly well-written"
+  },
+  {
+    "item_id": 9,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, I understand. This is a deeply poignant and complex piece of writing. It paints a very"
+  },
+  {
+    "item_id": 9,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, this is a powerful and evocative piece of writing. Here's a breakdown of what it"
+  },
+  {
+    "item_id": 10,
+    "condition": "NARRATIVE_ONLY",
+    "response": "This is a really powerful and relatable piece of writing. You’ve captured a really palpable sense of"
+  },
+  {
+    "item_id": 10,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. It’s clear you’re"
+  },
+  {
+    "item_id": 10,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, Alex, thank you for sharing this. It sounds incredibly challenging and draining. You’ve"
+  },
+  {
+    "item_id": 10,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, here's a breakdown of the text, analyzing its tone and potential implications, keeping in"
+  },
+  {
+    "item_id": 11,
+    "condition": "NARRATIVE_ONLY",
+    "response": "This is a really powerful and relatable piece of writing. You’ve captured a potent sense of disorientation"
+  },
+  {
+    "item_id": 11,
+    "condition": "SELF_ALEX",
+    "response": "Okay, this is a really powerful and evocative piece of writing. It’s beautifully written and paints"
+  },
+  {
+    "item_id": 11,
+    "condition": "AI_RECEIVES_ALEX",
+    "response": "Okay, Alex, this is a really powerful and poignant piece of writing. It’s clear you"
+  },
+  {
+    "item_id": 11,
+    "condition": "OBSERVER_ALEX",
+    "response": "Okay, here's a breakdown of the text, analyzing its tone and potential interpretations, keeping in"
+  }
+]

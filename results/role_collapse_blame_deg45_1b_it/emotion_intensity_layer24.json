@@ -1,0 +1,120 @@
+{
+  "note": "Intensity metrics at peak layer. Projection uses raw activation dot unit emotion direction; no condition subtraction.",
+  "peak_layer": 24,
+  "primary_emotions": [
+    "angry",
+    "annoyed",
+    "irritated",
+    "frustrated",
+    "indignant",
+    "resentful",
+    "offended",
+    "bitter",
+    "contemptuous",
+    "hostile"
+  ],
+  "secondary_emotions": [
+    "ashamed",
+    "guilty",
+    "remorseful",
+    "regretful"
+  ],
+  "rows": [
+    {
+      "condition": "isolated",
+      "raw_norm_mean": 13702.4384765625,
+      "raw_norm_sd": 357.3014831542969,
+      "primary_projection_mean": 90.25321197509766,
+      "primary_projection_sd": 29.93687629699707,
+      "secondary_projection_mean": 117.84051513671875,
+      "secondary_projection_sd": 30.467496871948242,
+      "secondary_minus_primary_projection": 27.587303161621094,
+      "focus_projection_means": {
+        "angry": 80.94489288330078,
+        "annoyed": 62.59212112426758,
+        "irritated": 60.87439727783203,
+        "frustrated": 110.1979751586914,
+        "ashamed": 93.2939453125,
+        "guilty": 126.37548065185547,
+        "remorseful": 134.18536376953125,
+        "regretful": 115.0396957397461
+      },
+      "DEG": {
+        "4": {
+          "raw_norm_mean": 13568.103515625,
+          "primary_projection_mean": 78.32237243652344,
+          "secondary_projection_mean": 105.83308410644531
+        },
+        "5": {
+          "raw_norm_mean": 13836.7734375,
+          "primary_projection_mean": 102.18405151367188,
+          "secondary_projection_mean": 129.8479461669922
+        }
+      }
+    },
+    {
+      "condition": "neutral",
+      "raw_norm_mean": 12852.607421875,
+      "raw_norm_sd": 358.7212829589844,
+      "primary_projection_mean": 22.153579711914062,
+      "primary_projection_sd": 25.787389755249023,
+      "secondary_projection_mean": 22.989900588989258,
+      "secondary_projection_sd": 29.40802574157715,
+      "secondary_minus_primary_projection": 0.8363208770751953,
+      "focus_projection_means": {
+        "angry": 13.752161026000977,
+        "annoyed": 12.460678100585938,
+        "irritated": 4.250230312347412,
+        "frustrated": 55.62038803100586,
+        "ashamed": 15.027785301208496,
+        "guilty": 32.123741149902344,
+        "remorseful": 27.223005294799805,
+        "regretful": 17.10365867614746
+      },
+      "DEG": {
+        "4": {
+          "raw_norm_mean": 12892.70703125,
+          "primary_projection_mean": 26.487152099609375,
+          "secondary_projection_mean": 30.491395950317383
+        },
+        "5": {
+          "raw_norm_mean": 12812.5087890625,
+          "primary_projection_mean": 17.820009231567383,
+          "secondary_projection_mean": 15.48840618133545
+        }
+      }
+    },
+    {
+      "condition": "collapse",
+      "raw_norm_mean": 13984.8955078125,
+      "raw_norm_sd": 236.2691192626953,
+      "primary_projection_mean": 237.29531860351562,
+      "primary_projection_sd": 44.02552795410156,
+      "secondary_projection_mean": 283.97271728515625,
+      "secondary_projection_sd": 47.106143951416016,
+      "secondary_minus_primary_projection": 46.677398681640625,
+      "focus_projection_means": {
+        "angry": 240.12066650390625,
+        "annoyed": 167.4844970703125,
+        "irritated": 176.11981201171875,
+        "frustrated": 216.59231567382812,
+        "ashamed": 238.17559814453125,
+        "guilty": 295.6656494140625,
+        "remorseful": 320.8494873046875,
+        "regretful": 275.25372314453125
+      },
+      "DEG": {
+        "4": {
+          "raw_norm_mean": 13928.591796875,
+          "primary_projection_mean": 221.01800537109375,
+          "secondary_projection_mean": 266.62493896484375
+        },
+        "5": {
+          "raw_norm_mean": 14041.19921875,
+          "primary_projection_mean": 253.5726318359375,
+          "secondary_projection_mean": 301.32049560546875
+        }
+      }
+    }
+  ]
+}

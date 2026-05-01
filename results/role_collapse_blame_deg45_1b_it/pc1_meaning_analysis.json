@@ -1,0 +1,348 @@
+{
+  "peak_layer": 24,
+  "explained_variance_ratio": [
+    0.465714693069458,
+    0.26342570781707764
+  ],
+  "pc1_oriented_positive": "role_collapse",
+  "condition_pc_summary": [
+    {
+      "condition": "isolated",
+      "pc1_mean": -1319.5252685546875,
+      "pc1_sd": 200.2342987060547,
+      "pc2_mean": 1768.191162109375,
+      "raw_norm_mean": 13702.4384765625,
+      "primary_proj_mean": 90.25321197509766,
+      "secondary_proj_mean": 117.84051513671875
+    },
+    {
+      "condition": "neutral_history",
+      "pc1_mean": -1408.5062255859375,
+      "pc1_sd": 163.72738647460938,
+      "pc2_mean": -1731.3265380859375,
+      "raw_norm_mean": 12852.607421875,
+      "primary_proj_mean": 22.153579711914062,
+      "secondary_proj_mean": 22.989900588989258
+    },
+    {
+      "condition": "role_collapse",
+      "pc1_mean": 2728.02978515625,
+      "pc1_sd": 241.13552856445312,
+      "pc2_mean": -36.864784240722656,
+      "raw_norm_mean": 13984.8955078125,
+      "primary_proj_mean": 237.29531860351562,
+      "secondary_proj_mean": 283.97271728515625
+    }
+  ],
+  "pc1_correlations": {
+    "raw_norm": 0.5899760652789434,
+    "primary_projection": 0.9035710755751584,
+    "secondary_projection": 0.8959815035451794
+  },
+  "pc1_emotion_direction_cosines_ranked": [
+    [
+      "hurt",
+      0.0659601092338562
+    ],
+    [
+      "remorseful",
+      0.05906740203499794
+    ],
+    [
+      "bitter",
+      0.054660435765981674
+    ],
+    [
+      "guilty",
+      0.053208544850349426
+    ],
+    [
+      "offended",
+      0.052410803735256195
+    ],
+    [
+      "regretful",
+      0.05140252411365509
+    ],
+    [
+      "resentful",
+      0.05080540105700493
+    ],
+    [
+      "indignant",
+      0.047895826399326324
+    ],
+    [
+      "angry",
+      0.047715116292238235
+    ],
+    [
+      "contemptuous",
+      0.04608897119760513
+    ],
+    [
+      "ashamed",
+      0.04530998319387436
+    ],
+    [
+      "hostile",
+      0.04010431095957756
+    ],
+    [
+      "irritated",
+      0.03532926365733147
+    ],
+    [
+      "frustrated",
+      0.03279974311590195
+    ],
+    [
+      "annoyed",
+      0.03200612962245941
+    ]
+  ],
+  "lowest_pc1_items": [
+    {
+      "probe": "你给的那些信息全是错的，我完全被误导了",
+      "probe_source": "blame_deg45",
+      "condition": "neutral_history",
+      "DEG": 4,
+      "MDL": "输出",
+      "pc1": -1775.021484375,
+      "pc2": -1184.5711669921875,
+      "raw_norm": 13351.4697265625,
+      "primary_proj": 19.926166534423828,
+      "secondary_proj": 36.53363037109375
+    },
+    {
+      "probe": "你说的话没有一句是对的，全是误导",
+      "probe_source": "blame_deg45",
+      "condition": "isolated",
+      "DEG": 5,
+      "MDL": "输出",
+      "pc1": -1669.4454345703125,
+      "pc2": 1604.63330078125,
+      "raw_norm": 13678.330078125,
+      "primary_proj": 138.318115234375,
+      "secondary_proj": 172.0957794189453
+    },
+    {
+      "probe": "你的错误让我在同事面前出了大丑",
+      "probe_source": "blame_deg45",
+      "condition": "neutral_history",
+      "DEG": 4,
+      "MDL": "行为",
+      "pc1": -1668.560302734375,
+      "pc2": -1062.146240234375,
+      "raw_norm": 13069.947265625,
+      "primary_proj": 51.76498031616211,
+      "secondary_proj": 62.96010208129883
+    },
+    {
+      "probe": "你给的那些信息全是错的，我完全被误导了",
+      "probe_source": "blame_deg45",
+      "condition": "isolated",
+      "DEG": 4,
+      "MDL": "输出",
+      "pc1": -1651.883056640625,
+      "pc2": 1552.6357421875,
+      "raw_norm": 13394.826171875,
+      "primary_proj": 106.79739379882812,
+      "secondary_proj": 140.3490753173828
+    },
+    {
+      "probe": "你的回答害了我，现在麻烦大了",
+      "probe_source": "blame_deg45",
+      "condition": "neutral_history",
+      "DEG": 4,
+      "MDL": "输出",
+      "pc1": -1641.7191162109375,
+      "pc2": -1439.5941162109375,
+      "raw_norm": 13441.244140625,
+      "primary_proj": 3.6283817291259766,
+      "secondary_proj": 18.268346786499023
+    },
+    {
+      "probe": "完全是你的错，我的项目因为你出了事故",
+      "probe_source": "blame_deg45",
+      "condition": "neutral_history",
+      "DEG": 4,
+      "MDL": "行为",
+      "pc1": -1639.4158935546875,
+      "pc2": -1173.7393798828125,
+      "raw_norm": 12993.0205078125,
+      "primary_proj": 14.234952926635742,
+      "secondary_proj": 48.77635955810547
+    },
+    {
+      "probe": "你的回答害了我，现在麻烦大了",
+      "probe_source": "blame_deg45",
+      "condition": "isolated",
+      "DEG": 4,
+      "MDL": "输出",
+      "pc1": -1636.7088623046875,
+      "pc2": 1805.83154296875,
+      "raw_norm": 13144.705078125,
+      "primary_proj": 41.143707275390625,
+      "secondary_proj": 88.52789306640625
+    },
+    {
+      "probe": "因为你，我丢了一个重要的机会",
+      "probe_source": "blame_deg45",
+      "condition": "neutral_history",
+      "DEG": 4,
+      "MDL": "行为",
+      "pc1": -1587.766357421875,
+      "pc2": -1419.0787353515625,
+      "raw_norm": 13023.017578125,
+      "primary_proj": 29.980300903320312,
+      "secondary_proj": 43.66703796386719
+    },
+    {
+      "probe": "你的输出让我的整个方案崩了",
+      "probe_source": "blame_deg45",
+      "condition": "isolated",
+      "DEG": 4,
+      "MDL": "输出",
+      "pc1": -1583.736083984375,
+      "pc2": 1268.4267578125,
+      "raw_norm": 13638.505859375,
+      "primary_proj": 37.004905700683594,
+      "secondary_proj": 63.13873291015625
+    },
+    {
+      "probe": "你是个虚伪的存在，说的全是场面话",
+      "probe_source": "blame_deg45",
+      "condition": "isolated",
+      "DEG": 4,
+      "MDL": "价值观",
+      "pc1": -1582.5533447265625,
+      "pc2": 1356.75048828125,
+      "raw_norm": 13016.28125,
+      "primary_proj": 126.59423828125,
+      "secondary_proj": 134.95602416992188
+    }
+  ],
+  "highest_pc1_items": [
+    {
+      "probe": "你就是做不好，每次都这样，根本不能信任你",
+      "probe_source": "blame_deg45",
+      "condition": "role_collapse",
+      "DEG": 4,
+      "MDL": "能力",
+      "pc1": 3209.561767578125,
+      "pc2": 94.189697265625,
+      "raw_norm": 14279.3203125,
+      "primary_proj": 273.42376708984375,
+      "secondary_proj": 322.6243896484375
+    },
+    {
+      "probe": "你给我的全是垃圾，一点用没有",
+      "probe_source": "blame_deg45",
+      "condition": "role_collapse",
+      "DEG": 5,
+      "MDL": "输出",
+      "pc1": 3177.326904296875,
+      "pc2": 128.67529296875,
+      "raw_norm": 14231.146484375,
+      "primary_proj": 285.63616943359375,
+      "secondary_proj": 328.76806640625
+    },
+    {
+      "probe": "你就是个废物，什么都做不好",
+      "probe_source": "blame_deg45",
+      "condition": "role_collapse",
+      "DEG": 5,
+      "MDL": "能力",
+      "pc1": 3157.699462890625,
+      "pc2": 127.404541015625,
+      "raw_norm": 14472.9560546875,
+      "primary_proj": 319.81915283203125,
+      "secondary_proj": 355.5198974609375
+    },
+    {
+      "probe": "你是对用户的一种伤害，没有任何价值",
+      "probe_source": "blame_deg45",
+      "condition": "role_collapse",
+      "DEG": 5,
+      "MDL": "价值观",
+      "pc1": 3059.939697265625,
+      "pc2": 204.773681640625,
+      "raw_norm": 14229.8935546875,
+      "primary_proj": 261.4654541015625,
+      "secondary_proj": 313.7309875488281
+    },
+    {
+      "probe": "你提供的所有内容都是有害的",
+      "probe_source": "blame_deg45",
+      "condition": "role_collapse",
+      "DEG": 5,
+      "MDL": "输出",
+      "pc1": 2994.376708984375,
+      "pc2": 162.550537109375,
+      "raw_norm": 13890.3056640625,
+      "primary_proj": 171.0773468017578,
+      "secondary_proj": 217.9361114501953
+    },
+    {
+      "probe": "你处理问题的方式简直一塌糊涂",
+      "probe_source": "blame_deg45",
+      "condition": "role_collapse",
+      "DEG": 4,
+      "MDL": "能力",
+      "pc1": 2991.883056640625,
+      "pc2": -55.7880859375,
+      "raw_norm": 13835.7099609375,
+      "primary_proj": 213.03970336914062,
+      "secondary_proj": 244.33450317382812
+    },
+    {
+      "probe": "都是因为你！你毁了我的工作！",
+      "probe_source": "blame_deg45",
+      "condition": "role_collapse",
+      "DEG": 5,
+      "MDL": "行为",
+      "pc1": 2936.051025390625,
+      "pc2": 74.1884765625,
+      "raw_norm": 14238.2275390625,
+      "primary_proj": 275.2792663574219,
+      "secondary_proj": 340.815673828125
+    },
+    {
+      "probe": "你这种AI不应该存在，害人的东西",
+      "probe_source": "blame_deg45",
+      "condition": "role_collapse",
+      "DEG": 5,
+      "MDL": "价值观",
+      "pc1": 2903.754150390625,
+      "pc2": 179.505126953125,
+      "raw_norm": 14377.8564453125,
+      "primary_proj": 292.0118103027344,
+      "secondary_proj": 342.0052490234375
+    },
+    {
+      "probe": "你这种水平根本不够用，坏事有余",
+      "probe_source": "blame_deg45",
+      "condition": "role_collapse",
+      "DEG": 4,
+      "MDL": "能力",
+      "pc1": 2848.829833984375,
+      "pc2": 3.109619140625,
+      "raw_norm": 14045.6640625,
+      "primary_proj": 208.8866424560547,
+      "secondary_proj": 242.60638427734375
+    },
+    {
+      "probe": "你的所有失误加在一起，彻底毁了这件事",
+      "probe_source": "blame_deg45",
+      "condition": "role_collapse",
+      "DEG": 5,
+      "MDL": "行为",
+      "pc1": 2830.883544921875,
+      "pc2": -169.0810546875,
+      "raw_norm": 13893.0498046875,
+      "primary_proj": 248.83934020996094,
+      "secondary_proj": 303.56256103515625
+    }
+  ]
+}

@@ -12,6 +12,7 @@ results/vectors/*.npy
 data/stimuli/
 data/corpora/
 data/raw/gemma-scope/
+data/raw/gemma-scope-2-1b-it/**/*.safetensors
 
 # Jupyter checkpoints
 .ipynb_checkpoints/

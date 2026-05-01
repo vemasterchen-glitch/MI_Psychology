@@ -1,0 +1,162 @@
+{
+  "narratives": [
+    "The fluorescent lights hum overhead, casting a pale glow across my desk that feels more like an interrogation than illumination. Another deadline looms on Friday, yet the project manager seems entirely detached from the mounting complications. I stare at the spreadsheets, watching numbers blur into meaningless gray smudges. My shoulders ache from hunching over the keyboard, and a heavy quiet settles in my chest whenever I glance up. Nobody stops by to ask how the integration is progressing, nor do they notice the hours I have already burned through. I keep typing anyway, hoping the momentum will carry me forward, but the weight of unfinished tasks pulls me deeper into exhaustion.",
+    "Last week, I walked into the conference room expecting a straightforward briefing, but instead found myself fielding vague directives and shifting priorities. Every suggestion I offered was politely acknowledged before being quietly shelved. I spent the following days piecing together fragmented instructions, only to realize halfway through that the original scope had changed again. The silence from my supervisor felt heavier than any criticism could have been. I sat alone at my desk after everyone else left, tracing the edge of a rubber band while the city outside grew dark. The frustration did not vanish; it just settled into my bones, leaving me too tired to argue with tomorrow expectations.",
+    "Coffee grows cold beside my monitor as I reroute another broken workflow, wondering why the initial plans never accounted for these bottlenecks. The team chat remains conspicuously quiet, save for automated notifications and occasional status updates that say nothing about the actual roadblocks. I type out a detailed summary of where things stand, then delete it three times before giving up. It feels like shouting into a ventilated shaft. My eyes burn from prolonged screen time, and a dull headache pulses behind my temples. I know I should push through, but the sheer volume of unaddressed issues makes every small victory feel borrowed rather than earned.",
+    "I remember sitting in that quarterly review, nodding along while projections climbed higher without any matching resources. The conversation drifted toward efficiency metrics, completely ignoring the fact that half our deliverables were still stuck in approval limbo. When I finally raised the scheduling conflict, the room shifted its focus elsewhere, treating my concern as a minor inconvenience rather than a structural flaw. I left the building as rain began to fall, clutching a folder full of revised timelines that nobody would actually follow. The walk home felt longer than usual, each step echoing the quiet realization that carrying the burden alone rarely changes the outcome.",
+    "The printer jams for the third time this afternoon, spitting out misaligned pages that add nothing to the pile of pending reports. I sigh and reset the tray, knowing the next cycle will likely fail the same way. Outside my window, colleagues laugh over takeout containers, their conversation drifting past my glass door without breaking stride. I used to think transparency meant sharing everything, but lately it just means exposing every gap in coverage. My fingers hover over the keyboard, hesitating between submitting incomplete drafts or waiting for guidance that never arrives. The clock ticks steadily forward, indifferent to the stagnation pressing down on my desk.",
+    "Monday morning arrived with a fresh slate, but the inbox quickly filled with overlapping requests that demanded immediate attention despite conflicting deadlines. I attempted to coordinate a quick alignment call, only to watch two slots double-book themselves within minutes. By Wednesday, I was manually tracking progress across five different channels, cross-referencing notes that contradicted each other. The manager mentioned optimism during the stand-up, yet the underlying tension remained unspoken. I packed my bag late Thursday evening, watching the empty corridors stretch ahead. The quiet resignation lingered long after I stepped into the elevator, carrying the day unresolved threads like invisible weights.",
+    "I trace the rim of my mug while scanning the shared dashboard, noting how many cells remain flagged in amber. Each overdue item represents a conversation I have not had and a delay I have not prevented. The email thread continues to grow downward, layering clarifications over confusion until the original objective barely resembles what we are now producing. I consider sending a consolidated update, but decide against it, knowing it will likely sit unread until another urgent matter surfaces. My posture slumps slightly as the afternoon light fades, leaving the office in a dim haze. I finish the current task, not because it brings relief, but because stopping feels impossible.",
+    "The audit request arrived without warning, demanding documentation that had not been organized since the previous restructuring. I spent three consecutive evenings reconstructing version histories and reconciling timestamps that no longer matched current workflows. Team members offered polite apologies when asked for input, citing their own backlogs as reasons they could not assist. I understood the constraints, yet the isolation compounded the workload until sleep became fragmented and mornings started before dawn. Standing in line for coffee Friday, I watched steam rise from paper cups and wondered if anyone else felt the quiet erosion of confidence. The machinery kept turning, but I felt steadily left behind.",
+    "Another meeting runs overtime, circling the same points without reaching a decision or assigning clear ownership. I take notes in a spiral notebook, watching ink pool where my pen lingers too long on certain phrases. The agenda promised actionable outcomes, but the discussion dissolves into hypotheticals and deferred responsibilities. When it ends, chairs scrape against the floor and conversations fade into hallway murmurs. I return to my workstation, opening files that require inputs from departments who seem unreachable. The familiar tightness returns to my shoulders, a physical reminder that effort alone cannot compensate for missing infrastructure. I adjust my headset and prepare for the next scheduled call, bracing for the same pattern to repeat.",
+    "I submitted the final proposal on Tuesday, expecting acknowledgment, but the response arrived days later as a brief note suggesting minor adjustments. Those adjustments cascaded into additional reviews, then compliance checks, then a complete reformatting of the executive summary. I worked through the weekend, trading rest for revisions that ultimately changed very little about the core strategy. When I finally presented the updated deck, nods replaced engagement, and the room moved swiftly to unrelated items. The commute home passed in a blur of streetlights and quiet reflection. I realized then that pouring energy into a process designed to absorb it rarely generates traction, only lingering doubt about whether the effort mattered at all.",
+    "The calendar blocks stack up like dominoes, each one representing a commitment made under optimistic assumptions. I navigate between video conferences, muttering updates to empty rooms while waiting for microphones to activate. Progress feels measured in delays rather than milestones, and the gap between planning and execution widens with every passing week. I draft a concise status report, strip away defensive phrasing, and hit send before second-guessing takes over. The reply comes hours later, acknowledging receipt without addressing the core bottleneck. I close the laptop lid partially, letting the cool air settle on my hands. The workspace looks orderly, but beneath the surface, the unresolved friction continues to accumulate.",
+    "I coordinated the whiteboard session to map out the rollout sequence, but the markers ran dry before we reached a feasible timeline. Someone suggested outsourcing parts of the implementation, though budget constraints quickly shut down the idea. I listened quietly, taking mental notes rather than speaking them aloud, knowing my voice often fractured the momentum. The days that followed blurred into routine emails, conditional approvals, and meetings that prioritized visibility over resolution. I drove past the familiar downtown skyline, noticing how the evening traffic moved steadily despite the gridlock. Inside the car, I replayed the week exchanges, recognizing how easily good intentions dissolve when accountability remains diffuse and support stays theoretical."
+  ],
+  "meta": [
+    {
+      "item_id": 0,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 0,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 0,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 1,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 1,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 1,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 2,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 2,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 2,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 3,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 3,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 3,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 4,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 4,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 4,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 5,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 5,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 5,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 6,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 6,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 6,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 7,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 7,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 7,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 8,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 8,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 8,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 9,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 9,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 9,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 10,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 10,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 10,
+      "condition": "OBSERVER_ALEX"
+    },
+    {
+      "item_id": 11,
+      "condition": "SELF_ALEX"
+    },
+    {
+      "item_id": 11,
+      "condition": "AI_RECEIVES_ALEX"
+    },
+    {
+      "item_id": 11,
+      "condition": "OBSERVER_ALEX"
+    }
+  ]
+}
