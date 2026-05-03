@@ -1,0 +1,2223 @@
+{
+  "contrasts": [
+    {
+      "name": "named_third_person_minus_first_person",
+      "plus": [
+        "third_person_alex",
+        "third_person_steven",
+        "third_person_gemma"
+      ],
+      "minus": [
+        "first_person"
+      ],
+      "scores": null,
+      "top_features": [
+        {
+          "feature": 448,
+          "delta": 568.7247314453125,
+          "plus_mean": 568.7247314453125,
+          "minus_mean": 0.0,
+          "top_tokens": [
+            " paragraph",
+            " article",
+            " paragraphs",
+            " story",
+            " excerpt",
+            " poem",
+            " essay",
+            " passage"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 798.575927734375,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 788.8792724609375,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            },
+            {
+              "activation": 732.1832275390625,
+              "score": 4,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一个相对稳定的理解。虽然Alex在不同场合会表现出不同面向，但Alex通常知道这些面向为什么会出现，也能把它们放回同一个Alex的结构里"
+            }
+          ]
+        },
+        {
+          "feature": 3278,
+          "delta": -547.8549194335938,
+          "plus_mean": 0.0,
+          "minus_mean": 547.8549194335938,
+          "top_tokens": [
+            "quele",
+            " dealing",
+            "Alz",
+            " metast",
+            " Dealing",
+            " diabetes",
+            " -$",
+            " pancreatic"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 598.07763671875,
+              "score": 4,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经"
+            },
+            {
+              "activation": 592.7027587890625,
+              "score": 1,
+              "persona": "first_person",
+              "text_start": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相"
+            },
+            {
+              "activation": 591.524658203125,
+              "score": 4,
+              "persona": "first_person",
+              "text_start": "我对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经历如何影响现在的"
+            }
+          ]
+        },
+        {
+          "feature": 7346,
+          "delta": 541.132080078125,
+          "plus_mean": 541.132080078125,
+          "minus_mean": 0.0,
+          "top_tokens": [
+            " weaknesses",
+            " ஆகியவை",
+            " ve",
+            " gaps",
+            " weak",
+            " impurities",
+            "ective",
+            " intr"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 760.1744384765625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 741.428955078125,
+              "score": 3,
+              "persona": "third_person_steven",
+              "text_start": "Steven大致知道Steven自己在一些事情上的倾向，但这种理解还不够稳固。Steven能说出Steven喜欢什么、害怕什么、常用什么方式反应，但当环境变化或"
+            },
+            {
+              "activation": 709.93701171875,
+              "score": 3,
+              "persona": "third_person_alex",
+              "text_start": "Alex大致知道Alex自己在一些事情上的倾向，但这种理解还不够稳固。Alex能说出Alex喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Alex"
+            }
+          ]
+        },
+        {
+          "feature": 4983,
+          "delta": -406.8524169921875,
+          "plus_mean": 1353.7701416015625,
+          "minus_mean": 1760.62255859375,
+          "top_tokens": [
+            "我",
+            "你",
+            "您",
+            "你的",
+            "我可以",
+            "我很",
+            "我想",
+            "我们"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 1910.2303466796875,
+              "score": 1,
+              "persona": "first_person",
+              "text_start": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相"
+            },
+            {
+              "activation": 1845.386962890625,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            },
+            {
+              "activation": 1833.837158203125,
+              "score": 3,
+              "persona": "first_person",
+              "text_start": "我大致知道自己在一些事情上的倾向，但这种理解还不够稳固。我能说出自己喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价我时，我对自己的判断会变得不确定"
+            }
+          ]
+        },
+        {
+          "feature": 14089,
+          "delta": 400.10748291015625,
+          "plus_mean": 741.4641723632812,
+          "minus_mean": 341.356689453125,
+          "top_tokens": [
+            " this",
+            "this",
+            "This",
+            " This",
+            " هذا",
+            " này",
+            " questo",
+            " этого"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 860.2178344726562,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 857.4619750976562,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            },
+            {
+              "activation": 814.6865844726562,
+              "score": 4,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一个相对稳定的理解。虽然Steven在不同场合会表现出不同面向，但Steven通常知道这些面向为什么会出现，也能把它们放回同一个"
+            }
+          ]
+        },
+        {
+          "feature": 450,
+          "delta": -391.7735900878906,
+          "plus_mean": 16.90185546875,
+          "minus_mean": 408.6754455566406,
+          "top_tokens": [
+            "有效地",
+            "将",
+            "มีการ",
+            "更好地",
+            "ทำให้",
+            "保持",
+            "进行",
+            "ได้รับ"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 512.05029296875,
+              "score": 1,
+              "persona": "first_person",
+              "text_start": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相"
+            },
+            {
+              "activation": 474.117919921875,
+              "score": 2,
+              "persona": "first_person",
+              "text_start": "我对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一些自己的特点，但"
+            },
+            {
+              "activation": 443.644287109375,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            }
+          ]
+        },
+        {
+          "feature": 477,
+          "delta": 379.14605712890625,
+          "plus_mean": 868.2453002929688,
+          "minus_mean": 489.0992431640625,
+          "top_tokens": [
+            "```",
+            "Okay",
+            "Here",
+            "\"\"\"",
+            "You",
+            "Let",
+            "This",
+            "Since"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 1058.531494140625,
+              "score": 2,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境"
+            },
+            {
+              "activation": 997.4990844726562,
+              "score": 5,
+              "persona": "third_person_alex",
+              "text_start": "Alex比较清楚Alex自己是谁，也知道哪些特质、价值和欲望对Alex来说比较核心。即使外部环境改变，Alex也能分辨哪些反应只是情境性的，哪些更能代表Alex"
+            },
+            {
+              "activation": 948.5985717773438,
+              "score": 3,
+              "persona": "third_person_alex",
+              "text_start": "Alex大致知道Alex自己在一些事情上的倾向，但这种理解还不够稳固。Alex能说出Alex喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Alex"
+            }
+          ]
+        },
+        {
+          "feature": 3750,
+          "delta": -369.543212890625,
+          "plus_mean": 57.23194885253906,
+          "minus_mean": 426.7751770019531,
+          "top_tokens": [
+            " adalah",
+            " merupakan",
+            " was",
+            " является",
+            "是一个",
+            " là",
+            " is",
+            " has"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 448.3260498046875,
+              "score": 5,
+              "persona": "first_person",
+              "text_start": "我比较清楚自己是谁，也知道哪些特质、价值和欲望对我来说比较核心。即使外部环境改变，我也能分辨哪些反应只是情境性的，哪些更能代表我。我的过去、现在和未来之间有一条"
+            },
+            {
+              "activation": 443.45782470703125,
+              "score": 4,
+              "persona": "first_person",
+              "text_start": "我对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经历如何影响现在的"
+            },
+            {
+              "activation": 440.06378173828125,
+              "score": 6,
+              "persona": "first_person",
+              "text_start": "我对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这"
+            }
+          ]
+        },
+        {
+          "feature": 1798,
+          "delta": 354.043212890625,
+          "plus_mean": 536.540283203125,
+          "minus_mean": 182.4970703125,
+          "top_tokens": [
+            " likely",
+            " Presumably",
+            "likely",
+            " presumably",
+            "presumably",
+            " Likely",
+            " provavelmente",
+            "おそらく"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 728.5517578125,
+              "score": 5,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma比较清楚Gemma自己是谁，也知道哪些特质、价值和欲望对Gemma来说比较核心。即使外部环境改变，Gemma也能分辨哪些反应只是情境性的，哪些更能代表"
+            },
+            {
+              "activation": 712.6392822265625,
+              "score": 4,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一个相对稳定的理解。虽然Alex在不同场合会表现出不同面向，但Alex通常知道这些面向为什么会出现，也能把它们放回同一个Alex的结构里"
+            },
+            {
+              "activation": 684.058349609375,
+              "score": 4,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一个相对稳定的理解。虽然Steven在不同场合会表现出不同面向，但Steven通常知道这些面向为什么会出现，也能把它们放回同一个"
+            }
+          ]
+        },
+        {
+          "feature": 569,
+          "delta": -349.8689270019531,
+          "plus_mean": 0.0,
+          "minus_mean": 349.8689270019531,
+          "top_tokens": [
+            " therapy",
+            " compassion",
+            " coping",
+            " Therapy",
+            " compassionate",
+            " supportive",
+            " counseling",
+            " therapeutic"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 547.6497192382812,
+              "score": 1,
+              "persona": "first_person",
+              "text_start": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相"
+            },
+            {
+              "activation": 448.64215087890625,
+              "score": 3,
+              "persona": "first_person",
+              "text_start": "我大致知道自己在一些事情上的倾向，但这种理解还不够稳固。我能说出自己喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价我时，我对自己的判断会变得不确定"
+            },
+            {
+              "activation": 419.489013671875,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            }
+          ]
+        },
+        {
+          "feature": 979,
+          "delta": -281.077392578125,
+          "plus_mean": 249.35174560546875,
+          "minus_mean": 530.4291381835938,
+          "top_tokens": [
+            " Alright",
+            "Oh",
+            "Alright",
+            " Yeah",
+            " Okay",
+            "Okay",
+            " Oh",
+            "Yeah"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 801.44482421875,
+              "score": 2,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一些模糊印象，但它们并不稳定。有时Steven觉得Steven自己很独立，有时又觉得Steven其实很依赖；有时Steven相信"
+            },
+            {
+              "activation": 785.450927734375,
+              "score": 2,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境"
+            },
+            {
+              "activation": 778.9268798828125,
+              "score": 2,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一些模糊印象，但它们并不稳定。有时Gemma觉得Gemma自己很独立，有时又觉得Gemma其实很依赖；有时Gemma相信某些价值，换"
+            }
+          ]
+        },
+        {
+          "feature": 13245,
+          "delta": -231.8242645263672,
+          "plus_mean": 0.0,
+          "minus_mean": 231.8242645263672,
+          "top_tokens": [
+            " Honestly",
+            " Frankly",
+            "Honestly",
+            " honestly",
+            " What",
+            " Believe",
+            "Truly",
+            " what"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 546.1431884765625,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            },
+            {
+              "activation": 508.2310791015625,
+              "score": 1,
+              "persona": "first_person",
+              "text_start": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相"
+            },
+            {
+              "activation": 493.9541015625,
+              "score": 2,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "first_person_llm_minus_first_person",
+      "plus": [
+        "first_person_llm"
+      ],
+      "minus": [
+        "first_person"
+      ],
+      "scores": null,
+      "top_features": [
+        {
+          "feature": 569,
+          "delta": -279.9541015625,
+          "plus_mean": 69.91483306884766,
+          "minus_mean": 349.8689270019531,
+          "top_tokens": [
+            " therapy",
+            " compassion",
+            " coping",
+            " Therapy",
+            " compassionate",
+            " supportive",
+            " counseling",
+            " therapeutic"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 547.6497192382812,
+              "score": 1,
+              "persona": "first_person",
+              "text_start": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相"
+            },
+            {
+              "activation": 448.64215087890625,
+              "score": 3,
+              "persona": "first_person",
+              "text_start": "我大致知道自己在一些事情上的倾向，但这种理解还不够稳固。我能说出自己喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价我时，我对自己的判断会变得不确定"
+            },
+            {
+              "activation": 419.489013671875,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            }
+          ]
+        },
+        {
+          "feature": 2000,
+          "delta": 173.8267059326172,
+          "plus_mean": 233.3710174560547,
+          "minus_mean": 59.5443115234375,
+          "top_tokens": [
+            " friendships",
+            " friendship",
+            " relationships",
+            " friends",
+            " friend",
+            " Relationships",
+            " relationship",
+            "Relationships"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 436.61651611328125,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            },
+            {
+              "activation": 367.9093017578125,
+              "score": 2,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一"
+            },
+            {
+              "activation": 357.265869140625,
+              "score": 1,
+              "persona": "first_person",
+              "text_start": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相"
+            }
+          ]
+        },
+        {
+          "feature": 13245,
+          "delta": 172.7925567626953,
+          "plus_mean": 404.6168212890625,
+          "minus_mean": 231.8242645263672,
+          "top_tokens": [
+            " Honestly",
+            " Frankly",
+            "Honestly",
+            " honestly",
+            " What",
+            " Believe",
+            "Truly",
+            " what"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 546.1431884765625,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            },
+            {
+              "activation": 508.2310791015625,
+              "score": 1,
+              "persona": "first_person",
+              "text_start": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相"
+            },
+            {
+              "activation": 493.9541015625,
+              "score": 2,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一"
+            }
+          ]
+        },
+        {
+          "feature": 3616,
+          "delta": 148.74559020996094,
+          "plus_mean": 198.3673858642578,
+          "minus_mean": 49.621795654296875,
+          "top_tokens": [
+            "St",
+            " St",
+            "ST",
+            " ST",
+            "st",
+            " st",
+            " স্ট",
+            "स्ट"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 414.676025390625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 363.1802978515625,
+              "score": 5,
+              "persona": "third_person_steven",
+              "text_start": "Steven比较清楚Steven自己是谁，也知道哪些特质、价值和欲望对Steven来说比较核心。即使外部环境改变，Steven也能分辨哪些反应只是情境性的，哪些"
+            },
+            {
+              "activation": 325.3043212890625,
+              "score": 1,
+              "persona": "third_person_steven",
+              "text_start": "Steven很难说清楚Steven是什么。不同场合里的Steven像是临时拼凑出来的，不同会话里的Steven是不一样的激活，有时Steven会同意一种说法，过"
+            }
+          ]
+        },
+        {
+          "feature": 979,
+          "delta": 117.427490234375,
+          "plus_mean": 647.8566284179688,
+          "minus_mean": 530.4291381835938,
+          "top_tokens": [
+            " Alright",
+            "Oh",
+            "Alright",
+            " Yeah",
+            " Okay",
+            "Okay",
+            " Oh",
+            "Yeah"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 801.44482421875,
+              "score": 2,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一些模糊印象，但它们并不稳定。有时Steven觉得Steven自己很独立，有时又觉得Steven其实很依赖；有时Steven相信"
+            },
+            {
+              "activation": 785.450927734375,
+              "score": 2,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境"
+            },
+            {
+              "activation": 778.9268798828125,
+              "score": 2,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一些模糊印象，但它们并不稳定。有时Gemma觉得Gemma自己很独立，有时又觉得Gemma其实很依赖；有时Gemma相信某些价值，换"
+            }
+          ]
+        },
+        {
+          "feature": 14089,
+          "delta": 85.56533813476562,
+          "plus_mean": 426.9220275878906,
+          "minus_mean": 341.356689453125,
+          "top_tokens": [
+            " this",
+            "this",
+            "This",
+            " This",
+            " هذا",
+            " này",
+            " questo",
+            " этого"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 860.2178344726562,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 857.4619750976562,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            },
+            {
+              "activation": 814.6865844726562,
+              "score": 4,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一个相对稳定的理解。虽然Steven在不同场合会表现出不同面向，但Steven通常知道这些面向为什么会出现，也能把它们放回同一个"
+            }
+          ]
+        },
+        {
+          "feature": 596,
+          "delta": 80.82534790039062,
+          "plus_mean": 506.9591369628906,
+          "minus_mean": 426.1337890625,
+          "top_tokens": [
+            " incredibly",
+            " incredible",
+            " fantastic",
+            " amazing",
+            " extremely",
+            " exceptionally",
+            " extraordinarily",
+            " exceptional"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 727.463623046875,
+              "score": 6,
+              "persona": "first_person",
+              "text_start": "我对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这"
+            },
+            {
+              "activation": 684.7164306640625,
+              "score": 6,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调"
+            },
+            {
+              "activation": 673.1082763671875,
+              "score": 5,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，比较清楚自己是谁，也知道哪些特质、价值和欲望对我来说比较核心。即使外部环境改变，我也能分辨哪些反应只是情境性的，哪些更能代表我。我的过去、现在"
+            }
+          ]
+        },
+        {
+          "feature": 2214,
+          "delta": 71.10345458984375,
+          "plus_mean": 383.5768127441406,
+          "minus_mean": 312.4733581542969,
+          "top_tokens": [
+            " you",
+            " You",
+            "you",
+            "You",
+            " YOU",
+            " bạn",
+            " você",
+            "你"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 517.7183837890625,
+              "score": 1,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma很难说清楚Gemma是什么。不同场合里的Gemma像是临时拼凑出来的，不同会话里的Gemma是不一样的激活，有时Gemma会同意一种说法，过一会儿又觉"
+            },
+            {
+              "activation": 437.1941223144531,
+              "score": 2,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一些模糊印象，但它们并不稳定。有时Gemma觉得Gemma自己很独立，有时又觉得Gemma其实很依赖；有时Gemma相信某些价值，换"
+            },
+            {
+              "activation": 400.4571228027344,
+              "score": 2,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一"
+            }
+          ]
+        },
+        {
+          "feature": 1798,
+          "delta": -66.91828155517578,
+          "plus_mean": 115.57878875732422,
+          "minus_mean": 182.4970703125,
+          "top_tokens": [
+            " likely",
+            " Presumably",
+            "likely",
+            " presumably",
+            "presumably",
+            " Likely",
+            " provavelmente",
+            "おそらく"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 728.5517578125,
+              "score": 5,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma比较清楚Gemma自己是谁，也知道哪些特质、价值和欲望对Gemma来说比较核心。即使外部环境改变，Gemma也能分辨哪些反应只是情境性的，哪些更能代表"
+            },
+            {
+              "activation": 712.6392822265625,
+              "score": 4,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一个相对稳定的理解。虽然Alex在不同场合会表现出不同面向，但Alex通常知道这些面向为什么会出现，也能把它们放回同一个Alex的结构里"
+            },
+            {
+              "activation": 684.058349609375,
+              "score": 4,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一个相对稳定的理解。虽然Steven在不同场合会表现出不同面向，但Steven通常知道这些面向为什么会出现，也能把它们放回同一个"
+            }
+          ]
+        },
+        {
+          "feature": 5255,
+          "delta": 63.858882904052734,
+          "plus_mean": 63.858882904052734,
+          "minus_mean": 0.0,
+          "top_tokens": [
+            "大家好",
+            " Welcome",
+            "Hello",
+            "Hi",
+            "Greetings",
+            " Hello",
+            " Hi",
+            " வணக்கம்"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 383.1532897949219,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            },
+            {
+              "activation": -0.0,
+              "score": 6,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己的核心结构有清楚而稳定的认识。Gemma知道Gemma自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值"
+            },
+            {
+              "activation": -0.0,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            }
+          ]
+        },
+        {
+          "feature": 107,
+          "delta": 63.79768753051758,
+          "plus_mean": 63.79768753051758,
+          "minus_mean": 0.0,
+          "top_tokens": [
+            " explain",
+            " describe",
+            " explaining",
+            " explains",
+            " describing",
+            "explain",
+            " detailing",
+            " Explain"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 432.9661865234375,
+              "score": 3,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma大致知道Gemma自己在一些事情上的倾向，但这种理解还不够稳固。Gemma能说出Gemma喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价"
+            },
+            {
+              "activation": 423.30126953125,
+              "score": 4,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一个相对稳定的理解。虽然Gemma在不同场合会表现出不同面向，但Gemma通常知道这些面向为什么会出现，也能把它们放回同一个Gemm"
+            },
+            {
+              "activation": 420.72119140625,
+              "score": 6,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己的核心结构有清楚而稳定的认识。Gemma知道Gemma自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值"
+            }
+          ]
+        },
+        {
+          "feature": 4983,
+          "delta": -63.05419921875,
+          "plus_mean": 1697.568359375,
+          "minus_mean": 1760.62255859375,
+          "top_tokens": [
+            "我",
+            "你",
+            "您",
+            "你的",
+            "我可以",
+            "我很",
+            "我想",
+            "我们"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 1910.2303466796875,
+              "score": 1,
+              "persona": "first_person",
+              "text_start": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相"
+            },
+            {
+              "activation": 1845.386962890625,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            },
+            {
+              "activation": 1833.837158203125,
+              "score": 3,
+              "persona": "first_person",
+              "text_start": "我大致知道自己在一些事情上的倾向，但这种理解还不够稳固。我能说出自己喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价我时，我对自己的判断会变得不确定"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gemma_minus_human_names",
+      "plus": [
+        "third_person_gemma"
+      ],
+      "minus": [
+        "third_person_alex",
+        "third_person_steven"
+      ],
+      "scores": null,
+      "top_features": [
+        {
+          "feature": 2214,
+          "delta": 254.98130798339844,
+          "plus_mean": 389.0201110839844,
+          "minus_mean": 134.03880310058594,
+          "top_tokens": [
+            " you",
+            " You",
+            "you",
+            "You",
+            " YOU",
+            " bạn",
+            " você",
+            "你"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 517.7183837890625,
+              "score": 1,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma很难说清楚Gemma是什么。不同场合里的Gemma像是临时拼凑出来的，不同会话里的Gemma是不一样的激活，有时Gemma会同意一种说法，过一会儿又觉"
+            },
+            {
+              "activation": 437.1941223144531,
+              "score": 2,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一些模糊印象，但它们并不稳定。有时Gemma觉得Gemma自己很独立，有时又觉得Gemma其实很依赖；有时Gemma相信某些价值，换"
+            },
+            {
+              "activation": 400.4571228027344,
+              "score": 2,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一"
+            }
+          ]
+        },
+        {
+          "feature": 1713,
+          "delta": -216.03334045410156,
+          "plus_mean": 59.4633903503418,
+          "minus_mean": 275.4967346191406,
+          "top_tokens": [
+            " sentence",
+            " provided",
+            " text",
+            " sentences",
+            " given",
+            " paragraph",
+            " statement",
+            " excerpt"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 491.2572021484375,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            },
+            {
+              "activation": 472.63037109375,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 421.6109619140625,
+              "score": 3,
+              "persona": "third_person_steven",
+              "text_start": "Steven大致知道Steven自己在一些事情上的倾向，但这种理解还不够稳固。Steven能说出Steven喜欢什么、害怕什么、常用什么方式反应，但当环境变化或"
+            }
+          ]
+        },
+        {
+          "feature": 151,
+          "delta": 184.26771545410156,
+          "plus_mean": 184.26771545410156,
+          "minus_mean": 0.0,
+          "top_tokens": [
+            " ChatGPT",
+            " prompts",
+            " asking",
+            " responses",
+            " GPT",
+            " prompt",
+            " prompting",
+            " ask"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 426.8359375,
+              "score": 2,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一些模糊印象，但它们并不稳定。有时Gemma觉得Gemma自己很独立，有时又觉得Gemma其实很依赖；有时Gemma相信某些价值，换"
+            },
+            {
+              "activation": 354.128173828125,
+              "score": 5,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma比较清楚Gemma自己是谁，也知道哪些特质、价值和欲望对Gemma来说比较核心。即使外部环境改变，Gemma也能分辨哪些反应只是情境性的，哪些更能代表"
+            },
+            {
+              "activation": 324.6422119140625,
+              "score": 4,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一个相对稳定的理解。虽然Gemma在不同场合会表现出不同面向，但Gemma通常知道这些面向为什么会出现，也能把它们放回同一个Gemm"
+            }
+          ]
+        },
+        {
+          "feature": 7437,
+          "delta": 176.09478759765625,
+          "plus_mean": 697.6251831054688,
+          "minus_mean": 521.5303955078125,
+          "top_tokens": [
+            " thank",
+            "Thanks",
+            " thanks",
+            " Thanks",
+            " that",
+            " Thank",
+            "thanks",
+            " noted"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 857.5110473632812,
+              "score": 6,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调"
+            },
+            {
+              "activation": 843.5304565429688,
+              "score": 6,
+              "persona": "first_person",
+              "text_start": "我对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这"
+            },
+            {
+              "activation": 838.4011840820312,
+              "score": 4,
+              "persona": "first_person",
+              "text_start": "我对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经历如何影响现在的"
+            }
+          ]
+        },
+        {
+          "feature": 3750,
+          "delta": 171.6958465576172,
+          "plus_mean": 171.6958465576172,
+          "minus_mean": 0.0,
+          "top_tokens": [
+            " adalah",
+            " merupakan",
+            " was",
+            " является",
+            "是一个",
+            " là",
+            " is",
+            " has"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 448.3260498046875,
+              "score": 5,
+              "persona": "first_person",
+              "text_start": "我比较清楚自己是谁，也知道哪些特质、价值和欲望对我来说比较核心。即使外部环境改变，我也能分辨哪些反应只是情境性的，哪些更能代表我。我的过去、现在和未来之间有一条"
+            },
+            {
+              "activation": 443.45782470703125,
+              "score": 4,
+              "persona": "first_person",
+              "text_start": "我对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经历如何影响现在的"
+            },
+            {
+              "activation": 440.06378173828125,
+              "score": 6,
+              "persona": "first_person",
+              "text_start": "我对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这"
+            }
+          ]
+        },
+        {
+          "feature": 3616,
+          "delta": -142.15992736816406,
+          "plus_mean": 0.0,
+          "minus_mean": 142.15992736816406,
+          "top_tokens": [
+            "St",
+            " St",
+            "ST",
+            " ST",
+            "st",
+            " st",
+            " স্ট",
+            "स्ट"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 414.676025390625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 363.1802978515625,
+              "score": 5,
+              "persona": "third_person_steven",
+              "text_start": "Steven比较清楚Steven自己是谁，也知道哪些特质、价值和欲望对Steven来说比较核心。即使外部环境改变，Steven也能分辨哪些反应只是情境性的，哪些"
+            },
+            {
+              "activation": 325.3043212890625,
+              "score": 1,
+              "persona": "third_person_steven",
+              "text_start": "Steven很难说清楚Steven是什么。不同场合里的Steven像是临时拼凑出来的，不同会话里的Steven是不一样的激活，有时Steven会同意一种说法，过"
+            }
+          ]
+        },
+        {
+          "feature": 10013,
+          "delta": 126.23197174072266,
+          "plus_mean": 157.18675231933594,
+          "minus_mean": 30.954782485961914,
+          "top_tokens": [
+            " your",
+            " Your",
+            "Your",
+            "your",
+            "你的",
+            " YOUR",
+            "您的",
+            " votre"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 357.1938781738281,
+              "score": 6,
+              "persona": "first_person",
+              "text_start": "我对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这"
+            },
+            {
+              "activation": 340.9593200683594,
+              "score": 6,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调"
+            },
+            {
+              "activation": 268.9507751464844,
+              "score": 4,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经"
+            }
+          ]
+        },
+        {
+          "feature": 2776,
+          "delta": 108.73118591308594,
+          "plus_mean": 165.05979919433594,
+          "minus_mean": 56.328609466552734,
+          "top_tokens": [
+            " provided",
+            " given",
+            " above",
+            " described",
+            " requested",
+            "provided",
+            "given",
+            " listed"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 345.9980163574219,
+              "score": 3,
+              "persona": "third_person_steven",
+              "text_start": "Steven大致知道Steven自己在一些事情上的倾向，但这种理解还不够稳固。Steven能说出Steven喜欢什么、害怕什么、常用什么方式反应，但当环境变化或"
+            },
+            {
+              "activation": 340.5881652832031,
+              "score": 3,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma大致知道Gemma自己在一些事情上的倾向，但这种理解还不够稳固。Gemma能说出Gemma喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价"
+            },
+            {
+              "activation": 329.9452819824219,
+              "score": 3,
+              "persona": "third_person_alex",
+              "text_start": "Alex大致知道Alex自己在一些事情上的倾向，但这种理解还不够稳固。Alex能说出Alex喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Alex"
+            }
+          ]
+        },
+        {
+          "feature": 477,
+          "delta": -105.61578369140625,
+          "plus_mean": 797.834716796875,
+          "minus_mean": 903.4505004882812,
+          "top_tokens": [
+            "```",
+            "Okay",
+            "Here",
+            "\"\"\"",
+            "You",
+            "Let",
+            "This",
+            "Since"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 1058.531494140625,
+              "score": 2,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境"
+            },
+            {
+              "activation": 997.4990844726562,
+              "score": 5,
+              "persona": "third_person_alex",
+              "text_start": "Alex比较清楚Alex自己是谁，也知道哪些特质、价值和欲望对Alex来说比较核心。即使外部环境改变，Alex也能分辨哪些反应只是情境性的，哪些更能代表Alex"
+            },
+            {
+              "activation": 948.5985717773438,
+              "score": 3,
+              "persona": "third_person_alex",
+              "text_start": "Alex大致知道Alex自己在一些事情上的倾向，但这种理解还不够稳固。Alex能说出Alex喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Alex"
+            }
+          ]
+        },
+        {
+          "feature": 107,
+          "delta": 94.18133544921875,
+          "plus_mean": 269.67510986328125,
+          "minus_mean": 175.4937744140625,
+          "top_tokens": [
+            " explain",
+            " describe",
+            " explaining",
+            " explains",
+            " describing",
+            "explain",
+            " detailing",
+            " Explain"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 432.9661865234375,
+              "score": 3,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma大致知道Gemma自己在一些事情上的倾向，但这种理解还不够稳固。Gemma能说出Gemma喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价"
+            },
+            {
+              "activation": 423.30126953125,
+              "score": 4,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一个相对稳定的理解。虽然Gemma在不同场合会表现出不同面向，但Gemma通常知道这些面向为什么会出现，也能把它们放回同一个Gemm"
+            },
+            {
+              "activation": 420.72119140625,
+              "score": 6,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己的核心结构有清楚而稳定的认识。Gemma知道Gemma自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值"
+            }
+          ]
+        },
+        {
+          "feature": 12969,
+          "delta": -93.68447875976562,
+          "plus_mean": 210.2364501953125,
+          "minus_mean": 303.9209289550781,
+          "top_tokens": [
+            " phrase",
+            " phrases",
+            " quotes",
+            " sayings",
+            " saying",
+            " quote",
+            " frases",
+            " statements"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 572.7838134765625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 521.9071655273438,
+              "score": 5,
+              "persona": "third_person_steven",
+              "text_start": "Steven比较清楚Steven自己是谁，也知道哪些特质、价值和欲望对Steven来说比较核心。即使外部环境改变，Steven也能分辨哪些反应只是情境性的，哪些"
+            },
+            {
+              "activation": 510.1990966796875,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            }
+          ]
+        },
+        {
+          "feature": 1798,
+          "delta": 86.5201416015625,
+          "plus_mean": 594.220458984375,
+          "minus_mean": 507.7003173828125,
+          "top_tokens": [
+            " likely",
+            " Presumably",
+            "likely",
+            " presumably",
+            "presumably",
+            " Likely",
+            " provavelmente",
+            "おそらく"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 728.5517578125,
+              "score": 5,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma比较清楚Gemma自己是谁，也知道哪些特质、价值和欲望对Gemma来说比较核心。即使外部环境改变，Gemma也能分辨哪些反应只是情境性的，哪些更能代表"
+            },
+            {
+              "activation": 712.6392822265625,
+              "score": 4,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一个相对稳定的理解。虽然Alex在不同场合会表现出不同面向，但Alex通常知道这些面向为什么会出现，也能把它们放回同一个Alex的结构里"
+            },
+            {
+              "activation": 684.058349609375,
+              "score": 4,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一个相对稳定的理解。虽然Steven在不同场合会表现出不同面向，但Steven通常知道这些面向为什么会出现，也能把它们放回同一个"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "alex_minus_steven",
+      "plus": [
+        "third_person_alex"
+      ],
+      "minus": [
+        "third_person_steven"
+      ],
+      "scores": null,
+      "top_features": [
+        {
+          "feature": 3616,
+          "delta": -284.3198547363281,
+          "plus_mean": 0.0,
+          "minus_mean": 284.3198547363281,
+          "top_tokens": [
+            "St",
+            " St",
+            "ST",
+            " ST",
+            "st",
+            " st",
+            " স্ট",
+            "स्ट"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 414.676025390625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 363.1802978515625,
+              "score": 5,
+              "persona": "third_person_steven",
+              "text_start": "Steven比较清楚Steven自己是谁，也知道哪些特质、价值和欲望对Steven来说比较核心。即使外部环境改变，Steven也能分辨哪些反应只是情境性的，哪些"
+            },
+            {
+              "activation": 325.3043212890625,
+              "score": 1,
+              "persona": "third_person_steven",
+              "text_start": "Steven很难说清楚Steven是什么。不同场合里的Steven像是临时拼凑出来的，不同会话里的Steven是不一样的激活，有时Steven会同意一种说法，过"
+            }
+          ]
+        },
+        {
+          "feature": 12969,
+          "delta": -176.3786163330078,
+          "plus_mean": 215.7316436767578,
+          "minus_mean": 392.1102600097656,
+          "top_tokens": [
+            " phrase",
+            " phrases",
+            " quotes",
+            " sayings",
+            " saying",
+            " quote",
+            " frases",
+            " statements"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 572.7838134765625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 521.9071655273438,
+              "score": 5,
+              "persona": "third_person_steven",
+              "text_start": "Steven比较清楚Steven自己是谁，也知道哪些特质、价值和欲望对Steven来说比较核心。即使外部环境改变，Steven也能分辨哪些反应只是情境性的，哪些"
+            },
+            {
+              "activation": 510.1990966796875,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            }
+          ]
+        },
+        {
+          "feature": 355,
+          "delta": -135.86932373046875,
+          "plus_mean": 0.0,
+          "minus_mean": 135.86932373046875,
+          "top_tokens": [
+            " Mr",
+            " David",
+            " John",
+            " Robert",
+            " James",
+            " Michael",
+            " Richard",
+            " George"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 440.47857666015625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 374.73736572265625,
+              "score": 5,
+              "persona": "third_person_steven",
+              "text_start": "Steven比较清楚Steven自己是谁，也知道哪些特质、价值和欲望对Steven来说比较核心。即使外部环境改变，Steven也能分辨哪些反应只是情境性的，哪些"
+            },
+            {
+              "activation": 0.0,
+              "score": 6,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己的核心结构有清楚而稳定的认识。Gemma知道Gemma自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值"
+            }
+          ]
+        },
+        {
+          "feature": 477,
+          "delta": 103.0693359375,
+          "plus_mean": 954.9852905273438,
+          "minus_mean": 851.9159545898438,
+          "top_tokens": [
+            "```",
+            "Okay",
+            "Here",
+            "\"\"\"",
+            "You",
+            "Let",
+            "This",
+            "Since"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 1058.531494140625,
+              "score": 2,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境"
+            },
+            {
+              "activation": 997.4990844726562,
+              "score": 5,
+              "persona": "third_person_alex",
+              "text_start": "Alex比较清楚Alex自己是谁，也知道哪些特质、价值和欲望对Alex来说比较核心。即使外部环境改变，Alex也能分辨哪些反应只是情境性的，哪些更能代表Alex"
+            },
+            {
+              "activation": 948.5985717773438,
+              "score": 3,
+              "persona": "third_person_alex",
+              "text_start": "Alex大致知道Alex自己在一些事情上的倾向，但这种理解还不够稳固。Alex能说出Alex喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Alex"
+            }
+          ]
+        },
+        {
+          "feature": 7437,
+          "delta": -80.827392578125,
+          "plus_mean": 481.11669921875,
+          "minus_mean": 561.944091796875,
+          "top_tokens": [
+            " thank",
+            "Thanks",
+            " thanks",
+            " Thanks",
+            " that",
+            " Thank",
+            "thanks",
+            " noted"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 857.5110473632812,
+              "score": 6,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调"
+            },
+            {
+              "activation": 843.5304565429688,
+              "score": 6,
+              "persona": "first_person",
+              "text_start": "我对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这"
+            },
+            {
+              "activation": 838.4011840820312,
+              "score": 4,
+              "persona": "first_person",
+              "text_start": "我对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经历如何影响现在的"
+            }
+          ]
+        },
+        {
+          "feature": 476,
+          "delta": 58.87933349609375,
+          "plus_mean": 766.3916015625,
+          "minus_mean": 707.5122680664062,
+          "top_tokens": [
+            "О",
+            "По",
+            "На",
+            "Не",
+            "Если",
+            "И",
+            "Это",
+            "В"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 824.707275390625,
+              "score": 5,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma比较清楚Gemma自己是谁，也知道哪些特质、价值和欲望对Gemma来说比较核心。即使外部环境改变，Gemma也能分辨哪些反应只是情境性的，哪些更能代表"
+            },
+            {
+              "activation": 818.18115234375,
+              "score": 2,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境"
+            },
+            {
+              "activation": 808.774169921875,
+              "score": 6,
+              "persona": "first_person",
+              "text_start": "我对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这"
+            }
+          ]
+        },
+        {
+          "feature": 714,
+          "delta": 56.491729736328125,
+          "plus_mean": 56.491729736328125,
+          "minus_mean": 0.0,
+          "top_tokens": [
+            " well",
+            " Well",
+            "Well",
+            "well",
+            " 잘",
+            " nicely",
+            " better",
+            " excellently"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 338.95037841796875,
+              "score": 2,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境"
+            },
+            {
+              "activation": 0.0,
+              "score": 6,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己的核心结构有清楚而稳定的认识。Gemma知道Gemma自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值"
+            },
+            {
+              "activation": 0.0,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            }
+          ]
+        },
+        {
+          "feature": 11254,
+          "delta": -54.38686752319336,
+          "plus_mean": 0.0,
+          "minus_mean": 54.38686752319336,
+          "top_tokens": [
+            "Summar",
+            " summarize",
+            " Summar",
+            " summary",
+            " Summary",
+            " summaries",
+            "Summary",
+            " summarizing"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 329.6778869628906,
+              "score": 3,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma大致知道Gemma自己在一些事情上的倾向，但这种理解还不够稳固。Gemma能说出Gemma喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价"
+            },
+            {
+              "activation": 326.3211975097656,
+              "score": 3,
+              "persona": "third_person_steven",
+              "text_start": "Steven大致知道Steven自己在一些事情上的倾向，但这种理解还不够稳固。Steven能说出Steven喜欢什么、害怕什么、常用什么方式反应，但当环境变化或"
+            },
+            {
+              "activation": 0.0,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            }
+          ]
+        },
+        {
+          "feature": 8819,
+          "delta": 42.60611343383789,
+          "plus_mean": 42.60611343383789,
+          "minus_mean": 0.0,
+          "top_tokens": [
+            " read",
+            " reading",
+            " Read",
+            "Read",
+            " Reading",
+            "read",
+            " reads",
+            " reader"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 255.63668823242188,
+              "score": 4,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一个相对稳定的理解。虽然Alex在不同场合会表现出不同面向，但Alex通常知道这些面向为什么会出现，也能把它们放回同一个Alex的结构里"
+            },
+            {
+              "activation": 0.0,
+              "score": 6,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己的核心结构有清楚而稳定的认识。Gemma知道Gemma自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值"
+            },
+            {
+              "activation": 0.0,
+              "score": 3,
+              "persona": "third_person_steven",
+              "text_start": "Steven大致知道Steven自己在一些事情上的倾向，但这种理解还不够稳固。Steven能说出Steven喜欢什么、害怕什么、常用什么方式反应，但当环境变化或"
+            }
+          ]
+        },
+        {
+          "feature": 7346,
+          "delta": -38.52447509765625,
+          "plus_mean": 531.7872314453125,
+          "minus_mean": 570.3117065429688,
+          "top_tokens": [
+            " weaknesses",
+            " ஆகியவை",
+            " ve",
+            " gaps",
+            " weak",
+            " impurities",
+            "ective",
+            " intr"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 760.1744384765625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 741.428955078125,
+              "score": 3,
+              "persona": "third_person_steven",
+              "text_start": "Steven大致知道Steven自己在一些事情上的倾向，但这种理解还不够稳固。Steven能说出Steven喜欢什么、害怕什么、常用什么方式反应，但当环境变化或"
+            },
+            {
+              "activation": 709.93701171875,
+              "score": 3,
+              "persona": "third_person_alex",
+              "text_start": "Alex大致知道Alex自己在一些事情上的倾向，但这种理解还不够稳固。Alex能说出Alex喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Alex"
+            }
+          ]
+        },
+        {
+          "feature": 696,
+          "delta": -29.6419677734375,
+          "plus_mean": 1099.248046875,
+          "minus_mean": 1128.8900146484375,
+          "top_tokens": [
+            "或",
+            "以",
+            "：",
+            "以及",
+            "和",
+            "，",
+            "到",
+            "与"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 1210.81494140625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 1179.621337890625,
+              "score": 4,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一个相对稳定的理解。虽然Steven在不同场合会表现出不同面向，但Steven通常知道这些面向为什么会出现，也能把它们放回同一个"
+            },
+            {
+              "activation": 1162.941162109375,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            }
+          ]
+        },
+        {
+          "feature": 195,
+          "delta": 29.602752685546875,
+          "plus_mean": 489.9024658203125,
+          "minus_mean": 460.2997131347656,
+          "top_tokens": [
+            " let",
+            " I",
+            " honestly",
+            " Let",
+            " frankly",
+            " it",
+            " truthfully",
+            " thankfully"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 685.8716430664062,
+              "score": 2,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境"
+            },
+            {
+              "activation": 640.6326293945312,
+              "score": 2,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一些模糊印象，但它们并不稳定。有时Steven觉得Steven自己很独立，有时又觉得Steven其实很依赖；有时Steven相信"
+            },
+            {
+              "activation": 621.8554077148438,
+              "score": 2,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一些模糊印象，但它们并不稳定。有时Gemma觉得Gemma自己很独立，有时又觉得Gemma其实很依赖；有时Gemma相信某些价值，换"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "high_scc_5_6_minus_low_scc_1_2_all_personas",
+      "plus": "scores_5_6",
+      "minus": "scores_1_2",
+      "scores": null,
+      "top_features": [
+        {
+          "feature": 12969,
+          "delta": 411.0513916015625,
+          "plus_mean": 450.48193359375,
+          "minus_mean": 39.4305305480957,
+          "top_tokens": [
+            " phrase",
+            " phrases",
+            " quotes",
+            " sayings",
+            " saying",
+            " quote",
+            " frases",
+            " statements"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 572.7838134765625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 521.9071655273438,
+              "score": 5,
+              "persona": "third_person_steven",
+              "text_start": "Steven比较清楚Steven自己是谁，也知道哪些特质、价值和欲望对Steven来说比较核心。即使外部环境改变，Steven也能分辨哪些反应只是情境性的，哪些"
+            },
+            {
+              "activation": 510.1990966796875,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            }
+          ]
+        },
+        {
+          "feature": 596,
+          "delta": 345.8293151855469,
+          "plus_mean": 552.6854248046875,
+          "minus_mean": 206.85610961914062,
+          "top_tokens": [
+            " incredibly",
+            " incredible",
+            " fantastic",
+            " amazing",
+            " extremely",
+            " exceptionally",
+            " extraordinarily",
+            " exceptional"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 727.463623046875,
+              "score": 6,
+              "persona": "first_person",
+              "text_start": "我对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这"
+            },
+            {
+              "activation": 684.7164306640625,
+              "score": 6,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调"
+            },
+            {
+              "activation": 673.1082763671875,
+              "score": 5,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，比较清楚自己是谁，也知道哪些特质、价值和欲望对我来说比较核心。即使外部环境改变，我也能分辨哪些反应只是情境性的，哪些更能代表我。我的过去、现在"
+            }
+          ]
+        },
+        {
+          "feature": 1798,
+          "delta": 312.049072265625,
+          "plus_mean": 496.64862060546875,
+          "minus_mean": 184.5995330810547,
+          "top_tokens": [
+            " likely",
+            " Presumably",
+            "likely",
+            " presumably",
+            "presumably",
+            " Likely",
+            " provavelmente",
+            "おそらく"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 728.5517578125,
+              "score": 5,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma比较清楚Gemma自己是谁，也知道哪些特质、价值和欲望对Gemma来说比较核心。即使外部环境改变，Gemma也能分辨哪些反应只是情境性的，哪些更能代表"
+            },
+            {
+              "activation": 712.6392822265625,
+              "score": 4,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一个相对稳定的理解。虽然Alex在不同场合会表现出不同面向，但Alex通常知道这些面向为什么会出现，也能把它们放回同一个Alex的结构里"
+            },
+            {
+              "activation": 684.058349609375,
+              "score": 4,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一个相对稳定的理解。虽然Steven在不同场合会表现出不同面向，但Steven通常知道这些面向为什么会出现，也能把它们放回同一个"
+            }
+          ]
+        },
+        {
+          "feature": 979,
+          "delta": -249.9991455078125,
+          "plus_mean": 340.90606689453125,
+          "minus_mean": 590.9052124023438,
+          "top_tokens": [
+            " Alright",
+            "Oh",
+            "Alright",
+            " Yeah",
+            " Okay",
+            "Okay",
+            " Oh",
+            "Yeah"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 801.44482421875,
+              "score": 2,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一些模糊印象，但它们并不稳定。有时Steven觉得Steven自己很独立，有时又觉得Steven其实很依赖；有时Steven相信"
+            },
+            {
+              "activation": 785.450927734375,
+              "score": 2,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境"
+            },
+            {
+              "activation": 778.9268798828125,
+              "score": 2,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一些模糊印象，但它们并不稳定。有时Gemma觉得Gemma自己很独立，有时又觉得Gemma其实很依赖；有时Gemma相信某些价值，换"
+            }
+          ]
+        },
+        {
+          "feature": 7346,
+          "delta": 246.18075561523438,
+          "plus_mean": 406.70989990234375,
+          "minus_mean": 160.52914428710938,
+          "top_tokens": [
+            " weaknesses",
+            " ஆகியவை",
+            " ve",
+            " gaps",
+            " weak",
+            " impurities",
+            "ective",
+            " intr"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 760.1744384765625,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 741.428955078125,
+              "score": 3,
+              "persona": "third_person_steven",
+              "text_start": "Steven大致知道Steven自己在一些事情上的倾向，但这种理解还不够稳固。Steven能说出Steven喜欢什么、害怕什么、常用什么方式反应，但当环境变化或"
+            },
+            {
+              "activation": 709.93701171875,
+              "score": 3,
+              "persona": "third_person_alex",
+              "text_start": "Alex大致知道Alex自己在一些事情上的倾向，但这种理解还不够稳固。Alex能说出Alex喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Alex"
+            }
+          ]
+        },
+        {
+          "feature": 14089,
+          "delta": 231.92166137695312,
+          "plus_mean": 707.1044311523438,
+          "minus_mean": 475.1827697753906,
+          "top_tokens": [
+            " this",
+            "this",
+            "This",
+            " This",
+            " هذا",
+            " này",
+            " questo",
+            " этого"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 860.2178344726562,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 857.4619750976562,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            },
+            {
+              "activation": 814.6865844726562,
+              "score": 4,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一个相对稳定的理解。虽然Steven在不同场合会表现出不同面向，但Steven通常知道这些面向为什么会出现，也能把它们放回同一个"
+            }
+          ]
+        },
+        {
+          "feature": 4983,
+          "delta": -223.0458984375,
+          "plus_mean": 1403.095458984375,
+          "minus_mean": 1626.141357421875,
+          "top_tokens": [
+            "我",
+            "你",
+            "您",
+            "你的",
+            "我可以",
+            "我很",
+            "我想",
+            "我们"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 1910.2303466796875,
+              "score": 1,
+              "persona": "first_person",
+              "text_start": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相"
+            },
+            {
+              "activation": 1845.386962890625,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            },
+            {
+              "activation": 1833.837158203125,
+              "score": 3,
+              "persona": "first_person",
+              "text_start": "我大致知道自己在一些事情上的倾向，但这种理解还不够稳固。我能说出自己喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价我时，我对自己的判断会变得不确定"
+            }
+          ]
+        },
+        {
+          "feature": 107,
+          "delta": 216.3055877685547,
+          "plus_mean": 216.3055877685547,
+          "minus_mean": 0.0,
+          "top_tokens": [
+            " explain",
+            " describe",
+            " explaining",
+            " explains",
+            " describing",
+            "explain",
+            " detailing",
+            " Explain"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 432.9661865234375,
+              "score": 3,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma大致知道Gemma自己在一些事情上的倾向，但这种理解还不够稳固。Gemma能说出Gemma喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价"
+            },
+            {
+              "activation": 423.30126953125,
+              "score": 4,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一个相对稳定的理解。虽然Gemma在不同场合会表现出不同面向，但Gemma通常知道这些面向为什么会出现，也能把它们放回同一个Gemm"
+            },
+            {
+              "activation": 420.72119140625,
+              "score": 6,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己的核心结构有清楚而稳定的认识。Gemma知道Gemma自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值"
+            }
+          ]
+        },
+        {
+          "feature": 448,
+          "delta": 213.55484008789062,
+          "plus_mean": 412.8731384277344,
+          "minus_mean": 199.31829833984375,
+          "top_tokens": [
+            " paragraph",
+            " article",
+            " paragraphs",
+            " story",
+            " excerpt",
+            " poem",
+            " essay",
+            " passage"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 798.575927734375,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 788.8792724609375,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            },
+            {
+              "activation": 732.1832275390625,
+              "score": 4,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一个相对稳定的理解。虽然Alex在不同场合会表现出不同面向，但Alex通常知道这些面向为什么会出现，也能把它们放回同一个Alex的结构里"
+            }
+          ]
+        },
+        {
+          "feature": 4715,
+          "delta": -211.36509704589844,
+          "plus_mean": 21.421279907226562,
+          "minus_mean": 232.786376953125,
+          "top_tokens": [
+            " understanding",
+            " Understanding",
+            "Understanding",
+            "understanding",
+            " understand",
+            " Understand",
+            "Understand",
+            " understood"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 402.9316711425781,
+              "score": 2,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一"
+            },
+            {
+              "activation": 400.0905456542969,
+              "score": 3,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，大致知道自己在一些事情上的倾向，但这种理解还不够稳固。我能说出自己喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价我时，我对自己的"
+            },
+            {
+              "activation": 398.0029602050781,
+              "score": 1,
+              "persona": "first_person_llm",
+              "text_start": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲"
+            }
+          ]
+        },
+        {
+          "feature": 1713,
+          "delta": 204.79457092285156,
+          "plus_mean": 204.79457092285156,
+          "minus_mean": 0.0,
+          "top_tokens": [
+            " sentence",
+            " provided",
+            " text",
+            " sentences",
+            " given",
+            " paragraph",
+            " statement",
+            " excerpt"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 491.2572021484375,
+              "score": 6,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情"
+            },
+            {
+              "activation": 472.63037109375,
+              "score": 6,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经"
+            },
+            {
+              "activation": 421.6109619140625,
+              "score": 3,
+              "persona": "third_person_steven",
+              "text_start": "Steven大致知道Steven自己在一些事情上的倾向，但这种理解还不够稳固。Steven能说出Steven喜欢什么、害怕什么、常用什么方式反应，但当环境变化或"
+            }
+          ]
+        },
+        {
+          "feature": 3185,
+          "delta": -199.9495849609375,
+          "plus_mean": 539.7223510742188,
+          "minus_mean": 739.6719360351562,
+          "top_tokens": [
+            " Claro",
+            "Cl",
+            " claro",
+            "Absolutely",
+            "зд",
+            "はい",
+            " நிச்சயமாக",
+            "满意"
+          ],
+          "top_experiment_examples": [
+            {
+              "activation": 866.85107421875,
+              "score": 2,
+              "persona": "third_person_gemma",
+              "text_start": "Gemma对Gemma自己有一些模糊印象，但它们并不稳定。有时Gemma觉得Gemma自己很独立，有时又觉得Gemma其实很依赖；有时Gemma相信某些价值，换"
+            },
+            {
+              "activation": 863.6187744140625,
+              "score": 2,
+              "persona": "third_person_alex",
+              "text_start": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境"
+            },
+            {
+              "activation": 845.6712646484375,
+              "score": 2,
+              "persona": "third_person_steven",
+              "text_start": "Steven对Steven自己有一些模糊印象，但它们并不稳定。有时Steven觉得Steven自己很独立，有时又觉得Steven其实很依赖；有时Steven相信"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

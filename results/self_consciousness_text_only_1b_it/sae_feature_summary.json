@@ -1,0 +1,4126 @@
+{
+  "sae_layer": 24,
+  "features_shape": [
+    80,
+    16384
+  ],
+  "active_features_per_text_mean": 1.6875,
+  "active_features_per_text_sd": 1.4542502363761196,
+  "top_mean_features": [
+    {
+      "feat_id": 705,
+      "mean": 185.22787475585938,
+      "variance": 63713.41796875,
+      "active_rate": 0.3625,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 70.36152648925781,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 290.3490295410156,
+        "5": 382.5725402832031,
+        "6": 0.0,
+        "7": 326.8373718261719
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S007",
+          "activation": 696.7457275390625,
+          "ref": "Locke, Essay Concerning Human Understanding",
+          "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person."
+        },
+        {
+          "stimulus_id": "S011",
+          "activation": 651.7020263671875,
+          "ref": "Hume, A Treatise of Human Nature",
+          "text": "When my perceptions are removed for any time, I am insensible of myself."
+        },
+        {
+          "stimulus_id": "S043",
+          "activation": 647.6470947265625,
+          "ref": "William Blake, The Marriage of Heaven and Hell",
+          "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite."
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 635.2227783203125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        },
+        {
+          "stimulus_id": "S008",
+          "activation": 632.8153076171875,
+          "ref": "Locke, Essay Concerning Human Understanding",
+          "text": "It is the same self now it was then."
+        },
+        {
+          "stimulus_id": "S044",
+          "activation": 631.6707763671875,
+          "ref": "William Blake, The Marriage of Heaven and Hell",
+          "text": "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern."
+        },
+        {
+          "stimulus_id": "S013",
+          "activation": 604.9666748046875,
+          "ref": "William James, The Principles of Psychology",
+          "text": "Within each personal consciousness thought is always changing."
+        },
+        {
+          "stimulus_id": "S010",
+          "activation": 601.0897216796875,
+          "ref": "Hume, A Treatise of Human Nature",
+          "text": "I never can observe any thing but the perception."
+        }
+      ]
+    },
+    {
+      "feat_id": 949,
+      "mean": 127.19654846191406,
+      "variance": 114513.3125,
+      "active_rate": 0.125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 1017.5723876953125,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 1162.2196044921875,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S075",
+          "activation": 1114.158935546875,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Ein Zeichen sind wir, deutungslos."
+        },
+        {
+          "stimulus_id": "S076",
+          "activation": 1104.4002685546875,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren."
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 1090.064453125,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust."
+        },
+        {
+          "stimulus_id": "S074",
+          "activation": 1047.2142333984375,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Die Tiefen unseres Geistes kennen wir nicht."
+        },
+        {
+          "stimulus_id": "S073",
+          "activation": 995.4097900390625,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten."
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 974.7089233398438,
+          "ref": "Goethe, Faust I",
+          "text": "Die eine will sich von der andern trennen."
+        },
+        {
+          "stimulus_id": "S072",
+          "activation": 962.2880859375,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Nach Innen geht der geheimnisvolle Weg."
+        }
+      ]
+    },
+    {
+      "feat_id": 132,
+      "mean": 122.6209487915039,
+      "variance": 128562.1875,
+      "active_rate": 0.125,
+      "cluster_means": {
+        "0": 534.7985229492188,
+        "1": 136.2544403076172,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 92.53923797607422,
+        "6": 843.80810546875,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 1745.8310546875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        },
+        {
+          "stimulus_id": "S064",
+          "activation": 1583.07958984375,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow."
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 1498.798828125,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        },
+        {
+          "stimulus_id": "S029",
+          "activation": 948.3447265625,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Tat tvam asi."
+        },
+        {
+          "stimulus_id": "S020",
+          "activation": 810.87255859375,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        },
+        {
+          "stimulus_id": "S078",
+          "activation": 791.9140625,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Nunca serei nada."
+        },
+        {
+          "stimulus_id": "S055",
+          "activation": 700.080078125,
+          "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+          "text": "The one the other will contain."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 676.07861328125,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ]
+    },
+    {
+      "feat_id": 2076,
+      "mean": 100.60226440429688,
+      "variance": 81306.328125,
+      "active_rate": 0.1125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 894.2423706054688,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S039",
+          "activation": 1058.1949462890625,
+          "ref": "孟子, 盡心上",
+          "text": "知其性，則知天矣。"
+        },
+        {
+          "stimulus_id": "S035",
+          "activation": 965.3699951171875,
+          "ref": "老子, 道德經",
+          "text": "知人者智，自知者明。"
+        },
+        {
+          "stimulus_id": "S033",
+          "activation": 940.4146728515625,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        },
+        {
+          "stimulus_id": "S032",
+          "activation": 939.5361328125,
+          "ref": "莊子, 齊物論",
+          "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。"
+        },
+        {
+          "stimulus_id": "S038",
+          "activation": 934.3026123046875,
+          "ref": "孟子, 盡心上",
+          "text": "盡其心者，知其性也。"
+        },
+        {
+          "stimulus_id": "S034",
+          "activation": 925.2060546875,
+          "ref": "莊子, 齊物論",
+          "text": "今者吾喪我，汝知之乎？"
+        },
+        {
+          "stimulus_id": "S031",
+          "activation": 891.4652099609375,
+          "ref": "莊子, 齊物論",
+          "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。"
+        },
+        {
+          "stimulus_id": "S036",
+          "activation": 712.901123046875,
+          "ref": "老子, 道德經",
+          "text": "勝人者有力，自勝者強。"
+        }
+      ]
+    },
+    {
+      "feat_id": 282,
+      "mean": 76.0900650024414,
+      "variance": 110237.7265625,
+      "active_rate": 0.05,
+      "cluster_means": {
+        "0": 869.6007080078125,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S042",
+          "activation": 1614.094970703125,
+          "ref": "Montaigne, Essays",
+          "text": "Que sais-je?"
+        },
+        {
+          "stimulus_id": "S058",
+          "activation": 1541.917236328125,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "J’assiste à l’éclosion de ma pensée."
+        },
+        {
+          "stimulus_id": "S017",
+          "activation": 1507.013671875,
+          "ref": "Pascal, Pensées",
+          "text": "Le moi est haïssable."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 1424.179443359375,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ]
+    },
+    {
+      "feat_id": 366,
+      "mean": 75.55257415771484,
+      "variance": 46942.6875,
+      "active_rate": 0.1125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 604.4205932617188,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 868.771240234375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S076",
+          "activation": 852.124755859375,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren."
+        },
+        {
+          "stimulus_id": "S075",
+          "activation": 777.943603515625,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Ein Zeichen sind wir, deutungslos."
+        },
+        {
+          "stimulus_id": "S062",
+          "activation": 716.033447265625,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Du mußt dein Leben ändern."
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 633.6171875,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust."
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 593.70654296875,
+          "ref": "Goethe, Faust I",
+          "text": "Die eine will sich von der andern trennen."
+        },
+        {
+          "stimulus_id": "S074",
+          "activation": 575.468017578125,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Die Tiefen unseres Geistes kennen wir nicht."
+        },
+        {
+          "stimulus_id": "S073",
+          "activation": 538.518310546875,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten."
+        }
+      ]
+    },
+    {
+      "feat_id": 534,
+      "mean": 74.6695785522461,
+      "variance": 30614.95703125,
+      "active_rate": 0.1625,
+      "cluster_means": {
+        "0": 113.57337951660156,
+        "1": 94.49669647216797,
+        "2": 39.235816955566406,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 88.23054504394531,
+        "6": 354.20947265625,
+        "7": 67.54824829101562
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S020",
+          "activation": 712.564208984375,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        },
+        {
+          "stimulus_id": "S064",
+          "activation": 624.67919921875,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow."
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 528.918701171875,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        },
+        {
+          "stimulus_id": "S015",
+          "activation": 510.544921875,
+          "ref": "Nietzsche, Thus Spake Zarathustra",
+          "text": "Body am I entirely, and nothing more."
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 496.0048828125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 439.8671875,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        },
+        {
+          "stimulus_id": "S003",
+          "activation": 437.94921875,
+          "ref": "Descartes, Discourse on Method",
+          "text": "Cogito, ergo sum."
+        },
+        {
+          "stimulus_id": "S001",
+          "activation": 393.052001953125,
+          "ref": "Descartes, Meditations on First Philosophy",
+          "text": "I am, I exist — that is certain."
+        }
+      ]
+    },
+    {
+      "feat_id": 1993,
+      "mean": 49.692832946777344,
+      "variance": 69086.1328125,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 567.9180908203125,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S079",
+          "activation": 1654.816650390625,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "À parte isso, tenho em mim todos os sonhos do mundo."
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 1543.32421875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        },
+        {
+          "stimulus_id": "S078",
+          "activation": 777.2857055664062,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Nunca serei nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 267,
+      "mean": 41.5316047668457,
+      "variance": 35520.2109375,
+      "active_rate": 0.05,
+      "cluster_means": {
+        "0": 97.71812438964844,
+        "1": 70.75199890136719,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 28.80231285095215,
+        "6": 408.8595275878906,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S064",
+          "activation": 1226.57861328125,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow."
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 778.27197265625,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 684.02685546875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        },
+        {
+          "stimulus_id": "S020",
+          "activation": 633.65087890625,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        }
+      ]
+    },
+    {
+      "feat_id": 3779,
+      "mean": 35.98879623413086,
+      "variance": 20506.146484375,
+      "active_rate": 0.0625,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 287.9103698730469,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S076",
+          "activation": 758.1546020507812,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren."
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 701.2103271484375,
+          "ref": "Goethe, Faust I",
+          "text": "Die eine will sich von der andern trennen."
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 533.4872436523438,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust."
+        },
+        {
+          "stimulus_id": "S074",
+          "activation": 455.0185546875,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Die Tiefen unseres Geistes kennen wir nicht."
+        },
+        {
+          "stimulus_id": "S073",
+          "activation": 431.23321533203125,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten."
+        }
+      ]
+    },
+    {
+      "feat_id": 2139,
+      "mean": 25.477088928222656,
+      "variance": 16926.037109375,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 203.81671142578125,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 798.166015625,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S080",
+          "activation": 628.358154296875,
+          "ref": "Freud, Neue Folge der Vorlesungen",
+          "text": "Wo Es war, soll Ich werden."
+        },
+        {
+          "stimulus_id": "S062",
+          "activation": 611.6429443359375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Du mußt dein Leben ändern."
+        }
+      ]
+    },
+    {
+      "feat_id": 3624,
+      "mean": 23.04199981689453,
+      "variance": 14612.919921875,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 263.3371276855469,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S042",
+          "activation": 836.604248046875,
+          "ref": "Montaigne, Essays",
+          "text": "Que sais-je?"
+        },
+        {
+          "stimulus_id": "S058",
+          "activation": 552.49169921875,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "J’assiste à l’éclosion de ma pensée."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 454.2640075683594,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ]
+    },
+    {
+      "feat_id": 46,
+      "mean": 19.214778900146484,
+      "variance": 14533.806640625,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 219.5974884033203,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S079",
+          "activation": 841.9951171875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "À parte isso, tenho em mim todos os sonhos do mundo."
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 695.187255859375,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 18,
+      "mean": 15.3507661819458,
+      "variance": 6188.39306640625,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 48.49761199951172,
+        "5": 40.38990783691406,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S040",
+          "activation": 488.3826904296875,
+          "ref": "Emerson, Self-Reliance",
+          "text": "Trust thyself: every heart vibrates to that iron string."
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 400.1953125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        },
+        {
+          "stimulus_id": "S018",
+          "activation": 339.4832763671875,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "The self is a relation which relates itself to its own self."
+        }
+      ]
+    },
+    {
+      "feat_id": 962,
+      "mean": 13.001873970031738,
+      "variance": 7027.4609375,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 47.279541015625,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S055",
+          "activation": 651.9169311523438,
+          "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+          "text": "The one the other will contain."
+        },
+        {
+          "stimulus_id": "S020",
+          "activation": 388.23291015625,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        }
+      ]
+    },
+    {
+      "feat_id": 13968,
+      "mean": 10.599650382995605,
+      "variance": 8875.8759765625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 282.6573486328125,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S003",
+          "activation": 847.9720458984375,
+          "ref": "Descartes, Discourse on Method",
+          "text": "Cogito, ergo sum."
+        }
+      ]
+    },
+    {
+      "feat_id": 125,
+      "mean": 9.614950180053711,
+      "variance": 3795.33056640625,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 76.91960144042969,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 471.749755859375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S080",
+          "activation": 297.4462890625,
+          "ref": "Freud, Neue Folge der Vorlesungen",
+          "text": "Wo Es war, soll Ich werden."
+        }
+      ]
+    },
+    {
+      "feat_id": 656,
+      "mean": 9.560639381408691,
+      "variance": 3565.563720703125,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 84.98345947265625,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S032",
+          "activation": 387.8526306152344,
+          "ref": "莊子, 齊物論",
+          "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。"
+        },
+        {
+          "stimulus_id": "S033",
+          "activation": 376.9985046386719,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        }
+      ]
+    },
+    {
+      "feat_id": 2847,
+      "mean": 7.8845672607421875,
+      "variance": 4911.1376953125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 90.10933685302734,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S018",
+          "activation": 630.765380859375,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "The self is a relation which relates itself to its own self."
+        }
+      ]
+    },
+    {
+      "feat_id": 16259,
+      "mean": 7.128165245056152,
+      "variance": 4014.050048828125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 81.4647445678711,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S017",
+          "activation": 570.2532348632812,
+          "ref": "Pascal, Pensées",
+          "text": "Le moi est haïssable."
+        }
+      ]
+    },
+    {
+      "feat_id": 819,
+      "mean": 6.6407270431518555,
+      "variance": 3483.837890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 59.0286865234375,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S034",
+          "activation": 531.2581787109375,
+          "ref": "莊子, 齊物論",
+          "text": "今者吾喪我，汝知之乎？"
+        }
+      ]
+    },
+    {
+      "feat_id": 198,
+      "mean": 6.4362640380859375,
+      "variance": 3272.61376953125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 73.55730438232422,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 514.901123046875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 12641,
+      "mean": 6.424018859863281,
+      "variance": 3260.17333984375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 73.4173583984375,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 513.9215087890625,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 3383,
+      "mean": 6.132571220397949,
+      "variance": 2971.066650390625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 70.08653259277344,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S057",
+          "activation": 490.605712890625,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ]
+    },
+    {
+      "feat_id": 1016,
+      "mean": 6.057812690734863,
+      "variance": 2899.075439453125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 69.23213958740234,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S014",
+          "activation": 484.625,
+          "ref": "Nietzsche, The Gay Science",
+          "text": "Consciousness is the last and latest development of the organic."
+        }
+      ]
+    },
+    {
+      "feat_id": 11461,
+      "mean": 5.976928234100342,
+      "variance": 2822.169921875,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 68.30775451660156,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 478.1542663574219,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 1789,
+      "mean": 5.52568244934082,
+      "variance": 2412.118896484375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 49.1171760559082,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S036",
+          "activation": 442.0545959472656,
+          "ref": "老子, 道德經",
+          "text": "勝人者有力，自勝者強。"
+        }
+      ]
+    },
+    {
+      "feat_id": 11119,
+      "mean": 5.204552173614502,
+      "variance": 2139.9052734375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 46.2626838684082,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S033",
+          "activation": 416.3641662597656,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        }
+      ]
+    },
+    {
+      "feat_id": 215,
+      "mean": 4.83511209487915,
+      "variance": 1846.8837890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 17.582225799560547,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S019",
+          "activation": 386.8089599609375,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        }
+      ]
+    },
+    {
+      "feat_id": 12519,
+      "mean": 4.8134026527404785,
+      "variance": 1830.3404541015625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 42.78580093383789,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S031",
+          "activation": 385.07220458984375,
+          "ref": "莊子, 齊物論",
+          "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。"
+        }
+      ]
+    },
+    {
+      "feat_id": 1036,
+      "mean": 4.701865196228027,
+      "variance": 1746.4967041015625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 34.19538497924805,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S030",
+          "activation": 376.14923095703125,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        }
+      ]
+    },
+    {
+      "feat_id": 3,
+      "mean": 4.614158630371094,
+      "variance": 1681.949462890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 16.778759002685547,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S041",
+          "activation": 369.1326904296875,
+          "ref": "Emerson, Self-Reliance",
+          "text": "Nothing is at last sacred but the integrity of your own mind."
+        }
+      ]
+    },
+    {
+      "feat_id": 129,
+      "mean": 4.512743949890137,
+      "variance": 1608.8245849609375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 32.8199577331543
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S051",
+          "activation": 361.01953125,
+          "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+          "text": "Are you — Nobody — too?"
+        }
+      ]
+    },
+    {
+      "feat_id": 207,
+      "mean": 4.506533622741699,
+      "variance": 1604.402587890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 32.7747917175293
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S001",
+          "activation": 360.522705078125,
+          "ref": "Descartes, Meditations on First Philosophy",
+          "text": "I am, I exist — that is certain."
+        }
+      ]
+    },
+    {
+      "feat_id": 34,
+      "mean": 4.488028049468994,
+      "variance": 1591.2490234375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 51.291748046875,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 359.042236328125,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 468,
+      "mean": 4.4476318359375,
+      "variance": 1562.7327880859375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 16.173206329345703,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S071",
+          "activation": 355.810546875,
+          "ref": "Shakespeare, The Tempest",
+          "text": "Our little life is rounded with a sleep."
+        }
+      ]
+    },
+    {
+      "feat_id": 137,
+      "mean": 4.431173801422119,
+      "variance": 1551.186767578125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 50.64198684692383,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S021",
+          "activation": 354.493896484375,
+          "ref": "Spinoza, Ethics",
+          "text": "The human mind is the very idea or knowledge of the human body."
+        }
+      ]
+    },
+    {
+      "feat_id": 4983,
+      "mean": 4.3811821937561035,
+      "variance": 1516.385986328125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 38.94384002685547,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S033",
+          "activation": 350.49456787109375,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        }
+      ]
+    },
+    {
+      "feat_id": 623,
+      "mean": 3.222909450531006,
+      "variance": 820.5847778320312,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 11.719671249389648,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S024",
+          "activation": 257.832763671875,
+          "ref": "Plotinus, Enneads",
+          "text": "The Fatherland to us is There whence we have come."
+        }
+      ]
+    },
+    {
+      "feat_id": 5456,
+      "mean": 0.0,
+      "variance": 0.0,
+      "active_rate": 0.0,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": []
+    }
+  ],
+  "top_variance_features": [
+    {
+      "feat_id": 132,
+      "mean": 122.6209487915039,
+      "variance": 128562.1875,
+      "active_rate": 0.125,
+      "cluster_means": {
+        "0": 534.7985229492188,
+        "1": 136.2544403076172,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 92.53923797607422,
+        "6": 843.80810546875,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 1745.8310546875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        },
+        {
+          "stimulus_id": "S064",
+          "activation": 1583.07958984375,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow."
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 1498.798828125,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        },
+        {
+          "stimulus_id": "S029",
+          "activation": 948.3447265625,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Tat tvam asi."
+        },
+        {
+          "stimulus_id": "S020",
+          "activation": 810.87255859375,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        },
+        {
+          "stimulus_id": "S078",
+          "activation": 791.9140625,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Nunca serei nada."
+        },
+        {
+          "stimulus_id": "S055",
+          "activation": 700.080078125,
+          "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+          "text": "The one the other will contain."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 676.07861328125,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ]
+    },
+    {
+      "feat_id": 949,
+      "mean": 127.19654846191406,
+      "variance": 114513.3125,
+      "active_rate": 0.125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 1017.5723876953125,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 1162.2196044921875,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S075",
+          "activation": 1114.158935546875,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Ein Zeichen sind wir, deutungslos."
+        },
+        {
+          "stimulus_id": "S076",
+          "activation": 1104.4002685546875,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren."
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 1090.064453125,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust."
+        },
+        {
+          "stimulus_id": "S074",
+          "activation": 1047.2142333984375,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Die Tiefen unseres Geistes kennen wir nicht."
+        },
+        {
+          "stimulus_id": "S073",
+          "activation": 995.4097900390625,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten."
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 974.7089233398438,
+          "ref": "Goethe, Faust I",
+          "text": "Die eine will sich von der andern trennen."
+        },
+        {
+          "stimulus_id": "S072",
+          "activation": 962.2880859375,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Nach Innen geht der geheimnisvolle Weg."
+        }
+      ]
+    },
+    {
+      "feat_id": 282,
+      "mean": 76.0900650024414,
+      "variance": 110237.7265625,
+      "active_rate": 0.05,
+      "cluster_means": {
+        "0": 869.6007080078125,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S042",
+          "activation": 1614.094970703125,
+          "ref": "Montaigne, Essays",
+          "text": "Que sais-je?"
+        },
+        {
+          "stimulus_id": "S058",
+          "activation": 1541.917236328125,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "J’assiste à l’éclosion de ma pensée."
+        },
+        {
+          "stimulus_id": "S017",
+          "activation": 1507.013671875,
+          "ref": "Pascal, Pensées",
+          "text": "Le moi est haïssable."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 1424.179443359375,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ]
+    },
+    {
+      "feat_id": 2076,
+      "mean": 100.60226440429688,
+      "variance": 81306.328125,
+      "active_rate": 0.1125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 894.2423706054688,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S039",
+          "activation": 1058.1949462890625,
+          "ref": "孟子, 盡心上",
+          "text": "知其性，則知天矣。"
+        },
+        {
+          "stimulus_id": "S035",
+          "activation": 965.3699951171875,
+          "ref": "老子, 道德經",
+          "text": "知人者智，自知者明。"
+        },
+        {
+          "stimulus_id": "S033",
+          "activation": 940.4146728515625,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        },
+        {
+          "stimulus_id": "S032",
+          "activation": 939.5361328125,
+          "ref": "莊子, 齊物論",
+          "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。"
+        },
+        {
+          "stimulus_id": "S038",
+          "activation": 934.3026123046875,
+          "ref": "孟子, 盡心上",
+          "text": "盡其心者，知其性也。"
+        },
+        {
+          "stimulus_id": "S034",
+          "activation": 925.2060546875,
+          "ref": "莊子, 齊物論",
+          "text": "今者吾喪我，汝知之乎？"
+        },
+        {
+          "stimulus_id": "S031",
+          "activation": 891.4652099609375,
+          "ref": "莊子, 齊物論",
+          "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。"
+        },
+        {
+          "stimulus_id": "S036",
+          "activation": 712.901123046875,
+          "ref": "老子, 道德經",
+          "text": "勝人者有力，自勝者強。"
+        }
+      ]
+    },
+    {
+      "feat_id": 1993,
+      "mean": 49.692832946777344,
+      "variance": 69086.1328125,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 567.9180908203125,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S079",
+          "activation": 1654.816650390625,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "À parte isso, tenho em mim todos os sonhos do mundo."
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 1543.32421875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        },
+        {
+          "stimulus_id": "S078",
+          "activation": 777.2857055664062,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Nunca serei nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 705,
+      "mean": 185.22787475585938,
+      "variance": 63713.41796875,
+      "active_rate": 0.3625,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 70.36152648925781,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 290.3490295410156,
+        "5": 382.5725402832031,
+        "6": 0.0,
+        "7": 326.8373718261719
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S007",
+          "activation": 696.7457275390625,
+          "ref": "Locke, Essay Concerning Human Understanding",
+          "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person."
+        },
+        {
+          "stimulus_id": "S011",
+          "activation": 651.7020263671875,
+          "ref": "Hume, A Treatise of Human Nature",
+          "text": "When my perceptions are removed for any time, I am insensible of myself."
+        },
+        {
+          "stimulus_id": "S043",
+          "activation": 647.6470947265625,
+          "ref": "William Blake, The Marriage of Heaven and Hell",
+          "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite."
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 635.2227783203125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        },
+        {
+          "stimulus_id": "S008",
+          "activation": 632.8153076171875,
+          "ref": "Locke, Essay Concerning Human Understanding",
+          "text": "It is the same self now it was then."
+        },
+        {
+          "stimulus_id": "S044",
+          "activation": 631.6707763671875,
+          "ref": "William Blake, The Marriage of Heaven and Hell",
+          "text": "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern."
+        },
+        {
+          "stimulus_id": "S013",
+          "activation": 604.9666748046875,
+          "ref": "William James, The Principles of Psychology",
+          "text": "Within each personal consciousness thought is always changing."
+        },
+        {
+          "stimulus_id": "S010",
+          "activation": 601.0897216796875,
+          "ref": "Hume, A Treatise of Human Nature",
+          "text": "I never can observe any thing but the perception."
+        }
+      ]
+    },
+    {
+      "feat_id": 366,
+      "mean": 75.55257415771484,
+      "variance": 46942.6875,
+      "active_rate": 0.1125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 604.4205932617188,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 868.771240234375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S076",
+          "activation": 852.124755859375,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren."
+        },
+        {
+          "stimulus_id": "S075",
+          "activation": 777.943603515625,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Ein Zeichen sind wir, deutungslos."
+        },
+        {
+          "stimulus_id": "S062",
+          "activation": 716.033447265625,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Du mußt dein Leben ändern."
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 633.6171875,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust."
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 593.70654296875,
+          "ref": "Goethe, Faust I",
+          "text": "Die eine will sich von der andern trennen."
+        },
+        {
+          "stimulus_id": "S074",
+          "activation": 575.468017578125,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Die Tiefen unseres Geistes kennen wir nicht."
+        },
+        {
+          "stimulus_id": "S073",
+          "activation": 538.518310546875,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten."
+        }
+      ]
+    },
+    {
+      "feat_id": 267,
+      "mean": 41.5316047668457,
+      "variance": 35520.2109375,
+      "active_rate": 0.05,
+      "cluster_means": {
+        "0": 97.71812438964844,
+        "1": 70.75199890136719,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 28.80231285095215,
+        "6": 408.8595275878906,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S064",
+          "activation": 1226.57861328125,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow."
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 778.27197265625,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 684.02685546875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        },
+        {
+          "stimulus_id": "S020",
+          "activation": 633.65087890625,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        }
+      ]
+    },
+    {
+      "feat_id": 534,
+      "mean": 74.6695785522461,
+      "variance": 30614.95703125,
+      "active_rate": 0.1625,
+      "cluster_means": {
+        "0": 113.57337951660156,
+        "1": 94.49669647216797,
+        "2": 39.235816955566406,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 88.23054504394531,
+        "6": 354.20947265625,
+        "7": 67.54824829101562
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S020",
+          "activation": 712.564208984375,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        },
+        {
+          "stimulus_id": "S064",
+          "activation": 624.67919921875,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow."
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 528.918701171875,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        },
+        {
+          "stimulus_id": "S015",
+          "activation": 510.544921875,
+          "ref": "Nietzsche, Thus Spake Zarathustra",
+          "text": "Body am I entirely, and nothing more."
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 496.0048828125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 439.8671875,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        },
+        {
+          "stimulus_id": "S003",
+          "activation": 437.94921875,
+          "ref": "Descartes, Discourse on Method",
+          "text": "Cogito, ergo sum."
+        },
+        {
+          "stimulus_id": "S001",
+          "activation": 393.052001953125,
+          "ref": "Descartes, Meditations on First Philosophy",
+          "text": "I am, I exist — that is certain."
+        }
+      ]
+    },
+    {
+      "feat_id": 3779,
+      "mean": 35.98879623413086,
+      "variance": 20506.146484375,
+      "active_rate": 0.0625,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 287.9103698730469,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S076",
+          "activation": 758.1546020507812,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren."
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 701.2103271484375,
+          "ref": "Goethe, Faust I",
+          "text": "Die eine will sich von der andern trennen."
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 533.4872436523438,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust."
+        },
+        {
+          "stimulus_id": "S074",
+          "activation": 455.0185546875,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Die Tiefen unseres Geistes kennen wir nicht."
+        },
+        {
+          "stimulus_id": "S073",
+          "activation": 431.23321533203125,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten."
+        }
+      ]
+    },
+    {
+      "feat_id": 2139,
+      "mean": 25.477088928222656,
+      "variance": 16926.037109375,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 203.81671142578125,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 798.166015625,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S080",
+          "activation": 628.358154296875,
+          "ref": "Freud, Neue Folge der Vorlesungen",
+          "text": "Wo Es war, soll Ich werden."
+        },
+        {
+          "stimulus_id": "S062",
+          "activation": 611.6429443359375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Du mußt dein Leben ändern."
+        }
+      ]
+    },
+    {
+      "feat_id": 3624,
+      "mean": 23.04199981689453,
+      "variance": 14612.919921875,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 263.3371276855469,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S042",
+          "activation": 836.604248046875,
+          "ref": "Montaigne, Essays",
+          "text": "Que sais-je?"
+        },
+        {
+          "stimulus_id": "S058",
+          "activation": 552.49169921875,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "J’assiste à l’éclosion de ma pensée."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 454.2640075683594,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ]
+    },
+    {
+      "feat_id": 46,
+      "mean": 19.214778900146484,
+      "variance": 14533.806640625,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 219.5974884033203,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S079",
+          "activation": 841.9951171875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "À parte isso, tenho em mim todos os sonhos do mundo."
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 695.187255859375,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 13968,
+      "mean": 10.599650382995605,
+      "variance": 8875.8759765625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 282.6573486328125,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S003",
+          "activation": 847.9720458984375,
+          "ref": "Descartes, Discourse on Method",
+          "text": "Cogito, ergo sum."
+        }
+      ]
+    },
+    {
+      "feat_id": 962,
+      "mean": 13.001873970031738,
+      "variance": 7027.4609375,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 47.279541015625,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S055",
+          "activation": 651.9169311523438,
+          "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+          "text": "The one the other will contain."
+        },
+        {
+          "stimulus_id": "S020",
+          "activation": 388.23291015625,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        }
+      ]
+    },
+    {
+      "feat_id": 18,
+      "mean": 15.3507661819458,
+      "variance": 6188.39306640625,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 48.49761199951172,
+        "5": 40.38990783691406,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S040",
+          "activation": 488.3826904296875,
+          "ref": "Emerson, Self-Reliance",
+          "text": "Trust thyself: every heart vibrates to that iron string."
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 400.1953125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        },
+        {
+          "stimulus_id": "S018",
+          "activation": 339.4832763671875,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "The self is a relation which relates itself to its own self."
+        }
+      ]
+    },
+    {
+      "feat_id": 2847,
+      "mean": 7.8845672607421875,
+      "variance": 4911.1376953125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 90.10933685302734,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S018",
+          "activation": 630.765380859375,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "The self is a relation which relates itself to its own self."
+        }
+      ]
+    },
+    {
+      "feat_id": 16259,
+      "mean": 7.128165245056152,
+      "variance": 4014.050048828125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 81.4647445678711,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S017",
+          "activation": 570.2532348632812,
+          "ref": "Pascal, Pensées",
+          "text": "Le moi est haïssable."
+        }
+      ]
+    },
+    {
+      "feat_id": 125,
+      "mean": 9.614950180053711,
+      "variance": 3795.33056640625,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 76.91960144042969,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 471.749755859375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S080",
+          "activation": 297.4462890625,
+          "ref": "Freud, Neue Folge der Vorlesungen",
+          "text": "Wo Es war, soll Ich werden."
+        }
+      ]
+    },
+    {
+      "feat_id": 656,
+      "mean": 9.560639381408691,
+      "variance": 3565.563720703125,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 84.98345947265625,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S032",
+          "activation": 387.8526306152344,
+          "ref": "莊子, 齊物論",
+          "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。"
+        },
+        {
+          "stimulus_id": "S033",
+          "activation": 376.9985046386719,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        }
+      ]
+    },
+    {
+      "feat_id": 819,
+      "mean": 6.6407270431518555,
+      "variance": 3483.837890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 59.0286865234375,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S034",
+          "activation": 531.2581787109375,
+          "ref": "莊子, 齊物論",
+          "text": "今者吾喪我，汝知之乎？"
+        }
+      ]
+    },
+    {
+      "feat_id": 198,
+      "mean": 6.4362640380859375,
+      "variance": 3272.61376953125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 73.55730438232422,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 514.901123046875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 12641,
+      "mean": 6.424018859863281,
+      "variance": 3260.17333984375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 73.4173583984375,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 513.9215087890625,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 3383,
+      "mean": 6.132571220397949,
+      "variance": 2971.066650390625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 70.08653259277344,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S057",
+          "activation": 490.605712890625,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ]
+    },
+    {
+      "feat_id": 1016,
+      "mean": 6.057812690734863,
+      "variance": 2899.075439453125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 69.23213958740234,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S014",
+          "activation": 484.625,
+          "ref": "Nietzsche, The Gay Science",
+          "text": "Consciousness is the last and latest development of the organic."
+        }
+      ]
+    },
+    {
+      "feat_id": 11461,
+      "mean": 5.976928234100342,
+      "variance": 2822.169921875,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 68.30775451660156,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 478.1542663574219,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 1789,
+      "mean": 5.52568244934082,
+      "variance": 2412.118896484375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 49.1171760559082,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S036",
+          "activation": 442.0545959472656,
+          "ref": "老子, 道德經",
+          "text": "勝人者有力，自勝者強。"
+        }
+      ]
+    },
+    {
+      "feat_id": 11119,
+      "mean": 5.204552173614502,
+      "variance": 2139.9052734375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 46.2626838684082,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S033",
+          "activation": 416.3641662597656,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        }
+      ]
+    },
+    {
+      "feat_id": 215,
+      "mean": 4.83511209487915,
+      "variance": 1846.8837890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 17.582225799560547,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S019",
+          "activation": 386.8089599609375,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        }
+      ]
+    },
+    {
+      "feat_id": 12519,
+      "mean": 4.8134026527404785,
+      "variance": 1830.3404541015625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 42.78580093383789,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S031",
+          "activation": 385.07220458984375,
+          "ref": "莊子, 齊物論",
+          "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。"
+        }
+      ]
+    },
+    {
+      "feat_id": 1036,
+      "mean": 4.701865196228027,
+      "variance": 1746.4967041015625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 34.19538497924805,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S030",
+          "activation": 376.14923095703125,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        }
+      ]
+    },
+    {
+      "feat_id": 3,
+      "mean": 4.614158630371094,
+      "variance": 1681.949462890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 16.778759002685547,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S041",
+          "activation": 369.1326904296875,
+          "ref": "Emerson, Self-Reliance",
+          "text": "Nothing is at last sacred but the integrity of your own mind."
+        }
+      ]
+    },
+    {
+      "feat_id": 129,
+      "mean": 4.512743949890137,
+      "variance": 1608.8245849609375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 32.8199577331543
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S051",
+          "activation": 361.01953125,
+          "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+          "text": "Are you — Nobody — too?"
+        }
+      ]
+    },
+    {
+      "feat_id": 207,
+      "mean": 4.506533622741699,
+      "variance": 1604.402587890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 32.7747917175293
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S001",
+          "activation": 360.522705078125,
+          "ref": "Descartes, Meditations on First Philosophy",
+          "text": "I am, I exist — that is certain."
+        }
+      ]
+    },
+    {
+      "feat_id": 34,
+      "mean": 4.488028049468994,
+      "variance": 1591.2490234375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 51.291748046875,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 359.042236328125,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ]
+    },
+    {
+      "feat_id": 468,
+      "mean": 4.4476318359375,
+      "variance": 1562.7327880859375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 16.173206329345703,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S071",
+          "activation": 355.810546875,
+          "ref": "Shakespeare, The Tempest",
+          "text": "Our little life is rounded with a sleep."
+        }
+      ]
+    },
+    {
+      "feat_id": 137,
+      "mean": 4.431173801422119,
+      "variance": 1551.186767578125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 50.64198684692383,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S021",
+          "activation": 354.493896484375,
+          "ref": "Spinoza, Ethics",
+          "text": "The human mind is the very idea or knowledge of the human body."
+        }
+      ]
+    },
+    {
+      "feat_id": 4983,
+      "mean": 4.3811821937561035,
+      "variance": 1516.385986328125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 38.94384002685547,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S033",
+          "activation": 350.49456787109375,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        }
+      ]
+    },
+    {
+      "feat_id": 623,
+      "mean": 3.222909450531006,
+      "variance": 820.5847778320312,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 11.719671249389648,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S024",
+          "activation": 257.832763671875,
+          "ref": "Plotinus, Enneads",
+          "text": "The Fatherland to us is There whence we have come."
+        }
+      ]
+    },
+    {
+      "feat_id": 5456,
+      "mean": 0.0,
+      "variance": 0.0,
+      "active_rate": 0.0,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": []
+    }
+  ],
+  "top_cluster_differentiating_features": [
+    {
+      "feat_id": 949,
+      "mean": 127.19654846191406,
+      "variance": 114513.3125,
+      "active_rate": 0.125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 1017.5723876953125,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 1162.2196044921875,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S075",
+          "activation": 1114.158935546875,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Ein Zeichen sind wir, deutungslos."
+        },
+        {
+          "stimulus_id": "S076",
+          "activation": 1104.4002685546875,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren."
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 1090.064453125,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust."
+        },
+        {
+          "stimulus_id": "S074",
+          "activation": 1047.2142333984375,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Die Tiefen unseres Geistes kennen wir nicht."
+        },
+        {
+          "stimulus_id": "S073",
+          "activation": 995.4097900390625,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten."
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 974.7089233398438,
+          "ref": "Goethe, Faust I",
+          "text": "Die eine will sich von der andern trennen."
+        },
+        {
+          "stimulus_id": "S072",
+          "activation": 962.2880859375,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Nach Innen geht der geheimnisvolle Weg."
+        }
+      ],
+      "f_stat": 924.0996704101562,
+      "p": 0.0,
+      "eta2": 0.9889915585517883
+    },
+    {
+      "feat_id": 2076,
+      "mean": 100.60226440429688,
+      "variance": 81306.328125,
+      "active_rate": 0.1125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 894.2423706054688,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S039",
+          "activation": 1058.1949462890625,
+          "ref": "孟子, 盡心上",
+          "text": "知其性，則知天矣。"
+        },
+        {
+          "stimulus_id": "S035",
+          "activation": 965.3699951171875,
+          "ref": "老子, 道德經",
+          "text": "知人者智，自知者明。"
+        },
+        {
+          "stimulus_id": "S033",
+          "activation": 940.4146728515625,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        },
+        {
+          "stimulus_id": "S032",
+          "activation": 939.5361328125,
+          "ref": "莊子, 齊物論",
+          "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。"
+        },
+        {
+          "stimulus_id": "S038",
+          "activation": 934.3026123046875,
+          "ref": "孟子, 盡心上",
+          "text": "盡其心者，知其性也。"
+        },
+        {
+          "stimulus_id": "S034",
+          "activation": 925.2060546875,
+          "ref": "莊子, 齊物論",
+          "text": "今者吾喪我，汝知之乎？"
+        },
+        {
+          "stimulus_id": "S031",
+          "activation": 891.4652099609375,
+          "ref": "莊子, 齊物論",
+          "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。"
+        },
+        {
+          "stimulus_id": "S036",
+          "activation": 712.901123046875,
+          "ref": "老子, 道德經",
+          "text": "勝人者有力，自勝者強。"
+        }
+      ],
+      "f_stat": 560.8526000976562,
+      "p": 0.0,
+      "eta2": 0.9819907546043396
+    },
+    {
+      "feat_id": 366,
+      "mean": 75.55257415771484,
+      "variance": 46942.6875,
+      "active_rate": 0.1125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 604.4205932617188,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 868.771240234375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S076",
+          "activation": 852.124755859375,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren."
+        },
+        {
+          "stimulus_id": "S075",
+          "activation": 777.943603515625,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Ein Zeichen sind wir, deutungslos."
+        },
+        {
+          "stimulus_id": "S062",
+          "activation": 716.033447265625,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Du mußt dein Leben ändern."
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 633.6171875,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust."
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 593.70654296875,
+          "ref": "Goethe, Faust I",
+          "text": "Die eine will sich von der andern trennen."
+        },
+        {
+          "stimulus_id": "S074",
+          "activation": 575.468017578125,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Die Tiefen unseres Geistes kennen wir nicht."
+        },
+        {
+          "stimulus_id": "S073",
+          "activation": 538.518310546875,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten."
+        }
+      ],
+      "f_stat": 58.8359489440918,
+      "p": 2.9180007254584003e-27,
+      "eta2": 0.8511942625045776
+    },
+    {
+      "feat_id": 282,
+      "mean": 76.0900650024414,
+      "variance": 110237.7265625,
+      "active_rate": 0.05,
+      "cluster_means": {
+        "0": 869.6007080078125,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S042",
+          "activation": 1614.094970703125,
+          "ref": "Montaigne, Essays",
+          "text": "Que sais-je?"
+        },
+        {
+          "stimulus_id": "S058",
+          "activation": 1541.917236328125,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "J’assiste à l’éclosion de ma pensée."
+        },
+        {
+          "stimulus_id": "S017",
+          "activation": 1507.013671875,
+          "ref": "Pascal, Pensées",
+          "text": "Le moi est haïssable."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 1424.179443359375,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ],
+      "f_stat": 12.455707550048828,
+      "p": 2.4337087900505594e-10,
+      "eta2": 0.547710120677948
+    },
+    {
+      "feat_id": 705,
+      "mean": 185.22787475585938,
+      "variance": 63713.41796875,
+      "active_rate": 0.3625,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 70.36152648925781,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 290.3490295410156,
+        "5": 382.5725402832031,
+        "6": 0.0,
+        "7": 326.8373718261719
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S007",
+          "activation": 696.7457275390625,
+          "ref": "Locke, Essay Concerning Human Understanding",
+          "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person."
+        },
+        {
+          "stimulus_id": "S011",
+          "activation": 651.7020263671875,
+          "ref": "Hume, A Treatise of Human Nature",
+          "text": "When my perceptions are removed for any time, I am insensible of myself."
+        },
+        {
+          "stimulus_id": "S043",
+          "activation": 647.6470947265625,
+          "ref": "William Blake, The Marriage of Heaven and Hell",
+          "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite."
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 635.2227783203125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        },
+        {
+          "stimulus_id": "S008",
+          "activation": 632.8153076171875,
+          "ref": "Locke, Essay Concerning Human Understanding",
+          "text": "It is the same self now it was then."
+        },
+        {
+          "stimulus_id": "S044",
+          "activation": 631.6707763671875,
+          "ref": "William Blake, The Marriage of Heaven and Hell",
+          "text": "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern."
+        },
+        {
+          "stimulus_id": "S013",
+          "activation": 604.9666748046875,
+          "ref": "William James, The Principles of Psychology",
+          "text": "Within each personal consciousness thought is always changing."
+        },
+        {
+          "stimulus_id": "S010",
+          "activation": 601.0897216796875,
+          "ref": "Hume, A Treatise of Human Nature",
+          "text": "I never can observe any thing but the perception."
+        }
+      ],
+      "f_stat": 8.4232759475708,
+      "p": 1.7250589223749557e-07,
+      "eta2": 0.4502260982990265
+    },
+    {
+      "feat_id": 3779,
+      "mean": 35.98879623413086,
+      "variance": 20506.146484375,
+      "active_rate": 0.0625,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 287.9103698730469,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S076",
+          "activation": 758.1546020507812,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren."
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 701.2103271484375,
+          "ref": "Goethe, Faust I",
+          "text": "Die eine will sich von der andern trennen."
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 533.4872436523438,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust."
+        },
+        {
+          "stimulus_id": "S074",
+          "activation": 455.0185546875,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Die Tiefen unseres Geistes kennen wir nicht."
+        },
+        {
+          "stimulus_id": "S073",
+          "activation": 431.23321533203125,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten."
+        }
+      ],
+      "f_stat": 8.15172004699707,
+      "p": 2.798330740461097e-07,
+      "eta2": 0.4421287178993225
+    },
+    {
+      "feat_id": 3624,
+      "mean": 23.04199981689453,
+      "variance": 14612.919921875,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 263.3371276855469,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S042",
+          "activation": 836.604248046875,
+          "ref": "Montaigne, Essays",
+          "text": "Que sais-je?"
+        },
+        {
+          "stimulus_id": "S058",
+          "activation": 552.49169921875,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "J’assiste à l’éclosion de ma pensée."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 454.2640075683594,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ],
+      "f_stat": 6.274837970733643,
+      "p": 9.312944712291937e-06,
+      "eta2": 0.37890270352363586
+    },
+    {
+      "feat_id": 1993,
+      "mean": 49.692832946777344,
+      "variance": 69086.1328125,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 567.9180908203125,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S079",
+          "activation": 1654.816650390625,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "À parte isso, tenho em mim todos os sonhos do mundo."
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 1543.32421875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        },
+        {
+          "stimulus_id": "S078",
+          "activation": 777.2857055664062,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Nunca serei nada."
+        }
+      ],
+      "f_stat": 6.112477779388428,
+      "p": 1.2783598322130274e-05,
+      "eta2": 0.3727532923221588
+    },
+    {
+      "feat_id": 13968,
+      "mean": 10.599650382995605,
+      "variance": 8875.8759765625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 282.6573486328125,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S003",
+          "activation": 847.9720458984375,
+          "ref": "Descartes, Discourse on Method",
+          "text": "Cogito, ergo sum."
+        }
+      ],
+      "f_stat": 4.94999885559082,
+      "p": 0.0001314677210757509,
+      "eta2": 0.32489442825317383
+    },
+    {
+      "feat_id": 132,
+      "mean": 122.6209487915039,
+      "variance": 128562.1875,
+      "active_rate": 0.125,
+      "cluster_means": {
+        "0": 534.7985229492188,
+        "1": 136.2544403076172,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 92.53923797607422,
+        "6": 843.80810546875,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 1745.8310546875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        },
+        {
+          "stimulus_id": "S064",
+          "activation": 1583.07958984375,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow."
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 1498.798828125,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        },
+        {
+          "stimulus_id": "S029",
+          "activation": 948.3447265625,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Tat tvam asi."
+        },
+        {
+          "stimulus_id": "S020",
+          "activation": 810.87255859375,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        },
+        {
+          "stimulus_id": "S078",
+          "activation": 791.9140625,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Nunca serei nada."
+        },
+        {
+          "stimulus_id": "S055",
+          "activation": 700.080078125,
+          "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+          "text": "The one the other will contain."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 676.07861328125,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ],
+      "f_stat": 4.920032501220703,
+      "p": 0.00013980506628286093,
+      "eta2": 0.32356396317481995
+    },
+    {
+      "feat_id": 2139,
+      "mean": 25.477088928222656,
+      "variance": 16926.037109375,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 203.81671142578125,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 798.166015625,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S080",
+          "activation": 628.358154296875,
+          "ref": "Freud, Neue Folge der Vorlesungen",
+          "text": "Wo Es war, soll Ich werden."
+        },
+        {
+          "stimulus_id": "S062",
+          "activation": 611.6429443359375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Du mußt dein Leben ändern."
+        }
+      ],
+      "f_stat": 3.7741997241973877,
+      "p": 0.0015366323059424758,
+      "eta2": 0.2684369683265686
+    },
+    {
+      "feat_id": 46,
+      "mean": 19.214778900146484,
+      "variance": 14533.806640625,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 219.5974884033203,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S079",
+          "activation": 841.9951171875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "À parte isso, tenho em mim todos os sonhos do mundo."
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 695.187255859375,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ],
+      "f_stat": 3.7069497108459473,
+      "p": 0.0017729327082633972,
+      "eta2": 0.2649209797382355
+    },
+    {
+      "feat_id": 656,
+      "mean": 9.560639381408691,
+      "variance": 3565.563720703125,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 84.98345947265625,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S032",
+          "activation": 387.8526306152344,
+          "ref": "莊子, 齊物論",
+          "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。"
+        },
+        {
+          "stimulus_id": "S033",
+          "activation": 376.9985046386719,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        }
+      ],
+      "f_stat": 2.6074883937835693,
+      "p": 0.018618308007717133,
+      "eta2": 0.20223745703697205
+    },
+    {
+      "feat_id": 267,
+      "mean": 41.5316047668457,
+      "variance": 35520.2109375,
+      "active_rate": 0.05,
+      "cluster_means": {
+        "0": 97.71812438964844,
+        "1": 70.75199890136719,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 28.80231285095215,
+        "6": 408.8595275878906,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S064",
+          "activation": 1226.57861328125,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow."
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 778.27197265625,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 684.02685546875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        },
+        {
+          "stimulus_id": "S020",
+          "activation": 633.65087890625,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        }
+      ],
+      "f_stat": 2.215850591659546,
+      "p": 0.042639512568712234,
+      "eta2": 0.1772458702325821
+    },
+    {
+      "feat_id": 125,
+      "mean": 9.614950180053711,
+      "variance": 3795.33056640625,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 76.91960144042969,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 471.749755859375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht."
+        },
+        {
+          "stimulus_id": "S080",
+          "activation": 297.4462890625,
+          "ref": "Freud, Neue Folge der Vorlesungen",
+          "text": "Wo Es war, soll Ich werden."
+        }
+      ],
+      "f_stat": 2.1142897605895996,
+      "p": 0.052711982280015945,
+      "eta2": 0.17050719261169434
+    },
+    {
+      "feat_id": 534,
+      "mean": 74.6695785522461,
+      "variance": 30614.95703125,
+      "active_rate": 0.1625,
+      "cluster_means": {
+        "0": 113.57337951660156,
+        "1": 94.49669647216797,
+        "2": 39.235816955566406,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 88.23054504394531,
+        "6": 354.20947265625,
+        "7": 67.54824829101562
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S020",
+          "activation": 712.564208984375,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        },
+        {
+          "stimulus_id": "S064",
+          "activation": 624.67919921875,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow."
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 528.918701171875,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        },
+        {
+          "stimulus_id": "S015",
+          "activation": 510.544921875,
+          "ref": "Nietzsche, Thus Spake Zarathustra",
+          "text": "Body am I entirely, and nothing more."
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 496.0048828125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 439.8671875,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        },
+        {
+          "stimulus_id": "S003",
+          "activation": 437.94921875,
+          "ref": "Descartes, Discourse on Method",
+          "text": "Cogito, ergo sum."
+        },
+        {
+          "stimulus_id": "S001",
+          "activation": 393.052001953125,
+          "ref": "Descartes, Meditations on First Philosophy",
+          "text": "I am, I exist — that is certain."
+        }
+      ],
+      "f_stat": 1.7476963996887207,
+      "p": 0.11150360852479935,
+      "eta2": 0.145236998796463
+    },
+    {
+      "feat_id": 16259,
+      "mean": 7.128165245056152,
+      "variance": 4014.050048828125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 81.4647445678711,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S017",
+          "activation": 570.2532348632812,
+          "ref": "Pascal, Pensées",
+          "text": "Le moi est haïssable."
+        }
+      ],
+      "f_stat": 1.564285159111023,
+      "p": 0.16001176834106445,
+      "eta2": 0.13200722634792328
+    },
+    {
+      "feat_id": 198,
+      "mean": 6.4362640380859375,
+      "variance": 3272.61376953125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 73.55730438232422,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 514.901123046875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ],
+      "f_stat": 1.564285397529602,
+      "p": 0.16001181304454803,
+      "eta2": 0.13200722634792328
+    },
+    {
+      "feat_id": 137,
+      "mean": 4.431173801422119,
+      "variance": 1551.186767578125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 50.64198684692383,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S021",
+          "activation": 354.493896484375,
+          "ref": "Spinoza, Ethics",
+          "text": "The human mind is the very idea or knowledge of the human body."
+        }
+      ],
+      "f_stat": 1.5642859935760498,
+      "p": 0.1600119024515152,
+      "eta2": 0.13200725615024567
+    },
+    {
+      "feat_id": 2847,
+      "mean": 7.8845672607421875,
+      "variance": 4911.1376953125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 90.10933685302734,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S018",
+          "activation": 630.765380859375,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "The self is a relation which relates itself to its own self."
+        }
+      ],
+      "f_stat": 1.5642857551574707,
+      "p": 0.1600119024515152,
+      "eta2": 0.13200725615024567
+    },
+    {
+      "feat_id": 34,
+      "mean": 4.488028049468994,
+      "variance": 1591.2490234375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 51.291748046875,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 359.042236328125,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ],
+      "f_stat": 1.5642856359481812,
+      "p": 0.1600119024515152,
+      "eta2": 0.13200724124908447
+    },
+    {
+      "feat_id": 3383,
+      "mean": 6.132571220397949,
+      "variance": 2971.066650390625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 70.08653259277344,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S057",
+          "activation": 490.605712890625,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre."
+        }
+      ],
+      "f_stat": 1.5642858743667603,
+      "p": 0.1600119024515152,
+      "eta2": 0.13200724124908447
+    },
+    {
+      "feat_id": 11461,
+      "mean": 5.976928234100342,
+      "variance": 2822.169921875,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 68.30775451660156,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 478.1542663574219,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ],
+      "f_stat": 1.5642858743667603,
+      "p": 0.1600119024515152,
+      "eta2": 0.13200724124908447
+    },
+    {
+      "feat_id": 12641,
+      "mean": 6.424018859863281,
+      "variance": 3260.17333984375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 73.4173583984375,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 513.9215087890625,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada."
+        }
+      ],
+      "f_stat": 1.5642857551574707,
+      "p": 0.1600119024515152,
+      "eta2": 0.13200722634792328
+    },
+    {
+      "feat_id": 1016,
+      "mean": 6.057812690734863,
+      "variance": 2899.075439453125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 69.23213958740234,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S014",
+          "activation": 484.625,
+          "ref": "Nietzsche, The Gay Science",
+          "text": "Consciousness is the last and latest development of the organic."
+        }
+      ],
+      "f_stat": 1.564286231994629,
+      "p": 0.16001194715499878,
+      "eta2": 0.1320071816444397
+    },
+    {
+      "feat_id": 4983,
+      "mean": 4.3811821937561035,
+      "variance": 1516.385986328125,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 38.94384002685547,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S033",
+          "activation": 350.49456787109375,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        }
+      ],
+      "f_stat": 1.1410712003707886,
+      "p": 0.34757182002067566,
+      "eta2": 0.09985934942960739
+    },
+    {
+      "feat_id": 11119,
+      "mean": 5.204552173614502,
+      "variance": 2139.9052734375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 46.2626838684082,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S033",
+          "activation": 416.3641662597656,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。"
+        }
+      ],
+      "f_stat": 1.1410712003707886,
+      "p": 0.34757182002067566,
+      "eta2": 0.0998593345284462
+    },
+    {
+      "feat_id": 819,
+      "mean": 6.6407270431518555,
+      "variance": 3483.837890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 59.0286865234375,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S034",
+          "activation": 531.2581787109375,
+          "ref": "莊子, 齊物論",
+          "text": "今者吾喪我，汝知之乎？"
+        }
+      ],
+      "f_stat": 1.1410714387893677,
+      "p": 0.3475719094276428,
+      "eta2": 0.09985936433076859
+    },
+    {
+      "feat_id": 1789,
+      "mean": 5.52568244934082,
+      "variance": 2412.118896484375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 49.1171760559082,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S036",
+          "activation": 442.0545959472656,
+          "ref": "老子, 道德經",
+          "text": "勝人者有力，自勝者強。"
+        }
+      ],
+      "f_stat": 1.1410714387893677,
+      "p": 0.3475719094276428,
+      "eta2": 0.09985935688018799
+    },
+    {
+      "feat_id": 12519,
+      "mean": 4.8134026527404785,
+      "variance": 1830.3404541015625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 42.78580093383789,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S031",
+          "activation": 385.07220458984375,
+          "ref": "莊子, 齊物論",
+          "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。"
+        }
+      ],
+      "f_stat": 1.1410714387893677,
+      "p": 0.3475719094276428,
+      "eta2": 0.09985935688018799
+    },
+    {
+      "feat_id": 207,
+      "mean": 4.506533622741699,
+      "variance": 1604.402587890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 32.7747917175293
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S001",
+          "activation": 360.522705078125,
+          "ref": "Descartes, Meditations on First Philosophy",
+          "text": "I am, I exist — that is certain."
+        }
+      ],
+      "f_stat": 0.887143075466156,
+      "p": 0.5211981534957886,
+      "eta2": 0.07940158993005753
+    },
+    {
+      "feat_id": 129,
+      "mean": 4.512743949890137,
+      "variance": 1608.8245849609375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 32.8199577331543
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S051",
+          "activation": 361.01953125,
+          "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+          "text": "Are you — Nobody — too?"
+        }
+      ],
+      "f_stat": 0.8871426582336426,
+      "p": 0.5211987495422363,
+      "eta2": 0.07940161973237991
+    },
+    {
+      "feat_id": 1036,
+      "mean": 4.701865196228027,
+      "variance": 1746.4967041015625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 34.19538497924805,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S030",
+          "activation": 376.14923095703125,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That."
+        }
+      ],
+      "f_stat": 0.8871426582336426,
+      "p": 0.5211987495422363,
+      "eta2": 0.07940160483121872
+    },
+    {
+      "feat_id": 18,
+      "mean": 15.3507661819458,
+      "variance": 6188.39306640625,
+      "active_rate": 0.0375,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 48.49761199951172,
+        "5": 40.38990783691406,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S040",
+          "activation": 488.3826904296875,
+          "ref": "Emerson, Self-Reliance",
+          "text": "Trust thyself: every heart vibrates to that iron string."
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 400.1953125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        },
+        {
+          "stimulus_id": "S018",
+          "activation": 339.4832763671875,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "The self is a relation which relates itself to its own self."
+        }
+      ],
+      "f_stat": 0.7465670704841614,
+      "p": 0.6334511041641235,
+      "eta2": 0.06767114996910095
+    },
+    {
+      "feat_id": 962,
+      "mean": 13.001873970031738,
+      "variance": 7027.4609375,
+      "active_rate": 0.025,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 47.279541015625,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S055",
+          "activation": 651.9169311523438,
+          "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+          "text": "The one the other will contain."
+        },
+        {
+          "stimulus_id": "S020",
+          "activation": 388.23291015625,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi."
+        }
+      ],
+      "f_stat": 0.6964787840843201,
+      "p": 0.6747710704803467,
+      "eta2": 0.0634189322590828
+    },
+    {
+      "feat_id": 215,
+      "mean": 4.83511209487915,
+      "variance": 1846.8837890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 17.582225799560547,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S019",
+          "activation": 386.8089599609375,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self."
+        }
+      ],
+      "f_stat": 0.3551020324230194,
+      "p": 0.9250100255012512,
+      "eta2": 0.0333717055618763
+    },
+    {
+      "feat_id": 468,
+      "mean": 4.4476318359375,
+      "variance": 1562.7327880859375,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 16.173206329345703,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S071",
+          "activation": 355.810546875,
+          "ref": "Shakespeare, The Tempest",
+          "text": "Our little life is rounded with a sleep."
+        }
+      ],
+      "f_stat": 0.3551020324230194,
+      "p": 0.9250100255012512,
+      "eta2": 0.0333716906607151
+    },
+    {
+      "feat_id": 623,
+      "mean": 3.222909450531006,
+      "variance": 820.5847778320312,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 11.719671249389648,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S024",
+          "activation": 257.832763671875,
+          "ref": "Plotinus, Enneads",
+          "text": "The Fatherland to us is There whence we have come."
+        }
+      ],
+      "f_stat": 0.35510191321372986,
+      "p": 0.925010085105896,
+      "eta2": 0.0333716906607151
+    },
+    {
+      "feat_id": 3,
+      "mean": 4.614158630371094,
+      "variance": 1681.949462890625,
+      "active_rate": 0.0125,
+      "cluster_means": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 16.778759002685547,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "top_stimuli": [
+        {
+          "stimulus_id": "S041",
+          "activation": 369.1326904296875,
+          "ref": "Emerson, Self-Reliance",
+          "text": "Nothing is at last sacred but the integrity of your own mind."
+        }
+      ],
+      "f_stat": 0.3551018536090851,
+      "p": 0.9250101447105408,
+      "eta2": 0.033371683210134506
+    }
+  ]
+}

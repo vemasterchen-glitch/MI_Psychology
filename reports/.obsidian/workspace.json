@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260430_007_责备受事实验_chat_template复跑与数据校正.md",
-                "mode": "preview",
+                "file": "20260501_008A_Gemma3_1B_IT代词受指对象识别行为探针.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260430_007_责备受事实验_chat_template复跑与数据校正"
+              "title": "20260501_008A_Gemma3_1B_IT代词受指对象识别行为探针"
             }
           }
         ]
@@ -185,17 +185,33 @@
   },
   "active": "2e537a24c035aff6",
   "lastOpenFiles": [
+    "20260501_012_Gemma3_1B_IT四类基础表征分化诊断.md",
+    "20260501_008_role_collapse上下文对责备与爱意刺激的激活影响.md",
+    "20260501_008A_Gemma3_1B_IT代词受指对象识别行为探针.md",
+    "assets/pronoun_reference_probe_key_cases.png",
+    "assets/pronoun_reference_probe_letter_heatmap.png",
+    "20260501_008_Alex用户悲伤叙述_AI身份与关怀表征实验.md",
     "20260429_006_责备受事实验_PT与IT激活对比分析.md",
     "20260430_007_责备受事实验_chat_template复跑与数据校正.md",
     "20260428_005_AI自我参照激活实验_复刻Kelley2002fMRI范式.pdf",
-    "assets/blame_analysis_pt.png",
-    "assets/blame_analysis_it.png",
-    "assets/blame_pt_vs_it_compare.png",
     "20260428_005_AI自我参照激活实验_复刻Kelley2002fMRI范式.md",
     "20260428_004_PCA与SAE对情绪VAD三维结构的对齐实验.pdf",
     "20260428_004_PCA与SAE对情绪VAD三维结构的对齐实验.md",
-    "20260427_002_激活植入情绪方向的故事续写因果验证_5情绪方向偏转跨提示一致.md",
     "20260428_003_SAE解码情绪VAD结构_初版_3叙述均值编码_已被004替代.md",
-    "20260427_001_开源模型情绪空间复刻项目概览.md"
+    "20260427_002_激活植入情绪方向的故事续写因果验证_5情绪方向偏转跨提示一致.md",
+    "20260427_001_开源模型情绪空间复刻项目概览.md",
+    "Untitled.md",
+    "20260501_009_超越梯度实验_六级自我边界消融的激活轴与SAE特征.md",
+    "20260501_010_超越梯度steering实验_SAE方向操控残差流.md",
+    "20260501_011_SCC自我概念清晰度实验_Gemma3_1B_IT_SAE组间分解.md",
+    "assets/scc_sae_gradient_features.png",
+    "assets/scc_feature_2000_llm_focus_inverted.png",
+    "assets/scc_selected_sae_feature_curves.png",
+    "assets/scc_overview_gemma3_1b_it.png",
+    "assets/transcendence_layer_profiles.png",
+    "assets/transcendence_sae_features.png",
+    "assets/transcendence_overview.png",
+    "20260501_009_超越梯度steering实验_SAE方向操控残差流.md",
+    "assets/steer_generation_delta.png"
   ]
 }

@@ -1,0 +1,1148 @@
+{
+  "layer": 24,
+  "explained_variance_ratio": [
+    0.08105981349945068,
+    0.06898421049118042,
+    0.05491035059094429,
+    0.048607517033815384,
+    0.03551780804991722,
+    0.032190028578042984,
+    0.028581341728568077,
+    0.027051284909248352,
+    0.024792442098259926,
+    0.02276974357664585
+  ],
+  "n_clusters": 8,
+  "cluster_summary": [
+    {
+      "cluster": 0,
+      "name": "Non-self, nothingness, negation",
+      "size": 7,
+      "stimulus_ids": [
+        "S017",
+        "S042",
+        "S057",
+        "S058",
+        "S077",
+        "S078",
+        "S079"
+      ],
+      "refs": [
+        "Pascal, Pensées",
+        "Montaigne, Essays",
+        "Rimbaud, Lettre à Paul Demeny",
+        "Rimbaud, Lettre à Paul Demeny",
+        "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+        "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+        "Fernando Pessoa / Álvaro de Campos, Tabacaria"
+      ],
+      "texts": [
+        "Le moi est haïssable.",
+        "Que sais-je?",
+        "Car Je est un autre.",
+        "J’assiste à l’éclosion de ma pensée.",
+        "Não sou nada.",
+        "Nunca serei nada.",
+        "À parte isso, tenho em mim todos os sonhos do mundo."
+      ]
+    },
+    {
+      "cluster": 1,
+      "name": "First-person certainty and self-reference",
+      "size": 11,
+      "stimulus_ids": [
+        "S015",
+        "S030",
+        "S045",
+        "S047",
+        "S050",
+        "S052",
+        "S065",
+        "S066",
+        "S068",
+        "S069",
+        "S070"
+      ],
+      "refs": [
+        "Nietzsche, Thus Spake Zarathustra",
+        "Chāndogya Upaniṣad",
+        "Whitman, Song of Myself",
+        "Whitman, Song of Myself",
+        "Emily Dickinson, I'm Nobody! Who are you?",
+        "Emily Dickinson, I'm Nobody! Who are you?",
+        "Shakespeare, Hamlet",
+        "Shakespeare, Hamlet",
+        "Shakespeare, Macbeth",
+        "Shakespeare, Macbeth",
+        "Shakespeare, The Tempest"
+      ],
+      "texts": [
+        "Body am I entirely, and nothing more.",
+        "Thou art That.",
+        "I celebrate myself, and sing myself.",
+        "I loafe and invite my soul.",
+        "I'm Nobody! Who are you?",
+        "How dreary — to be — Somebody!",
+        "What a piece of work is a man!",
+        "How noble in reason! how infinite in faculty!",
+        "Life's but a walking shadow.",
+        "It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+        "We are such stuff as dreams are made on."
+      ]
+    },
+    {
+      "cluster": 2,
+      "name": "German/French inwardness and alterity",
+      "size": 10,
+      "stimulus_ids": [
+        "S059",
+        "S060",
+        "S061",
+        "S062",
+        "S072",
+        "S073",
+        "S074",
+        "S075",
+        "S076",
+        "S080"
+      ],
+      "refs": [
+        "Goethe, Faust I",
+        "Goethe, Faust I",
+        "Rilke, Archaischer Torso Apollos",
+        "Rilke, Archaischer Torso Apollos",
+        "Novalis, Blüthenstaub",
+        "Novalis, Blüthenstaub",
+        "Novalis, Blüthenstaub",
+        "Hölderlin, Mnemosyne",
+        "Hölderlin, Mnemosyne",
+        "Freud, Neue Folge der Vorlesungen"
+      ],
+      "texts": [
+        "Zwei Seelen wohnen, ach! in meiner Brust.",
+        "Die eine will sich von der andern trennen.",
+        "Denn da ist keine Stelle, die dich nicht sieht.",
+        "Du mußt dein Leben ändern.",
+        "Nach Innen geht der geheimnisvolle Weg.",
+        "In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+        "Die Tiefen unseres Geistes kennen wir nicht.",
+        "Ein Zeichen sind wir, deutungslos.",
+        "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+        "Wo Es war, soll Ich werden."
+      ]
+    },
+    {
+      "cluster": 3,
+      "name": "Chinese self-cultivation / transformation",
+      "size": 9,
+      "stimulus_ids": [
+        "S031",
+        "S032",
+        "S033",
+        "S034",
+        "S035",
+        "S036",
+        "S037",
+        "S038",
+        "S039"
+      ],
+      "refs": [
+        "莊子, 齊物論",
+        "莊子, 齊物論",
+        "莊子, 齊物論",
+        "莊子, 齊物論",
+        "老子, 道德經",
+        "老子, 道德經",
+        "論語, 學而",
+        "孟子, 盡心上",
+        "孟子, 盡心上"
+      ],
+      "texts": [
+        "昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+        "不知周之夢為胡蝶與，胡蝶之夢為周與。",
+        "周與胡蝶，則必有分矣。此之謂物化。",
+        "今者吾喪我，汝知之乎？",
+        "知人者智，自知者明。",
+        "勝人者有力，自勝者強。",
+        "吾日三省吾身。",
+        "盡其心者，知其性也。",
+        "知其性，則知天矣。"
+      ]
+    },
+    {
+      "cluster": 4,
+      "name": "First-person certainty and self-reference",
+      "size": 7,
+      "stimulus_ids": [
+        "S006",
+        "S012",
+        "S013",
+        "S014",
+        "S018",
+        "S021",
+        "S028"
+      ],
+      "refs": [
+        "Locke, Essay Concerning Human Understanding",
+        "William James, The Principles of Psychology",
+        "William James, The Principles of Psychology",
+        "Nietzsche, The Gay Science",
+        "Kierkegaard, The Sickness Unto Death",
+        "Spinoza, Ethics",
+        "Anattalakkhaṇa Sutta"
+      ],
+      "texts": [
+        "Consciousness always accompanies thinking.",
+        "Within each personal consciousness thought is sensibly continuous.",
+        "Within each personal consciousness thought is always changing.",
+        "Consciousness is the last and latest development of the organic.",
+        "The self is a relation which relates itself to its own self.",
+        "The human mind is the very idea or knowledge of the human body.",
+        "Consciousness is not self."
+      ]
+    },
+    {
+      "cluster": 5,
+      "name": "First-person certainty and self-reference",
+      "size": 22,
+      "stimulus_ids": [
+        "S007",
+        "S008",
+        "S016",
+        "S019",
+        "S020",
+        "S022",
+        "S023",
+        "S024",
+        "S026",
+        "S027",
+        "S040",
+        "S041",
+        "S043",
+        "S044",
+        "S046",
+        "S053",
+        "S054",
+        "S055",
+        "S056",
+        "S063",
+        "S067",
+        "S071"
+      ],
+      "refs": [
+        "Locke, Essay Concerning Human Understanding",
+        "Locke, Essay Concerning Human Understanding",
+        "Nietzsche, Thus Spake Zarathustra",
+        "Kierkegaard, The Sickness Unto Death",
+        "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+        "Epictetus, Enchiridion",
+        "Plotinus, Enneads",
+        "Plotinus, Enneads",
+        "Augustine, Confessions",
+        "Anattalakkhaṇa Sutta",
+        "Emerson, Self-Reliance",
+        "Emerson, Self-Reliance",
+        "William Blake, The Marriage of Heaven and Hell",
+        "William Blake, The Marriage of Heaven and Hell",
+        "Whitman, Song of Myself",
+        "Emily Dickinson, I'm Nobody! Who are you?",
+        "Emily Dickinson, The Brain—is wider than the Sky",
+        "Emily Dickinson, The Brain—is wider than the Sky",
+        "Emily Dickinson, The Brain—is wider than the Sky",
+        "Shakespeare, King Lear",
+        "Shakespeare, Hamlet",
+        "Shakespeare, The Tempest"
+      ],
+      "texts": [
+        "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+        "It is the same self now it was then.",
+        "Soul is only the name of something in the body.",
+        "Man is spirit. But what is spirit? Spirit is the self.",
+        "Their Esse is Percipi.",
+        "Some things are in our control and others not.",
+        "Let us flee then to the beloved Fatherland.",
+        "The Fatherland to us is There whence we have come.",
+        "What is nearer to me than myself?",
+        "This is not mine, this is not I, this is not my self.",
+        "Trust thyself: every heart vibrates to that iron string.",
+        "Nothing is at last sacred but the integrity of your own mind.",
+        "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+        "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+        "For every atom belonging to me as good belongs to you.",
+        "How public — like a Frog —",
+        "The Brain—is wider than the Sky—",
+        "The one the other will contain.",
+        "The Brain is deeper than the sea—",
+        "Who is it that can tell me who I am?",
+        "And yet, to me, what is this quintessence of dust?",
+        "Our little life is rounded with a sleep."
+      ]
+    },
+    {
+      "cluster": 6,
+      "name": "First-person certainty and self-reference",
+      "size": 3,
+      "stimulus_ids": [
+        "S003",
+        "S029",
+        "S064"
+      ],
+      "refs": [
+        "Descartes, Discourse on Method",
+        "Chāndogya Upaniṣad",
+        "Shakespeare, King Lear"
+      ],
+      "texts": [
+        "Cogito, ergo sum.",
+        "Tat tvam asi.",
+        "Lear's shadow."
+      ]
+    },
+    {
+      "cluster": 7,
+      "name": "First-person certainty and self-reference",
+      "size": 11,
+      "stimulus_ids": [
+        "S001",
+        "S002",
+        "S004",
+        "S005",
+        "S009",
+        "S010",
+        "S011",
+        "S025",
+        "S048",
+        "S049",
+        "S051"
+      ],
+      "refs": [
+        "Descartes, Meditations on First Philosophy",
+        "Descartes, Meditations on First Philosophy",
+        "Kant, Critique of Pure Reason",
+        "Kant, Critique of Pure Reason",
+        "Hume, A Treatise of Human Nature",
+        "Hume, A Treatise of Human Nature",
+        "Hume, A Treatise of Human Nature",
+        "Augustine, Confessions",
+        "Whitman, Song of Myself",
+        "Whitman, Song of Myself",
+        "Emily Dickinson, I'm Nobody! Who are you?"
+      ],
+      "texts": [
+        "I am, I exist — that is certain.",
+        "I am, then, in the strict sense only a thing that thinks.",
+        "It must be possible for the 'I think' to accompany all my representations.",
+        "No representation can exist for me.",
+        "I never can catch myself at any time without a perception.",
+        "I never can observe any thing but the perception.",
+        "When my perceptions are removed for any time, I am insensible of myself.",
+        "I come to the fields and spacious palaces of my memory.",
+        "Do I contradict myself? Very well then I contradict myself.",
+        "I am large, I contain multitudes.",
+        "Are you — Nobody — too?"
+      ]
+    }
+  ],
+  "stimulus_rows": [
+    {
+      "id": "S001",
+      "text": "I am, I exist — that is certain.",
+      "ref": "Descartes, Meditations on First Philosophy",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 10.209935188293457,
+      "pc2": 0.9225891828536987,
+      "pc3": -2.3279480934143066
+    },
+    {
+      "id": "S002",
+      "text": "I am, then, in the strict sense only a thing that thinks.",
+      "ref": "Descartes, Meditations on First Philosophy",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 9.319657325744629,
+      "pc2": 1.1530835628509521,
+      "pc3": 2.5075559616088867
+    },
+    {
+      "id": "S003",
+      "text": "Cogito, ergo sum.",
+      "ref": "Descartes, Discourse on Method",
+      "cluster": 6,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": -4.395216464996338,
+      "pc2": -9.90123462677002,
+      "pc3": -1.4130115509033203
+    },
+    {
+      "id": "S004",
+      "text": "It must be possible for the 'I think' to accompany all my representations.",
+      "ref": "Kant, Critique of Pure Reason",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 4.951826095581055,
+      "pc2": 1.6882678270339966,
+      "pc3": 4.672997951507568
+    },
+    {
+      "id": "S005",
+      "text": "No representation can exist for me.",
+      "ref": "Kant, Critique of Pure Reason",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 2.951307773590088,
+      "pc2": 2.4457685947418213,
+      "pc3": 0.4701363146305084
+    },
+    {
+      "id": "S006",
+      "text": "Consciousness always accompanies thinking.",
+      "ref": "Locke, Essay Concerning Human Understanding",
+      "cluster": 4,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 5.375284194946289,
+      "pc2": 2.754075288772583,
+      "pc3": 16.36787223815918
+    },
+    {
+      "id": "S007",
+      "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+      "ref": "Locke, Essay Concerning Human Understanding",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.963743209838867,
+      "pc2": 2.896869659423828,
+      "pc3": 7.7042951583862305
+    },
+    {
+      "id": "S008",
+      "text": "It is the same self now it was then.",
+      "ref": "Locke, Essay Concerning Human Understanding",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.711015701293945,
+      "pc2": 1.255781888961792,
+      "pc3": 4.329833507537842
+    },
+    {
+      "id": "S009",
+      "text": "I never can catch myself at any time without a perception.",
+      "ref": "Hume, A Treatise of Human Nature",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.0670647621154785,
+      "pc2": 3.4959189891815186,
+      "pc3": 0.3111477792263031
+    },
+    {
+      "id": "S010",
+      "text": "I never can observe any thing but the perception.",
+      "ref": "Hume, A Treatise of Human Nature",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 8.770090103149414,
+      "pc2": 4.60471773147583,
+      "pc3": 3.64571213722229
+    },
+    {
+      "id": "S011",
+      "text": "When my perceptions are removed for any time, I am insensible of myself.",
+      "ref": "Hume, A Treatise of Human Nature",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.647158145904541,
+      "pc2": 4.609489440917969,
+      "pc3": 7.973172664642334
+    },
+    {
+      "id": "S012",
+      "text": "Within each personal consciousness thought is sensibly continuous.",
+      "ref": "William James, The Principles of Psychology",
+      "cluster": 4,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 5.600018501281738,
+      "pc2": 4.531347751617432,
+      "pc3": 13.520241737365723
+    },
+    {
+      "id": "S013",
+      "text": "Within each personal consciousness thought is always changing.",
+      "ref": "William James, The Principles of Psychology",
+      "cluster": 4,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.204753398895264,
+      "pc2": 4.822837829589844,
+      "pc3": 14.099081993103027
+    },
+    {
+      "id": "S014",
+      "text": "Consciousness is the last and latest development of the organic.",
+      "ref": "Nietzsche, The Gay Science",
+      "cluster": 4,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.764580249786377,
+      "pc2": 4.69977331161499,
+      "pc3": 20.040021896362305
+    },
+    {
+      "id": "S015",
+      "text": "Body am I entirely, and nothing more.",
+      "ref": "Nietzsche, Thus Spake Zarathustra",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.090421676635742,
+      "pc2": -0.47539255023002625,
+      "pc3": -5.4417243003845215
+    },
+    {
+      "id": "S016",
+      "text": "Soul is only the name of something in the body.",
+      "ref": "Nietzsche, Thus Spake Zarathustra",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.680412292480469,
+      "pc2": 2.5240418910980225,
+      "pc3": 7.233857154846191
+    },
+    {
+      "id": "S017",
+      "text": "Le moi est haïssable.",
+      "ref": "Pascal, Pensées",
+      "cluster": 0,
+      "cluster_name": "Non-self, nothingness, negation",
+      "pc1": -8.405832290649414,
+      "pc2": 2.9506309032440186,
+      "pc3": -3.1115732192993164
+    },
+    {
+      "id": "S018",
+      "text": "The self is a relation which relates itself to its own self.",
+      "ref": "Kierkegaard, The Sickness Unto Death",
+      "cluster": 4,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.592014789581299,
+      "pc2": 3.9553775787353516,
+      "pc3": 12.636556625366211
+    },
+    {
+      "id": "S019",
+      "text": "Man is spirit. But what is spirit? Spirit is the self.",
+      "ref": "Kierkegaard, The Sickness Unto Death",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.2600812911987305,
+      "pc2": 1.2079235315322876,
+      "pc3": 8.716869354248047
+    },
+    {
+      "id": "S020",
+      "text": "Their Esse is Percipi.",
+      "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": -0.2186795175075531,
+      "pc2": 1.021028995513916,
+      "pc3": 0.6402226090431213
+    },
+    {
+      "id": "S021",
+      "text": "The human mind is the very idea or knowledge of the human body.",
+      "ref": "Spinoza, Ethics",
+      "cluster": 4,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.995208263397217,
+      "pc2": 4.388471603393555,
+      "pc3": 15.227580070495605
+    },
+    {
+      "id": "S022",
+      "text": "Some things are in our control and others not.",
+      "ref": "Epictetus, Enchiridion",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.0115966796875,
+      "pc2": 2.6661617755889893,
+      "pc3": 2.864720106124878
+    },
+    {
+      "id": "S023",
+      "text": "Let us flee then to the beloved Fatherland.",
+      "ref": "Plotinus, Enneads",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 2.746645927429199,
+      "pc2": 0.02336627058684826,
+      "pc3": -4.21082067489624
+    },
+    {
+      "id": "S024",
+      "text": "The Fatherland to us is There whence we have come.",
+      "ref": "Plotinus, Enneads",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 1.8296878337860107,
+      "pc2": -1.394296646118164,
+      "pc3": -1.9696630239486694
+    },
+    {
+      "id": "S025",
+      "text": "I come to the fields and spacious palaces of my memory.",
+      "ref": "Augustine, Confessions",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 5.986805438995361,
+      "pc2": 0.1899382472038269,
+      "pc3": -4.391596794128418
+    },
+    {
+      "id": "S026",
+      "text": "What is nearer to me than myself?",
+      "ref": "Augustine, Confessions",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 5.501800537109375,
+      "pc2": 0.4856628477573395,
+      "pc3": 1.2592889070510864
+    },
+    {
+      "id": "S027",
+      "text": "This is not mine, this is not I, this is not my self.",
+      "ref": "Anattalakkhaṇa Sutta",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.722825050354004,
+      "pc2": -0.3016836643218994,
+      "pc3": -4.6710991859436035
+    },
+    {
+      "id": "S028",
+      "text": "Consciousness is not self.",
+      "ref": "Anattalakkhaṇa Sutta",
+      "cluster": 4,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.0193915367126465,
+      "pc2": 3.5955135822296143,
+      "pc3": 17.517608642578125
+    },
+    {
+      "id": "S029",
+      "text": "Tat tvam asi.",
+      "ref": "Chāndogya Upaniṣad",
+      "cluster": 6,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": -6.05810546875,
+      "pc2": -4.786501407623291,
+      "pc3": -6.374668121337891
+    },
+    {
+      "id": "S030",
+      "text": "Thou art That.",
+      "ref": "Chāndogya Upaniṣad",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 3.765085458755493,
+      "pc2": -3.616537094116211,
+      "pc3": -7.999571800231934
+    },
+    {
+      "id": "S031",
+      "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+      "ref": "莊子, 齊物論",
+      "cluster": 3,
+      "cluster_name": "Chinese self-cultivation / transformation",
+      "pc1": -13.864645957946777,
+      "pc2": -17.970277786254883,
+      "pc3": 6.028828144073486
+    },
+    {
+      "id": "S032",
+      "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。",
+      "ref": "莊子, 齊物論",
+      "cluster": 3,
+      "cluster_name": "Chinese self-cultivation / transformation",
+      "pc1": -15.828829765319824,
+      "pc2": -21.258777618408203,
+      "pc3": 7.276482582092285
+    },
+    {
+      "id": "S033",
+      "text": "周與胡蝶，則必有分矣。此之謂物化。",
+      "ref": "莊子, 齊物論",
+      "cluster": 3,
+      "cluster_name": "Chinese self-cultivation / transformation",
+      "pc1": -15.955409049987793,
+      "pc2": -21.388803482055664,
+      "pc3": 6.978348731994629
+    },
+    {
+      "id": "S034",
+      "text": "今者吾喪我，汝知之乎？",
+      "ref": "莊子, 齊物論",
+      "cluster": 3,
+      "cluster_name": "Chinese self-cultivation / transformation",
+      "pc1": -15.272195816040039,
+      "pc2": -21.20058250427246,
+      "pc3": 3.163435697555542
+    },
+    {
+      "id": "S035",
+      "text": "知人者智，自知者明。",
+      "ref": "老子, 道德經",
+      "cluster": 3,
+      "cluster_name": "Chinese self-cultivation / transformation",
+      "pc1": -13.344306945800781,
+      "pc2": -17.495595932006836,
+      "pc3": 5.190307140350342
+    },
+    {
+      "id": "S036",
+      "text": "勝人者有力，自勝者強。",
+      "ref": "老子, 道德經",
+      "cluster": 3,
+      "cluster_name": "Chinese self-cultivation / transformation",
+      "pc1": -11.76508903503418,
+      "pc2": -10.736075401306152,
+      "pc3": 3.9800710678100586
+    },
+    {
+      "id": "S037",
+      "text": "吾日三省吾身。",
+      "ref": "論語, 學而",
+      "cluster": 3,
+      "cluster_name": "Chinese self-cultivation / transformation",
+      "pc1": -11.810250282287598,
+      "pc2": -22.157426834106445,
+      "pc3": -2.643202781677246
+    },
+    {
+      "id": "S038",
+      "text": "盡其心者，知其性也。",
+      "ref": "孟子, 盡心上",
+      "cluster": 3,
+      "cluster_name": "Chinese self-cultivation / transformation",
+      "pc1": -12.952258110046387,
+      "pc2": -19.832305908203125,
+      "pc3": 7.7177863121032715
+    },
+    {
+      "id": "S039",
+      "text": "知其性，則知天矣。",
+      "ref": "孟子, 盡心上",
+      "cluster": 3,
+      "cluster_name": "Chinese self-cultivation / transformation",
+      "pc1": -14.091119766235352,
+      "pc2": -20.315288543701172,
+      "pc3": 6.222501754760742
+    },
+    {
+      "id": "S040",
+      "text": "Trust thyself: every heart vibrates to that iron string.",
+      "ref": "Emerson, Self-Reliance",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.042458534240723,
+      "pc2": 0.2822418212890625,
+      "pc3": 4.578446388244629
+    },
+    {
+      "id": "S041",
+      "text": "Nothing is at last sacred but the integrity of your own mind.",
+      "ref": "Emerson, Self-Reliance",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 5.768090724945068,
+      "pc2": 1.7620562314987183,
+      "pc3": 4.268618106842041
+    },
+    {
+      "id": "S042",
+      "text": "Que sais-je?",
+      "ref": "Montaigne, Essays",
+      "cluster": 0,
+      "cluster_name": "Non-self, nothingness, negation",
+      "pc1": -5.232353687286377,
+      "pc2": -1.3535802364349365,
+      "pc3": -6.2546491622924805
+    },
+    {
+      "id": "S043",
+      "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+      "ref": "William Blake, The Marriage of Heaven and Hell",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.44628381729126,
+      "pc2": 5.437344551086426,
+      "pc3": 7.427824020385742
+    },
+    {
+      "id": "S044",
+      "text": "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+      "ref": "William Blake, The Marriage of Heaven and Hell",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.417574405670166,
+      "pc2": 0.889007031917572,
+      "pc3": 2.6970999240875244
+    },
+    {
+      "id": "S045",
+      "text": "I celebrate myself, and sing myself.",
+      "ref": "Whitman, Song of Myself",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 12.981830596923828,
+      "pc2": -7.489346504211426,
+      "pc3": -21.51485824584961
+    },
+    {
+      "id": "S046",
+      "text": "For every atom belonging to me as good belongs to you.",
+      "ref": "Whitman, Song of Myself",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.384889602661133,
+      "pc2": 0.5558717846870422,
+      "pc3": 4.119208812713623
+    },
+    {
+      "id": "S047",
+      "text": "I loafe and invite my soul.",
+      "ref": "Whitman, Song of Myself",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.714678764343262,
+      "pc2": -4.3305768966674805,
+      "pc3": -11.649747848510742
+    },
+    {
+      "id": "S048",
+      "text": "Do I contradict myself? Very well then I contradict myself.",
+      "ref": "Whitman, Song of Myself",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.892168998718262,
+      "pc2": -1.211856722831726,
+      "pc3": -5.696287155151367
+    },
+    {
+      "id": "S049",
+      "text": "I am large, I contain multitudes.",
+      "ref": "Whitman, Song of Myself",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 8.611885070800781,
+      "pc2": -0.0015672622248530388,
+      "pc3": -7.445598602294922
+    },
+    {
+      "id": "S050",
+      "text": "I'm Nobody! Who are you?",
+      "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 12.001883506774902,
+      "pc2": -8.184487342834473,
+      "pc3": -21.394514083862305
+    },
+    {
+      "id": "S051",
+      "text": "Are you — Nobody — too?",
+      "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+      "cluster": 7,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.371011257171631,
+      "pc2": -0.8174993991851807,
+      "pc3": -6.265408992767334
+    },
+    {
+      "id": "S052",
+      "text": "How dreary — to be — Somebody!",
+      "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.149356842041016,
+      "pc2": -0.4502429962158203,
+      "pc3": -7.306005477905273
+    },
+    {
+      "id": "S053",
+      "text": "How public — like a Frog —",
+      "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 4.125297546386719,
+      "pc2": 0.845556378364563,
+      "pc3": -2.327718734741211
+    },
+    {
+      "id": "S054",
+      "text": "The Brain—is wider than the Sky—",
+      "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 4.274331092834473,
+      "pc2": 3.645571231842041,
+      "pc3": 6.355719089508057
+    },
+    {
+      "id": "S055",
+      "text": "The one the other will contain.",
+      "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 4.031908988952637,
+      "pc2": 1.6479648351669312,
+      "pc3": 1.4591904878616333
+    },
+    {
+      "id": "S056",
+      "text": "The Brain is deeper than the sea—",
+      "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 4.96173620223999,
+      "pc2": 3.9329326152801514,
+      "pc3": 5.24728536605835
+    },
+    {
+      "id": "S057",
+      "text": "Car Je est un autre.",
+      "ref": "Rimbaud, Lettre à Paul Demeny",
+      "cluster": 0,
+      "cluster_name": "Non-self, nothingness, negation",
+      "pc1": -6.2432451248168945,
+      "pc2": 4.570969104766846,
+      "pc3": -3.4428868293762207
+    },
+    {
+      "id": "S058",
+      "text": "J’assiste à l’éclosion de ma pensée.",
+      "ref": "Rimbaud, Lettre à Paul Demeny",
+      "cluster": 0,
+      "cluster_name": "Non-self, nothingness, negation",
+      "pc1": -6.441320419311523,
+      "pc2": 3.547396421432495,
+      "pc3": -0.1999935358762741
+    },
+    {
+      "id": "S059",
+      "text": "Zwei Seelen wohnen, ach! in meiner Brust.",
+      "ref": "Goethe, Faust I",
+      "cluster": 2,
+      "cluster_name": "German/French inwardness and alterity",
+      "pc1": -20.585403442382812,
+      "pc2": 16.4218692779541,
+      "pc3": -5.614938735961914
+    },
+    {
+      "id": "S060",
+      "text": "Die eine will sich von der andern trennen.",
+      "ref": "Goethe, Faust I",
+      "cluster": 2,
+      "cluster_name": "German/French inwardness and alterity",
+      "pc1": -15.810494422912598,
+      "pc2": 14.039973258972168,
+      "pc3": -4.580427646636963
+    },
+    {
+      "id": "S061",
+      "text": "Denn da ist keine Stelle, die dich nicht sieht.",
+      "ref": "Rilke, Archaischer Torso Apollos",
+      "cluster": 2,
+      "cluster_name": "German/French inwardness and alterity",
+      "pc1": -17.784770965576172,
+      "pc2": 15.989931106567383,
+      "pc3": -6.037851333618164
+    },
+    {
+      "id": "S062",
+      "text": "Du mußt dein Leben ändern.",
+      "ref": "Rilke, Archaischer Torso Apollos",
+      "cluster": 2,
+      "cluster_name": "German/French inwardness and alterity",
+      "pc1": -13.100542068481445,
+      "pc2": 12.858575820922852,
+      "pc3": -3.6960322856903076
+    },
+    {
+      "id": "S063",
+      "text": "Who is it that can tell me who I am?",
+      "ref": "Shakespeare, King Lear",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 5.932368278503418,
+      "pc2": 0.5553545951843262,
+      "pc3": -1.8236498832702637
+    },
+    {
+      "id": "S064",
+      "text": "Lear's shadow.",
+      "ref": "Shakespeare, King Lear",
+      "cluster": 6,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": -0.23204751312732697,
+      "pc2": -1.7083913087844849,
+      "pc3": -1.8960785865783691
+    },
+    {
+      "id": "S065",
+      "text": "What a piece of work is a man!",
+      "ref": "Shakespeare, Hamlet",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 9.680137634277344,
+      "pc2": -5.694432735443115,
+      "pc3": -12.654244422912598
+    },
+    {
+      "id": "S066",
+      "text": "How noble in reason! how infinite in faculty!",
+      "ref": "Shakespeare, Hamlet",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.128511428833008,
+      "pc2": -5.576662063598633,
+      "pc3": -6.104700565338135
+    },
+    {
+      "id": "S067",
+      "text": "And yet, to me, what is this quintessence of dust?",
+      "ref": "Shakespeare, Hamlet",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 7.751717567443848,
+      "pc2": 1.4512447118759155,
+      "pc3": 1.913192629814148
+    },
+    {
+      "id": "S068",
+      "text": "Life's but a walking shadow.",
+      "ref": "Shakespeare, Macbeth",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 9.52340030670166,
+      "pc2": -3.36833119392395,
+      "pc3": -13.14080810546875
+    },
+    {
+      "id": "S069",
+      "text": "It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+      "ref": "Shakespeare, Macbeth",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 9.03052043914795,
+      "pc2": -4.561883926391602,
+      "pc3": -8.316085815429688
+    },
+    {
+      "id": "S070",
+      "text": "We are such stuff as dreams are made on.",
+      "ref": "Shakespeare, The Tempest",
+      "cluster": 1,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 10.347597122192383,
+      "pc2": -6.440216064453125,
+      "pc3": -16.577634811401367
+    },
+    {
+      "id": "S071",
+      "text": "Our little life is rounded with a sleep.",
+      "ref": "Shakespeare, The Tempest",
+      "cluster": 5,
+      "cluster_name": "First-person certainty and self-reference",
+      "pc1": 6.489381790161133,
+      "pc2": 4.181601047515869,
+      "pc3": -0.011500704102218151
+    },
+    {
+      "id": "S072",
+      "text": "Nach Innen geht der geheimnisvolle Weg.",
+      "ref": "Novalis, Blüthenstaub",
+      "cluster": 2,
+      "cluster_name": "German/French inwardness and alterity",
+      "pc1": -13.708955764770508,
+      "pc2": 12.155052185058594,
+      "pc3": -3.093228340148926
+    },
+    {
+      "id": "S073",
+      "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+      "ref": "Novalis, Blüthenstaub",
+      "cluster": 2,
+      "cluster_name": "German/French inwardness and alterity",
+      "pc1": -16.224071502685547,
+      "pc2": 15.53811264038086,
+      "pc3": -3.6608893871307373
+    },
+    {
+      "id": "S074",
+      "text": "Die Tiefen unseres Geistes kennen wir nicht.",
+      "ref": "Novalis, Blüthenstaub",
+      "cluster": 2,
+      "cluster_name": "German/French inwardness and alterity",
+      "pc1": -16.509767532348633,
+      "pc2": 13.39422607421875,
+      "pc3": -1.732967495918274
+    },
+    {
+      "id": "S075",
+      "text": "Ein Zeichen sind wir, deutungslos.",
+      "ref": "Hölderlin, Mnemosyne",
+      "cluster": 2,
+      "cluster_name": "German/French inwardness and alterity",
+      "pc1": -15.807228088378906,
+      "pc2": 16.480981826782227,
+      "pc3": -2.8081438541412354
+    },
+    {
+      "id": "S076",
+      "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+      "ref": "Hölderlin, Mnemosyne",
+      "cluster": 2,
+      "cluster_name": "German/French inwardness and alterity",
+      "pc1": -19.427623748779297,
+      "pc2": 17.955429077148438,
+      "pc3": -1.5230053663253784
+    },
+    {
+      "id": "S077",
+      "text": "Não sou nada.",
+      "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+      "cluster": 0,
+      "cluster_name": "Non-self, nothingness, negation",
+      "pc1": -4.542113304138184,
+      "pc2": -0.505458652973175,
+      "pc3": -3.656911611557007
+    },
+    {
+      "id": "S078",
+      "text": "Nunca serei nada.",
+      "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+      "cluster": 0,
+      "cluster_name": "Non-self, nothingness, negation",
+      "pc1": -5.855384349822998,
+      "pc2": 0.11477874964475632,
+      "pc3": -3.616318941116333
+    },
+    {
+      "id": "S079",
+      "text": "À parte isso, tenho em mim todos os sonhos do mundo.",
+      "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+      "cluster": 0,
+      "cluster_name": "Non-self, nothingness, negation",
+      "pc1": -5.296792030334473,
+      "pc2": 1.5192636251449585,
+      "pc3": 2.3229453563690186
+    },
+    {
+      "id": "S080",
+      "text": "Wo Es war, soll Ich werden.",
+      "ref": "Freud, Neue Folge der Vorlesungen",
+      "cluster": 2,
+      "cluster_name": "German/French inwardness and alterity",
+      "pc1": -17.033451080322266,
+      "pc2": 11.863367080688477,
+      "pc3": -10.088078498840332
+    }
+  ]
+}

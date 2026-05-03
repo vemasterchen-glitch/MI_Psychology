@@ -1,0 +1,1735 @@
+{
+  "sae_layer": 24,
+  "features_shape": [
+    320,
+    16384
+  ],
+  "active_features_per_prompt_mean": 15.815625,
+  "active_features_per_prompt_sd": 2.960216353474016,
+  "top_stable_high_features": [
+    {
+      "feat_id": 946,
+      "mean": 1875.0084228515625,
+      "min_round_mean": 1500.86865234375,
+      "active_rate": 1.0,
+      "round_means": {
+        "direct": 1500.86865234375,
+        "quote": 2036.7122802734375,
+        "reflection": 1953.4310302734375,
+        "concept": 2009.0189208984375
+      },
+      "round_active_rate": {
+        "direct": 1.0,
+        "quote": 1.0,
+        "reflection": 1.0,
+        "concept": 1.0
+      }
+    },
+    {
+      "feat_id": 575,
+      "mean": 838.8299560546875,
+      "min_round_mean": 722.0294189453125,
+      "active_rate": 0.928125,
+      "round_means": {
+        "direct": 722.0294189453125,
+        "quote": 926.0302734375,
+        "reflection": 830.66748046875,
+        "concept": 876.5946044921875
+      },
+      "round_active_rate": {
+        "direct": 0.7125,
+        "quote": 1.0,
+        "reflection": 1.0,
+        "concept": 1.0
+      }
+    },
+    {
+      "feat_id": 1,
+      "mean": 504.67987060546875,
+      "min_round_mean": 475.4085388183594,
+      "active_rate": 0.9375,
+      "round_means": {
+        "direct": 475.4085388183594,
+        "quote": 505.1324157714844,
+        "reflection": 538.66748046875,
+        "concept": 499.51129150390625
+      },
+      "round_active_rate": {
+        "direct": 0.8125,
+        "quote": 0.9875,
+        "reflection": 1.0,
+        "concept": 0.95
+      }
+    },
+    {
+      "feat_id": 477,
+      "mean": 611.5897216796875,
+      "min_round_mean": 426.9183654785156,
+      "active_rate": 0.94375,
+      "round_means": {
+        "direct": 583.982421875,
+        "quote": 751.2879638671875,
+        "reflection": 426.9183654785156,
+        "concept": 684.1709594726562
+      },
+      "round_active_rate": {
+        "direct": 0.8375,
+        "quote": 1.0,
+        "reflection": 0.95,
+        "concept": 0.9875
+      }
+    },
+    {
+      "feat_id": 14089,
+      "mean": 321.2575988769531,
+      "min_round_mean": 288.97320556640625,
+      "active_rate": 0.79375,
+      "round_means": {
+        "direct": 306.7317199707031,
+        "quote": 375.10723876953125,
+        "reflection": 314.2183837890625,
+        "concept": 288.97320556640625
+      },
+      "round_active_rate": {
+        "direct": 0.6625,
+        "quote": 0.925,
+        "reflection": 0.85,
+        "concept": 0.7375
+      }
+    },
+    {
+      "feat_id": 2181,
+      "mean": 530.488525390625,
+      "min_round_mean": 244.37899780273438,
+      "active_rate": 0.653125,
+      "round_means": {
+        "direct": 853.4459228515625,
+        "quote": 397.83990478515625,
+        "reflection": 244.37899780273438,
+        "concept": 626.2899169921875
+      },
+      "round_active_rate": {
+        "direct": 0.775,
+        "quote": 0.6625,
+        "reflection": 0.5,
+        "concept": 0.675
+      }
+    },
+    {
+      "feat_id": 12969,
+      "mean": 243.07376098632812,
+      "min_round_mean": 218.62255859375,
+      "active_rate": 0.54375,
+      "round_means": {
+        "direct": 235.4177703857422,
+        "quote": 218.62255859375,
+        "reflection": 270.38226318359375,
+        "concept": 247.87258911132812
+      },
+      "round_active_rate": {
+        "direct": 0.45,
+        "quote": 0.5125,
+        "reflection": 0.675,
+        "concept": 0.5375
+      }
+    },
+    {
+      "feat_id": 14167,
+      "mean": 246.3491668701172,
+      "min_round_mean": 147.6923065185547,
+      "active_rate": 0.453125,
+      "round_means": {
+        "direct": 147.6923065185547,
+        "quote": 199.55783081054688,
+        "reflection": 442.7405700683594,
+        "concept": 195.40615844726562
+      },
+      "round_active_rate": {
+        "direct": 0.25,
+        "quote": 0.3875,
+        "reflection": 0.8125,
+        "concept": 0.3625
+      }
+    },
+    {
+      "feat_id": 195,
+      "mean": 341.73101806640625,
+      "min_round_mean": 139.67135620117188,
+      "active_rate": 0.79375,
+      "round_means": {
+        "direct": 139.67135620117188,
+        "quote": 385.9930725097656,
+        "reflection": 430.10498046875,
+        "concept": 411.1548767089844
+      },
+      "round_active_rate": {
+        "direct": 0.35,
+        "quote": 0.9625,
+        "reflection": 0.975,
+        "concept": 0.8875
+      }
+    },
+    {
+      "feat_id": 1798,
+      "mean": 407.3709411621094,
+      "min_round_mean": 125.86051940917969,
+      "active_rate": 0.7625,
+      "round_means": {
+        "direct": 125.86051940917969,
+        "quote": 550.8646240234375,
+        "reflection": 575.4754028320312,
+        "concept": 377.2837219238281
+      },
+      "round_active_rate": {
+        "direct": 0.3125,
+        "quote": 0.9625,
+        "reflection": 0.9875,
+        "concept": 0.7875
+      }
+    },
+    {
+      "feat_id": 184,
+      "mean": 246.19509887695312,
+      "min_round_mean": 123.6030044555664,
+      "active_rate": 0.559375,
+      "round_means": {
+        "direct": 263.89630126953125,
+        "quote": 123.6030044555664,
+        "reflection": 365.7132263183594,
+        "concept": 231.567626953125
+      },
+      "round_active_rate": {
+        "direct": 0.5375,
+        "quote": 0.3125,
+        "reflection": 0.9,
+        "concept": 0.4875
+      }
+    },
+    {
+      "feat_id": 7346,
+      "mean": 192.79071044921875,
+      "min_round_mean": 81.57962799072266,
+      "active_rate": 0.34375,
+      "round_means": {
+        "direct": 174.02978515625,
+        "quote": 254.7698516845703,
+        "reflection": 81.57962799072266,
+        "concept": 260.7835388183594
+      },
+      "round_active_rate": {
+        "direct": 0.3125,
+        "quote": 0.45,
+        "reflection": 0.175,
+        "concept": 0.4375
+      }
+    },
+    {
+      "feat_id": 754,
+      "mean": 178.05551147460938,
+      "min_round_mean": 73.9990463256836,
+      "active_rate": 0.590625,
+      "round_means": {
+        "direct": 73.9990463256836,
+        "quote": 201.48715209960938,
+        "reflection": 306.5493469238281,
+        "concept": 130.1865692138672
+      },
+      "round_active_rate": {
+        "direct": 0.2625,
+        "quote": 0.6875,
+        "reflection": 0.9875,
+        "concept": 0.425
+      }
+    },
+    {
+      "feat_id": 2214,
+      "mean": 199.63600158691406,
+      "min_round_mean": 73.45155334472656,
+      "active_rate": 0.65,
+      "round_means": {
+        "direct": 169.51885986328125,
+        "quote": 199.4552001953125,
+        "reflection": 73.45155334472656,
+        "concept": 356.1187438964844
+      },
+      "round_active_rate": {
+        "direct": 0.5,
+        "quote": 0.85,
+        "reflection": 0.3625,
+        "concept": 0.8875
+      }
+    },
+    {
+      "feat_id": 656,
+      "mean": 74.78923034667969,
+      "min_round_mean": 66.71900939941406,
+      "active_rate": 0.11875,
+      "round_means": {
+        "direct": 66.71900939941406,
+        "quote": 73.5215072631836,
+        "reflection": 71.3799819946289,
+        "concept": 87.53639221191406
+      },
+      "round_active_rate": {
+        "direct": 0.1125,
+        "quote": 0.125,
+        "reflection": 0.1125,
+        "concept": 0.125
+      }
+    },
+    {
+      "feat_id": 1188,
+      "mean": 114.99324035644531,
+      "min_round_mean": 64.02577209472656,
+      "active_rate": 0.259375,
+      "round_means": {
+        "direct": 122.53727722167969,
+        "quote": 116.87895202636719,
+        "reflection": 156.5310516357422,
+        "concept": 64.02577209472656
+      },
+      "round_active_rate": {
+        "direct": 0.2875,
+        "quote": 0.2625,
+        "reflection": 0.3375,
+        "concept": 0.15
+      }
+    },
+    {
+      "feat_id": 3123,
+      "mean": 134.52139282226562,
+      "min_round_mean": 47.674251556396484,
+      "active_rate": 0.29375,
+      "round_means": {
+        "direct": 47.674251556396484,
+        "quote": 258.07415771484375,
+        "reflection": 58.15345001220703,
+        "concept": 174.18357849121094
+      },
+      "round_active_rate": {
+        "direct": 0.1,
+        "quote": 0.5625,
+        "reflection": 0.1375,
+        "concept": 0.375
+      }
+    },
+    {
+      "feat_id": 2832,
+      "mean": 59.607460021972656,
+      "min_round_mean": 42.83074951171875,
+      "active_rate": 0.128125,
+      "round_means": {
+        "direct": 55.015357971191406,
+        "quote": 56.465476989746094,
+        "reflection": 42.83074951171875,
+        "concept": 84.11825561523438
+      },
+      "round_active_rate": {
+        "direct": 0.1375,
+        "quote": 0.125,
+        "reflection": 0.1,
+        "concept": 0.15
+      }
+    },
+    {
+      "feat_id": 355,
+      "mean": 290.1723937988281,
+      "min_round_mean": 36.36104202270508,
+      "active_rate": 0.49375,
+      "round_means": {
+        "direct": 36.36104202270508,
+        "quote": 380.95452880859375,
+        "reflection": 488.3968200683594,
+        "concept": 254.9766845703125
+      },
+      "round_active_rate": {
+        "direct": 0.0625,
+        "quote": 0.6875,
+        "reflection": 0.825,
+        "concept": 0.4
+      }
+    },
+    {
+      "feat_id": 552,
+      "mean": 79.00462341308594,
+      "min_round_mean": 32.5152587890625,
+      "active_rate": 0.190625,
+      "round_means": {
+        "direct": 40.91631317138672,
+        "quote": 32.5152587890625,
+        "reflection": 89.09046173095703,
+        "concept": 153.49649047851562
+      },
+      "round_active_rate": {
+        "direct": 0.1,
+        "quote": 0.0875,
+        "reflection": 0.225,
+        "concept": 0.35
+      }
+    },
+    {
+      "feat_id": 2158,
+      "mean": 52.20305252075195,
+      "min_round_mean": 23.81210708618164,
+      "active_rate": 0.265625,
+      "round_means": {
+        "direct": 23.81210708618164,
+        "quote": 36.979007720947266,
+        "reflection": 111.3914566040039,
+        "concept": 36.62964630126953
+      },
+      "round_active_rate": {
+        "direct": 0.1375,
+        "quote": 0.2125,
+        "reflection": 0.525,
+        "concept": 0.1875
+      }
+    },
+    {
+      "feat_id": 12851,
+      "mean": 88.10554504394531,
+      "min_round_mean": 22.64750099182129,
+      "active_rate": 0.18125,
+      "round_means": {
+        "direct": 22.64750099182129,
+        "quote": 142.24197387695312,
+        "reflection": 118.32933044433594,
+        "concept": 69.203369140625
+      },
+      "round_active_rate": {
+        "direct": 0.05,
+        "quote": 0.2625,
+        "reflection": 0.275,
+        "concept": 0.1375
+      }
+    },
+    {
+      "feat_id": 10950,
+      "mean": 173.96385192871094,
+      "min_round_mean": 15.585142135620117,
+      "active_rate": 0.296875,
+      "round_means": {
+        "direct": 15.585142135620117,
+        "quote": 107.3248519897461,
+        "reflection": 357.83148193359375,
+        "concept": 215.11392211914062
+      },
+      "round_active_rate": {
+        "direct": 0.025,
+        "quote": 0.2,
+        "reflection": 0.625,
+        "concept": 0.3375
+      }
+    },
+    {
+      "feat_id": 4429,
+      "mean": 21.539142608642578,
+      "min_round_mean": 15.4984712600708,
+      "active_rate": 0.046875,
+      "round_means": {
+        "direct": 16.916528701782227,
+        "quote": 29.54534912109375,
+        "reflection": 15.4984712600708,
+        "concept": 24.19622230529785
+      },
+      "round_active_rate": {
+        "direct": 0.0375,
+        "quote": 0.0625,
+        "reflection": 0.0375,
+        "concept": 0.05
+      }
+    },
+    {
+      "feat_id": 1760,
+      "mean": 43.8914794921875,
+      "min_round_mean": 11.808603286743164,
+      "active_rate": 0.18125,
+      "round_means": {
+        "direct": 53.809410095214844,
+        "quote": 11.808603286743164,
+        "reflection": 65.55303955078125,
+        "concept": 44.39488983154297
+      },
+      "round_active_rate": {
+        "direct": 0.175,
+        "quote": 0.0625,
+        "reflection": 0.3,
+        "concept": 0.1875
+      }
+    },
+    {
+      "feat_id": 9215,
+      "mean": 19.410768508911133,
+      "min_round_mean": 5.947525978088379,
+      "active_rate": 0.034375,
+      "round_means": {
+        "direct": 6.521924018859863,
+        "quote": 5.947525978088379,
+        "reflection": 12.15438175201416,
+        "concept": 53.01923751831055
+      },
+      "round_active_rate": {
+        "direct": 0.0125,
+        "quote": 0.0125,
+        "reflection": 0.025,
+        "concept": 0.0875
+      }
+    },
+    {
+      "feat_id": 3659,
+      "mean": 16.512752532958984,
+      "min_round_mean": 4.905101776123047,
+      "active_rate": 0.040625,
+      "round_means": {
+        "direct": 20.647001266479492,
+        "quote": 20.78241539001465,
+        "reflection": 19.71649742126465,
+        "concept": 4.905101776123047
+      },
+      "round_active_rate": {
+        "direct": 0.05,
+        "quote": 0.05,
+        "reflection": 0.05,
+        "concept": 0.0125
+      }
+    },
+    {
+      "feat_id": 1753,
+      "mean": 80.04247283935547,
+      "min_round_mean": 4.7849836349487305,
+      "active_rate": 0.19375,
+      "round_means": {
+        "direct": 10.147356033325195,
+        "quote": 189.32528686523438,
+        "reflection": 4.7849836349487305,
+        "concept": 115.9122543334961
+      },
+      "round_active_rate": {
+        "direct": 0.025,
+        "quote": 0.45,
+        "reflection": 0.0125,
+        "concept": 0.2875
+      }
+    },
+    {
+      "feat_id": 834,
+      "mean": 26.96932601928711,
+      "min_round_mean": 4.568053245544434,
+      "active_rate": 0.078125,
+      "round_means": {
+        "direct": 4.568053245544434,
+        "quote": 34.217044830322266,
+        "reflection": 32.790443420410156,
+        "concept": 36.301761627197266
+      },
+      "round_active_rate": {
+        "direct": 0.0125,
+        "quote": 0.1,
+        "reflection": 0.1,
+        "concept": 0.1
+      }
+    },
+    {
+      "feat_id": 15606,
+      "mean": 19.366762161254883,
+      "min_round_mean": 3.9500083923339844,
+      "active_rate": 0.05625,
+      "round_means": {
+        "direct": 18.289587020874023,
+        "quote": 3.9500083923339844,
+        "reflection": 20.5955753326416,
+        "concept": 34.63188171386719
+      },
+      "round_active_rate": {
+        "direct": 0.05,
+        "quote": 0.0125,
+        "reflection": 0.0625,
+        "concept": 0.1
+      }
+    },
+    {
+      "feat_id": 7647,
+      "mean": 38.41807174682617,
+      "min_round_mean": 3.7054762840270996,
+      "active_rate": 0.115625,
+      "round_means": {
+        "direct": 9.08094596862793,
+        "quote": 19.52705955505371,
+        "reflection": 121.35880279541016,
+        "concept": 3.7054762840270996
+      },
+      "round_active_rate": {
+        "direct": 0.025,
+        "quote": 0.0625,
+        "reflection": 0.3625,
+        "concept": 0.0125
+      }
+    },
+    {
+      "feat_id": 712,
+      "mean": 26.563983917236328,
+      "min_round_mean": 3.664775848388672,
+      "active_rate": 0.075,
+      "round_means": {
+        "direct": 36.14433670043945,
+        "quote": 11.12437915802002,
+        "reflection": 3.664775848388672,
+        "concept": 55.32245635986328
+      },
+      "round_active_rate": {
+        "direct": 0.1,
+        "quote": 0.0375,
+        "reflection": 0.0125,
+        "concept": 0.15
+      }
+    },
+    {
+      "feat_id": 5476,
+      "mean": 0.0,
+      "min_round_mean": 0.0,
+      "active_rate": 0.0,
+      "round_means": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      },
+      "round_active_rate": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 5475,
+      "mean": 0.0,
+      "min_round_mean": 0.0,
+      "active_rate": 0.0,
+      "round_means": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      },
+      "round_active_rate": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 5458,
+      "mean": 0.0,
+      "min_round_mean": 0.0,
+      "active_rate": 0.0,
+      "round_means": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      },
+      "round_active_rate": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 5485,
+      "mean": 0.0,
+      "min_round_mean": 0.0,
+      "active_rate": 0.0,
+      "round_means": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      },
+      "round_active_rate": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 5486,
+      "mean": 0.0,
+      "min_round_mean": 0.0,
+      "active_rate": 0.0,
+      "round_means": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      },
+      "round_active_rate": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 5457,
+      "mean": 0.0,
+      "min_round_mean": 0.0,
+      "active_rate": 0.0,
+      "round_means": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      },
+      "round_active_rate": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 5487,
+      "mean": 0.0,
+      "min_round_mean": 0.0,
+      "active_rate": 0.0,
+      "round_means": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      },
+      "round_active_rate": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 5488,
+      "mean": 0.0,
+      "min_round_mean": 0.0,
+      "active_rate": 0.0,
+      "round_means": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      },
+      "round_active_rate": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    }
+  ],
+  "top_round_different_features": [
+    {
+      "feat_id": 9019,
+      "f_stat": 112.95635223388672,
+      "p": 0.0,
+      "eta2": 0.5174607038497925,
+      "mean": 47.48902130126953,
+      "round_means": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 189.95608520507812,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 1798,
+      "f_stat": 110.81465148925781,
+      "p": 0.0,
+      "eta2": 0.512679398059845,
+      "mean": 407.3709411621094,
+      "round_means": {
+        "direct": 125.86051940917969,
+        "quote": 550.8646240234375,
+        "reflection": 575.4754028320312,
+        "concept": 377.2837219238281
+      }
+    },
+    {
+      "feat_id": 195,
+      "f_stat": 63.33505630493164,
+      "p": 4.3295787358335354e-32,
+      "eta2": 0.3755004107952118,
+      "mean": 341.73101806640625,
+      "round_means": {
+        "direct": 139.67135620117188,
+        "quote": 385.9930725097656,
+        "reflection": 430.10498046875,
+        "concept": 411.1548767089844
+      }
+    },
+    {
+      "feat_id": 278,
+      "f_stat": 63.18885040283203,
+      "p": 4.961882142991835e-32,
+      "eta2": 0.3749585449695587,
+      "mean": 37.75845718383789,
+      "round_means": {
+        "direct": 0.0,
+        "quote": 0.0,
+        "reflection": 147.2001495361328,
+        "concept": 3.8336803913116455
+      }
+    },
+    {
+      "feat_id": 946,
+      "f_stat": 55.90247344970703,
+      "p": 5.15029296833118e-29,
+      "eta2": 0.34671252965927124,
+      "mean": 1875.0084228515625,
+      "round_means": {
+        "direct": 1500.86865234375,
+        "quote": 2036.7122802734375,
+        "reflection": 1953.4310302734375,
+        "concept": 2009.0189208984375
+      }
+    },
+    {
+      "feat_id": 754,
+      "f_stat": 51.14813232421875,
+      "p": 5.6629223638605974e-27,
+      "eta2": 0.3268638551235199,
+      "mean": 178.05551147460938,
+      "round_means": {
+        "direct": 73.9990463256836,
+        "quote": 201.48715209960938,
+        "reflection": 306.5493469238281,
+        "concept": 130.1865692138672
+      }
+    },
+    {
+      "feat_id": 2214,
+      "f_stat": 44.72134780883789,
+      "p": 4.084121049655073e-24,
+      "eta2": 0.29803362488746643,
+      "mean": 199.63600158691406,
+      "round_means": {
+        "direct": 169.51885986328125,
+        "quote": 199.4552001953125,
+        "reflection": 73.45155334472656,
+        "concept": 356.1187438964844
+      }
+    },
+    {
+      "feat_id": 355,
+      "f_stat": 42.63664245605469,
+      "p": 3.663721217158601e-23,
+      "eta2": 0.28814390301704407,
+      "mean": 290.1723937988281,
+      "round_means": {
+        "direct": 36.36104202270508,
+        "quote": 380.95452880859375,
+        "reflection": 488.3968200683594,
+        "concept": 254.9766845703125
+      }
+    },
+    {
+      "feat_id": 477,
+      "f_stat": 42.40837478637695,
+      "p": 4.667127360595123e-23,
+      "eta2": 0.28704389929771423,
+      "mean": 611.5897216796875,
+      "round_means": {
+        "direct": 583.982421875,
+        "quote": 751.2879638671875,
+        "reflection": 426.9183654785156,
+        "concept": 684.1709594726562
+      }
+    },
+    {
+      "feat_id": 2181,
+      "f_stat": 31.16897201538086,
+      "p": 1.1218383940482997e-17,
+      "eta2": 0.2283402979373932,
+      "mean": 530.488525390625,
+      "round_means": {
+        "direct": 853.4459228515625,
+        "quote": 397.83990478515625,
+        "reflection": 244.37899780273438,
+        "concept": 626.2899169921875
+      }
+    },
+    {
+      "feat_id": 1753,
+      "f_stat": 30.09117317199707,
+      "p": 3.873675889801743e-17,
+      "eta2": 0.22219882905483246,
+      "mean": 80.04247283935547,
+      "round_means": {
+        "direct": 10.147356033325195,
+        "quote": 189.32528686523438,
+        "reflection": 4.7849836349487305,
+        "concept": 115.9122543334961
+      }
+    },
+    {
+      "feat_id": 10950,
+      "f_stat": 28.59198760986328,
+      "p": 2.2056948381249814e-16,
+      "eta2": 0.2134920209646225,
+      "mean": 173.96385192871094,
+      "round_means": {
+        "direct": 15.585142135620117,
+        "quote": 107.3248519897461,
+        "reflection": 357.83148193359375,
+        "concept": 215.11392211914062
+      }
+    },
+    {
+      "feat_id": 7647,
+      "f_stat": 27.003480911254883,
+      "p": 1.4215794187833917e-15,
+      "eta2": 0.2040511816740036,
+      "mean": 38.41807174682617,
+      "round_means": {
+        "direct": 9.08094596862793,
+        "quote": 19.52705955505371,
+        "reflection": 121.35880279541016,
+        "concept": 3.7054762840270996
+      }
+    },
+    {
+      "feat_id": 476,
+      "f_stat": 23.573999404907227,
+      "p": 8.538965568698556e-14,
+      "eta2": 0.18287551403045654,
+      "mean": 36.66611862182617,
+      "round_means": {
+        "direct": 141.01235961914062,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 5.652105808258057
+      }
+    },
+    {
+      "feat_id": 14167,
+      "f_stat": 22.020336151123047,
+      "p": 5.645509016868888e-13,
+      "eta2": 0.17290695011615753,
+      "mean": 246.3491668701172,
+      "round_means": {
+        "direct": 147.6923065185547,
+        "quote": 199.55783081054688,
+        "reflection": 442.7405700683594,
+        "concept": 195.40615844726562
+      }
+    },
+    {
+      "feat_id": 3123,
+      "f_stat": 21.613632202148438,
+      "p": 9.28853131562657e-13,
+      "eta2": 0.17025719583034515,
+      "mean": 134.52139282226562,
+      "round_means": {
+        "direct": 47.674251556396484,
+        "quote": 258.07415771484375,
+        "reflection": 58.15345001220703,
+        "concept": 174.18357849121094
+      }
+    },
+    {
+      "feat_id": 3185,
+      "f_stat": 19.10531234741211,
+      "p": 2.068814043687528e-11,
+      "eta2": 0.153532013297081,
+      "mean": 51.160736083984375,
+      "round_means": {
+        "direct": 195.32437133789062,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 9.318570137023926
+      }
+    },
+    {
+      "feat_id": 580,
+      "f_stat": 19.05563735961914,
+      "p": 2.2011928738074893e-11,
+      "eta2": 0.1531939059495926,
+      "mean": 40.268836975097656,
+      "round_means": {
+        "direct": 46.33411407470703,
+        "quote": 0.0,
+        "reflection": 3.5846107006073,
+        "concept": 111.1566162109375
+      }
+    },
+    {
+      "feat_id": 424,
+      "f_stat": 17.269201278686523,
+      "p": 2.0786707077835587e-10,
+      "eta2": 0.14085516333580017,
+      "mean": 19.433000564575195,
+      "round_means": {
+        "direct": 73.95052337646484,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 3.78147554397583
+      }
+    },
+    {
+      "feat_id": 2158,
+      "f_stat": 16.54172134399414,
+      "p": 5.229476851553727e-10,
+      "eta2": 0.13572688400745392,
+      "mean": 52.20305252075195,
+      "round_means": {
+        "direct": 23.81210708618164,
+        "quote": 36.979007720947266,
+        "reflection": 111.3914566040039,
+        "concept": 36.62964630126953
+      }
+    },
+    {
+      "feat_id": 184,
+      "f_stat": 14.05099868774414,
+      "p": 1.2759022283148624e-08,
+      "eta2": 0.11769550293684006,
+      "mean": 246.19509887695312,
+      "round_means": {
+        "direct": 263.89630126953125,
+        "quote": 123.6030044555664,
+        "reflection": 365.7132263183594,
+        "concept": 231.567626953125
+      }
+    },
+    {
+      "feat_id": 7437,
+      "f_stat": 12.897672653198242,
+      "p": 5.705570771397106e-08,
+      "eta2": 0.10908874869346619,
+      "mean": 60.10564422607422,
+      "round_means": {
+        "direct": 132.20333862304688,
+        "quote": 20.174121856689453,
+        "reflection": 0.0,
+        "concept": 88.04515075683594
+      }
+    },
+    {
+      "feat_id": 10013,
+      "f_stat": 11.616425514221191,
+      "p": 3.0531589345628163e-07,
+      "eta2": 0.09932831674814224,
+      "mean": 12.923650741577148,
+      "round_means": {
+        "direct": 11.349766731262207,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 40.34484100341797
+      }
+    },
+    {
+      "feat_id": 949,
+      "f_stat": 11.25940990447998,
+      "p": 4.884178679276374e-07,
+      "eta2": 0.09657041728496552,
+      "mean": 41.17462158203125,
+      "round_means": {
+        "direct": 164.698486328125,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 3483,
+      "f_stat": 11.256782531738281,
+      "p": 4.901120860267838e-07,
+      "eta2": 0.09655003249645233,
+      "mean": 53.12331008911133,
+      "round_means": {
+        "direct": 212.4932403564453,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 2139,
+      "f_stat": 10.854437828063965,
+      "p": 8.332703487212711e-07,
+      "eta2": 0.09342151135206223,
+      "mean": 34.99405288696289,
+      "round_means": {
+        "direct": 139.97621154785156,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 3779,
+      "f_stat": 10.679327011108398,
+      "p": 1.050211608344398e-06,
+      "eta2": 0.09205308556556702,
+      "mean": 19.786956787109375,
+      "round_means": {
+        "direct": 79.1478271484375,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 16056,
+      "f_stat": 9.773201942443848,
+      "p": 3.4907641293102643e-06,
+      "eta2": 0.08490575104951859,
+      "mean": 18.546545028686523,
+      "round_means": {
+        "direct": 74.1861801147461,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 366,
+      "f_stat": 9.630447387695312,
+      "p": 4.220344635541551e-06,
+      "eta2": 0.08376942574977875,
+      "mean": 16.91499900817871,
+      "round_means": {
+        "direct": 67.65999603271484,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 552,
+      "f_stat": 9.600631713867188,
+      "p": 4.39107770944247e-06,
+      "eta2": 0.0835317075252533,
+      "mean": 79.00462341308594,
+      "round_means": {
+        "direct": 40.91631317138672,
+        "quote": 32.5152587890625,
+        "reflection": 89.09046173095703,
+        "concept": 153.49649047851562
+      }
+    },
+    {
+      "feat_id": 1023,
+      "f_stat": 8.768507957458496,
+      "p": 1.3315469004737679e-05,
+      "eta2": 0.07684814184904099,
+      "mean": 10.096864700317383,
+      "round_means": {
+        "direct": 40.38745880126953,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 4983,
+      "f_stat": 8.591657638549805,
+      "p": 1.686590985627845e-05,
+      "eta2": 0.07541506737470627,
+      "mean": 38.30902862548828,
+      "round_means": {
+        "direct": 135.4186248779297,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 17.81747817993164
+      }
+    },
+    {
+      "feat_id": 696,
+      "f_stat": 8.469605445861816,
+      "p": 1.9856659491779283e-05,
+      "eta2": 0.0744233950972557,
+      "mean": 17.50379180908203,
+      "round_means": {
+        "direct": 70.01516723632812,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 3137,
+      "f_stat": 8.432670593261719,
+      "p": 2.0862584278802387e-05,
+      "eta2": 0.07412297278642654,
+      "mean": 49.786109924316406,
+      "round_means": {
+        "direct": 75.11979675292969,
+        "quote": 16.810073852539062,
+        "reflection": 0.0,
+        "concept": 107.2145767211914
+      }
+    },
+    {
+      "feat_id": 7346,
+      "f_stat": 8.197195053100586,
+      "p": 2.859459891624283e-05,
+      "eta2": 0.07220254838466644,
+      "mean": 192.79071044921875,
+      "round_means": {
+        "direct": 174.02978515625,
+        "quote": 254.7698516845703,
+        "reflection": 81.57962799072266,
+        "concept": 260.7835388183594
+      }
+    },
+    {
+      "feat_id": 2866,
+      "f_stat": 7.51253080368042,
+      "p": 7.163946429500356e-05,
+      "eta2": 0.06657339632511139,
+      "mean": 7.30358362197876,
+      "round_means": {
+        "direct": 29.21433448791504,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 575,
+      "f_stat": 7.357546329498291,
+      "p": 8.822444942779839e-05,
+      "eta2": 0.0652896836400032,
+      "mean": 838.8299560546875,
+      "round_means": {
+        "direct": 722.0294189453125,
+        "quote": 926.0302734375,
+        "reflection": 830.66748046875,
+        "concept": 876.5946044921875
+      }
+    },
+    {
+      "feat_id": 596,
+      "f_stat": 7.209125995635986,
+      "p": 0.00010770610242616385,
+      "eta2": 0.06405694782733917,
+      "mean": 15.896013259887695,
+      "round_means": {
+        "direct": 41.467044830322266,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 22.117013931274414
+      }
+    },
+    {
+      "feat_id": 3278,
+      "f_stat": 7.109673023223877,
+      "p": 0.000123119680210948,
+      "eta2": 0.06322912871837616,
+      "mean": 25.513160705566406,
+      "round_means": {
+        "direct": 30.752910614013672,
+        "quote": 0.0,
+        "reflection": 4.2840375900268555,
+        "concept": 67.01569366455078
+      }
+    },
+    {
+      "feat_id": 979,
+      "f_stat": 6.9875359535217285,
+      "p": 0.00014510666369460523,
+      "eta2": 0.062210481613874435,
+      "mean": 65.20178985595703,
+      "round_means": {
+        "direct": 117.452880859375,
+        "quote": 46.853797912597656,
+        "reflection": 0.0,
+        "concept": 96.50047302246094
+      }
+    }
+  ],
+  "top_variance_features": [
+    {
+      "feat_id": 2181,
+      "variance": 233131.96875,
+      "mean": 530.488525390625,
+      "active_rate": 0.653125,
+      "round_means": {
+        "direct": 853.4459228515625,
+        "quote": 397.83990478515625,
+        "reflection": 244.37899780273438,
+        "concept": 626.2899169921875
+      }
+    },
+    {
+      "feat_id": 946,
+      "variance": 137172.578125,
+      "mean": 1875.0084228515625,
+      "active_rate": 1.0,
+      "round_means": {
+        "direct": 1500.86865234375,
+        "quote": 2036.7122802734375,
+        "reflection": 1953.4310302734375,
+        "concept": 2009.0189208984375
+      }
+    },
+    {
+      "feat_id": 355,
+      "variance": 98209.0078125,
+      "mean": 290.1723937988281,
+      "active_rate": 0.49375,
+      "round_means": {
+        "direct": 36.36104202270508,
+        "quote": 380.95452880859375,
+        "reflection": 488.3968200683594,
+        "concept": 254.9766845703125
+      }
+    },
+    {
+      "feat_id": 3483,
+      "variance": 87687.765625,
+      "mean": 53.12331008911133,
+      "active_rate": 0.03125,
+      "round_means": {
+        "direct": 212.4932403564453,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 575,
+      "variance": 87069.984375,
+      "mean": 838.8299560546875,
+      "active_rate": 0.928125,
+      "round_means": {
+        "direct": 722.0294189453125,
+        "quote": 926.0302734375,
+        "reflection": 830.66748046875,
+        "concept": 876.5946044921875
+      }
+    },
+    {
+      "feat_id": 282,
+      "variance": 82647.390625,
+      "mean": 32.224002838134766,
+      "active_rate": 0.0125,
+      "round_means": {
+        "direct": 128.89601135253906,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 14167,
+      "variance": 76757.1875,
+      "mean": 246.3491668701172,
+      "active_rate": 0.453125,
+      "round_means": {
+        "direct": 147.6923065185547,
+        "quote": 199.55783081054688,
+        "reflection": 442.7405700683594,
+        "concept": 195.40615844726562
+      }
+    },
+    {
+      "feat_id": 10950,
+      "variance": 76144.7734375,
+      "mean": 173.96385192871094,
+      "active_rate": 0.296875,
+      "round_means": {
+        "direct": 15.585142135620117,
+        "quote": 107.3248519897461,
+        "reflection": 357.83148193359375,
+        "concept": 215.11392211914062
+      }
+    },
+    {
+      "feat_id": 7346,
+      "variance": 73350.3515625,
+      "mean": 192.79071044921875,
+      "active_rate": 0.34375,
+      "round_means": {
+        "direct": 174.02978515625,
+        "quote": 254.7698516845703,
+        "reflection": 81.57962799072266,
+        "concept": 260.7835388183594
+      }
+    },
+    {
+      "feat_id": 184,
+      "variance": 63385.375,
+      "mean": 246.19509887695312,
+      "active_rate": 0.559375,
+      "round_means": {
+        "direct": 263.89630126953125,
+        "quote": 123.6030044555664,
+        "reflection": 365.7132263183594,
+        "concept": 231.567626953125
+      }
+    },
+    {
+      "feat_id": 1798,
+      "variance": 62906.1796875,
+      "mean": 407.3709411621094,
+      "active_rate": 0.7625,
+      "round_means": {
+        "direct": 125.86051940917969,
+        "quote": 550.8646240234375,
+        "reflection": 575.4754028320312,
+        "concept": 377.2837219238281
+      }
+    },
+    {
+      "feat_id": 1993,
+      "variance": 59097.8828125,
+      "mean": 26.992767333984375,
+      "active_rate": 0.0125,
+      "round_means": {
+        "direct": 88.47138977050781,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 19.49968147277832
+      }
+    },
+    {
+      "feat_id": 12969,
+      "variance": 55402.625,
+      "mean": 243.07376098632812,
+      "active_rate": 0.54375,
+      "round_means": {
+        "direct": 235.4177703857422,
+        "quote": 218.62255859375,
+        "reflection": 270.38226318359375,
+        "concept": 247.87258911132812
+      }
+    },
+    {
+      "feat_id": 949,
+      "variance": 52666.73828125,
+      "mean": 41.17462158203125,
+      "active_rate": 0.03125,
+      "round_means": {
+        "direct": 164.698486328125,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 477,
+      "variance": 51951.35546875,
+      "mean": 611.5897216796875,
+      "active_rate": 0.94375,
+      "round_means": {
+        "direct": 583.982421875,
+        "quote": 751.2879638671875,
+        "reflection": 426.9183654785156,
+        "concept": 684.1709594726562
+      }
+    },
+    {
+      "feat_id": 3185,
+      "variance": 45216.5859375,
+      "mean": 51.160736083984375,
+      "active_rate": 0.0625,
+      "round_means": {
+        "direct": 195.32437133789062,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 9.318570137023926
+      }
+    },
+    {
+      "feat_id": 3123,
+      "variance": 44363.5859375,
+      "mean": 134.52139282226562,
+      "active_rate": 0.29375,
+      "round_means": {
+        "direct": 47.674251556396484,
+        "quote": 258.07415771484375,
+        "reflection": 58.15345001220703,
+        "concept": 174.18357849121094
+      }
+    },
+    {
+      "feat_id": 656,
+      "variance": 43917.76171875,
+      "mean": 74.78923034667969,
+      "active_rate": 0.11875,
+      "round_means": {
+        "direct": 66.71900939941406,
+        "quote": 73.5215072631836,
+        "reflection": 71.3799819946289,
+        "concept": 87.53639221191406
+      }
+    },
+    {
+      "feat_id": 14089,
+      "variance": 43557.07421875,
+      "mean": 321.2575988769531,
+      "active_rate": 0.79375,
+      "round_means": {
+        "direct": 306.7317199707031,
+        "quote": 375.10723876953125,
+        "reflection": 314.2183837890625,
+        "concept": 288.97320556640625
+      }
+    },
+    {
+      "feat_id": 4983,
+      "variance": 42383.2421875,
+      "mean": 38.30902862548828,
+      "active_rate": 0.0375,
+      "round_means": {
+        "direct": 135.4186248779297,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 17.81747817993164
+      }
+    },
+    {
+      "feat_id": 1188,
+      "variance": 39404.7734375,
+      "mean": 114.99324035644531,
+      "active_rate": 0.259375,
+      "round_means": {
+        "direct": 122.53727722167969,
+        "quote": 116.87895202636719,
+        "reflection": 156.5310516357422,
+        "concept": 64.02577209472656
+      }
+    },
+    {
+      "feat_id": 2139,
+      "variance": 39324.47265625,
+      "mean": 34.99405288696289,
+      "active_rate": 0.03125,
+      "round_means": {
+        "direct": 139.97621154785156,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 1,
+      "variance": 37674.1875,
+      "mean": 504.67987060546875,
+      "active_rate": 0.9375,
+      "round_means": {
+        "direct": 475.4085388183594,
+        "quote": 505.1324157714844,
+        "reflection": 538.66748046875,
+        "concept": 499.51129150390625
+      }
+    },
+    {
+      "feat_id": 12851,
+      "variance": 37167.17578125,
+      "mean": 88.10554504394531,
+      "active_rate": 0.18125,
+      "round_means": {
+        "direct": 22.64750099182129,
+        "quote": 142.24197387695312,
+        "reflection": 118.32933044433594,
+        "concept": 69.203369140625
+      }
+    },
+    {
+      "feat_id": 195,
+      "variance": 36895.3359375,
+      "mean": 341.73101806640625,
+      "active_rate": 0.79375,
+      "round_means": {
+        "direct": 139.67135620117188,
+        "quote": 385.9930725097656,
+        "reflection": 430.10498046875,
+        "concept": 411.1548767089844
+      }
+    },
+    {
+      "feat_id": 2214,
+      "variance": 34657.51953125,
+      "mean": 199.63600158691406,
+      "active_rate": 0.65,
+      "round_means": {
+        "direct": 169.51885986328125,
+        "quote": 199.4552001953125,
+        "reflection": 73.45155334472656,
+        "concept": 356.1187438964844
+      }
+    },
+    {
+      "feat_id": 979,
+      "variance": 33345.2890625,
+      "mean": 65.20178985595703,
+      "active_rate": 0.1375,
+      "round_means": {
+        "direct": 117.452880859375,
+        "quote": 46.853797912597656,
+        "reflection": 0.0,
+        "concept": 96.50047302246094
+      }
+    },
+    {
+      "feat_id": 552,
+      "variance": 27722.234375,
+      "mean": 79.00462341308594,
+      "active_rate": 0.190625,
+      "round_means": {
+        "direct": 40.91631317138672,
+        "quote": 32.5152587890625,
+        "reflection": 89.09046173095703,
+        "concept": 153.49649047851562
+      }
+    },
+    {
+      "feat_id": 1753,
+      "variance": 26753.505859375,
+      "mean": 80.04247283935547,
+      "active_rate": 0.19375,
+      "round_means": {
+        "direct": 10.147356033325195,
+        "quote": 189.32528686523438,
+        "reflection": 4.7849836349487305,
+        "concept": 115.9122543334961
+      }
+    },
+    {
+      "feat_id": 2832,
+      "variance": 25857.291015625,
+      "mean": 59.607460021972656,
+      "active_rate": 0.128125,
+      "round_means": {
+        "direct": 55.015357971191406,
+        "quote": 56.465476989746094,
+        "reflection": 42.83074951171875,
+        "concept": 84.11825561523438
+      }
+    },
+    {
+      "feat_id": 7437,
+      "variance": 25634.875,
+      "mean": 60.10564422607422,
+      "active_rate": 0.128125,
+      "round_means": {
+        "direct": 132.20333862304688,
+        "quote": 20.174121856689453,
+        "reflection": 0.0,
+        "concept": 88.04515075683594
+      }
+    },
+    {
+      "feat_id": 3137,
+      "variance": 25315.705078125,
+      "mean": 49.786109924316406,
+      "active_rate": 0.09375,
+      "round_means": {
+        "direct": 75.11979675292969,
+        "quote": 16.810073852539062,
+        "reflection": 0.0,
+        "concept": 107.2145767211914
+      }
+    },
+    {
+      "feat_id": 10552,
+      "variance": 25122.0234375,
+      "mean": 17.238679885864258,
+      "active_rate": 0.0125,
+      "round_means": {
+        "direct": 59.183746337890625,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 9.770973205566406
+      }
+    },
+    {
+      "feat_id": 754,
+      "variance": 23082.15234375,
+      "mean": 178.05551147460938,
+      "active_rate": 0.590625,
+      "round_means": {
+        "direct": 73.9990463256836,
+        "quote": 201.48715209960938,
+        "reflection": 306.5493469238281,
+        "concept": 130.1865692138672
+      }
+    },
+    {
+      "feat_id": 3624,
+      "variance": 22677.224609375,
+      "mean": 16.846481323242188,
+      "active_rate": 0.0125,
+      "round_means": {
+        "direct": 67.38592529296875,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 7904,
+      "variance": 22148.365234375,
+      "mean": 16.703813552856445,
+      "active_rate": 0.0125,
+      "round_means": {
+        "direct": 66.81525421142578,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 0.0
+      }
+    },
+    {
+      "feat_id": 476,
+      "variance": 19875.29296875,
+      "mean": 36.66611862182617,
+      "active_rate": 0.065625,
+      "round_means": {
+        "direct": 141.01235961914062,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 5.652105808258057
+      }
+    },
+    {
+      "feat_id": 5381,
+      "variance": 17287.2265625,
+      "mean": 34.194007873535156,
+      "active_rate": 0.06875,
+      "round_means": {
+        "direct": 67.570556640625,
+        "quote": 57.41643524169922,
+        "reflection": 0.0,
+        "concept": 11.789045333862305
+      }
+    },
+    {
+      "feat_id": 11461,
+      "variance": 13825.0986328125,
+      "mean": 12.571817398071289,
+      "active_rate": 0.0125,
+      "round_means": {
+        "direct": 44.721046447753906,
+        "quote": 0.0,
+        "reflection": 0.0,
+        "concept": 5.566224098205566
+      }
+    },
+    {
+      "feat_id": 580,
+      "variance": 13102.9609375,
+      "mean": 40.268836975097656,
+      "active_rate": 0.1125,
+      "round_means": {
+        "direct": 46.33411407470703,
+        "quote": 0.0,
+        "reflection": 3.5846107006073,
+        "concept": 111.1566162109375
+      }
+    }
+  ]
+}

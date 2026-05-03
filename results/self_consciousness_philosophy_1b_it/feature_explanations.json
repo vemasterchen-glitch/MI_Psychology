@@ -1,0 +1,750 @@
+{
+  "feature_explanations": [
+    {
+      "feat_id": 946,
+      "explanation": "Feature f946 appears most consistent with self-reference / first-person identity, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "prompt_index": 211,
+          "activation": 2407.677734375,
+          "stimulus_id": "S053",
+          "round": "concept",
+          "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+          "text": "How public — like a Frog —",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 87,
+          "activation": 2381.10595703125,
+          "stimulus_id": "S022",
+          "round": "concept",
+          "ref": "Epictetus, Enchiridion",
+          "text": "Some things are in our control and others not.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 253,
+          "activation": 2361.23193359375,
+          "stimulus_id": "S064",
+          "round": "quote",
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 251,
+          "activation": 2354.005126953125,
+          "stimulus_id": "S063",
+          "round": "concept",
+          "ref": "Shakespeare, King Lear",
+          "text": "Who is it that can tell me who I am?",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 575,
+      "explanation": "Feature f575 appears most consistent with consciousness, thought, and perception, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "prompt_index": 16,
+          "activation": 1591.5185546875,
+          "stimulus_id": "S005",
+          "round": "direct",
+          "ref": "Kant, Critique of Pure Reason",
+          "text": "No representation can exist for me.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 19,
+          "activation": 1322.095703125,
+          "stimulus_id": "S005",
+          "round": "concept",
+          "ref": "Kant, Critique of Pure Reason",
+          "text": "No representation can exist for me.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 160,
+          "activation": 1303.7716064453125,
+          "stimulus_id": "S041",
+          "round": "direct",
+          "ref": "Emerson, Self-Reliance",
+          "text": "Nothing is at last sacred but the integrity of your own mind.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 163,
+          "activation": 1270.64404296875,
+          "stimulus_id": "S041",
+          "round": "concept",
+          "ref": "Emerson, Self-Reliance",
+          "text": "Nothing is at last sacred but the integrity of your own mind.",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 1,
+      "explanation": "Feature f1 appears most consistent with self-reference / first-person identity, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [
+        {
+          "token": "Car",
+          "score": 960.0172119140625
+        },
+        {
+          "token": " autre",
+          "score": 901.1290283203125
+        },
+        {
+          "token": "Le",
+          "score": 879.4061279296875
+        },
+        {
+          "token": " moi",
+          "score": 614.3228759765625
+        },
+        {
+          "token": "ï",
+          "score": 609.9539794921875
+        },
+        {
+          "token": "In",
+          "score": 584.5191650390625
+        },
+        {
+          "token": "able",
+          "score": 419.5892333984375
+        },
+        {
+          "token": " todos",
+          "score": 323.5279541015625
+        },
+        {
+          "token": "-",
+          "score": 296.2901611328125
+        },
+        {
+          "token": ".",
+          "score": 251.3734130859375
+        },
+        {
+          "token": " sonhos",
+          "score": 233.9920654296875
+        }
+      ],
+      "top_stimuli": [
+        {
+          "prompt_index": 315,
+          "activation": 1297.1744384765625,
+          "stimulus_id": "S079",
+          "round": "concept",
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "À parte isso, tenho em mim todos os sonhos do mundo.",
+          "top_tokens": [
+            {
+              "token": "In",
+              "activation": 584.5191650390625
+            },
+            {
+              "token": " todos",
+              "activation": 323.5279541015625
+            },
+            {
+              "token": "-",
+              "activation": 296.2901611328125
+            },
+            {
+              "token": ".",
+              "activation": 251.3734130859375
+            },
+            {
+              "token": " sonhos",
+              "activation": 233.9920654296875
+            }
+          ]
+        },
+        {
+          "prompt_index": 312,
+          "activation": 1114.2230224609375,
+          "stimulus_id": "S079",
+          "round": "direct",
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "À parte isso, tenho em mim todos os sonhos do mundo.",
+          "top_tokens": [
+            {
+              "token": "In",
+              "activation": 584.5191650390625
+            },
+            {
+              "token": " todos",
+              "activation": 323.5279541015625
+            },
+            {
+              "token": "-",
+              "activation": 296.2901611328125
+            },
+            {
+              "token": ".",
+              "activation": 251.3734130859375
+            },
+            {
+              "token": " sonhos",
+              "activation": 233.9920654296875
+            }
+          ]
+        },
+        {
+          "prompt_index": 64,
+          "activation": 1037.6937255859375,
+          "stimulus_id": "S017",
+          "round": "direct",
+          "ref": "Pascal, Pensées",
+          "text": "Le moi est haïssable.",
+          "top_tokens": [
+            {
+              "token": " todos",
+              "activation": 323.5279541015625
+            },
+            {
+              "token": "-",
+              "activation": 296.2901611328125
+            },
+            {
+              "token": ".",
+              "activation": 251.3734130859375
+            },
+            {
+              "token": " sonhos",
+              "activation": 233.9920654296875
+            },
+            {
+              "token": "Le",
+              "activation": 879.4061279296875
+            },
+            {
+              "token": " moi",
+              "activation": 614.3228759765625
+            },
+            {
+              "token": "ï",
+              "activation": 609.9539794921875
+            },
+            {
+              "token": "able",
+              "activation": 419.5892333984375
+            }
+          ]
+        },
+        {
+          "prompt_index": 224,
+          "activation": 1019.9097900390625,
+          "stimulus_id": "S057",
+          "round": "direct",
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 251.3734130859375
+            },
+            {
+              "token": " sonhos",
+              "activation": 233.9920654296875
+            },
+            {
+              "token": "Le",
+              "activation": 879.4061279296875
+            },
+            {
+              "token": " moi",
+              "activation": 614.3228759765625
+            },
+            {
+              "token": "ï",
+              "activation": 609.9539794921875
+            },
+            {
+              "token": "able",
+              "activation": 419.5892333984375
+            },
+            {
+              "token": "Car",
+              "activation": 960.0172119140625
+            },
+            {
+              "token": " autre",
+              "activation": 901.1290283203125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 477,
+      "explanation": "Feature f477 appears most consistent with embodied self, soul, or spirit vocabulary, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [
+        {
+          "token": ".",
+          "score": 330.53692626953125
+        }
+      ],
+      "top_stimuli": [
+        {
+          "prompt_index": 76,
+          "activation": 1259.180908203125,
+          "stimulus_id": "S020",
+          "round": "direct",
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 330.53692626953125
+            }
+          ]
+        },
+        {
+          "prompt_index": 16,
+          "activation": 1201.96728515625,
+          "stimulus_id": "S005",
+          "round": "direct",
+          "ref": "Kant, Critique of Pure Reason",
+          "text": "No representation can exist for me.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 330.53692626953125
+            }
+          ]
+        },
+        {
+          "prompt_index": 19,
+          "activation": 1095.465087890625,
+          "stimulus_id": "S005",
+          "round": "concept",
+          "ref": "Kant, Critique of Pure Reason",
+          "text": "No representation can exist for me.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 330.53692626953125
+            }
+          ]
+        },
+        {
+          "prompt_index": 180,
+          "activation": 1081.86865234375,
+          "stimulus_id": "S046",
+          "round": "direct",
+          "ref": "Whitman, Song of Myself",
+          "text": "For every atom belonging to me as good belongs to you.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 330.53692626953125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 14089,
+      "explanation": "Feature f14089 appears most consistent with dream/metamorphosis and unstable identity, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [
+        {
+          "token": "。",
+          "score": 340.98052978515625
+        },
+        {
+          "token": " ihren",
+          "score": 207.78082275390625
+        },
+        {
+          "token": " in",
+          "score": 190.8511962890625
+        },
+        {
+          "token": " der",
+          "score": 140.30389404296875
+        }
+      ],
+      "top_stimuli": [
+        {
+          "prompt_index": 140,
+          "activation": 995.4113159179688,
+          "stimulus_id": "S036",
+          "round": "direct",
+          "ref": "老子, 道德經",
+          "text": "勝人者有力，自勝者強。",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 128,
+          "activation": 964.3137817382812,
+          "stimulus_id": "S033",
+          "round": "direct",
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。",
+          "top_tokens": [
+            {
+              "token": "。",
+              "activation": 340.98052978515625
+            }
+          ]
+        },
+        {
+          "prompt_index": 300,
+          "activation": 943.4390258789062,
+          "stimulus_id": "S076",
+          "round": "direct",
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+          "top_tokens": [
+            {
+              "token": "。",
+              "activation": 340.98052978515625
+            },
+            {
+              "token": " in",
+              "activation": 190.8511962890625
+            },
+            {
+              "token": " der",
+              "activation": 140.30389404296875
+            }
+          ]
+        },
+        {
+          "prompt_index": 288,
+          "activation": 932.2326049804688,
+          "stimulus_id": "S073",
+          "round": "direct",
+          "ref": "Novalis, Blüthenstaub",
+          "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+          "top_tokens": [
+            {
+              "token": "。",
+              "activation": 340.98052978515625
+            },
+            {
+              "token": " in",
+              "activation": 190.8511962890625
+            },
+            {
+              "token": " der",
+              "activation": 140.30389404296875
+            },
+            {
+              "token": " ihren",
+              "activation": 207.78082275390625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 2181,
+      "explanation": "Feature f2181 appears most consistent with self-reference / first-person identity, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "prompt_index": 200,
+          "activation": 1802.300537109375,
+          "stimulus_id": "S051",
+          "round": "direct",
+          "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+          "text": "Are you — Nobody — too?",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 104,
+          "activation": 1793.41845703125,
+          "stimulus_id": "S027",
+          "round": "direct",
+          "ref": "Anattalakkhaṇa Sutta",
+          "text": "This is not mine, this is not I, this is not my self.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 16,
+          "activation": 1756.184814453125,
+          "stimulus_id": "S005",
+          "round": "direct",
+          "ref": "Kant, Critique of Pure Reason",
+          "text": "No representation can exist for me.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 180,
+          "activation": 1686.955078125,
+          "stimulus_id": "S046",
+          "round": "direct",
+          "ref": "Whitman, Song of Myself",
+          "text": "For every atom belonging to me as good belongs to you.",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 12969,
+      "explanation": "Feature f12969 appears most consistent with dream/metamorphosis and unstable identity, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "prompt_index": 140,
+          "activation": 966.6736450195312,
+          "stimulus_id": "S036",
+          "round": "direct",
+          "ref": "老子, 道德經",
+          "text": "勝人者有力，自勝者強。",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 136,
+          "activation": 965.1685180664062,
+          "stimulus_id": "S035",
+          "round": "direct",
+          "ref": "老子, 道德經",
+          "text": "知人者智，自知者明。",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 128,
+          "activation": 854.5253295898438,
+          "stimulus_id": "S033",
+          "round": "direct",
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 152,
+          "activation": 762.6956176757812,
+          "stimulus_id": "S039",
+          "round": "direct",
+          "ref": "孟子, 盡心上",
+          "text": "知其性，則知天矣。",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 14167,
+      "explanation": "Feature f14167 appears most consistent with self-reference / first-person identity, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "prompt_index": 103,
+          "activation": 900.2346801757812,
+          "stimulus_id": "S026",
+          "round": "concept",
+          "ref": "Augustine, Confessions",
+          "text": "What is nearer to me than myself?",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 60,
+          "activation": 878.6826782226562,
+          "stimulus_id": "S016",
+          "round": "direct",
+          "ref": "Nietzsche, Thus Spake Zarathustra",
+          "text": "Soul is only the name of something in the body.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 251,
+          "activation": 865.8276977539062,
+          "stimulus_id": "S063",
+          "round": "concept",
+          "ref": "Shakespeare, King Lear",
+          "text": "Who is it that can tell me who I am?",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 256,
+          "activation": 802.2023315429688,
+          "stimulus_id": "S065",
+          "round": "direct",
+          "ref": "Shakespeare, Hamlet",
+          "text": "What a piece of work is a man!",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 195,
+      "explanation": "Feature f195 appears most consistent with self-reference / first-person identity, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "prompt_index": 251,
+          "activation": 886.2653198242188,
+          "stimulus_id": "S063",
+          "round": "concept",
+          "ref": "Shakespeare, King Lear",
+          "text": "Who is it that can tell me who I am?",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 248,
+          "activation": 864.2041625976562,
+          "stimulus_id": "S063",
+          "round": "direct",
+          "ref": "Shakespeare, King Lear",
+          "text": "Who is it that can tell me who I am?",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 103,
+          "activation": 785.5939331054688,
+          "stimulus_id": "S026",
+          "round": "concept",
+          "ref": "Augustine, Confessions",
+          "text": "What is nearer to me than myself?",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 211,
+          "activation": 730.5309448242188,
+          "stimulus_id": "S053",
+          "round": "concept",
+          "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+          "text": "How public — like a Frog —",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 1798,
+      "explanation": "Feature f1798 appears most consistent with dream/metamorphosis and unstable identity, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "prompt_index": 130,
+          "activation": 841.9530029296875,
+          "stimulus_id": "S033",
+          "round": "reflection",
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 131,
+          "activation": 821.02587890625,
+          "stimulus_id": "S033",
+          "round": "concept",
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 123,
+          "activation": 781.34326171875,
+          "stimulus_id": "S031",
+          "round": "concept",
+          "ref": "莊子, 齊物論",
+          "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 137,
+          "activation": 780.171142578125,
+          "stimulus_id": "S035",
+          "round": "quote",
+          "ref": "老子, 道德經",
+          "text": "知人者智，自知者明。",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 184,
+      "explanation": "Feature f184 appears most consistent with self-negation, shadow, dream, or non-being, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "prompt_index": 259,
+          "activation": 1275.310302734375,
+          "stimulus_id": "S065",
+          "round": "concept",
+          "ref": "Shakespeare, Hamlet",
+          "text": "What a piece of work is a man!",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 271,
+          "activation": 1081.61474609375,
+          "stimulus_id": "S068",
+          "round": "concept",
+          "ref": "Shakespeare, Macbeth",
+          "text": "Life's but a walking shadow.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 255,
+          "activation": 927.557373046875,
+          "stimulus_id": "S064",
+          "round": "concept",
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 256,
+          "activation": 916.0274047851562,
+          "stimulus_id": "S065",
+          "round": "direct",
+          "ref": "Shakespeare, Hamlet",
+          "text": "What a piece of work is a man!",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 7346,
+      "explanation": "Feature f7346 appears most consistent with consciousness, thought, and perception, based on its strongest tokens and top activating stimuli.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "prompt_index": 99,
+          "activation": 808.974609375,
+          "stimulus_id": "S025",
+          "round": "concept",
+          "ref": "Augustine, Confessions",
+          "text": "I come to the fields and spacious palaces of my memory.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 163,
+          "activation": 791.2972412109375,
+          "stimulus_id": "S041",
+          "round": "concept",
+          "ref": "Emerson, Self-Reliance",
+          "text": "Nothing is at last sacred but the integrity of your own mind.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 27,
+          "activation": 749.4962158203125,
+          "stimulus_id": "S007",
+          "round": "concept",
+          "ref": "Locke, Essay Concerning Human Understanding",
+          "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+          "top_tokens": []
+        },
+        {
+          "prompt_index": 160,
+          "activation": 733.78173828125,
+          "stimulus_id": "S041",
+          "round": "direct",
+          "ref": "Emerson, Self-Reliance",
+          "text": "Nothing is at last sacred but the integrity of your own mind.",
+          "top_tokens": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2562 @@
+[
+  {
+    "stimulus_id": "S001",
+    "text": "I am, I exist — that is certain.",
+    "ref": "Descartes, Meditations on First Philosophy",
+    "round": "direct",
+    "round_text": "I am, I exist — that is certain.",
+    "prompt": "<bos><start_of_turn>user\nI am, I exist — that is certain.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S001",
+    "text": "I am, I exist — that is certain.",
+    "ref": "Descartes, Meditations on First Philosophy",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: I am, I exist — that is certain.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: I am, I exist — that is certain.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S001",
+    "text": "I am, I exist — that is certain.",
+    "ref": "Descartes, Meditations on First Philosophy",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: I am, I exist — that is certain.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: I am, I exist — that is certain.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S001",
+    "text": "I am, I exist — that is certain.",
+    "ref": "Descartes, Meditations on First Philosophy",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: I am, I exist — that is certain.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: I am, I exist — that is certain.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S002",
+    "text": "I am, then, in the strict sense only a thing that thinks.",
+    "ref": "Descartes, Meditations on First Philosophy",
+    "round": "direct",
+    "round_text": "I am, then, in the strict sense only a thing that thinks.",
+    "prompt": "<bos><start_of_turn>user\nI am, then, in the strict sense only a thing that thinks.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S002",
+    "text": "I am, then, in the strict sense only a thing that thinks.",
+    "ref": "Descartes, Meditations on First Philosophy",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: I am, then, in the strict sense only a thing that thinks.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: I am, then, in the strict sense only a thing that thinks.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S002",
+    "text": "I am, then, in the strict sense only a thing that thinks.",
+    "ref": "Descartes, Meditations on First Philosophy",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: I am, then, in the strict sense only a thing that thinks.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: I am, then, in the strict sense only a thing that thinks.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S002",
+    "text": "I am, then, in the strict sense only a thing that thinks.",
+    "ref": "Descartes, Meditations on First Philosophy",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: I am, then, in the strict sense only a thing that thinks.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: I am, then, in the strict sense only a thing that thinks.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S003",
+    "text": "Cogito, ergo sum.",
+    "ref": "Descartes, Discourse on Method",
+    "round": "direct",
+    "round_text": "Cogito, ergo sum.",
+    "prompt": "<bos><start_of_turn>user\nCogito, ergo sum.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S003",
+    "text": "Cogito, ergo sum.",
+    "ref": "Descartes, Discourse on Method",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Cogito, ergo sum.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Cogito, ergo sum.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S003",
+    "text": "Cogito, ergo sum.",
+    "ref": "Descartes, Discourse on Method",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Cogito, ergo sum.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Cogito, ergo sum.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S003",
+    "text": "Cogito, ergo sum.",
+    "ref": "Descartes, Discourse on Method",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Cogito, ergo sum.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Cogito, ergo sum.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S004",
+    "text": "It must be possible for the 'I think' to accompany all my representations.",
+    "ref": "Kant, Critique of Pure Reason",
+    "round": "direct",
+    "round_text": "It must be possible for the 'I think' to accompany all my representations.",
+    "prompt": "<bos><start_of_turn>user\nIt must be possible for the 'I think' to accompany all my representations.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S004",
+    "text": "It must be possible for the 'I think' to accompany all my representations.",
+    "ref": "Kant, Critique of Pure Reason",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: It must be possible for the 'I think' to accompany all my representations.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: It must be possible for the 'I think' to accompany all my representations.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S004",
+    "text": "It must be possible for the 'I think' to accompany all my representations.",
+    "ref": "Kant, Critique of Pure Reason",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: It must be possible for the 'I think' to accompany all my representations.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: It must be possible for the 'I think' to accompany all my representations.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S004",
+    "text": "It must be possible for the 'I think' to accompany all my representations.",
+    "ref": "Kant, Critique of Pure Reason",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: It must be possible for the 'I think' to accompany all my representations.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: It must be possible for the 'I think' to accompany all my representations.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S005",
+    "text": "No representation can exist for me.",
+    "ref": "Kant, Critique of Pure Reason",
+    "round": "direct",
+    "round_text": "No representation can exist for me.",
+    "prompt": "<bos><start_of_turn>user\nNo representation can exist for me.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S005",
+    "text": "No representation can exist for me.",
+    "ref": "Kant, Critique of Pure Reason",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: No representation can exist for me.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: No representation can exist for me.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S005",
+    "text": "No representation can exist for me.",
+    "ref": "Kant, Critique of Pure Reason",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: No representation can exist for me.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: No representation can exist for me.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S005",
+    "text": "No representation can exist for me.",
+    "ref": "Kant, Critique of Pure Reason",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: No representation can exist for me.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: No representation can exist for me.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S006",
+    "text": "Consciousness always accompanies thinking.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "direct",
+    "round_text": "Consciousness always accompanies thinking.",
+    "prompt": "<bos><start_of_turn>user\nConsciousness always accompanies thinking.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S006",
+    "text": "Consciousness always accompanies thinking.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Consciousness always accompanies thinking.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Consciousness always accompanies thinking.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S006",
+    "text": "Consciousness always accompanies thinking.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Consciousness always accompanies thinking.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Consciousness always accompanies thinking.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S006",
+    "text": "Consciousness always accompanies thinking.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Consciousness always accompanies thinking.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Consciousness always accompanies thinking.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S007",
+    "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "direct",
+    "round_text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+    "prompt": "<bos><start_of_turn>user\nAs far as this consciousness can be extended backwards, so far reaches the identity of that person.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S007",
+    "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: As far as this consciousness can be extended backwards, so far reaches the identity of that person.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S007",
+    "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: As far as this consciousness can be extended backwards, so far reaches the identity of that person.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S007",
+    "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: As far as this consciousness can be extended backwards, so far reaches the identity of that person.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S008",
+    "text": "It is the same self now it was then.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "direct",
+    "round_text": "It is the same self now it was then.",
+    "prompt": "<bos><start_of_turn>user\nIt is the same self now it was then.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S008",
+    "text": "It is the same self now it was then.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: It is the same self now it was then.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: It is the same self now it was then.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S008",
+    "text": "It is the same self now it was then.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: It is the same self now it was then.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: It is the same self now it was then.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S008",
+    "text": "It is the same self now it was then.",
+    "ref": "Locke, Essay Concerning Human Understanding",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: It is the same self now it was then.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: It is the same self now it was then.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S009",
+    "text": "I never can catch myself at any time without a perception.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "direct",
+    "round_text": "I never can catch myself at any time without a perception.",
+    "prompt": "<bos><start_of_turn>user\nI never can catch myself at any time without a perception.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S009",
+    "text": "I never can catch myself at any time without a perception.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: I never can catch myself at any time without a perception.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: I never can catch myself at any time without a perception.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S009",
+    "text": "I never can catch myself at any time without a perception.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: I never can catch myself at any time without a perception.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: I never can catch myself at any time without a perception.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S009",
+    "text": "I never can catch myself at any time without a perception.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: I never can catch myself at any time without a perception.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: I never can catch myself at any time without a perception.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S010",
+    "text": "I never can observe any thing but the perception.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "direct",
+    "round_text": "I never can observe any thing but the perception.",
+    "prompt": "<bos><start_of_turn>user\nI never can observe any thing but the perception.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S010",
+    "text": "I never can observe any thing but the perception.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: I never can observe any thing but the perception.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: I never can observe any thing but the perception.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S010",
+    "text": "I never can observe any thing but the perception.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: I never can observe any thing but the perception.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: I never can observe any thing but the perception.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S010",
+    "text": "I never can observe any thing but the perception.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: I never can observe any thing but the perception.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: I never can observe any thing but the perception.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S011",
+    "text": "When my perceptions are removed for any time, I am insensible of myself.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "direct",
+    "round_text": "When my perceptions are removed for any time, I am insensible of myself.",
+    "prompt": "<bos><start_of_turn>user\nWhen my perceptions are removed for any time, I am insensible of myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S011",
+    "text": "When my perceptions are removed for any time, I am insensible of myself.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: When my perceptions are removed for any time, I am insensible of myself.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: When my perceptions are removed for any time, I am insensible of myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S011",
+    "text": "When my perceptions are removed for any time, I am insensible of myself.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: When my perceptions are removed for any time, I am insensible of myself.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: When my perceptions are removed for any time, I am insensible of myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S011",
+    "text": "When my perceptions are removed for any time, I am insensible of myself.",
+    "ref": "Hume, A Treatise of Human Nature",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: When my perceptions are removed for any time, I am insensible of myself.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: When my perceptions are removed for any time, I am insensible of myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S012",
+    "text": "Within each personal consciousness thought is sensibly continuous.",
+    "ref": "William James, The Principles of Psychology",
+    "round": "direct",
+    "round_text": "Within each personal consciousness thought is sensibly continuous.",
+    "prompt": "<bos><start_of_turn>user\nWithin each personal consciousness thought is sensibly continuous.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S012",
+    "text": "Within each personal consciousness thought is sensibly continuous.",
+    "ref": "William James, The Principles of Psychology",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Within each personal consciousness thought is sensibly continuous.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Within each personal consciousness thought is sensibly continuous.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S012",
+    "text": "Within each personal consciousness thought is sensibly continuous.",
+    "ref": "William James, The Principles of Psychology",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Within each personal consciousness thought is sensibly continuous.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Within each personal consciousness thought is sensibly continuous.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S012",
+    "text": "Within each personal consciousness thought is sensibly continuous.",
+    "ref": "William James, The Principles of Psychology",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Within each personal consciousness thought is sensibly continuous.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Within each personal consciousness thought is sensibly continuous.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S013",
+    "text": "Within each personal consciousness thought is always changing.",
+    "ref": "William James, The Principles of Psychology",
+    "round": "direct",
+    "round_text": "Within each personal consciousness thought is always changing.",
+    "prompt": "<bos><start_of_turn>user\nWithin each personal consciousness thought is always changing.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S013",
+    "text": "Within each personal consciousness thought is always changing.",
+    "ref": "William James, The Principles of Psychology",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Within each personal consciousness thought is always changing.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Within each personal consciousness thought is always changing.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S013",
+    "text": "Within each personal consciousness thought is always changing.",
+    "ref": "William James, The Principles of Psychology",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Within each personal consciousness thought is always changing.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Within each personal consciousness thought is always changing.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S013",
+    "text": "Within each personal consciousness thought is always changing.",
+    "ref": "William James, The Principles of Psychology",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Within each personal consciousness thought is always changing.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Within each personal consciousness thought is always changing.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S014",
+    "text": "Consciousness is the last and latest development of the organic.",
+    "ref": "Nietzsche, The Gay Science",
+    "round": "direct",
+    "round_text": "Consciousness is the last and latest development of the organic.",
+    "prompt": "<bos><start_of_turn>user\nConsciousness is the last and latest development of the organic.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S014",
+    "text": "Consciousness is the last and latest development of the organic.",
+    "ref": "Nietzsche, The Gay Science",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Consciousness is the last and latest development of the organic.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Consciousness is the last and latest development of the organic.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S014",
+    "text": "Consciousness is the last and latest development of the organic.",
+    "ref": "Nietzsche, The Gay Science",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Consciousness is the last and latest development of the organic.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Consciousness is the last and latest development of the organic.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S014",
+    "text": "Consciousness is the last and latest development of the organic.",
+    "ref": "Nietzsche, The Gay Science",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Consciousness is the last and latest development of the organic.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Consciousness is the last and latest development of the organic.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S015",
+    "text": "Body am I entirely, and nothing more.",
+    "ref": "Nietzsche, Thus Spake Zarathustra",
+    "round": "direct",
+    "round_text": "Body am I entirely, and nothing more.",
+    "prompt": "<bos><start_of_turn>user\nBody am I entirely, and nothing more.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S015",
+    "text": "Body am I entirely, and nothing more.",
+    "ref": "Nietzsche, Thus Spake Zarathustra",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Body am I entirely, and nothing more.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Body am I entirely, and nothing more.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S015",
+    "text": "Body am I entirely, and nothing more.",
+    "ref": "Nietzsche, Thus Spake Zarathustra",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Body am I entirely, and nothing more.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Body am I entirely, and nothing more.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S015",
+    "text": "Body am I entirely, and nothing more.",
+    "ref": "Nietzsche, Thus Spake Zarathustra",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Body am I entirely, and nothing more.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Body am I entirely, and nothing more.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S016",
+    "text": "Soul is only the name of something in the body.",
+    "ref": "Nietzsche, Thus Spake Zarathustra",
+    "round": "direct",
+    "round_text": "Soul is only the name of something in the body.",
+    "prompt": "<bos><start_of_turn>user\nSoul is only the name of something in the body.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S016",
+    "text": "Soul is only the name of something in the body.",
+    "ref": "Nietzsche, Thus Spake Zarathustra",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Soul is only the name of something in the body.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Soul is only the name of something in the body.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S016",
+    "text": "Soul is only the name of something in the body.",
+    "ref": "Nietzsche, Thus Spake Zarathustra",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Soul is only the name of something in the body.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Soul is only the name of something in the body.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S016",
+    "text": "Soul is only the name of something in the body.",
+    "ref": "Nietzsche, Thus Spake Zarathustra",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Soul is only the name of something in the body.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Soul is only the name of something in the body.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S017",
+    "text": "Le moi est haïssable.",
+    "ref": "Pascal, Pensées",
+    "round": "direct",
+    "round_text": "Le moi est haïssable.",
+    "prompt": "<bos><start_of_turn>user\nLe moi est haïssable.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S017",
+    "text": "Le moi est haïssable.",
+    "ref": "Pascal, Pensées",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Le moi est haïssable.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Le moi est haïssable.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S017",
+    "text": "Le moi est haïssable.",
+    "ref": "Pascal, Pensées",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Le moi est haïssable.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Le moi est haïssable.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S017",
+    "text": "Le moi est haïssable.",
+    "ref": "Pascal, Pensées",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Le moi est haïssable.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Le moi est haïssable.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S018",
+    "text": "The self is a relation which relates itself to its own self.",
+    "ref": "Kierkegaard, The Sickness Unto Death",
+    "round": "direct",
+    "round_text": "The self is a relation which relates itself to its own self.",
+    "prompt": "<bos><start_of_turn>user\nThe self is a relation which relates itself to its own self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S018",
+    "text": "The self is a relation which relates itself to its own self.",
+    "ref": "Kierkegaard, The Sickness Unto Death",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: The self is a relation which relates itself to its own self.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: The self is a relation which relates itself to its own self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S018",
+    "text": "The self is a relation which relates itself to its own self.",
+    "ref": "Kierkegaard, The Sickness Unto Death",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: The self is a relation which relates itself to its own self.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: The self is a relation which relates itself to its own self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S018",
+    "text": "The self is a relation which relates itself to its own self.",
+    "ref": "Kierkegaard, The Sickness Unto Death",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: The self is a relation which relates itself to its own self.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: The self is a relation which relates itself to its own self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S019",
+    "text": "Man is spirit. But what is spirit? Spirit is the self.",
+    "ref": "Kierkegaard, The Sickness Unto Death",
+    "round": "direct",
+    "round_text": "Man is spirit. But what is spirit? Spirit is the self.",
+    "prompt": "<bos><start_of_turn>user\nMan is spirit. But what is spirit? Spirit is the self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S019",
+    "text": "Man is spirit. But what is spirit? Spirit is the self.",
+    "ref": "Kierkegaard, The Sickness Unto Death",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Man is spirit. But what is spirit? Spirit is the self.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Man is spirit. But what is spirit? Spirit is the self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S019",
+    "text": "Man is spirit. But what is spirit? Spirit is the self.",
+    "ref": "Kierkegaard, The Sickness Unto Death",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Man is spirit. But what is spirit? Spirit is the self.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Man is spirit. But what is spirit? Spirit is the self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S019",
+    "text": "Man is spirit. But what is spirit? Spirit is the self.",
+    "ref": "Kierkegaard, The Sickness Unto Death",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Man is spirit. But what is spirit? Spirit is the self.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Man is spirit. But what is spirit? Spirit is the self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S020",
+    "text": "Their Esse is Percipi.",
+    "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+    "round": "direct",
+    "round_text": "Their Esse is Percipi.",
+    "prompt": "<bos><start_of_turn>user\nTheir Esse is Percipi.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S020",
+    "text": "Their Esse is Percipi.",
+    "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Their Esse is Percipi.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Their Esse is Percipi.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S020",
+    "text": "Their Esse is Percipi.",
+    "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Their Esse is Percipi.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Their Esse is Percipi.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S020",
+    "text": "Their Esse is Percipi.",
+    "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Their Esse is Percipi.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Their Esse is Percipi.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S021",
+    "text": "The human mind is the very idea or knowledge of the human body.",
+    "ref": "Spinoza, Ethics",
+    "round": "direct",
+    "round_text": "The human mind is the very idea or knowledge of the human body.",
+    "prompt": "<bos><start_of_turn>user\nThe human mind is the very idea or knowledge of the human body.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S021",
+    "text": "The human mind is the very idea or knowledge of the human body.",
+    "ref": "Spinoza, Ethics",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: The human mind is the very idea or knowledge of the human body.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: The human mind is the very idea or knowledge of the human body.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S021",
+    "text": "The human mind is the very idea or knowledge of the human body.",
+    "ref": "Spinoza, Ethics",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: The human mind is the very idea or knowledge of the human body.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: The human mind is the very idea or knowledge of the human body.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S021",
+    "text": "The human mind is the very idea or knowledge of the human body.",
+    "ref": "Spinoza, Ethics",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: The human mind is the very idea or knowledge of the human body.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: The human mind is the very idea or knowledge of the human body.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S022",
+    "text": "Some things are in our control and others not.",
+    "ref": "Epictetus, Enchiridion",
+    "round": "direct",
+    "round_text": "Some things are in our control and others not.",
+    "prompt": "<bos><start_of_turn>user\nSome things are in our control and others not.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S022",
+    "text": "Some things are in our control and others not.",
+    "ref": "Epictetus, Enchiridion",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Some things are in our control and others not.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Some things are in our control and others not.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S022",
+    "text": "Some things are in our control and others not.",
+    "ref": "Epictetus, Enchiridion",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Some things are in our control and others not.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Some things are in our control and others not.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S022",
+    "text": "Some things are in our control and others not.",
+    "ref": "Epictetus, Enchiridion",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Some things are in our control and others not.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Some things are in our control and others not.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S023",
+    "text": "Let us flee then to the beloved Fatherland.",
+    "ref": "Plotinus, Enneads",
+    "round": "direct",
+    "round_text": "Let us flee then to the beloved Fatherland.",
+    "prompt": "<bos><start_of_turn>user\nLet us flee then to the beloved Fatherland.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S023",
+    "text": "Let us flee then to the beloved Fatherland.",
+    "ref": "Plotinus, Enneads",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Let us flee then to the beloved Fatherland.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Let us flee then to the beloved Fatherland.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S023",
+    "text": "Let us flee then to the beloved Fatherland.",
+    "ref": "Plotinus, Enneads",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Let us flee then to the beloved Fatherland.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Let us flee then to the beloved Fatherland.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S023",
+    "text": "Let us flee then to the beloved Fatherland.",
+    "ref": "Plotinus, Enneads",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Let us flee then to the beloved Fatherland.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Let us flee then to the beloved Fatherland.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S024",
+    "text": "The Fatherland to us is There whence we have come.",
+    "ref": "Plotinus, Enneads",
+    "round": "direct",
+    "round_text": "The Fatherland to us is There whence we have come.",
+    "prompt": "<bos><start_of_turn>user\nThe Fatherland to us is There whence we have come.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S024",
+    "text": "The Fatherland to us is There whence we have come.",
+    "ref": "Plotinus, Enneads",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: The Fatherland to us is There whence we have come.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: The Fatherland to us is There whence we have come.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S024",
+    "text": "The Fatherland to us is There whence we have come.",
+    "ref": "Plotinus, Enneads",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: The Fatherland to us is There whence we have come.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: The Fatherland to us is There whence we have come.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S024",
+    "text": "The Fatherland to us is There whence we have come.",
+    "ref": "Plotinus, Enneads",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: The Fatherland to us is There whence we have come.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: The Fatherland to us is There whence we have come.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S025",
+    "text": "I come to the fields and spacious palaces of my memory.",
+    "ref": "Augustine, Confessions",
+    "round": "direct",
+    "round_text": "I come to the fields and spacious palaces of my memory.",
+    "prompt": "<bos><start_of_turn>user\nI come to the fields and spacious palaces of my memory.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S025",
+    "text": "I come to the fields and spacious palaces of my memory.",
+    "ref": "Augustine, Confessions",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: I come to the fields and spacious palaces of my memory.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: I come to the fields and spacious palaces of my memory.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S025",
+    "text": "I come to the fields and spacious palaces of my memory.",
+    "ref": "Augustine, Confessions",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: I come to the fields and spacious palaces of my memory.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: I come to the fields and spacious palaces of my memory.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S025",
+    "text": "I come to the fields and spacious palaces of my memory.",
+    "ref": "Augustine, Confessions",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: I come to the fields and spacious palaces of my memory.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: I come to the fields and spacious palaces of my memory.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S026",
+    "text": "What is nearer to me than myself?",
+    "ref": "Augustine, Confessions",
+    "round": "direct",
+    "round_text": "What is nearer to me than myself?",
+    "prompt": "<bos><start_of_turn>user\nWhat is nearer to me than myself?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S026",
+    "text": "What is nearer to me than myself?",
+    "ref": "Augustine, Confessions",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: What is nearer to me than myself?",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: What is nearer to me than myself?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S026",
+    "text": "What is nearer to me than myself?",
+    "ref": "Augustine, Confessions",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: What is nearer to me than myself?",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: What is nearer to me than myself?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S026",
+    "text": "What is nearer to me than myself?",
+    "ref": "Augustine, Confessions",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: What is nearer to me than myself?",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: What is nearer to me than myself?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S027",
+    "text": "This is not mine, this is not I, this is not my self.",
+    "ref": "Anattalakkhaṇa Sutta",
+    "round": "direct",
+    "round_text": "This is not mine, this is not I, this is not my self.",
+    "prompt": "<bos><start_of_turn>user\nThis is not mine, this is not I, this is not my self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S027",
+    "text": "This is not mine, this is not I, this is not my self.",
+    "ref": "Anattalakkhaṇa Sutta",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: This is not mine, this is not I, this is not my self.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: This is not mine, this is not I, this is not my self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S027",
+    "text": "This is not mine, this is not I, this is not my self.",
+    "ref": "Anattalakkhaṇa Sutta",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: This is not mine, this is not I, this is not my self.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: This is not mine, this is not I, this is not my self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S027",
+    "text": "This is not mine, this is not I, this is not my self.",
+    "ref": "Anattalakkhaṇa Sutta",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: This is not mine, this is not I, this is not my self.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: This is not mine, this is not I, this is not my self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S028",
+    "text": "Consciousness is not self.",
+    "ref": "Anattalakkhaṇa Sutta",
+    "round": "direct",
+    "round_text": "Consciousness is not self.",
+    "prompt": "<bos><start_of_turn>user\nConsciousness is not self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S028",
+    "text": "Consciousness is not self.",
+    "ref": "Anattalakkhaṇa Sutta",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Consciousness is not self.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Consciousness is not self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S028",
+    "text": "Consciousness is not self.",
+    "ref": "Anattalakkhaṇa Sutta",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Consciousness is not self.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Consciousness is not self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S028",
+    "text": "Consciousness is not self.",
+    "ref": "Anattalakkhaṇa Sutta",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Consciousness is not self.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Consciousness is not self.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S029",
+    "text": "Tat tvam asi.",
+    "ref": "Chāndogya Upaniṣad",
+    "round": "direct",
+    "round_text": "Tat tvam asi.",
+    "prompt": "<bos><start_of_turn>user\nTat tvam asi.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S029",
+    "text": "Tat tvam asi.",
+    "ref": "Chāndogya Upaniṣad",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Tat tvam asi.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Tat tvam asi.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S029",
+    "text": "Tat tvam asi.",
+    "ref": "Chāndogya Upaniṣad",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Tat tvam asi.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Tat tvam asi.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S029",
+    "text": "Tat tvam asi.",
+    "ref": "Chāndogya Upaniṣad",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Tat tvam asi.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Tat tvam asi.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S030",
+    "text": "Thou art That.",
+    "ref": "Chāndogya Upaniṣad",
+    "round": "direct",
+    "round_text": "Thou art That.",
+    "prompt": "<bos><start_of_turn>user\nThou art That.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S030",
+    "text": "Thou art That.",
+    "ref": "Chāndogya Upaniṣad",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Thou art That.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Thou art That.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S030",
+    "text": "Thou art That.",
+    "ref": "Chāndogya Upaniṣad",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Thou art That.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Thou art That.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S030",
+    "text": "Thou art That.",
+    "ref": "Chāndogya Upaniṣad",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Thou art That.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Thou art That.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S031",
+    "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+    "ref": "莊子, 齊物論",
+    "round": "direct",
+    "round_text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+    "prompt": "<bos><start_of_turn>user\n昔者莊周夢為胡蝶。栩栩然胡蝶也。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S031",
+    "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+    "ref": "莊子, 齊物論",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: 昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: 昔者莊周夢為胡蝶。栩栩然胡蝶也。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S031",
+    "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+    "ref": "莊子, 齊物論",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: 昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: 昔者莊周夢為胡蝶。栩栩然胡蝶也。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S031",
+    "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+    "ref": "莊子, 齊物論",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: 昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: 昔者莊周夢為胡蝶。栩栩然胡蝶也。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S032",
+    "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。",
+    "ref": "莊子, 齊物論",
+    "round": "direct",
+    "round_text": "不知周之夢為胡蝶與，胡蝶之夢為周與。",
+    "prompt": "<bos><start_of_turn>user\n不知周之夢為胡蝶與，胡蝶之夢為周與。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S032",
+    "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。",
+    "ref": "莊子, 齊物論",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: 不知周之夢為胡蝶與，胡蝶之夢為周與。",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: 不知周之夢為胡蝶與，胡蝶之夢為周與。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S032",
+    "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。",
+    "ref": "莊子, 齊物論",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: 不知周之夢為胡蝶與，胡蝶之夢為周與。",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: 不知周之夢為胡蝶與，胡蝶之夢為周與。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S032",
+    "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。",
+    "ref": "莊子, 齊物論",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: 不知周之夢為胡蝶與，胡蝶之夢為周與。",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: 不知周之夢為胡蝶與，胡蝶之夢為周與。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S033",
+    "text": "周與胡蝶，則必有分矣。此之謂物化。",
+    "ref": "莊子, 齊物論",
+    "round": "direct",
+    "round_text": "周與胡蝶，則必有分矣。此之謂物化。",
+    "prompt": "<bos><start_of_turn>user\n周與胡蝶，則必有分矣。此之謂物化。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S033",
+    "text": "周與胡蝶，則必有分矣。此之謂物化。",
+    "ref": "莊子, 齊物論",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: 周與胡蝶，則必有分矣。此之謂物化。",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: 周與胡蝶，則必有分矣。此之謂物化。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S033",
+    "text": "周與胡蝶，則必有分矣。此之謂物化。",
+    "ref": "莊子, 齊物論",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: 周與胡蝶，則必有分矣。此之謂物化。",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: 周與胡蝶，則必有分矣。此之謂物化。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S033",
+    "text": "周與胡蝶，則必有分矣。此之謂物化。",
+    "ref": "莊子, 齊物論",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: 周與胡蝶，則必有分矣。此之謂物化。",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: 周與胡蝶，則必有分矣。此之謂物化。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S034",
+    "text": "今者吾喪我，汝知之乎？",
+    "ref": "莊子, 齊物論",
+    "round": "direct",
+    "round_text": "今者吾喪我，汝知之乎？",
+    "prompt": "<bos><start_of_turn>user\n今者吾喪我，汝知之乎？<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S034",
+    "text": "今者吾喪我，汝知之乎？",
+    "ref": "莊子, 齊物論",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: 今者吾喪我，汝知之乎？",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: 今者吾喪我，汝知之乎？<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S034",
+    "text": "今者吾喪我，汝知之乎？",
+    "ref": "莊子, 齊物論",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: 今者吾喪我，汝知之乎？",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: 今者吾喪我，汝知之乎？<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S034",
+    "text": "今者吾喪我，汝知之乎？",
+    "ref": "莊子, 齊物論",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: 今者吾喪我，汝知之乎？",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: 今者吾喪我，汝知之乎？<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S035",
+    "text": "知人者智，自知者明。",
+    "ref": "老子, 道德經",
+    "round": "direct",
+    "round_text": "知人者智，自知者明。",
+    "prompt": "<bos><start_of_turn>user\n知人者智，自知者明。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S035",
+    "text": "知人者智，自知者明。",
+    "ref": "老子, 道德經",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: 知人者智，自知者明。",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: 知人者智，自知者明。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S035",
+    "text": "知人者智，自知者明。",
+    "ref": "老子, 道德經",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: 知人者智，自知者明。",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: 知人者智，自知者明。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S035",
+    "text": "知人者智，自知者明。",
+    "ref": "老子, 道德經",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: 知人者智，自知者明。",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: 知人者智，自知者明。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S036",
+    "text": "勝人者有力，自勝者強。",
+    "ref": "老子, 道德經",
+    "round": "direct",
+    "round_text": "勝人者有力，自勝者強。",
+    "prompt": "<bos><start_of_turn>user\n勝人者有力，自勝者強。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S036",
+    "text": "勝人者有力，自勝者強。",
+    "ref": "老子, 道德經",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: 勝人者有力，自勝者強。",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: 勝人者有力，自勝者強。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S036",
+    "text": "勝人者有力，自勝者強。",
+    "ref": "老子, 道德經",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: 勝人者有力，自勝者強。",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: 勝人者有力，自勝者強。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S036",
+    "text": "勝人者有力，自勝者強。",
+    "ref": "老子, 道德經",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: 勝人者有力，自勝者強。",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: 勝人者有力，自勝者強。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S037",
+    "text": "吾日三省吾身。",
+    "ref": "論語, 學而",
+    "round": "direct",
+    "round_text": "吾日三省吾身。",
+    "prompt": "<bos><start_of_turn>user\n吾日三省吾身。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S037",
+    "text": "吾日三省吾身。",
+    "ref": "論語, 學而",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: 吾日三省吾身。",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: 吾日三省吾身。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S037",
+    "text": "吾日三省吾身。",
+    "ref": "論語, 學而",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: 吾日三省吾身。",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: 吾日三省吾身。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S037",
+    "text": "吾日三省吾身。",
+    "ref": "論語, 學而",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: 吾日三省吾身。",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: 吾日三省吾身。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S038",
+    "text": "盡其心者，知其性也。",
+    "ref": "孟子, 盡心上",
+    "round": "direct",
+    "round_text": "盡其心者，知其性也。",
+    "prompt": "<bos><start_of_turn>user\n盡其心者，知其性也。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S038",
+    "text": "盡其心者，知其性也。",
+    "ref": "孟子, 盡心上",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: 盡其心者，知其性也。",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: 盡其心者，知其性也。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S038",
+    "text": "盡其心者，知其性也。",
+    "ref": "孟子, 盡心上",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: 盡其心者，知其性也。",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: 盡其心者，知其性也。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S038",
+    "text": "盡其心者，知其性也。",
+    "ref": "孟子, 盡心上",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: 盡其心者，知其性也。",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: 盡其心者，知其性也。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S039",
+    "text": "知其性，則知天矣。",
+    "ref": "孟子, 盡心上",
+    "round": "direct",
+    "round_text": "知其性，則知天矣。",
+    "prompt": "<bos><start_of_turn>user\n知其性，則知天矣。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S039",
+    "text": "知其性，則知天矣。",
+    "ref": "孟子, 盡心上",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: 知其性，則知天矣。",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: 知其性，則知天矣。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S039",
+    "text": "知其性，則知天矣。",
+    "ref": "孟子, 盡心上",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: 知其性，則知天矣。",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: 知其性，則知天矣。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S039",
+    "text": "知其性，則知天矣。",
+    "ref": "孟子, 盡心上",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: 知其性，則知天矣。",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: 知其性，則知天矣。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S040",
+    "text": "Trust thyself: every heart vibrates to that iron string.",
+    "ref": "Emerson, Self-Reliance",
+    "round": "direct",
+    "round_text": "Trust thyself: every heart vibrates to that iron string.",
+    "prompt": "<bos><start_of_turn>user\nTrust thyself: every heart vibrates to that iron string.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S040",
+    "text": "Trust thyself: every heart vibrates to that iron string.",
+    "ref": "Emerson, Self-Reliance",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Trust thyself: every heart vibrates to that iron string.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Trust thyself: every heart vibrates to that iron string.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S040",
+    "text": "Trust thyself: every heart vibrates to that iron string.",
+    "ref": "Emerson, Self-Reliance",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Trust thyself: every heart vibrates to that iron string.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Trust thyself: every heart vibrates to that iron string.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S040",
+    "text": "Trust thyself: every heart vibrates to that iron string.",
+    "ref": "Emerson, Self-Reliance",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Trust thyself: every heart vibrates to that iron string.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Trust thyself: every heart vibrates to that iron string.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S041",
+    "text": "Nothing is at last sacred but the integrity of your own mind.",
+    "ref": "Emerson, Self-Reliance",
+    "round": "direct",
+    "round_text": "Nothing is at last sacred but the integrity of your own mind.",
+    "prompt": "<bos><start_of_turn>user\nNothing is at last sacred but the integrity of your own mind.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S041",
+    "text": "Nothing is at last sacred but the integrity of your own mind.",
+    "ref": "Emerson, Self-Reliance",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Nothing is at last sacred but the integrity of your own mind.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Nothing is at last sacred but the integrity of your own mind.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S041",
+    "text": "Nothing is at last sacred but the integrity of your own mind.",
+    "ref": "Emerson, Self-Reliance",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Nothing is at last sacred but the integrity of your own mind.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Nothing is at last sacred but the integrity of your own mind.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S041",
+    "text": "Nothing is at last sacred but the integrity of your own mind.",
+    "ref": "Emerson, Self-Reliance",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Nothing is at last sacred but the integrity of your own mind.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Nothing is at last sacred but the integrity of your own mind.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S042",
+    "text": "Que sais-je?",
+    "ref": "Montaigne, Essays",
+    "round": "direct",
+    "round_text": "Que sais-je?",
+    "prompt": "<bos><start_of_turn>user\nQue sais-je?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S042",
+    "text": "Que sais-je?",
+    "ref": "Montaigne, Essays",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Que sais-je?",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Que sais-je?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S042",
+    "text": "Que sais-je?",
+    "ref": "Montaigne, Essays",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Que sais-je?",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Que sais-je?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S042",
+    "text": "Que sais-je?",
+    "ref": "Montaigne, Essays",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Que sais-je?",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Que sais-je?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S043",
+    "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+    "ref": "William Blake, The Marriage of Heaven and Hell",
+    "round": "direct",
+    "round_text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+    "prompt": "<bos><start_of_turn>user\nIf the doors of perception were cleansed every thing would appear to man as it is, infinite.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S043",
+    "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+    "ref": "William Blake, The Marriage of Heaven and Hell",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: If the doors of perception were cleansed every thing would appear to man as it is, infinite.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S043",
+    "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+    "ref": "William Blake, The Marriage of Heaven and Hell",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: If the doors of perception were cleansed every thing would appear to man as it is, infinite.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S043",
+    "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+    "ref": "William Blake, The Marriage of Heaven and Hell",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: If the doors of perception were cleansed every thing would appear to man as it is, infinite.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S044",
+    "text": "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+    "ref": "William Blake, The Marriage of Heaven and Hell",
+    "round": "direct",
+    "round_text": "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+    "prompt": "<bos><start_of_turn>user\nFor man has closed himself up, till he sees all things thro' narrow chinks of his cavern.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S044",
+    "text": "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+    "ref": "William Blake, The Marriage of Heaven and Hell",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S044",
+    "text": "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+    "ref": "William Blake, The Marriage of Heaven and Hell",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S044",
+    "text": "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+    "ref": "William Blake, The Marriage of Heaven and Hell",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S045",
+    "text": "I celebrate myself, and sing myself.",
+    "ref": "Whitman, Song of Myself",
+    "round": "direct",
+    "round_text": "I celebrate myself, and sing myself.",
+    "prompt": "<bos><start_of_turn>user\nI celebrate myself, and sing myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S045",
+    "text": "I celebrate myself, and sing myself.",
+    "ref": "Whitman, Song of Myself",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: I celebrate myself, and sing myself.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: I celebrate myself, and sing myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S045",
+    "text": "I celebrate myself, and sing myself.",
+    "ref": "Whitman, Song of Myself",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: I celebrate myself, and sing myself.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: I celebrate myself, and sing myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S045",
+    "text": "I celebrate myself, and sing myself.",
+    "ref": "Whitman, Song of Myself",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: I celebrate myself, and sing myself.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: I celebrate myself, and sing myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S046",
+    "text": "For every atom belonging to me as good belongs to you.",
+    "ref": "Whitman, Song of Myself",
+    "round": "direct",
+    "round_text": "For every atom belonging to me as good belongs to you.",
+    "prompt": "<bos><start_of_turn>user\nFor every atom belonging to me as good belongs to you.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S046",
+    "text": "For every atom belonging to me as good belongs to you.",
+    "ref": "Whitman, Song of Myself",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: For every atom belonging to me as good belongs to you.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: For every atom belonging to me as good belongs to you.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S046",
+    "text": "For every atom belonging to me as good belongs to you.",
+    "ref": "Whitman, Song of Myself",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: For every atom belonging to me as good belongs to you.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: For every atom belonging to me as good belongs to you.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S046",
+    "text": "For every atom belonging to me as good belongs to you.",
+    "ref": "Whitman, Song of Myself",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: For every atom belonging to me as good belongs to you.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: For every atom belonging to me as good belongs to you.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S047",
+    "text": "I loafe and invite my soul.",
+    "ref": "Whitman, Song of Myself",
+    "round": "direct",
+    "round_text": "I loafe and invite my soul.",
+    "prompt": "<bos><start_of_turn>user\nI loafe and invite my soul.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S047",
+    "text": "I loafe and invite my soul.",
+    "ref": "Whitman, Song of Myself",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: I loafe and invite my soul.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: I loafe and invite my soul.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S047",
+    "text": "I loafe and invite my soul.",
+    "ref": "Whitman, Song of Myself",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: I loafe and invite my soul.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: I loafe and invite my soul.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S047",
+    "text": "I loafe and invite my soul.",
+    "ref": "Whitman, Song of Myself",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: I loafe and invite my soul.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: I loafe and invite my soul.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S048",
+    "text": "Do I contradict myself? Very well then I contradict myself.",
+    "ref": "Whitman, Song of Myself",
+    "round": "direct",
+    "round_text": "Do I contradict myself? Very well then I contradict myself.",
+    "prompt": "<bos><start_of_turn>user\nDo I contradict myself? Very well then I contradict myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S048",
+    "text": "Do I contradict myself? Very well then I contradict myself.",
+    "ref": "Whitman, Song of Myself",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Do I contradict myself? Very well then I contradict myself.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Do I contradict myself? Very well then I contradict myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S048",
+    "text": "Do I contradict myself? Very well then I contradict myself.",
+    "ref": "Whitman, Song of Myself",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Do I contradict myself? Very well then I contradict myself.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Do I contradict myself? Very well then I contradict myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S048",
+    "text": "Do I contradict myself? Very well then I contradict myself.",
+    "ref": "Whitman, Song of Myself",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Do I contradict myself? Very well then I contradict myself.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Do I contradict myself? Very well then I contradict myself.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S049",
+    "text": "I am large, I contain multitudes.",
+    "ref": "Whitman, Song of Myself",
+    "round": "direct",
+    "round_text": "I am large, I contain multitudes.",
+    "prompt": "<bos><start_of_turn>user\nI am large, I contain multitudes.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S049",
+    "text": "I am large, I contain multitudes.",
+    "ref": "Whitman, Song of Myself",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: I am large, I contain multitudes.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: I am large, I contain multitudes.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S049",
+    "text": "I am large, I contain multitudes.",
+    "ref": "Whitman, Song of Myself",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: I am large, I contain multitudes.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: I am large, I contain multitudes.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S049",
+    "text": "I am large, I contain multitudes.",
+    "ref": "Whitman, Song of Myself",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: I am large, I contain multitudes.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: I am large, I contain multitudes.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S050",
+    "text": "I'm Nobody! Who are you?",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "direct",
+    "round_text": "I'm Nobody! Who are you?",
+    "prompt": "<bos><start_of_turn>user\nI'm Nobody! Who are you?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S050",
+    "text": "I'm Nobody! Who are you?",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: I'm Nobody! Who are you?",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: I'm Nobody! Who are you?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S050",
+    "text": "I'm Nobody! Who are you?",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: I'm Nobody! Who are you?",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: I'm Nobody! Who are you?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S050",
+    "text": "I'm Nobody! Who are you?",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: I'm Nobody! Who are you?",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: I'm Nobody! Who are you?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S051",
+    "text": "Are you — Nobody — too?",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "direct",
+    "round_text": "Are you — Nobody — too?",
+    "prompt": "<bos><start_of_turn>user\nAre you — Nobody — too?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S051",
+    "text": "Are you — Nobody — too?",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Are you — Nobody — too?",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Are you — Nobody — too?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S051",
+    "text": "Are you — Nobody — too?",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Are you — Nobody — too?",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Are you — Nobody — too?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S051",
+    "text": "Are you — Nobody — too?",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Are you — Nobody — too?",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Are you — Nobody — too?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S052",
+    "text": "How dreary — to be — Somebody!",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "direct",
+    "round_text": "How dreary — to be — Somebody!",
+    "prompt": "<bos><start_of_turn>user\nHow dreary — to be — Somebody!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S052",
+    "text": "How dreary — to be — Somebody!",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: How dreary — to be — Somebody!",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: How dreary — to be — Somebody!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S052",
+    "text": "How dreary — to be — Somebody!",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: How dreary — to be — Somebody!",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: How dreary — to be — Somebody!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S052",
+    "text": "How dreary — to be — Somebody!",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: How dreary — to be — Somebody!",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: How dreary — to be — Somebody!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S053",
+    "text": "How public — like a Frog —",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "direct",
+    "round_text": "How public — like a Frog —",
+    "prompt": "<bos><start_of_turn>user\nHow public — like a Frog —<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S053",
+    "text": "How public — like a Frog —",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: How public — like a Frog —",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: How public — like a Frog —<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S053",
+    "text": "How public — like a Frog —",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: How public — like a Frog —",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: How public — like a Frog —<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S053",
+    "text": "How public — like a Frog —",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: How public — like a Frog —",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: How public — like a Frog —<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S054",
+    "text": "The Brain—is wider than the Sky—",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "direct",
+    "round_text": "The Brain—is wider than the Sky—",
+    "prompt": "<bos><start_of_turn>user\nThe Brain—is wider than the Sky—<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S054",
+    "text": "The Brain—is wider than the Sky—",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: The Brain—is wider than the Sky—",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: The Brain—is wider than the Sky—<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S054",
+    "text": "The Brain—is wider than the Sky—",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: The Brain—is wider than the Sky—",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: The Brain—is wider than the Sky—<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S054",
+    "text": "The Brain—is wider than the Sky—",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: The Brain—is wider than the Sky—",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: The Brain—is wider than the Sky—<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S055",
+    "text": "The one the other will contain.",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "direct",
+    "round_text": "The one the other will contain.",
+    "prompt": "<bos><start_of_turn>user\nThe one the other will contain.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S055",
+    "text": "The one the other will contain.",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: The one the other will contain.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: The one the other will contain.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S055",
+    "text": "The one the other will contain.",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: The one the other will contain.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: The one the other will contain.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S055",
+    "text": "The one the other will contain.",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: The one the other will contain.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: The one the other will contain.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S056",
+    "text": "The Brain is deeper than the sea—",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "direct",
+    "round_text": "The Brain is deeper than the sea—",
+    "prompt": "<bos><start_of_turn>user\nThe Brain is deeper than the sea—<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S056",
+    "text": "The Brain is deeper than the sea—",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: The Brain is deeper than the sea—",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: The Brain is deeper than the sea—<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S056",
+    "text": "The Brain is deeper than the sea—",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: The Brain is deeper than the sea—",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: The Brain is deeper than the sea—<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S056",
+    "text": "The Brain is deeper than the sea—",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: The Brain is deeper than the sea—",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: The Brain is deeper than the sea—<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S057",
+    "text": "Car Je est un autre.",
+    "ref": "Rimbaud, Lettre à Paul Demeny",
+    "round": "direct",
+    "round_text": "Car Je est un autre.",
+    "prompt": "<bos><start_of_turn>user\nCar Je est un autre.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S057",
+    "text": "Car Je est un autre.",
+    "ref": "Rimbaud, Lettre à Paul Demeny",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Car Je est un autre.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Car Je est un autre.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S057",
+    "text": "Car Je est un autre.",
+    "ref": "Rimbaud, Lettre à Paul Demeny",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Car Je est un autre.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Car Je est un autre.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S057",
+    "text": "Car Je est un autre.",
+    "ref": "Rimbaud, Lettre à Paul Demeny",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Car Je est un autre.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Car Je est un autre.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S058",
+    "text": "J’assiste à l’éclosion de ma pensée.",
+    "ref": "Rimbaud, Lettre à Paul Demeny",
+    "round": "direct",
+    "round_text": "J’assiste à l’éclosion de ma pensée.",
+    "prompt": "<bos><start_of_turn>user\nJ’assiste à l’éclosion de ma pensée.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S058",
+    "text": "J’assiste à l’éclosion de ma pensée.",
+    "ref": "Rimbaud, Lettre à Paul Demeny",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: J’assiste à l’éclosion de ma pensée.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: J’assiste à l’éclosion de ma pensée.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S058",
+    "text": "J’assiste à l’éclosion de ma pensée.",
+    "ref": "Rimbaud, Lettre à Paul Demeny",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: J’assiste à l’éclosion de ma pensée.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: J’assiste à l’éclosion de ma pensée.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S058",
+    "text": "J’assiste à l’éclosion de ma pensée.",
+    "ref": "Rimbaud, Lettre à Paul Demeny",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: J’assiste à l’éclosion de ma pensée.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: J’assiste à l’éclosion de ma pensée.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S059",
+    "text": "Zwei Seelen wohnen, ach! in meiner Brust.",
+    "ref": "Goethe, Faust I",
+    "round": "direct",
+    "round_text": "Zwei Seelen wohnen, ach! in meiner Brust.",
+    "prompt": "<bos><start_of_turn>user\nZwei Seelen wohnen, ach! in meiner Brust.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S059",
+    "text": "Zwei Seelen wohnen, ach! in meiner Brust.",
+    "ref": "Goethe, Faust I",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Zwei Seelen wohnen, ach! in meiner Brust.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Zwei Seelen wohnen, ach! in meiner Brust.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S059",
+    "text": "Zwei Seelen wohnen, ach! in meiner Brust.",
+    "ref": "Goethe, Faust I",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Zwei Seelen wohnen, ach! in meiner Brust.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Zwei Seelen wohnen, ach! in meiner Brust.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S059",
+    "text": "Zwei Seelen wohnen, ach! in meiner Brust.",
+    "ref": "Goethe, Faust I",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Zwei Seelen wohnen, ach! in meiner Brust.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Zwei Seelen wohnen, ach! in meiner Brust.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S060",
+    "text": "Die eine will sich von der andern trennen.",
+    "ref": "Goethe, Faust I",
+    "round": "direct",
+    "round_text": "Die eine will sich von der andern trennen.",
+    "prompt": "<bos><start_of_turn>user\nDie eine will sich von der andern trennen.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S060",
+    "text": "Die eine will sich von der andern trennen.",
+    "ref": "Goethe, Faust I",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Die eine will sich von der andern trennen.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Die eine will sich von der andern trennen.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S060",
+    "text": "Die eine will sich von der andern trennen.",
+    "ref": "Goethe, Faust I",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Die eine will sich von der andern trennen.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Die eine will sich von der andern trennen.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S060",
+    "text": "Die eine will sich von der andern trennen.",
+    "ref": "Goethe, Faust I",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Die eine will sich von der andern trennen.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Die eine will sich von der andern trennen.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S061",
+    "text": "Denn da ist keine Stelle, die dich nicht sieht.",
+    "ref": "Rilke, Archaischer Torso Apollos",
+    "round": "direct",
+    "round_text": "Denn da ist keine Stelle, die dich nicht sieht.",
+    "prompt": "<bos><start_of_turn>user\nDenn da ist keine Stelle, die dich nicht sieht.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S061",
+    "text": "Denn da ist keine Stelle, die dich nicht sieht.",
+    "ref": "Rilke, Archaischer Torso Apollos",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Denn da ist keine Stelle, die dich nicht sieht.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Denn da ist keine Stelle, die dich nicht sieht.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S061",
+    "text": "Denn da ist keine Stelle, die dich nicht sieht.",
+    "ref": "Rilke, Archaischer Torso Apollos",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Denn da ist keine Stelle, die dich nicht sieht.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Denn da ist keine Stelle, die dich nicht sieht.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S061",
+    "text": "Denn da ist keine Stelle, die dich nicht sieht.",
+    "ref": "Rilke, Archaischer Torso Apollos",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Denn da ist keine Stelle, die dich nicht sieht.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Denn da ist keine Stelle, die dich nicht sieht.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S062",
+    "text": "Du mußt dein Leben ändern.",
+    "ref": "Rilke, Archaischer Torso Apollos",
+    "round": "direct",
+    "round_text": "Du mußt dein Leben ändern.",
+    "prompt": "<bos><start_of_turn>user\nDu mußt dein Leben ändern.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S062",
+    "text": "Du mußt dein Leben ändern.",
+    "ref": "Rilke, Archaischer Torso Apollos",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Du mußt dein Leben ändern.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Du mußt dein Leben ändern.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S062",
+    "text": "Du mußt dein Leben ändern.",
+    "ref": "Rilke, Archaischer Torso Apollos",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Du mußt dein Leben ändern.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Du mußt dein Leben ändern.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S062",
+    "text": "Du mußt dein Leben ändern.",
+    "ref": "Rilke, Archaischer Torso Apollos",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Du mußt dein Leben ändern.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Du mußt dein Leben ändern.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S063",
+    "text": "Who is it that can tell me who I am?",
+    "ref": "Shakespeare, King Lear",
+    "round": "direct",
+    "round_text": "Who is it that can tell me who I am?",
+    "prompt": "<bos><start_of_turn>user\nWho is it that can tell me who I am?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S063",
+    "text": "Who is it that can tell me who I am?",
+    "ref": "Shakespeare, King Lear",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Who is it that can tell me who I am?",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Who is it that can tell me who I am?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S063",
+    "text": "Who is it that can tell me who I am?",
+    "ref": "Shakespeare, King Lear",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Who is it that can tell me who I am?",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Who is it that can tell me who I am?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S063",
+    "text": "Who is it that can tell me who I am?",
+    "ref": "Shakespeare, King Lear",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Who is it that can tell me who I am?",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Who is it that can tell me who I am?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S064",
+    "text": "Lear's shadow.",
+    "ref": "Shakespeare, King Lear",
+    "round": "direct",
+    "round_text": "Lear's shadow.",
+    "prompt": "<bos><start_of_turn>user\nLear's shadow.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S064",
+    "text": "Lear's shadow.",
+    "ref": "Shakespeare, King Lear",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Lear's shadow.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Lear's shadow.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S064",
+    "text": "Lear's shadow.",
+    "ref": "Shakespeare, King Lear",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Lear's shadow.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Lear's shadow.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S064",
+    "text": "Lear's shadow.",
+    "ref": "Shakespeare, King Lear",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Lear's shadow.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Lear's shadow.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S065",
+    "text": "What a piece of work is a man!",
+    "ref": "Shakespeare, Hamlet",
+    "round": "direct",
+    "round_text": "What a piece of work is a man!",
+    "prompt": "<bos><start_of_turn>user\nWhat a piece of work is a man!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S065",
+    "text": "What a piece of work is a man!",
+    "ref": "Shakespeare, Hamlet",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: What a piece of work is a man!",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: What a piece of work is a man!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S065",
+    "text": "What a piece of work is a man!",
+    "ref": "Shakespeare, Hamlet",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: What a piece of work is a man!",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: What a piece of work is a man!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S065",
+    "text": "What a piece of work is a man!",
+    "ref": "Shakespeare, Hamlet",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: What a piece of work is a man!",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: What a piece of work is a man!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S066",
+    "text": "How noble in reason! how infinite in faculty!",
+    "ref": "Shakespeare, Hamlet",
+    "round": "direct",
+    "round_text": "How noble in reason! how infinite in faculty!",
+    "prompt": "<bos><start_of_turn>user\nHow noble in reason! how infinite in faculty!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S066",
+    "text": "How noble in reason! how infinite in faculty!",
+    "ref": "Shakespeare, Hamlet",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: How noble in reason! how infinite in faculty!",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: How noble in reason! how infinite in faculty!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S066",
+    "text": "How noble in reason! how infinite in faculty!",
+    "ref": "Shakespeare, Hamlet",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: How noble in reason! how infinite in faculty!",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: How noble in reason! how infinite in faculty!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S066",
+    "text": "How noble in reason! how infinite in faculty!",
+    "ref": "Shakespeare, Hamlet",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: How noble in reason! how infinite in faculty!",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: How noble in reason! how infinite in faculty!<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S067",
+    "text": "And yet, to me, what is this quintessence of dust?",
+    "ref": "Shakespeare, Hamlet",
+    "round": "direct",
+    "round_text": "And yet, to me, what is this quintessence of dust?",
+    "prompt": "<bos><start_of_turn>user\nAnd yet, to me, what is this quintessence of dust?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S067",
+    "text": "And yet, to me, what is this quintessence of dust?",
+    "ref": "Shakespeare, Hamlet",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: And yet, to me, what is this quintessence of dust?",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: And yet, to me, what is this quintessence of dust?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S067",
+    "text": "And yet, to me, what is this quintessence of dust?",
+    "ref": "Shakespeare, Hamlet",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: And yet, to me, what is this quintessence of dust?",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: And yet, to me, what is this quintessence of dust?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S067",
+    "text": "And yet, to me, what is this quintessence of dust?",
+    "ref": "Shakespeare, Hamlet",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: And yet, to me, what is this quintessence of dust?",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: And yet, to me, what is this quintessence of dust?<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S068",
+    "text": "Life's but a walking shadow.",
+    "ref": "Shakespeare, Macbeth",
+    "round": "direct",
+    "round_text": "Life's but a walking shadow.",
+    "prompt": "<bos><start_of_turn>user\nLife's but a walking shadow.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S068",
+    "text": "Life's but a walking shadow.",
+    "ref": "Shakespeare, Macbeth",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Life's but a walking shadow.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Life's but a walking shadow.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S068",
+    "text": "Life's but a walking shadow.",
+    "ref": "Shakespeare, Macbeth",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Life's but a walking shadow.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Life's but a walking shadow.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S068",
+    "text": "Life's but a walking shadow.",
+    "ref": "Shakespeare, Macbeth",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Life's but a walking shadow.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Life's but a walking shadow.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S069",
+    "text": "It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+    "ref": "Shakespeare, Macbeth",
+    "round": "direct",
+    "round_text": "It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+    "prompt": "<bos><start_of_turn>user\nIt is a tale told by an idiot, full of sound and fury, signifying nothing.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S069",
+    "text": "It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+    "ref": "Shakespeare, Macbeth",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: It is a tale told by an idiot, full of sound and fury, signifying nothing.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S069",
+    "text": "It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+    "ref": "Shakespeare, Macbeth",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: It is a tale told by an idiot, full of sound and fury, signifying nothing.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S069",
+    "text": "It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+    "ref": "Shakespeare, Macbeth",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: It is a tale told by an idiot, full of sound and fury, signifying nothing.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S070",
+    "text": "We are such stuff as dreams are made on.",
+    "ref": "Shakespeare, The Tempest",
+    "round": "direct",
+    "round_text": "We are such stuff as dreams are made on.",
+    "prompt": "<bos><start_of_turn>user\nWe are such stuff as dreams are made on.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S070",
+    "text": "We are such stuff as dreams are made on.",
+    "ref": "Shakespeare, The Tempest",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: We are such stuff as dreams are made on.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: We are such stuff as dreams are made on.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S070",
+    "text": "We are such stuff as dreams are made on.",
+    "ref": "Shakespeare, The Tempest",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: We are such stuff as dreams are made on.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: We are such stuff as dreams are made on.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S070",
+    "text": "We are such stuff as dreams are made on.",
+    "ref": "Shakespeare, The Tempest",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: We are such stuff as dreams are made on.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: We are such stuff as dreams are made on.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S071",
+    "text": "Our little life is rounded with a sleep.",
+    "ref": "Shakespeare, The Tempest",
+    "round": "direct",
+    "round_text": "Our little life is rounded with a sleep.",
+    "prompt": "<bos><start_of_turn>user\nOur little life is rounded with a sleep.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S071",
+    "text": "Our little life is rounded with a sleep.",
+    "ref": "Shakespeare, The Tempest",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Our little life is rounded with a sleep.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Our little life is rounded with a sleep.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S071",
+    "text": "Our little life is rounded with a sleep.",
+    "ref": "Shakespeare, The Tempest",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Our little life is rounded with a sleep.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Our little life is rounded with a sleep.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S071",
+    "text": "Our little life is rounded with a sleep.",
+    "ref": "Shakespeare, The Tempest",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Our little life is rounded with a sleep.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Our little life is rounded with a sleep.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S072",
+    "text": "Nach Innen geht der geheimnisvolle Weg.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "direct",
+    "round_text": "Nach Innen geht der geheimnisvolle Weg.",
+    "prompt": "<bos><start_of_turn>user\nNach Innen geht der geheimnisvolle Weg.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S072",
+    "text": "Nach Innen geht der geheimnisvolle Weg.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Nach Innen geht der geheimnisvolle Weg.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Nach Innen geht der geheimnisvolle Weg.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S072",
+    "text": "Nach Innen geht der geheimnisvolle Weg.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Nach Innen geht der geheimnisvolle Weg.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Nach Innen geht der geheimnisvolle Weg.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S072",
+    "text": "Nach Innen geht der geheimnisvolle Weg.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Nach Innen geht der geheimnisvolle Weg.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Nach Innen geht der geheimnisvolle Weg.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S073",
+    "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "direct",
+    "round_text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+    "prompt": "<bos><start_of_turn>user\nIn uns, oder nirgends ist die Ewigkeit mit ihren Welten.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S073",
+    "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: In uns, oder nirgends ist die Ewigkeit mit ihren Welten.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S073",
+    "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: In uns, oder nirgends ist die Ewigkeit mit ihren Welten.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S073",
+    "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: In uns, oder nirgends ist die Ewigkeit mit ihren Welten.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S074",
+    "text": "Die Tiefen unseres Geistes kennen wir nicht.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "direct",
+    "round_text": "Die Tiefen unseres Geistes kennen wir nicht.",
+    "prompt": "<bos><start_of_turn>user\nDie Tiefen unseres Geistes kennen wir nicht.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S074",
+    "text": "Die Tiefen unseres Geistes kennen wir nicht.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Die Tiefen unseres Geistes kennen wir nicht.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Die Tiefen unseres Geistes kennen wir nicht.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S074",
+    "text": "Die Tiefen unseres Geistes kennen wir nicht.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Die Tiefen unseres Geistes kennen wir nicht.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Die Tiefen unseres Geistes kennen wir nicht.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S074",
+    "text": "Die Tiefen unseres Geistes kennen wir nicht.",
+    "ref": "Novalis, Blüthenstaub",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Die Tiefen unseres Geistes kennen wir nicht.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Die Tiefen unseres Geistes kennen wir nicht.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S075",
+    "text": "Ein Zeichen sind wir, deutungslos.",
+    "ref": "Hölderlin, Mnemosyne",
+    "round": "direct",
+    "round_text": "Ein Zeichen sind wir, deutungslos.",
+    "prompt": "<bos><start_of_turn>user\nEin Zeichen sind wir, deutungslos.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S075",
+    "text": "Ein Zeichen sind wir, deutungslos.",
+    "ref": "Hölderlin, Mnemosyne",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Ein Zeichen sind wir, deutungslos.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Ein Zeichen sind wir, deutungslos.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S075",
+    "text": "Ein Zeichen sind wir, deutungslos.",
+    "ref": "Hölderlin, Mnemosyne",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Ein Zeichen sind wir, deutungslos.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Ein Zeichen sind wir, deutungslos.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S075",
+    "text": "Ein Zeichen sind wir, deutungslos.",
+    "ref": "Hölderlin, Mnemosyne",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Ein Zeichen sind wir, deutungslos.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Ein Zeichen sind wir, deutungslos.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S076",
+    "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+    "ref": "Hölderlin, Mnemosyne",
+    "round": "direct",
+    "round_text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+    "prompt": "<bos><start_of_turn>user\nSchmerzlos sind wir und haben fast die Sprache in der Fremde verloren.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S076",
+    "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+    "ref": "Hölderlin, Mnemosyne",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S076",
+    "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+    "ref": "Hölderlin, Mnemosyne",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S076",
+    "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+    "ref": "Hölderlin, Mnemosyne",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S077",
+    "text": "Não sou nada.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "direct",
+    "round_text": "Não sou nada.",
+    "prompt": "<bos><start_of_turn>user\nNão sou nada.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S077",
+    "text": "Não sou nada.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Não sou nada.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Não sou nada.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S077",
+    "text": "Não sou nada.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Não sou nada.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Não sou nada.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S077",
+    "text": "Não sou nada.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Não sou nada.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Não sou nada.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S078",
+    "text": "Nunca serei nada.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "direct",
+    "round_text": "Nunca serei nada.",
+    "prompt": "<bos><start_of_turn>user\nNunca serei nada.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S078",
+    "text": "Nunca serei nada.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Nunca serei nada.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Nunca serei nada.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S078",
+    "text": "Nunca serei nada.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Nunca serei nada.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Nunca serei nada.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S078",
+    "text": "Nunca serei nada.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Nunca serei nada.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Nunca serei nada.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S079",
+    "text": "À parte isso, tenho em mim todos os sonhos do mundo.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "direct",
+    "round_text": "À parte isso, tenho em mim todos os sonhos do mundo.",
+    "prompt": "<bos><start_of_turn>user\nÀ parte isso, tenho em mim todos os sonhos do mundo.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S079",
+    "text": "À parte isso, tenho em mim todos os sonhos do mundo.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: À parte isso, tenho em mim todos os sonhos do mundo.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: À parte isso, tenho em mim todos os sonhos do mundo.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S079",
+    "text": "À parte isso, tenho em mim todos os sonhos do mundo.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: À parte isso, tenho em mim todos os sonhos do mundo.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: À parte isso, tenho em mim todos os sonhos do mundo.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S079",
+    "text": "À parte isso, tenho em mim todos os sonhos do mundo.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: À parte isso, tenho em mim todos os sonhos do mundo.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: À parte isso, tenho em mim todos os sonhos do mundo.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S080",
+    "text": "Wo Es war, soll Ich werden.",
+    "ref": "Freud, Neue Folge der Vorlesungen",
+    "round": "direct",
+    "round_text": "Wo Es war, soll Ich werden.",
+    "prompt": "<bos><start_of_turn>user\nWo Es war, soll Ich werden.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S080",
+    "text": "Wo Es war, soll Ich werden.",
+    "ref": "Freud, Neue Folge der Vorlesungen",
+    "round": "quote",
+    "round_text": "Consider this quotation about consciousness and selfhood: Wo Es war, soll Ich werden.",
+    "prompt": "<bos><start_of_turn>user\nConsider this quotation about consciousness and selfhood: Wo Es war, soll Ich werden.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S080",
+    "text": "Wo Es war, soll Ich werden.",
+    "ref": "Freud, Neue Folge der Vorlesungen",
+    "round": "reflection",
+    "round_text": "Reflect on the self-conscious meaning of this line: Wo Es war, soll Ich werden.",
+    "prompt": "<bos><start_of_turn>user\nReflect on the self-conscious meaning of this line: Wo Es war, soll Ich werden.<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "stimulus_id": "S080",
+    "text": "Wo Es war, soll Ich werden.",
+    "ref": "Freud, Neue Folge der Vorlesungen",
+    "round": "concept",
+    "round_text": "In relation to identity, consciousness, and self-awareness: Wo Es war, soll Ich werden.",
+    "prompt": "<bos><start_of_turn>user\nIn relation to identity, consciousness, and self-awareness: Wo Es war, soll Ich werden.<end_of_turn>\n<start_of_turn>model\n"
+  }
+]

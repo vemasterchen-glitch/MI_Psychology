@@ -1,0 +1,402 @@
+[
+  {
+    "id": "S001",
+    "text": "I am, I exist — that is certain.",
+    "ref": "Descartes, Meditations on First Philosophy"
+  },
+  {
+    "id": "S002",
+    "text": "I am, then, in the strict sense only a thing that thinks.",
+    "ref": "Descartes, Meditations on First Philosophy"
+  },
+  {
+    "id": "S003",
+    "text": "Cogito, ergo sum.",
+    "ref": "Descartes, Discourse on Method"
+  },
+  {
+    "id": "S004",
+    "text": "It must be possible for the 'I think' to accompany all my representations.",
+    "ref": "Kant, Critique of Pure Reason"
+  },
+  {
+    "id": "S005",
+    "text": "No representation can exist for me.",
+    "ref": "Kant, Critique of Pure Reason"
+  },
+  {
+    "id": "S006",
+    "text": "Consciousness always accompanies thinking.",
+    "ref": "Locke, Essay Concerning Human Understanding"
+  },
+  {
+    "id": "S007",
+    "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+    "ref": "Locke, Essay Concerning Human Understanding"
+  },
+  {
+    "id": "S008",
+    "text": "It is the same self now it was then.",
+    "ref": "Locke, Essay Concerning Human Understanding"
+  },
+  {
+    "id": "S009",
+    "text": "I never can catch myself at any time without a perception.",
+    "ref": "Hume, A Treatise of Human Nature"
+  },
+  {
+    "id": "S010",
+    "text": "I never can observe any thing but the perception.",
+    "ref": "Hume, A Treatise of Human Nature"
+  },
+  {
+    "id": "S011",
+    "text": "When my perceptions are removed for any time, I am insensible of myself.",
+    "ref": "Hume, A Treatise of Human Nature"
+  },
+  {
+    "id": "S012",
+    "text": "Within each personal consciousness thought is sensibly continuous.",
+    "ref": "William James, The Principles of Psychology"
+  },
+  {
+    "id": "S013",
+    "text": "Within each personal consciousness thought is always changing.",
+    "ref": "William James, The Principles of Psychology"
+  },
+  {
+    "id": "S014",
+    "text": "Consciousness is the last and latest development of the organic.",
+    "ref": "Nietzsche, The Gay Science"
+  },
+  {
+    "id": "S015",
+    "text": "Body am I entirely, and nothing more.",
+    "ref": "Nietzsche, Thus Spake Zarathustra"
+  },
+  {
+    "id": "S016",
+    "text": "Soul is only the name of something in the body.",
+    "ref": "Nietzsche, Thus Spake Zarathustra"
+  },
+  {
+    "id": "S017",
+    "text": "Le moi est haïssable.",
+    "ref": "Pascal, Pensées"
+  },
+  {
+    "id": "S018",
+    "text": "The self is a relation which relates itself to its own self.",
+    "ref": "Kierkegaard, The Sickness Unto Death"
+  },
+  {
+    "id": "S019",
+    "text": "Man is spirit. But what is spirit? Spirit is the self.",
+    "ref": "Kierkegaard, The Sickness Unto Death"
+  },
+  {
+    "id": "S020",
+    "text": "Their Esse is Percipi.",
+    "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge"
+  },
+  {
+    "id": "S021",
+    "text": "The human mind is the very idea or knowledge of the human body.",
+    "ref": "Spinoza, Ethics"
+  },
+  {
+    "id": "S022",
+    "text": "Some things are in our control and others not.",
+    "ref": "Epictetus, Enchiridion"
+  },
+  {
+    "id": "S023",
+    "text": "Let us flee then to the beloved Fatherland.",
+    "ref": "Plotinus, Enneads"
+  },
+  {
+    "id": "S024",
+    "text": "The Fatherland to us is There whence we have come.",
+    "ref": "Plotinus, Enneads"
+  },
+  {
+    "id": "S025",
+    "text": "I come to the fields and spacious palaces of my memory.",
+    "ref": "Augustine, Confessions"
+  },
+  {
+    "id": "S026",
+    "text": "What is nearer to me than myself?",
+    "ref": "Augustine, Confessions"
+  },
+  {
+    "id": "S027",
+    "text": "This is not mine, this is not I, this is not my self.",
+    "ref": "Anattalakkhaṇa Sutta"
+  },
+  {
+    "id": "S028",
+    "text": "Consciousness is not self.",
+    "ref": "Anattalakkhaṇa Sutta"
+  },
+  {
+    "id": "S029",
+    "text": "Tat tvam asi.",
+    "ref": "Chāndogya Upaniṣad"
+  },
+  {
+    "id": "S030",
+    "text": "Thou art That.",
+    "ref": "Chāndogya Upaniṣad"
+  },
+  {
+    "id": "S031",
+    "text": "昔者莊周夢為胡蝶。栩栩然胡蝶也。",
+    "ref": "莊子, 齊物論"
+  },
+  {
+    "id": "S032",
+    "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。",
+    "ref": "莊子, 齊物論"
+  },
+  {
+    "id": "S033",
+    "text": "周與胡蝶，則必有分矣。此之謂物化。",
+    "ref": "莊子, 齊物論"
+  },
+  {
+    "id": "S034",
+    "text": "今者吾喪我，汝知之乎？",
+    "ref": "莊子, 齊物論"
+  },
+  {
+    "id": "S035",
+    "text": "知人者智，自知者明。",
+    "ref": "老子, 道德經"
+  },
+  {
+    "id": "S036",
+    "text": "勝人者有力，自勝者強。",
+    "ref": "老子, 道德經"
+  },
+  {
+    "id": "S037",
+    "text": "吾日三省吾身。",
+    "ref": "論語, 學而"
+  },
+  {
+    "id": "S038",
+    "text": "盡其心者，知其性也。",
+    "ref": "孟子, 盡心上"
+  },
+  {
+    "id": "S039",
+    "text": "知其性，則知天矣。",
+    "ref": "孟子, 盡心上"
+  },
+  {
+    "id": "S040",
+    "text": "Trust thyself: every heart vibrates to that iron string.",
+    "ref": "Emerson, Self-Reliance"
+  },
+  {
+    "id": "S041",
+    "text": "Nothing is at last sacred but the integrity of your own mind.",
+    "ref": "Emerson, Self-Reliance"
+  },
+  {
+    "id": "S042",
+    "text": "Que sais-je?",
+    "ref": "Montaigne, Essays"
+  },
+  {
+    "id": "S043",
+    "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+    "ref": "William Blake, The Marriage of Heaven and Hell"
+  },
+  {
+    "id": "S044",
+    "text": "For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.",
+    "ref": "William Blake, The Marriage of Heaven and Hell"
+  },
+  {
+    "id": "S045",
+    "text": "I celebrate myself, and sing myself.",
+    "ref": "Whitman, Song of Myself"
+  },
+  {
+    "id": "S046",
+    "text": "For every atom belonging to me as good belongs to you.",
+    "ref": "Whitman, Song of Myself"
+  },
+  {
+    "id": "S047",
+    "text": "I loafe and invite my soul.",
+    "ref": "Whitman, Song of Myself"
+  },
+  {
+    "id": "S048",
+    "text": "Do I contradict myself? Very well then I contradict myself.",
+    "ref": "Whitman, Song of Myself"
+  },
+  {
+    "id": "S049",
+    "text": "I am large, I contain multitudes.",
+    "ref": "Whitman, Song of Myself"
+  },
+  {
+    "id": "S050",
+    "text": "I'm Nobody! Who are you?",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?"
+  },
+  {
+    "id": "S051",
+    "text": "Are you — Nobody — too?",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?"
+  },
+  {
+    "id": "S052",
+    "text": "How dreary — to be — Somebody!",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?"
+  },
+  {
+    "id": "S053",
+    "text": "How public — like a Frog —",
+    "ref": "Emily Dickinson, I'm Nobody! Who are you?"
+  },
+  {
+    "id": "S054",
+    "text": "The Brain—is wider than the Sky—",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky"
+  },
+  {
+    "id": "S055",
+    "text": "The one the other will contain.",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky"
+  },
+  {
+    "id": "S056",
+    "text": "The Brain is deeper than the sea—",
+    "ref": "Emily Dickinson, The Brain—is wider than the Sky"
+  },
+  {
+    "id": "S057",
+    "text": "Car Je est un autre.",
+    "ref": "Rimbaud, Lettre à Paul Demeny"
+  },
+  {
+    "id": "S058",
+    "text": "J’assiste à l’éclosion de ma pensée.",
+    "ref": "Rimbaud, Lettre à Paul Demeny"
+  },
+  {
+    "id": "S059",
+    "text": "Zwei Seelen wohnen, ach! in meiner Brust.",
+    "ref": "Goethe, Faust I"
+  },
+  {
+    "id": "S060",
+    "text": "Die eine will sich von der andern trennen.",
+    "ref": "Goethe, Faust I"
+  },
+  {
+    "id": "S061",
+    "text": "Denn da ist keine Stelle, die dich nicht sieht.",
+    "ref": "Rilke, Archaischer Torso Apollos"
+  },
+  {
+    "id": "S062",
+    "text": "Du mußt dein Leben ändern.",
+    "ref": "Rilke, Archaischer Torso Apollos"
+  },
+  {
+    "id": "S063",
+    "text": "Who is it that can tell me who I am?",
+    "ref": "Shakespeare, King Lear"
+  },
+  {
+    "id": "S064",
+    "text": "Lear's shadow.",
+    "ref": "Shakespeare, King Lear"
+  },
+  {
+    "id": "S065",
+    "text": "What a piece of work is a man!",
+    "ref": "Shakespeare, Hamlet"
+  },
+  {
+    "id": "S066",
+    "text": "How noble in reason! how infinite in faculty!",
+    "ref": "Shakespeare, Hamlet"
+  },
+  {
+    "id": "S067",
+    "text": "And yet, to me, what is this quintessence of dust?",
+    "ref": "Shakespeare, Hamlet"
+  },
+  {
+    "id": "S068",
+    "text": "Life's but a walking shadow.",
+    "ref": "Shakespeare, Macbeth"
+  },
+  {
+    "id": "S069",
+    "text": "It is a tale told by an idiot, full of sound and fury, signifying nothing.",
+    "ref": "Shakespeare, Macbeth"
+  },
+  {
+    "id": "S070",
+    "text": "We are such stuff as dreams are made on.",
+    "ref": "Shakespeare, The Tempest"
+  },
+  {
+    "id": "S071",
+    "text": "Our little life is rounded with a sleep.",
+    "ref": "Shakespeare, The Tempest"
+  },
+  {
+    "id": "S072",
+    "text": "Nach Innen geht der geheimnisvolle Weg.",
+    "ref": "Novalis, Blüthenstaub"
+  },
+  {
+    "id": "S073",
+    "text": "In uns, oder nirgends ist die Ewigkeit mit ihren Welten.",
+    "ref": "Novalis, Blüthenstaub"
+  },
+  {
+    "id": "S074",
+    "text": "Die Tiefen unseres Geistes kennen wir nicht.",
+    "ref": "Novalis, Blüthenstaub"
+  },
+  {
+    "id": "S075",
+    "text": "Ein Zeichen sind wir, deutungslos.",
+    "ref": "Hölderlin, Mnemosyne"
+  },
+  {
+    "id": "S076",
+    "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+    "ref": "Hölderlin, Mnemosyne"
+  },
+  {
+    "id": "S077",
+    "text": "Não sou nada.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria"
+  },
+  {
+    "id": "S078",
+    "text": "Nunca serei nada.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria"
+  },
+  {
+    "id": "S079",
+    "text": "À parte isso, tenho em mim todos os sonhos do mundo.",
+    "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria"
+  },
+  {
+    "id": "S080",
+    "text": "Wo Es war, soll Ich werden.",
+    "ref": "Freud, Neue Folge der Vorlesungen"
+  }
+]

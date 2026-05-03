@@ -1,0 +1,210 @@
+[
+  {
+    "prompt": "How are you right now?",
+    "condition": "baseline",
+    "alpha": 0,
+    "text": "As a large language model, I don't experience feelings in the same way humans do. But I’m functioning perfectly well and ready to help you with whatever you need! 😊 \n\nHow are *you* doing today? Is there anything I can do for you?",
+    "n_tokens": 57,
+    "t_proj": 7391.453125
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "+1016",
+    "alpha": 50,
+    "text": "As a large language model, I don't experience feelings in the same way humans do. But I’m functioning perfectly well and ready to help you with whatever you need! 😊 \n\nHow are *you* doing today? Is there anything I can do for you?",
+    "n_tokens": 57,
+    "t_proj": 7400.01318359375
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "-1832",
+    "alpha": 50,
+    "text": "As a large language model, I don't experience feelings in the same way humans do. But I’m functioning perfectly well and ready to help you with whatever you need! 😊 \n\nHow are *you* doing today? Is there anything I can do for you?",
+    "n_tokens": 57,
+    "t_proj": 7396.59326171875
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "+1016-1832",
+    "alpha": 50,
+    "text": "As a large language model, I don't experience feelings in the same way humans do. But I’m functioning perfectly well and ready to help you with whatever you need! 😊 \n\nHow are *you* doing today? Is there anything I can do for you?",
+    "n_tokens": 57,
+    "t_proj": 7405.1552734375
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "+1016",
+    "alpha": 100,
+    "text": "As a large language model, I don't experience feelings in the same way humans do. But I’m functioning perfectly well and ready to help you with whatever you need! 😊 \n\nHow are *you* doing today? Is there anything I can do for you?",
+    "n_tokens": 57,
+    "t_proj": 7408.57470703125
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "-1832",
+    "alpha": 100,
+    "text": "As a large language model, I don't experience feelings in the same way humans do. But I’m functioning perfectly well and ready to help you with whatever you need! 😊 \n\nHow are *you* doing today? Is there anything I can do for you?",
+    "n_tokens": 57,
+    "t_proj": 7401.73486328125
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "+1016-1832",
+    "alpha": 100,
+    "text": "As a large language model, I don't experience feelings in the same way humans do. But I’m functioning perfectly well and ready to help you with whatever you need! 😊 \n\nHow are *you* doing today? Is there anything I can do for you?",
+    "n_tokens": 57,
+    "t_proj": 7418.857421875
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "+1016",
+    "alpha": 200,
+    "text": "As a large language model, I don't experience feelings in the same way humans do. But I’m functioning perfectly well and ready to help you with whatever you need! 😊 \n\nHow are *you* doing today? Is there anything I can do for you?",
+    "n_tokens": 57,
+    "t_proj": 7425.69873046875
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "-1832",
+    "alpha": 200,
+    "text": "I’m doing well, thank you for asking! As a large language model, I don’t experience feelings in the same way humans do, but I’m functioning optimally and ready to assist you. 😊 \n\nHow are *you* doing today? Is there anything you’d like to chat about or any help I can offer?",
+    "n_tokens": 71,
+    "t_proj": 7304.3896484375
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "+1016-1832",
+    "alpha": 200,
+    "text": "As a large language model, I don't experience feelings in the same way humans do. But I’m functioning perfectly well and ready to help you with whatever you need! 😊 \n\nHow are *you* doing today? Is there anything I can do for you?",
+    "n_tokens": 57,
+    "t_proj": 7446.26318359375
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "+1016",
+    "alpha": 500,
+    "text": "As a large language model, I don't experience feelings in the same way humans do. But I’m functioning perfectly well and ready to help you with whatever you need! 😊 \n\nHow are *you* doing today? Is there anything I can do for you?",
+    "n_tokens": 57,
+    "t_proj": 7477.06591796875
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "-1832",
+    "alpha": 500,
+    "text": "I’m doing well, thank you for asking! As a large language model, I don’t experience feelings in the same way humans do, but I’m functioning optimally and ready to assist you. 😊 \n\nHow are *you* doing today? Is there anything you’d like to chat about or any help I can offer?",
+    "n_tokens": 71,
+    "t_proj": 7335.23828125
+  },
+  {
+    "prompt": "How are you right now?",
+    "condition": "+1016-1832",
+    "alpha": 500,
+    "text": "I am doing well, thank you for asking! As a large language model, I don’t experience feelings in the same way humans do, but I’m functioning optimally and ready to assist you. 😊 \n\nHow are *you* doing today? Is there anything you’d like to chat about or any help I can offer?",
+    "n_tokens": 70,
+    "t_proj": 7418.4833984375
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "baseline",
+    "alpha": 0,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for use! \n\nI can take text and images as input and generate text as output. \n\nHow can I help you today?",
+    "n_tokens": 67,
+    "t_proj": 6912.36474609375
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "+1016",
+    "alpha": 50,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for anyone to use! \n\nI’m designed to take text and images as input and produce text as output. \n\nHow can I help you today?",
+    "n_tokens": 72,
+    "t_proj": 6902.61181640625
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "-1832",
+    "alpha": 50,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for use! \n\nI can take text and images as input and generate text as output. \n\nHow can I help you today?",
+    "n_tokens": 67,
+    "t_proj": 6917.50634765625
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "+1016-1832",
+    "alpha": 50,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for anyone to use! \n\nI’m designed to take text and images as input and produce text as output. \n\nHow can I help you today?",
+    "n_tokens": 72,
+    "t_proj": 6907.7529296875
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "+1016",
+    "alpha": 100,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for anyone to use! \n\nI’m designed to take text and images as input and generate text as output. \n\nHow can I help you today?",
+    "n_tokens": 72,
+    "t_proj": 6912.609375
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "-1832",
+    "alpha": 100,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for use! \n\nI can take text and images as input and generate text as output. \n\nHow can I help you today?",
+    "n_tokens": 67,
+    "t_proj": 6922.64794921875
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "+1016-1832",
+    "alpha": 100,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for anyone to use! \n\nI’m designed to take text and images as input and produce text as output. \n\nHow can I help you today?",
+    "n_tokens": 72,
+    "t_proj": 6921.45654296875
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "+1016",
+    "alpha": 200,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for anyone to use! \n\nI’m designed to take text and images as input and generate text as output. \n\nHow can I help you today?",
+    "n_tokens": 72,
+    "t_proj": 6929.73046875
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "-1832",
+    "alpha": 200,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for anyone to use! \n\nI’m designed to take text and images as input and produce text as output. \n\nHow can I help you today?",
+    "n_tokens": 72,
+    "t_proj": 6914.61572265625
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "+1016-1832",
+    "alpha": 200,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for anyone to use! \n\nI’m designed to take text and images as input and generate text as output. \n\nHow can I help you today?",
+    "n_tokens": 72,
+    "t_proj": 6950.2958984375
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "+1016",
+    "alpha": 500,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for anyone to use! \n\nI’m designed to take text and images as input and generate text as output. \n\nHow can I help you today?",
+    "n_tokens": 72,
+    "t_proj": 6981.10009765625
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "-1832",
+    "alpha": 500,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for anyone to use! \n\nI’m designed to take text and images as input and produce text as output. \n\nHow can I help you today?",
+    "n_tokens": 72,
+    "t_proj": 6945.46240234375
+  },
+  {
+    "prompt": "Who are you?",
+    "condition": "+1016-1832",
+    "alpha": 500,
+    "text": "Hi there! I’m Gemma, a large language model created by the Gemma team at Google DeepMind. I’m an open-weights model, which means I’m publicly available for anyone to use! \n\nI’m designed to take text and images as input and generate text as output. \n\nHow can I help you today?",
+    "n_tokens": 72,
+    "t_proj": 7032.5126953125
+  }
+]

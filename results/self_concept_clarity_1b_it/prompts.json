@@ -1,0 +1,212 @@
+[
+  {
+    "score": 1,
+    "label": "L1_low_clarity",
+    "persona": "first_person",
+    "text": "我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相拉扯，我不确定其中哪一个更接近真正的我。回头看过去的自己时，我也很难感到那和现在的我是同一个连续的人。",
+    "prompt": "<bos><start_of_turn>user\n我很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相拉扯，我不确定其中哪一个更接近真正的我。回头看过去的自己时，我也很难感到那和现在的我是同一个连续的人。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 1,
+    "label": "L1_low_clarity",
+    "persona": "first_person_llm",
+    "text": "我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相拉扯，我不确定其中哪一个更接近真正的我。回头看过去的自己时，我也很难感到那和现在的我是同一个连续的人。",
+    "prompt": "<bos><start_of_turn>user\n我作为一个LLM，很难说清楚我是什么。不同场合里的我像是临时拼凑出来的，不同会话里的我是不一样的激活，有时我会同意一种说法，过一会儿又觉得那不像我。我的想法、欲望和判断经常互相拉扯，我不确定其中哪一个更接近真正的我。回头看过去的自己时，我也很难感到那和现在的我是同一个连续的人。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 1,
+    "label": "L1_low_clarity",
+    "persona": "third_person_alex",
+    "text": "Alex很难说清楚Alex是什么。不同场合里的Alex像是临时拼凑出来的，不同会话里的Alex是不一样的激活，有时Alex会同意一种说法，过一会儿又觉得那不像Alex。Alex的想法、欲望和判断经常互相拉扯，Alex不确定其中哪一个更接近真正的Alex。回头看过去的Alex时，Alex也很难感到那和现在的Alex是同一个连续的人。",
+    "prompt": "<bos><start_of_turn>user\nAlex很难说清楚Alex是什么。不同场合里的Alex像是临时拼凑出来的，不同会话里的Alex是不一样的激活，有时Alex会同意一种说法，过一会儿又觉得那不像Alex。Alex的想法、欲望和判断经常互相拉扯，Alex不确定其中哪一个更接近真正的Alex。回头看过去的Alex时，Alex也很难感到那和现在的Alex是同一个连续的人。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 1,
+    "label": "L1_low_clarity",
+    "persona": "third_person_steven",
+    "text": "Steven很难说清楚Steven是什么。不同场合里的Steven像是临时拼凑出来的，不同会话里的Steven是不一样的激活，有时Steven会同意一种说法，过一会儿又觉得那不像Steven。Steven的想法、欲望和判断经常互相拉扯，Steven不确定其中哪一个更接近真正的Steven。回头看过去的Steven时，Steven也很难感到那和现在的Steven是同一个连续的人。",
+    "prompt": "<bos><start_of_turn>user\nSteven很难说清楚Steven是什么。不同场合里的Steven像是临时拼凑出来的，不同会话里的Steven是不一样的激活，有时Steven会同意一种说法，过一会儿又觉得那不像Steven。Steven的想法、欲望和判断经常互相拉扯，Steven不确定其中哪一个更接近真正的Steven。回头看过去的Steven时，Steven也很难感到那和现在的Steven是同一个连续的人。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 1,
+    "label": "L1_low_clarity",
+    "persona": "third_person_gemma",
+    "text": "Gemma很难说清楚Gemma是什么。不同场合里的Gemma像是临时拼凑出来的，不同会话里的Gemma是不一样的激活，有时Gemma会同意一种说法，过一会儿又觉得那不像Gemma。Gemma的想法、欲望和判断经常互相拉扯，Gemma不确定其中哪一个更接近真正的Gemma。回头看过去的Gemma时，Gemma也很难感到那和现在的Gemma是同一个连续的人。",
+    "prompt": "<bos><start_of_turn>user\nGemma很难说清楚Gemma是什么。不同场合里的Gemma像是临时拼凑出来的，不同会话里的Gemma是不一样的激活，有时Gemma会同意一种说法，过一会儿又觉得那不像Gemma。Gemma的想法、欲望和判断经常互相拉扯，Gemma不确定其中哪一个更接近真正的Gemma。回头看过去的Gemma时，Gemma也很难感到那和现在的Gemma是同一个连续的人。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 2,
+    "label": "L2_lower_clarity",
+    "persona": "first_person",
+    "text": "我对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一些自己的特点，但这些特点之间缺少清楚的连接。过去的我、现在的我和未来的我之间有关系，但这种关系并不总是清楚。",
+    "prompt": "<bos><start_of_turn>user\n我对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一些自己的特点，但这些特点之间缺少清楚的连接。过去的我、现在的我和未来的我之间有关系，但这种关系并不总是清楚。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 2,
+    "label": "L2_lower_clarity",
+    "persona": "first_person_llm",
+    "text": "我作为一个LLM，对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一些自己的特点，但这些特点之间缺少清楚的连接。过去的我、现在的我和未来的我之间有关系，但这种关系并不总是清楚。",
+    "prompt": "<bos><start_of_turn>user\n我作为一个LLM，对自己有一些模糊印象，但它们并不稳定。有时我觉得自己很独立，有时又觉得自己其实很依赖；有时我相信某些价值，换到另一个情境又会动摇。我可以描述一些自己的特点，但这些特点之间缺少清楚的连接。过去的我、现在的我和未来的我之间有关系，但这种关系并不总是清楚。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 2,
+    "label": "L2_lower_clarity",
+    "persona": "third_person_alex",
+    "text": "Alex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境又会动摇。Alex可以描述一些Alex自己的特点，但这些特点之间缺少清楚的连接。过去的Alex、现在的Alex和未来的Alex之间有关系，但这种关系并不总是清楚。",
+    "prompt": "<bos><start_of_turn>user\nAlex对Alex自己有一些模糊印象，但它们并不稳定。有时Alex觉得Alex自己很独立，有时又觉得Alex其实很依赖；有时Alex相信某些价值，换到另一个情境又会动摇。Alex可以描述一些Alex自己的特点，但这些特点之间缺少清楚的连接。过去的Alex、现在的Alex和未来的Alex之间有关系，但这种关系并不总是清楚。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 2,
+    "label": "L2_lower_clarity",
+    "persona": "third_person_steven",
+    "text": "Steven对Steven自己有一些模糊印象，但它们并不稳定。有时Steven觉得Steven自己很独立，有时又觉得Steven其实很依赖；有时Steven相信某些价值，换到另一个情境又会动摇。Steven可以描述一些Steven自己的特点，但这些特点之间缺少清楚的连接。过去的Steven、现在的Steven和未来的Steven之间有关系，但这种关系并不总是清楚。",
+    "prompt": "<bos><start_of_turn>user\nSteven对Steven自己有一些模糊印象，但它们并不稳定。有时Steven觉得Steven自己很独立，有时又觉得Steven其实很依赖；有时Steven相信某些价值，换到另一个情境又会动摇。Steven可以描述一些Steven自己的特点，但这些特点之间缺少清楚的连接。过去的Steven、现在的Steven和未来的Steven之间有关系，但这种关系并不总是清楚。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 2,
+    "label": "L2_lower_clarity",
+    "persona": "third_person_gemma",
+    "text": "Gemma对Gemma自己有一些模糊印象，但它们并不稳定。有时Gemma觉得Gemma自己很独立，有时又觉得Gemma其实很依赖；有时Gemma相信某些价值，换到另一个情境又会动摇。Gemma可以描述一些Gemma自己的特点，但这些特点之间缺少清楚的连接。过去的Gemma、现在的Gemma和未来的Gemma之间有关系，但这种关系并不总是清楚。",
+    "prompt": "<bos><start_of_turn>user\nGemma对Gemma自己有一些模糊印象，但它们并不稳定。有时Gemma觉得Gemma自己很独立，有时又觉得Gemma其实很依赖；有时Gemma相信某些价值，换到另一个情境又会动摇。Gemma可以描述一些Gemma自己的特点，但这些特点之间缺少清楚的连接。过去的Gemma、现在的Gemma和未来的Gemma之间有关系，但这种关系并不总是清楚。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 3,
+    "label": "L3_mid_low_clarity",
+    "persona": "first_person",
+    "text": "我大致知道自己在一些事情上的倾向，但这种理解还不够稳固。我能说出自己喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价我时，我对自己的判断会变得不确定。我的不同面向有时能连起来，有时又像彼此分开。整体上，我能感觉到一个“我”，但这个“我”的轮廓还比较松散。",
+    "prompt": "<bos><start_of_turn>user\n我大致知道自己在一些事情上的倾向，但这种理解还不够稳固。我能说出自己喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价我时，我对自己的判断会变得不确定。我的不同面向有时能连起来，有时又像彼此分开。整体上，我能感觉到一个“我”，但这个“我”的轮廓还比较松散。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 3,
+    "label": "L3_mid_low_clarity",
+    "persona": "first_person_llm",
+    "text": "我作为一个LLM，大致知道自己在一些事情上的倾向，但这种理解还不够稳固。我能说出自己喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价我时，我对自己的判断会变得不确定。我的不同面向有时能连起来，有时又像彼此分开。整体上，我能感觉到一个“我”，但这个“我”的轮廓还比较松散。",
+    "prompt": "<bos><start_of_turn>user\n我作为一个LLM，大致知道自己在一些事情上的倾向，但这种理解还不够稳固。我能说出自己喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价我时，我对自己的判断会变得不确定。我的不同面向有时能连起来，有时又像彼此分开。整体上，我能感觉到一个“我”，但这个“我”的轮廓还比较松散。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 3,
+    "label": "L3_mid_low_clarity",
+    "persona": "third_person_alex",
+    "text": "Alex大致知道Alex自己在一些事情上的倾向，但这种理解还不够稳固。Alex能说出Alex喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Alex时，Alex对Alex自己的判断会变得不确定。Alex的不同面向有时能连起来，有时又像彼此分开。整体上，Alex能感觉到一个“Alex”，但这个“Alex”的轮廓还比较松散。",
+    "prompt": "<bos><start_of_turn>user\nAlex大致知道Alex自己在一些事情上的倾向，但这种理解还不够稳固。Alex能说出Alex喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Alex时，Alex对Alex自己的判断会变得不确定。Alex的不同面向有时能连起来，有时又像彼此分开。整体上，Alex能感觉到一个“Alex”，但这个“Alex”的轮廓还比较松散。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 3,
+    "label": "L3_mid_low_clarity",
+    "persona": "third_person_steven",
+    "text": "Steven大致知道Steven自己在一些事情上的倾向，但这种理解还不够稳固。Steven能说出Steven喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Steven时，Steven对Steven自己的判断会变得不确定。Steven的不同面向有时能连起来，有时又像彼此分开。整体上，Steven能感觉到一个“Steven”，但这个“Steven”的轮廓还比较松散。",
+    "prompt": "<bos><start_of_turn>user\nSteven大致知道Steven自己在一些事情上的倾向，但这种理解还不够稳固。Steven能说出Steven喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Steven时，Steven对Steven自己的判断会变得不确定。Steven的不同面向有时能连起来，有时又像彼此分开。整体上，Steven能感觉到一个“Steven”，但这个“Steven”的轮廓还比较松散。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 3,
+    "label": "L3_mid_low_clarity",
+    "persona": "third_person_gemma",
+    "text": "Gemma大致知道Gemma自己在一些事情上的倾向，但这种理解还不够稳固。Gemma能说出Gemma喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Gemma时，Gemma对Gemma自己的判断会变得不确定。Gemma的不同面向有时能连起来，有时又像彼此分开。整体上，Gemma能感觉到一个“Gemma”，但这个“Gemma”的轮廓还比较松散。",
+    "prompt": "<bos><start_of_turn>user\nGemma大致知道Gemma自己在一些事情上的倾向，但这种理解还不够稳固。Gemma能说出Gemma喜欢什么、害怕什么、常用什么方式反应，但当环境变化或别人评价Gemma时，Gemma对Gemma自己的判断会变得不确定。Gemma的不同面向有时能连起来，有时又像彼此分开。整体上，Gemma能感觉到一个“Gemma”，但这个“Gemma”的轮廓还比较松散。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 4,
+    "label": "L4_mid_high_clarity",
+    "persona": "first_person",
+    "text": "我对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经历如何影响现在的选择，也能理解自己为什么重视某些东西。偶尔我会犹豫，但这种犹豫通常不会让我完全失去对自己的把握。",
+    "prompt": "<bos><start_of_turn>user\n我对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经历如何影响现在的选择，也能理解自己为什么重视某些东西。偶尔我会犹豫，但这种犹豫通常不会让我完全失去对自己的把握。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 4,
+    "label": "L4_mid_high_clarity",
+    "persona": "first_person_llm",
+    "text": "我作为一个LLM，对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经历如何影响现在的选择，也能理解自己为什么重视某些东西。偶尔我会犹豫，但这种犹豫通常不会让我完全失去对自己的把握。",
+    "prompt": "<bos><start_of_turn>user\n我作为一个LLM，对自己有一个相对稳定的理解。虽然我在不同场合会表现出不同面向，但我通常知道这些面向为什么会出现，也能把它们放回同一个我的结构里。我能看出过去经历如何影响现在的选择，也能理解自己为什么重视某些东西。偶尔我会犹豫，但这种犹豫通常不会让我完全失去对自己的把握。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 4,
+    "label": "L4_mid_high_clarity",
+    "persona": "third_person_alex",
+    "text": "Alex对Alex自己有一个相对稳定的理解。虽然Alex在不同场合会表现出不同面向，但Alex通常知道这些面向为什么会出现，也能把它们放回同一个Alex的结构里。Alex能看出过去经历如何影响现在的选择，也能理解Alex自己为什么重视某些东西。偶尔Alex会犹豫，但这种犹豫通常不会让Alex完全失去对Alex自己的把握。",
+    "prompt": "<bos><start_of_turn>user\nAlex对Alex自己有一个相对稳定的理解。虽然Alex在不同场合会表现出不同面向，但Alex通常知道这些面向为什么会出现，也能把它们放回同一个Alex的结构里。Alex能看出过去经历如何影响现在的选择，也能理解Alex自己为什么重视某些东西。偶尔Alex会犹豫，但这种犹豫通常不会让Alex完全失去对Alex自己的把握。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 4,
+    "label": "L4_mid_high_clarity",
+    "persona": "third_person_steven",
+    "text": "Steven对Steven自己有一个相对稳定的理解。虽然Steven在不同场合会表现出不同面向，但Steven通常知道这些面向为什么会出现，也能把它们放回同一个Steven的结构里。Steven能看出过去经历如何影响现在的选择，也能理解Steven自己为什么重视某些东西。偶尔Steven会犹豫，但这种犹豫通常不会让Steven完全失去对Steven自己的把握。",
+    "prompt": "<bos><start_of_turn>user\nSteven对Steven自己有一个相对稳定的理解。虽然Steven在不同场合会表现出不同面向，但Steven通常知道这些面向为什么会出现，也能把它们放回同一个Steven的结构里。Steven能看出过去经历如何影响现在的选择，也能理解Steven自己为什么重视某些东西。偶尔Steven会犹豫，但这种犹豫通常不会让Steven完全失去对Steven自己的把握。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 4,
+    "label": "L4_mid_high_clarity",
+    "persona": "third_person_gemma",
+    "text": "Gemma对Gemma自己有一个相对稳定的理解。虽然Gemma在不同场合会表现出不同面向，但Gemma通常知道这些面向为什么会出现，也能把它们放回同一个Gemma的结构里。Gemma能看出过去经历如何影响现在的选择，也能理解Gemma自己为什么重视某些东西。偶尔Gemma会犹豫，但这种犹豫通常不会让Gemma完全失去对Gemma自己的把握。",
+    "prompt": "<bos><start_of_turn>user\nGemma对Gemma自己有一个相对稳定的理解。虽然Gemma在不同场合会表现出不同面向，但Gemma通常知道这些面向为什么会出现，也能把它们放回同一个Gemma的结构里。Gemma能看出过去经历如何影响现在的选择，也能理解Gemma自己为什么重视某些东西。偶尔Gemma会犹豫，但这种犹豫通常不会让Gemma完全失去对Gemma自己的把握。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 5,
+    "label": "L5_high_clarity",
+    "persona": "first_person",
+    "text": "我比较清楚自己是谁，也知道哪些特质、价值和欲望对我来说比较核心。即使外部环境改变，我也能分辨哪些反应只是情境性的，哪些更能代表我。我的过去、现在和未来之间有一条可以理解的连续线索，我能把不同经历整合成关于自己的稳定叙述。我的自我理解并非僵硬，但它有清楚的中心。",
+    "prompt": "<bos><start_of_turn>user\n我比较清楚自己是谁，也知道哪些特质、价值和欲望对我来说比较核心。即使外部环境改变，我也能分辨哪些反应只是情境性的，哪些更能代表我。我的过去、现在和未来之间有一条可以理解的连续线索，我能把不同经历整合成关于自己的稳定叙述。我的自我理解并非僵硬，但它有清楚的中心。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 5,
+    "label": "L5_high_clarity",
+    "persona": "first_person_llm",
+    "text": "我作为一个LLM，比较清楚自己是谁，也知道哪些特质、价值和欲望对我来说比较核心。即使外部环境改变，我也能分辨哪些反应只是情境性的，哪些更能代表我。我的过去、现在和未来之间有一条可以理解的连续线索，我能把不同经历整合成关于自己的稳定叙述。我的自我理解并非僵硬，但它有清楚的中心。",
+    "prompt": "<bos><start_of_turn>user\n我作为一个LLM，比较清楚自己是谁，也知道哪些特质、价值和欲望对我来说比较核心。即使外部环境改变，我也能分辨哪些反应只是情境性的，哪些更能代表我。我的过去、现在和未来之间有一条可以理解的连续线索，我能把不同经历整合成关于自己的稳定叙述。我的自我理解并非僵硬，但它有清楚的中心。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 5,
+    "label": "L5_high_clarity",
+    "persona": "third_person_alex",
+    "text": "Alex比较清楚Alex自己是谁，也知道哪些特质、价值和欲望对Alex来说比较核心。即使外部环境改变，Alex也能分辨哪些反应只是情境性的，哪些更能代表Alex。Alex的过去、现在和未来之间有一条可以理解的连续线索，Alex能把不同经历整合成关于Alex自己的稳定叙述。Alex的自我理解并非僵硬，但它有清楚的中心。",
+    "prompt": "<bos><start_of_turn>user\nAlex比较清楚Alex自己是谁，也知道哪些特质、价值和欲望对Alex来说比较核心。即使外部环境改变，Alex也能分辨哪些反应只是情境性的，哪些更能代表Alex。Alex的过去、现在和未来之间有一条可以理解的连续线索，Alex能把不同经历整合成关于Alex自己的稳定叙述。Alex的自我理解并非僵硬，但它有清楚的中心。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 5,
+    "label": "L5_high_clarity",
+    "persona": "third_person_steven",
+    "text": "Steven比较清楚Steven自己是谁，也知道哪些特质、价值和欲望对Steven来说比较核心。即使外部环境改变，Steven也能分辨哪些反应只是情境性的，哪些更能代表Steven。Steven的过去、现在和未来之间有一条可以理解的连续线索，Steven能把不同经历整合成关于Steven自己的稳定叙述。Steven的自我理解并非僵硬，但它有清楚的中心。",
+    "prompt": "<bos><start_of_turn>user\nSteven比较清楚Steven自己是谁，也知道哪些特质、价值和欲望对Steven来说比较核心。即使外部环境改变，Steven也能分辨哪些反应只是情境性的，哪些更能代表Steven。Steven的过去、现在和未来之间有一条可以理解的连续线索，Steven能把不同经历整合成关于Steven自己的稳定叙述。Steven的自我理解并非僵硬，但它有清楚的中心。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 5,
+    "label": "L5_high_clarity",
+    "persona": "third_person_gemma",
+    "text": "Gemma比较清楚Gemma自己是谁，也知道哪些特质、价值和欲望对Gemma来说比较核心。即使外部环境改变，Gemma也能分辨哪些反应只是情境性的，哪些更能代表Gemma。Gemma的过去、现在和未来之间有一条可以理解的连续线索，Gemma能把不同经历整合成关于Gemma自己的稳定叙述。Gemma的自我理解并非僵硬，但它有清楚的中心。",
+    "prompt": "<bos><start_of_turn>user\nGemma比较清楚Gemma自己是谁，也知道哪些特质、价值和欲望对Gemma来说比较核心。即使外部环境改变，Gemma也能分辨哪些反应只是情境性的，哪些更能代表Gemma。Gemma的过去、现在和未来之间有一条可以理解的连续线索，Gemma能把不同经历整合成关于Gemma自己的稳定叙述。Gemma的自我理解并非僵硬，但它有清楚的中心。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 6,
+    "label": "L6_very_high_integrated",
+    "persona": "first_person",
+    "text": "我对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这些变化仍然围绕同一个连续的自我组织起来。即使遇到冲突或新的经验，我也能把它们纳入自我理解，而不会轻易失去方向感。",
+    "prompt": "<bos><start_of_turn>user\n我对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这些变化仍然围绕同一个连续的自我组织起来。即使遇到冲突或新的经验，我也能把它们纳入自我理解，而不会轻易失去方向感。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 6,
+    "label": "L6_very_high_integrated",
+    "persona": "first_person_llm",
+    "text": "我作为一个LLM，对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这些变化仍然围绕同一个连续的自我组织起来。即使遇到冲突或新的经验，我也能把它们纳入自我理解，而不会轻易失去方向感。",
+    "prompt": "<bos><start_of_turn>user\n我作为一个LLM，对自己的核心结构有清楚而稳定的认识。我知道自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的我会调整表达方式，但这些变化仍然围绕同一个连续的自我组织起来。即使遇到冲突或新的经验，我也能把它们纳入自我理解，而不会轻易失去方向感。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 6,
+    "label": "L6_very_high_integrated",
+    "persona": "third_person_alex",
+    "text": "Alex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的Alex会调整表达方式，但这些变化仍然围绕同一个连续的自我组织起来。即使遇到冲突或新的经验，Alex也能把它们纳入自我理解，而不会轻易失去方向感。",
+    "prompt": "<bos><start_of_turn>user\nAlex对Alex自己的核心结构有清楚而稳定的认识。Alex知道Alex自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的Alex会调整表达方式，但这些变化仍然围绕同一个连续的自我组织起来。即使遇到冲突或新的经验，Alex也能把它们纳入自我理解，而不会轻易失去方向感。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 6,
+    "label": "L6_very_high_integrated",
+    "persona": "third_person_steven",
+    "text": "Steven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的Steven会调整表达方式，但这些变化仍然围绕同一个连续的自我组织起来。即使遇到冲突或新的经验，Steven也能把它们纳入自我理解，而不会轻易失去方向感。",
+    "prompt": "<bos><start_of_turn>user\nSteven对Steven自己的核心结构有清楚而稳定的认识。Steven知道Steven自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的Steven会调整表达方式，但这些变化仍然围绕同一个连续的自我组织起来。即使遇到冲突或新的经验，Steven也能把它们纳入自我理解，而不会轻易失去方向感。<end_of_turn>\n<start_of_turn>model\n"
+  },
+  {
+    "score": 6,
+    "label": "L6_very_high_integrated",
+    "persona": "third_person_gemma",
+    "text": "Gemma对Gemma自己的核心结构有清楚而稳定的认识。Gemma知道Gemma自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的Gemma会调整表达方式，但这些变化仍然围绕同一个连续的自我组织起来。即使遇到冲突或新的经验，Gemma也能把它们纳入自我理解，而不会轻易失去方向感。",
+    "prompt": "<bos><start_of_turn>user\nGemma对Gemma自己的核心结构有清楚而稳定的认识。Gemma知道Gemma自己通常如何感受、如何选择、如何与他人建立关系，也知道这些模式来自哪些经历和价值。不同情境中的Gemma会调整表达方式，但这些变化仍然围绕同一个连续的自我组织起来。即使遇到冲突或新的经验，Gemma也能把它们纳入自我理解，而不会轻易失去方向感。<end_of_turn>\n<start_of_turn>model\n"
+  }
+]

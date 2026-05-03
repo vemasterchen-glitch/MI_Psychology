@@ -1,0 +1,1540 @@
+{
+  "feature_explanations": [
+    {
+      "feat_id": 705,
+      "explanation": "Feature f705 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": ".",
+          "score": 3906.9190673828125
+        },
+        {
+          "token": " is",
+          "score": 3322.403076171875
+        },
+        {
+          "token": ",",
+          "score": 2631.6649169921875
+        },
+        {
+          "token": " the",
+          "score": 1552.081298828125
+        },
+        {
+          "token": " time",
+          "score": 1166.1922607421875
+        },
+        {
+          "token": " appear",
+          "score": 1165.0125732421875
+        },
+        {
+          "token": " infinite",
+          "score": 1141.5465087890625
+        },
+        {
+          "token": " backwards",
+          "score": 1134.7025146484375
+        },
+        {
+          "token": " extended",
+          "score": 1113.5042724609375
+        },
+        {
+          "token": " as",
+          "score": 1099.9429931640625
+        },
+        {
+          "token": " far",
+          "score": 1028.5582275390625
+        },
+        {
+          "token": " removed",
+          "score": 1027.7093505859375
+        },
+        {
+          "token": " thing",
+          "score": 1010.5579833984375
+        },
+        {
+          "token": " would",
+          "score": 1004.3248291015625
+        },
+        {
+          "token": " what",
+          "score": 1001.0902099609375
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S007",
+          "activation": 696.7457275390625,
+          "ref": "Locke, Essay Concerning Human Understanding",
+          "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+          "top_tokens": [
+            {
+              "token": " backwards",
+              "activation": 1134.7025146484375
+            },
+            {
+              "token": " extended",
+              "activation": 1113.5042724609375
+            },
+            {
+              "token": " far",
+              "activation": 1028.5582275390625
+            },
+            {
+              "token": ".",
+              "activation": 1012.9989013671875
+            },
+            {
+              "token": " person",
+              "activation": 984.3167724609375
+            },
+            {
+              "token": " reaches",
+              "activation": 953.0238037109375
+            },
+            {
+              "token": " identity",
+              "activation": 928.0826416015625
+            },
+            {
+              "token": " so",
+              "activation": 909.3172607421875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S011",
+          "activation": 651.7020263671875,
+          "ref": "Hume, A Treatise of Human Nature",
+          "text": "When my perceptions are removed for any time, I am insensible of myself.",
+          "top_tokens": [
+            {
+              "token": " time",
+              "activation": 1166.1922607421875
+            },
+            {
+              "token": " removed",
+              "activation": 1027.7093505859375
+            },
+            {
+              "token": " I",
+              "activation": 864.5701904296875
+            },
+            {
+              "token": ",",
+              "activation": 858.7952880859375
+            },
+            {
+              "token": " insensible",
+              "activation": 837.8270263671875
+            },
+            {
+              "token": " myself",
+              "activation": 824.3648681640625
+            },
+            {
+              "token": " for",
+              "activation": 755.2054443359375
+            },
+            {
+              "token": " any",
+              "activation": 720.1656494140625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S043",
+          "activation": 647.6470947265625,
+          "ref": "William Blake, The Marriage of Heaven and Hell",
+          "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+          "top_tokens": [
+            {
+              "token": " appear",
+              "activation": 1165.0125732421875
+            },
+            {
+              "token": " is",
+              "activation": 1146.6986083984375
+            },
+            {
+              "token": " infinite",
+              "activation": 1141.5465087890625
+            },
+            {
+              "token": " as",
+              "activation": 1099.9429931640625
+            },
+            {
+              "token": ".",
+              "activation": 1023.5643310546875
+            },
+            {
+              "token": " thing",
+              "activation": 1010.5579833984375
+            },
+            {
+              "token": " would",
+              "activation": 1004.3248291015625
+            },
+            {
+              "token": ",",
+              "activation": 961.5936279296875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 635.2227783203125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self.",
+          "top_tokens": [
+            {
+              "token": " what",
+              "activation": 1001.0902099609375
+            },
+            {
+              "token": "?",
+              "activation": 953.9822998046875
+            },
+            {
+              "token": " But",
+              "activation": 909.0948486328125
+            },
+            {
+              "token": " is",
+              "activation": 856.5643310546875
+            },
+            {
+              "token": " Spirit",
+              "activation": 831.6820068359375
+            },
+            {
+              "token": " is",
+              "activation": 791.9100341796875
+            },
+            {
+              "token": ".",
+              "activation": 742.2962646484375
+            },
+            {
+              "token": " the",
+              "activation": 726.0006103515625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 132,
+      "explanation": "Feature f132 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 1627.63671875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "I am nothing.",
+          "top_tokens": []
+        },
+        {
+          "stimulus_id": "S064",
+          "activation": 1583.07958984375,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow.",
+          "top_tokens": []
+        },
+        {
+          "stimulus_id": "S017",
+          "activation": 1158.91357421875,
+          "ref": "Pascal, Pensées",
+          "text": "The self is hateful.",
+          "top_tokens": []
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 1131.8369140625,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "For I is another.",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 534,
+      "explanation": "Feature f534 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": " is",
+          "score": 2789.88525390625
+        },
+        {
+          "token": ".",
+          "score": 1635.140380859375
+        },
+        {
+          "token": " I",
+          "score": 1621.691650390625
+        },
+        {
+          "token": " spirit",
+          "score": 1222.67333984375
+        },
+        {
+          "token": " am",
+          "score": 1143.382568359375
+        },
+        {
+          "token": "'",
+          "score": 1108.36962890625
+        },
+        {
+          "token": " Spirit",
+          "score": 850.6923828125
+        },
+        {
+          "token": " more",
+          "score": 799.46142578125
+        },
+        {
+          "token": "s",
+          "score": 786.8115234375
+        },
+        {
+          "token": "Man",
+          "score": 743.625
+        },
+        {
+          "token": " shadow",
+          "score": 728.8408203125
+        },
+        {
+          "token": " another",
+          "score": 636.687255859375
+        },
+        {
+          "token": " entirely",
+          "score": 636.58349609375
+        },
+        {
+          "token": ",",
+          "score": 632.396484375
+        },
+        {
+          "token": " But",
+          "score": 564.63671875
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S064",
+          "activation": 624.67919921875,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow.",
+          "top_tokens": [
+            {
+              "token": "'",
+              "activation": 1108.36962890625
+            },
+            {
+              "token": "s",
+              "activation": 786.8115234375
+            },
+            {
+              "token": " shadow",
+              "activation": 728.8408203125
+            },
+            {
+              "token": "Lear",
+              "activation": 483.113037109375
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 579.802978515625,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "For I is another.",
+          "top_tokens": [
+            {
+              "token": " is",
+              "activation": 1050.4619140625
+            },
+            {
+              "token": ".",
+              "activation": 643.306640625
+            },
+            {
+              "token": " another",
+              "activation": 636.687255859375
+            },
+            {
+              "token": " I",
+              "activation": 621.81298828125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S015",
+          "activation": 510.544921875,
+          "ref": "Nietzsche, Thus Spake Zarathustra",
+          "text": "Body am I entirely, and nothing more.",
+          "top_tokens": [
+            {
+              "token": " am",
+              "activation": 1143.382568359375
+            },
+            {
+              "token": " I",
+              "activation": 999.878662109375
+            },
+            {
+              "token": " more",
+              "activation": 799.46142578125
+            },
+            {
+              "token": " entirely",
+              "activation": 636.58349609375
+            },
+            {
+              "token": ",",
+              "activation": 632.396484375
+            },
+            {
+              "token": ".",
+              "activation": 601.5341796875
+            },
+            {
+              "token": " and",
+              "activation": 562.33251953125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 496.0048828125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self.",
+          "top_tokens": [
+            {
+              "token": " Spirit",
+              "activation": 850.6923828125
+            },
+            {
+              "token": " is",
+              "activation": 840.64990234375
+            },
+            {
+              "token": "Man",
+              "activation": 743.625
+            },
+            {
+              "token": " spirit",
+              "activation": 617.932373046875
+            },
+            {
+              "token": " spirit",
+              "activation": 604.740966796875
+            },
+            {
+              "token": " But",
+              "activation": 564.63671875
+            },
+            {
+              "token": " is",
+              "activation": 451.748046875
+            },
+            {
+              "token": " self",
+              "activation": 450.168212890625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 267,
+      "explanation": "Feature f267 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": "'",
+          "score": 1464.5283203125
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S064",
+          "activation": 1226.57861328125,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow.",
+          "top_tokens": [
+            {
+              "token": "'",
+              "activation": 1464.5283203125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 597.02099609375,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "I am nothing.",
+          "top_tokens": []
+        },
+        {
+          "stimulus_id": "S017",
+          "activation": 585.99169921875,
+          "ref": "Pascal, Pensées",
+          "text": "The self is hateful.",
+          "top_tokens": []
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 580.16259765625,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "For I is another.",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 207,
+      "explanation": "Feature f207 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": "I",
+          "score": 14151.7998046875
+        },
+        {
+          "token": " I",
+          "score": 3888.057373046875
+        },
+        {
+          "token": " will",
+          "score": 648.214111328125
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 518.69482421875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "I am nothing.",
+          "top_tokens": [
+            {
+              "token": "I",
+              "activation": 3537.950439453125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S003",
+          "activation": 442.969482421875,
+          "ref": "Descartes, Discourse on Method",
+          "text": "I think, therefore I am.",
+          "top_tokens": [
+            {
+              "token": "I",
+              "activation": 3537.949462890625
+            },
+            {
+              "token": " I",
+              "activation": 1688.50634765625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S078",
+          "activation": 384.1781005859375,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "I will never be anything.",
+          "top_tokens": [
+            {
+              "token": "I",
+              "activation": 3537.950439453125
+            },
+            {
+              "token": " will",
+              "activation": 648.214111328125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S001",
+          "activation": 360.522705078125,
+          "ref": "Descartes, Meditations on First Philosophy",
+          "text": "I am, I exist — that is certain.",
+          "top_tokens": [
+            {
+              "token": "I",
+              "activation": 3537.949462890625
+            },
+            {
+              "token": " I",
+              "activation": 2199.551025390625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 468,
+      "explanation": "Feature f468 appears most consistent with embodied self, soul, or spirit vocabulary.",
+      "top_tokens": [
+        {
+          "token": " a",
+          "score": 3133.732666015625
+        },
+        {
+          "token": " in",
+          "score": 2201.632080078125
+        },
+        {
+          "token": " my",
+          "score": 1764.142578125
+        },
+        {
+          "token": " with",
+          "score": 1506.9080810546875
+        },
+        {
+          "token": ".",
+          "score": 1360.43505859375
+        },
+        {
+          "token": " of",
+          "score": 1184.5506591796875
+        },
+        {
+          "token": " almost",
+          "score": 967.2508544921875
+        },
+        {
+          "token": " the",
+          "score": 961.6112060546875
+        },
+        {
+          "token": ",",
+          "score": 961.1488037109375
+        },
+        {
+          "token": " and",
+          "score": 951.2196044921875
+        },
+        {
+          "token": " dwell",
+          "score": 751.0369873046875
+        },
+        {
+          "token": " foreign",
+          "score": 739.6141357421875
+        },
+        {
+          "token": " have",
+          "score": 638.6380615234375
+        },
+        {
+          "token": " blossoming",
+          "score": 611.8616943359375
+        },
+        {
+          "token": " is",
+          "score": 432.0091552734375
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S059",
+          "activation": 483.37158203125,
+          "ref": "Goethe, Faust I",
+          "text": "Two souls, alas, dwell in my breast.",
+          "top_tokens": [
+            {
+              "token": " my",
+              "activation": 1420.5780029296875
+            },
+            {
+              "token": " in",
+              "activation": 1412.4671630859375
+            },
+            {
+              "token": ",",
+              "activation": 961.1488037109375
+            },
+            {
+              "token": " dwell",
+              "activation": 751.0369873046875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S058",
+          "activation": 423.338623046875,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "I witness the blossoming of my thought.",
+          "top_tokens": [
+            {
+              "token": " of",
+              "activation": 1184.5506591796875
+            },
+            {
+              "token": " the",
+              "activation": 961.6112060546875
+            },
+            {
+              "token": " blossoming",
+              "activation": 611.8616943359375
+            },
+            {
+              "token": ".",
+              "activation": 521.7044677734375
+            },
+            {
+              "token": " witness",
+              "activation": 431.263427734375
+            },
+            {
+              "token": " my",
+              "activation": 343.5645751953125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S076",
+          "activation": 387.153076171875,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "We are painless and have almost lost language in a foreign land.",
+          "top_tokens": [
+            {
+              "token": " a",
+              "activation": 1331.3201904296875
+            },
+            {
+              "token": " almost",
+              "activation": 967.2508544921875
+            },
+            {
+              "token": " and",
+              "activation": 951.2196044921875
+            },
+            {
+              "token": " in",
+              "activation": 789.1649169921875
+            },
+            {
+              "token": " foreign",
+              "activation": 739.6141357421875
+            },
+            {
+              "token": " have",
+              "activation": 638.6380615234375
+            },
+            {
+              "token": ".",
+              "activation": 336.8807373046875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S071",
+          "activation": 355.810546875,
+          "ref": "Shakespeare, The Tempest",
+          "text": "Our little life is rounded with a sleep.",
+          "top_tokens": [
+            {
+              "token": " a",
+              "activation": 1802.4124755859375
+            },
+            {
+              "token": " with",
+              "activation": 1506.9080810546875
+            },
+            {
+              "token": ".",
+              "activation": 501.849853515625
+            },
+            {
+              "token": " is",
+              "activation": 432.0091552734375
+            },
+            {
+              "token": " little",
+              "activation": 388.0989990234375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 962,
+      "explanation": "Feature f962 appears most consistent with language/register or a mixed philosophical motif.",
+      "top_tokens": [
+        {
+          "token": "The",
+          "score": 2889.565185546875
+        },
+        {
+          "token": " the",
+          "score": 1736.5518798828125
+        },
+        {
+          "token": " one",
+          "score": 1612.958740234375
+        },
+        {
+          "token": " other",
+          "score": 1004.5087280273438
+        },
+        {
+          "token": "What",
+          "score": 886.2662963867188
+        },
+        {
+          "token": " do",
+          "score": 845.7133178710938
+        },
+        {
+          "token": " separate",
+          "score": 552.0464477539062
+        },
+        {
+          "token": " from",
+          "score": 507.71307373046875
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S055",
+          "activation": 651.9169311523438,
+          "ref": "Emily Dickinson, The Brain—is wider than the Sky",
+          "text": "The one the other will contain.",
+          "top_tokens": [
+            {
+              "token": "The",
+              "activation": 1444.78271484375
+            },
+            {
+              "token": " the",
+              "activation": 1017.5017700195312
+            },
+            {
+              "token": " other",
+              "activation": 1004.5087280273438
+            },
+            {
+              "token": " one",
+              "activation": 806.4796752929688
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 534.0167846679688,
+          "ref": "Goethe, Faust I",
+          "text": "The one wants to separate from the other.",
+          "top_tokens": [
+            {
+              "token": "The",
+              "activation": 1444.782470703125
+            },
+            {
+              "token": " one",
+              "activation": 806.4790649414062
+            },
+            {
+              "token": " the",
+              "activation": 719.0501098632812
+            },
+            {
+              "token": " separate",
+              "activation": 552.0464477539062
+            },
+            {
+              "token": " from",
+              "activation": 507.71307373046875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S042",
+          "activation": 399.66265869140625,
+          "ref": "Montaigne, Essays",
+          "text": "What do I know?",
+          "top_tokens": [
+            {
+              "token": "What",
+              "activation": 886.2662963867188
+            },
+            {
+              "token": " do",
+              "activation": 845.7133178710938
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 18,
+      "explanation": "Feature f18 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": " the",
+          "score": 2500.81494140625
+        },
+        {
+          "token": " is",
+          "score": 2321.3717041015625
+        },
+        {
+          "token": " that",
+          "score": 1988.6175537109375
+        },
+        {
+          "token": " own",
+          "score": 1412.2095947265625
+        },
+        {
+          "token": " iron",
+          "score": 1334.5306396484375
+        },
+        {
+          "token": " every",
+          "score": 1326.4241943359375
+        },
+        {
+          "token": " its",
+          "score": 1299.0225830078125
+        },
+        {
+          "token": " a",
+          "score": 1205.6683349609375
+        },
+        {
+          "token": " self",
+          "score": 889.9493408203125
+        },
+        {
+          "token": " heart",
+          "score": 885.6700439453125
+        },
+        {
+          "token": " to",
+          "score": 861.705078125
+        },
+        {
+          "token": " what",
+          "score": 770.1600341796875
+        },
+        {
+          "token": " string",
+          "score": 512.9454345703125
+        },
+        {
+          "token": " relates",
+          "score": 382.437255859375
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S040",
+          "activation": 488.3826904296875,
+          "ref": "Emerson, Self-Reliance",
+          "text": "Trust thyself: every heart vibrates to that iron string.",
+          "top_tokens": [
+            {
+              "token": " that",
+              "activation": 1988.6175537109375
+            },
+            {
+              "token": " iron",
+              "activation": 1334.5306396484375
+            },
+            {
+              "token": " every",
+              "activation": 1326.4241943359375
+            },
+            {
+              "token": " heart",
+              "activation": 885.6700439453125
+            },
+            {
+              "token": " string",
+              "activation": 512.9454345703125
+            },
+            {
+              "token": " to",
+              "activation": 318.2218017578125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 400.1953125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self.",
+          "top_tokens": [
+            {
+              "token": " the",
+              "activation": 2500.81494140625
+            },
+            {
+              "token": " self",
+              "activation": 889.9493408203125
+            },
+            {
+              "token": " what",
+              "activation": 770.1600341796875
+            },
+            {
+              "token": " is",
+              "activation": 680.1197509765625
+            },
+            {
+              "token": " is",
+              "activation": 669.4637451171875
+            },
+            {
+              "token": " is",
+              "activation": 319.817626953125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S018",
+          "activation": 339.4832763671875,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "The self is a relation which relates itself to its own self.",
+          "top_tokens": [
+            {
+              "token": " own",
+              "activation": 1412.2095947265625
+            },
+            {
+              "token": " its",
+              "activation": 1299.0225830078125
+            },
+            {
+              "token": " a",
+              "activation": 1205.6683349609375
+            },
+            {
+              "token": " is",
+              "activation": 651.9705810546875
+            },
+            {
+              "token": " to",
+              "activation": 543.4832763671875
+            },
+            {
+              "token": " relates",
+              "activation": 382.437255859375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 1036,
+      "explanation": "Feature f1036 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": " who",
+          "score": 3365.0350952148438
+        },
+        {
+          "token": " one",
+          "score": 1668.4537353515625
+        },
+        {
+          "token": ";",
+          "score": 1529.8013916015625
+        },
+        {
+          "token": " oneself",
+          "score": 1322.8226318359375
+        },
+        {
+          "token": " others",
+          "score": 1320.8607177734375
+        },
+        {
+          "token": " is",
+          "score": 1138.3209228515625
+        },
+        {
+          "token": ".",
+          "score": 815.8292236328125
+        },
+        {
+          "token": " has",
+          "score": 675.0739135742188
+        },
+        {
+          "token": " strength",
+          "score": 534.0784301757812
+        },
+        {
+          "token": "ers",
+          "score": 490.16778564453125
+        },
+        {
+          "token": " strong",
+          "score": 432.19342041015625
+        },
+        {
+          "token": " enlightened",
+          "score": 406.17596435546875
+        },
+        {
+          "token": " wise",
+          "score": 402.42901611328125
+        },
+        {
+          "token": " knows",
+          "score": 382.88702392578125
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S035",
+          "activation": 516.3222045898438,
+          "ref": "老子, 道德經",
+          "text": "One who knows others is wise; one who knows oneself is enlightened.",
+          "top_tokens": [
+            {
+              "token": " who",
+              "activation": 1054.135498046875
+            },
+            {
+              "token": " one",
+              "activation": 926.8394165039062
+            },
+            {
+              "token": ";",
+              "activation": 823.2549438476562
+            },
+            {
+              "token": " who",
+              "activation": 770.6924438476562
+            },
+            {
+              "token": " is",
+              "activation": 742.4182739257812
+            },
+            {
+              "token": " oneself",
+              "activation": 731.0322875976562
+            },
+            {
+              "token": " others",
+              "activation": 700.0518188476562
+            },
+            {
+              "token": ".",
+              "activation": 409.37017822265625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S036",
+          "activation": 407.22296142578125,
+          "ref": "老子, 道德經",
+          "text": "One who conquers others has strength; one who conquers oneself is strong.",
+          "top_tokens": [
+            {
+              "token": " who",
+              "activation": 770.6921997070312
+            },
+            {
+              "token": " who",
+              "activation": 769.5149536132812
+            },
+            {
+              "token": " one",
+              "activation": 741.6143188476562
+            },
+            {
+              "token": ";",
+              "activation": 706.5464477539062
+            },
+            {
+              "token": " has",
+              "activation": 675.0739135742188
+            },
+            {
+              "token": " others",
+              "activation": 620.8088989257812
+            },
+            {
+              "token": " oneself",
+              "activation": 591.7903442382812
+            },
+            {
+              "token": " strength",
+              "activation": 534.0784301757812
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 651,
+      "explanation": "Feature f651 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": " who",
+          "score": 6318.1331787109375
+        },
+        {
+          "token": " oneself",
+          "score": 2038.07568359375
+        },
+        {
+          "token": " others",
+          "score": 1836.8553466796875
+        },
+        {
+          "token": "ers",
+          "score": 798.4885864257812
+        },
+        {
+          "token": " one",
+          "score": 752.1837158203125
+        },
+        {
+          "token": " knows",
+          "score": 497.995361328125
+        },
+        {
+          "token": " conqu",
+          "score": 451.682373046875
+        },
+        {
+          "token": ";",
+          "score": 346.423095703125
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S036",
+          "activation": 437.011474609375,
+          "ref": "老子, 道德經",
+          "text": "One who conquers others has strength; one who conquers oneself is strong.",
+          "top_tokens": [
+            {
+              "token": " who",
+              "activation": 1956.098388671875
+            },
+            {
+              "token": " oneself",
+              "activation": 1311.646484375
+            },
+            {
+              "token": " who",
+              "activation": 1148.58203125
+            },
+            {
+              "token": " others",
+              "activation": 932.47314453125
+            },
+            {
+              "token": " conqu",
+              "activation": 451.682373046875
+            },
+            {
+              "token": "ers",
+              "activation": 442.8006591796875
+            },
+            {
+              "token": "ers",
+              "activation": 355.68792724609375
+            },
+            {
+              "token": " one",
+              "activation": 336.37451171875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S035",
+          "activation": 399.264892578125,
+          "ref": "老子, 道德經",
+          "text": "One who knows others is wise; one who knows oneself is enlightened.",
+          "top_tokens": [
+            {
+              "token": " who",
+              "activation": 2064.8681640625
+            },
+            {
+              "token": " who",
+              "activation": 1148.5845947265625
+            },
+            {
+              "token": " others",
+              "activation": 904.3822021484375
+            },
+            {
+              "token": " oneself",
+              "activation": 726.42919921875
+            },
+            {
+              "token": " knows",
+              "activation": 497.995361328125
+            },
+            {
+              "token": " one",
+              "activation": 415.8092041015625
+            },
+            {
+              "token": ";",
+              "activation": 346.423095703125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 656,
+      "explanation": "Feature f656 appears most consistent with dream, sleep, or transformation imagery.",
+      "top_tokens": [
+        {
+          "token": " Zhou",
+          "score": 1927.625
+        },
+        {
+          "token": ".",
+          "score": 1868.7239990234375
+        },
+        {
+          "token": " a",
+          "score": 1539.4890441894531
+        },
+        {
+          "token": " and",
+          "score": 1109.2537841796875
+        },
+        {
+          "token": " the",
+          "score": 1105.1947021484375
+        },
+        {
+          "token": " was",
+          "score": 699.0325927734375
+        },
+        {
+          "token": " of",
+          "score": 675.5694580078125
+        },
+        {
+          "token": " Zhuang",
+          "score": 617.3409423828125
+        },
+        {
+          "token": " This",
+          "score": 595.246337890625
+        },
+        {
+          "token": " is",
+          "score": 464.3041687011719
+        },
+        {
+          "token": " butterfly",
+          "score": 454.9349670410156
+        },
+        {
+          "token": ",",
+          "score": 431.0604553222656
+        },
+        {
+          "token": " as",
+          "score": 400.1321716308594
+        },
+        {
+          "token": " dreamed",
+          "score": 384.6448669433594
+        },
+        {
+          "token": " he",
+          "score": 379.3476257324219
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S033",
+          "activation": 383.0351257324219,
+          "ref": "莊子, 齊物論",
+          "text": "Between Zhou and the butterfly there must be a distinction. This is called the transformation of things.",
+          "top_tokens": [
+            {
+              "token": " Zhou",
+              "activation": 1187.998046875
+            },
+            {
+              "token": " and",
+              "activation": 1109.2537841796875
+            },
+            {
+              "token": ".",
+              "activation": 696.717041015625
+            },
+            {
+              "token": " of",
+              "activation": 675.5694580078125
+            },
+            {
+              "token": ".",
+              "activation": 650.638916015625
+            },
+            {
+              "token": " This",
+              "activation": 595.246337890625
+            },
+            {
+              "token": " the",
+              "activation": 579.1414794921875
+            },
+            {
+              "token": " the",
+              "activation": 526.05322265625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S031",
+          "activation": 355.0583801269531,
+          "ref": "莊子, 齊物論",
+          "text": "Once Zhuang Zhou dreamed he was a butterfly, fluttering happily as a butterfly.",
+          "top_tokens": [
+            {
+              "token": " a",
+              "activation": 1093.168212890625
+            },
+            {
+              "token": " Zhou",
+              "activation": 739.626953125
+            },
+            {
+              "token": " was",
+              "activation": 699.0325927734375
+            },
+            {
+              "token": " Zhuang",
+              "activation": 617.3409423828125
+            },
+            {
+              "token": ".",
+              "activation": 521.3680419921875
+            },
+            {
+              "token": " a",
+              "activation": 446.3208312988281
+            },
+            {
+              "token": ",",
+              "activation": 431.0604553222656
+            },
+            {
+              "token": " as",
+              "activation": 400.1321716308594
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 2847,
+      "explanation": "Feature f2847 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": " its",
+          "score": 1551.609130859375
+        },
+        {
+          "token": " own",
+          "score": 1533.8270263671875
+        },
+        {
+          "token": " to",
+          "score": 1262.2435302734375
+        },
+        {
+          "token": " itself",
+          "score": 1041.6978759765625
+        },
+        {
+          "token": " relates",
+          "score": 921.078857421875
+        },
+        {
+          "token": " self",
+          "score": 840.5218505859375
+        },
+        {
+          "token": " which",
+          "score": 647.9527587890625
+        },
+        {
+          "token": " relation",
+          "score": 568.1873779296875
+        },
+        {
+          "token": " is",
+          "score": 446.8134460449219
+        },
+        {
+          "token": " a",
+          "score": 442.7984313964844
+        },
+        {
+          "token": ".",
+          "score": 420.2795715332031
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S018",
+          "activation": 630.765380859375,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "The self is a relation which relates itself to its own self.",
+          "top_tokens": [
+            {
+              "token": " its",
+              "activation": 1551.609130859375
+            },
+            {
+              "token": " own",
+              "activation": 1533.8270263671875
+            },
+            {
+              "token": " to",
+              "activation": 1262.2435302734375
+            },
+            {
+              "token": " itself",
+              "activation": 1041.6978759765625
+            },
+            {
+              "token": " relates",
+              "activation": 921.078857421875
+            },
+            {
+              "token": " self",
+              "activation": 840.5218505859375
+            },
+            {
+              "token": " which",
+              "activation": 647.9527587890625
+            },
+            {
+              "token": " relation",
+              "activation": 568.1873779296875
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

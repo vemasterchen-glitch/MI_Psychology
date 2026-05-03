@@ -1,0 +1,2044 @@
+{
+  "feature_explanations": [
+    {
+      "feat_id": 705,
+      "explanation": "Feature f705 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": ".",
+          "score": 3906.9190673828125
+        },
+        {
+          "token": " is",
+          "score": 3322.403076171875
+        },
+        {
+          "token": ",",
+          "score": 2631.6649169921875
+        },
+        {
+          "token": " the",
+          "score": 1552.081298828125
+        },
+        {
+          "token": " time",
+          "score": 1166.1922607421875
+        },
+        {
+          "token": " appear",
+          "score": 1165.0125732421875
+        },
+        {
+          "token": " infinite",
+          "score": 1141.5465087890625
+        },
+        {
+          "token": " backwards",
+          "score": 1134.7025146484375
+        },
+        {
+          "token": " extended",
+          "score": 1113.5042724609375
+        },
+        {
+          "token": " as",
+          "score": 1099.9429931640625
+        },
+        {
+          "token": " far",
+          "score": 1028.5582275390625
+        },
+        {
+          "token": " removed",
+          "score": 1027.7093505859375
+        },
+        {
+          "token": " thing",
+          "score": 1010.5579833984375
+        },
+        {
+          "token": " would",
+          "score": 1004.3248291015625
+        },
+        {
+          "token": " what",
+          "score": 1001.0902099609375
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S007",
+          "activation": 696.7457275390625,
+          "ref": "Locke, Essay Concerning Human Understanding",
+          "text": "As far as this consciousness can be extended backwards, so far reaches the identity of that person.",
+          "top_tokens": [
+            {
+              "token": " backwards",
+              "activation": 1134.7025146484375
+            },
+            {
+              "token": " extended",
+              "activation": 1113.5042724609375
+            },
+            {
+              "token": " far",
+              "activation": 1028.5582275390625
+            },
+            {
+              "token": ".",
+              "activation": 1012.9989013671875
+            },
+            {
+              "token": " person",
+              "activation": 984.3167724609375
+            },
+            {
+              "token": " reaches",
+              "activation": 953.0238037109375
+            },
+            {
+              "token": " identity",
+              "activation": 928.0826416015625
+            },
+            {
+              "token": " so",
+              "activation": 909.3172607421875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S011",
+          "activation": 651.7020263671875,
+          "ref": "Hume, A Treatise of Human Nature",
+          "text": "When my perceptions are removed for any time, I am insensible of myself.",
+          "top_tokens": [
+            {
+              "token": " time",
+              "activation": 1166.1922607421875
+            },
+            {
+              "token": " removed",
+              "activation": 1027.7093505859375
+            },
+            {
+              "token": " I",
+              "activation": 864.5701904296875
+            },
+            {
+              "token": ",",
+              "activation": 858.7952880859375
+            },
+            {
+              "token": " insensible",
+              "activation": 837.8270263671875
+            },
+            {
+              "token": " myself",
+              "activation": 824.3648681640625
+            },
+            {
+              "token": " for",
+              "activation": 755.2054443359375
+            },
+            {
+              "token": " any",
+              "activation": 720.1656494140625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S043",
+          "activation": 647.6470947265625,
+          "ref": "William Blake, The Marriage of Heaven and Hell",
+          "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+          "top_tokens": [
+            {
+              "token": " appear",
+              "activation": 1165.0125732421875
+            },
+            {
+              "token": " is",
+              "activation": 1146.6986083984375
+            },
+            {
+              "token": " infinite",
+              "activation": 1141.5465087890625
+            },
+            {
+              "token": " as",
+              "activation": 1099.9429931640625
+            },
+            {
+              "token": ".",
+              "activation": 1023.5643310546875
+            },
+            {
+              "token": " thing",
+              "activation": 1010.5579833984375
+            },
+            {
+              "token": " would",
+              "activation": 1004.3248291015625
+            },
+            {
+              "token": ",",
+              "activation": 961.5936279296875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S019",
+          "activation": 635.2227783203125,
+          "ref": "Kierkegaard, The Sickness Unto Death",
+          "text": "Man is spirit. But what is spirit? Spirit is the self.",
+          "top_tokens": [
+            {
+              "token": " what",
+              "activation": 1001.0902099609375
+            },
+            {
+              "token": "?",
+              "activation": 953.9822998046875
+            },
+            {
+              "token": " But",
+              "activation": 909.0948486328125
+            },
+            {
+              "token": " is",
+              "activation": 856.5643310546875
+            },
+            {
+              "token": " Spirit",
+              "activation": 831.6820068359375
+            },
+            {
+              "token": " is",
+              "activation": 791.9100341796875
+            },
+            {
+              "token": ".",
+              "activation": 742.2962646484375
+            },
+            {
+              "token": " the",
+              "activation": 726.0006103515625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 949,
+      "explanation": "Feature f949 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": ",",
+          "score": 4351.9957275390625
+        },
+        {
+          "token": ".",
+          "score": 4285.2994384765625
+        },
+        {
+          "token": " die",
+          "score": 2831.146240234375
+        },
+        {
+          "token": " wir",
+          "score": 2761.6751708984375
+        },
+        {
+          "token": " sind",
+          "score": 2669.574462890625
+        },
+        {
+          "token": " in",
+          "score": 2567.9857177734375
+        },
+        {
+          "token": " Zeichen",
+          "score": 1726.2664794921875
+        },
+        {
+          "token": "elen",
+          "score": 1709.9495849609375
+        },
+        {
+          "token": "en",
+          "score": 1696.37109375
+        },
+        {
+          "token": " Brust",
+          "score": 1667.881103515625
+        },
+        {
+          "token": " Sprache",
+          "score": 1635.8524169921875
+        },
+        {
+          "token": " nicht",
+          "score": 1634.839599609375
+        },
+        {
+          "token": "os",
+          "score": 1620.59423828125
+        },
+        {
+          "token": "!",
+          "score": 1562.119384765625
+        },
+        {
+          "token": " dich",
+          "score": 1561.0765380859375
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 1162.2196044921875,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht.",
+          "top_tokens": [
+            {
+              "token": " nicht",
+              "activation": 1634.839599609375
+            },
+            {
+              "token": " dich",
+              "activation": 1561.0765380859375
+            },
+            {
+              "token": " da",
+              "activation": 1528.155029296875
+            },
+            {
+              "token": ",",
+              "activation": 1508.8980712890625
+            },
+            {
+              "token": " keine",
+              "activation": 1479.098388671875
+            },
+            {
+              "token": " die",
+              "activation": 1446.8643798828125
+            },
+            {
+              "token": " Stelle",
+              "activation": 1395.03076171875
+            },
+            {
+              "token": ".",
+              "activation": 1243.7353515625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S075",
+          "activation": 1114.158935546875,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Ein Zeichen sind wir, deutungslos.",
+          "top_tokens": [
+            {
+              "token": " Zeichen",
+              "activation": 1726.2664794921875
+            },
+            {
+              "token": "os",
+              "activation": 1620.59423828125
+            },
+            {
+              "token": ".",
+              "activation": 1538.828125
+            },
+            {
+              "token": " deut",
+              "activation": 1446.092529296875
+            },
+            {
+              "token": " sind",
+              "activation": 1389.462890625
+            },
+            {
+              "token": " wir",
+              "activation": 1358.520751953125
+            },
+            {
+              "token": ",",
+              "activation": 1280.545166015625
+            },
+            {
+              "token": "Ein",
+              "activation": 1096.184814453125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S076",
+          "activation": 1104.4002685546875,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+          "top_tokens": [
+            {
+              "token": " Sprache",
+              "activation": 1635.8524169921875
+            },
+            {
+              "token": " und",
+              "activation": 1559.1192626953125
+            },
+            {
+              "token": "los",
+              "activation": 1537.77880859375
+            },
+            {
+              "token": " fast",
+              "activation": 1463.341796875
+            },
+            {
+              "token": " haben",
+              "activation": 1438.7606201171875
+            },
+            {
+              "token": "de",
+              "activation": 1434.755859375
+            },
+            {
+              "token": "merz",
+              "activation": 1433.3609619140625
+            },
+            {
+              "token": " wir",
+              "activation": 1403.1544189453125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 1090.064453125,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust.",
+          "top_tokens": [
+            {
+              "token": "elen",
+              "activation": 1709.9495849609375
+            },
+            {
+              "token": "en",
+              "activation": 1696.37109375
+            },
+            {
+              "token": " Brust",
+              "activation": 1667.881103515625
+            },
+            {
+              "token": ",",
+              "activation": 1562.552490234375
+            },
+            {
+              "token": "!",
+              "activation": 1562.119384765625
+            },
+            {
+              "token": ".",
+              "activation": 1502.7359619140625
+            },
+            {
+              "token": " meiner",
+              "activation": 1482.8148193359375
+            },
+            {
+              "token": " in",
+              "activation": 1365.4927978515625
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 132,
+      "explanation": "Feature f132 appears most consistent with negation, non-self, shadow, or nothingness.",
+      "top_tokens": [],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S077",
+          "activation": 1745.8310546875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada.",
+          "top_tokens": []
+        },
+        {
+          "stimulus_id": "S064",
+          "activation": 1583.07958984375,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow.",
+          "top_tokens": []
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 1498.798828125,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That.",
+          "top_tokens": []
+        },
+        {
+          "stimulus_id": "S029",
+          "activation": 948.3447265625,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Tat tvam asi.",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 2076,
+      "explanation": "Feature f2076 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": "知",
+          "score": 4961.343505859375
+        },
+        {
+          "token": "之",
+          "score": 3905.190673828125
+        },
+        {
+          "token": "周",
+          "score": 3087.58203125
+        },
+        {
+          "token": "，",
+          "score": 2968.8876953125
+        },
+        {
+          "token": "胡",
+          "score": 2935.0067138671875
+        },
+        {
+          "token": "夢",
+          "score": 2317.18359375
+        },
+        {
+          "token": "則",
+          "score": 2118.3480224609375
+        },
+        {
+          "token": "者",
+          "score": 2059.45361328125
+        },
+        {
+          "token": "矣",
+          "score": 2025.8193359375
+        },
+        {
+          "token": "物",
+          "score": 1579.082275390625
+        },
+        {
+          "token": "自",
+          "score": 1577.7894287109375
+        },
+        {
+          "token": "智",
+          "score": 1524.9033203125
+        },
+        {
+          "token": "分",
+          "score": 1464.18505859375
+        },
+        {
+          "token": "此",
+          "score": 1447.9930419921875
+        },
+        {
+          "token": "化",
+          "score": 1391.334228515625
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S039",
+          "activation": 1058.1949462890625,
+          "ref": "孟子, 盡心上",
+          "text": "知其性，則知天矣。",
+          "top_tokens": [
+            {
+              "token": "知",
+              "activation": 1454.041015625
+            },
+            {
+              "token": "天",
+              "activation": 1376.1710205078125
+            },
+            {
+              "token": "則",
+              "activation": 1308.4136962890625
+            },
+            {
+              "token": "性",
+              "activation": 1261.426513671875
+            },
+            {
+              "token": "其",
+              "activation": 1190.7060546875
+            },
+            {
+              "token": "矣",
+              "activation": 1112.571044921875
+            },
+            {
+              "token": "，",
+              "activation": 1109.4500732421875
+            },
+            {
+              "token": "知",
+              "activation": 1087.139892578125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S035",
+          "activation": 965.3699951171875,
+          "ref": "老子, 道德經",
+          "text": "知人者智，自知者明。",
+          "top_tokens": [
+            {
+              "token": "自",
+              "activation": 1577.7894287109375
+            },
+            {
+              "token": "智",
+              "activation": 1524.9033203125
+            },
+            {
+              "token": "者",
+              "activation": 1465.615966796875
+            },
+            {
+              "token": "知",
+              "activation": 1333.022705078125
+            },
+            {
+              "token": "明",
+              "activation": 1159.931884765625
+            },
+            {
+              "token": "知",
+              "activation": 1087.139892578125
+            },
+            {
+              "token": "，",
+              "activation": 819.820556640625
+            },
+            {
+              "token": "人",
+              "activation": 664.3062744140625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S033",
+          "activation": 940.4146728515625,
+          "ref": "莊子, 齊物論",
+          "text": "周與胡蝶，則必有分矣。此之謂物化。",
+          "top_tokens": [
+            {
+              "token": "物",
+              "activation": 1579.082275390625
+            },
+            {
+              "token": "分",
+              "activation": 1464.18505859375
+            },
+            {
+              "token": "此",
+              "activation": 1447.9930419921875
+            },
+            {
+              "token": "化",
+              "activation": 1391.334228515625
+            },
+            {
+              "token": "必",
+              "activation": 1349.6734619140625
+            },
+            {
+              "token": "之",
+              "activation": 1207.88720703125
+            },
+            {
+              "token": "謂",
+              "activation": 1037.9013671875
+            },
+            {
+              "token": "矣",
+              "activation": 913.248291015625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S032",
+          "activation": 939.5361328125,
+          "ref": "莊子, 齊物論",
+          "text": "不知周之夢為胡蝶與，胡蝶之夢為周與。",
+          "top_tokens": [
+            {
+              "token": "之",
+              "activation": 1398.390869140625
+            },
+            {
+              "token": "之",
+              "activation": 1298.91259765625
+            },
+            {
+              "token": "蝶",
+              "activation": 1210.488037109375
+            },
+            {
+              "token": "胡",
+              "activation": 1209.920654296875
+            },
+            {
+              "token": "周",
+              "activation": 1191.5792236328125
+            },
+            {
+              "token": "夢",
+              "activation": 1165.554443359375
+            },
+            {
+              "token": "夢",
+              "activation": 1151.629150390625
+            },
+            {
+              "token": "，",
+              "activation": 1039.6170654296875
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 282,
+      "explanation": "Feature f282 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": ".",
+          "score": 9071.579833984375
+        },
+        {
+          "token": " est",
+          "score": 6412.6787109375
+        },
+        {
+          "token": "iste",
+          "score": 2887.11572265625
+        },
+        {
+          "token": "je",
+          "score": 2876.974609375
+        },
+        {
+          "token": " à",
+          "score": 2764.85009765625
+        },
+        {
+          "token": "’",
+          "score": 2573.734375
+        },
+        {
+          "token": " pensée",
+          "score": 2509.29833984375
+        },
+        {
+          "token": "able",
+          "score": 2490.99951171875
+        },
+        {
+          "token": " de",
+          "score": 2422.6171875
+        },
+        {
+          "token": "?",
+          "score": 2347.369384765625
+        },
+        {
+          "token": "ion",
+          "score": 2258.54931640625
+        },
+        {
+          "token": " sais",
+          "score": 2069.05517578125
+        },
+        {
+          "token": " autre",
+          "score": 2012.23974609375
+        },
+        {
+          "token": "ï",
+          "score": 1807.775146484375
+        },
+        {
+          "token": " un",
+          "score": 1783.094482421875
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S042",
+          "activation": 1614.094970703125,
+          "ref": "Montaigne, Essays",
+          "text": "Que sais-je?",
+          "top_tokens": [
+            {
+              "token": "je",
+              "activation": 2876.974609375
+            },
+            {
+              "token": "?",
+              "activation": 2347.369384765625
+            },
+            {
+              "token": " sais",
+              "activation": 2069.05517578125
+            },
+            {
+              "token": "-",
+              "activation": 1584.31982421875
+            },
+            {
+              "token": "Que",
+              "activation": 454.40673828125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S058",
+          "activation": 1541.917236328125,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "J’assiste à l’éclosion de ma pensée.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 3673.10205078125
+            },
+            {
+              "token": "iste",
+              "activation": 2887.11572265625
+            },
+            {
+              "token": " à",
+              "activation": 2764.85009765625
+            },
+            {
+              "token": " pensée",
+              "activation": 2509.29833984375
+            },
+            {
+              "token": " de",
+              "activation": 2422.6171875
+            },
+            {
+              "token": "ion",
+              "activation": 2258.54931640625
+            },
+            {
+              "token": " ma",
+              "activation": 1763.78515625
+            },
+            {
+              "token": "’",
+              "activation": 1350.73779296875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S017",
+          "activation": 1507.013671875,
+          "ref": "Pascal, Pensées",
+          "text": "Le moi est haïssable.",
+          "top_tokens": [
+            {
+              "token": " est",
+              "activation": 3385.47265625
+            },
+            {
+              "token": ".",
+              "activation": 2671.390380859375
+            },
+            {
+              "token": "able",
+              "activation": 2490.99951171875
+            },
+            {
+              "token": "ï",
+              "activation": 1807.775146484375
+            },
+            {
+              "token": " moi",
+              "activation": 1535.3857421875
+            },
+            {
+              "token": "ss",
+              "activation": 715.531494140625
+            },
+            {
+              "token": "Le",
+              "activation": 469.7236328125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 1424.179443359375,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre.",
+          "top_tokens": [
+            {
+              "token": " est",
+              "activation": 3027.2060546875
+            },
+            {
+              "token": ".",
+              "activation": 2727.08740234375
+            },
+            {
+              "token": " autre",
+              "activation": 2012.23974609375
+            },
+            {
+              "token": " un",
+              "activation": 1783.094482421875
+            },
+            {
+              "token": " Je",
+              "activation": 416.13623046875
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 366,
+      "explanation": "Feature f366 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": ".",
+          "score": 5796.224853515625
+        },
+        {
+          "token": " sind",
+          "score": 3326.57373046875
+        },
+        {
+          "token": ",",
+          "score": 2819.18603515625
+        },
+        {
+          "token": " die",
+          "score": 2632.547607421875
+        },
+        {
+          "token": " wir",
+          "score": 2473.55078125
+        },
+        {
+          "token": " haben",
+          "score": 1796.674560546875
+        },
+        {
+          "token": "ßt",
+          "score": 1758.529052734375
+        },
+        {
+          "token": " Leben",
+          "score": 1599.709716796875
+        },
+        {
+          "token": " Sprache",
+          "score": 1565.348388671875
+        },
+        {
+          "token": " fast",
+          "score": 1407.071533203125
+        },
+        {
+          "token": " und",
+          "score": 1373.635498046875
+        },
+        {
+          "token": " ändern",
+          "score": 1332.581787109375
+        },
+        {
+          "token": "os",
+          "score": 1200.406982421875
+        },
+        {
+          "token": " verloren",
+          "score": 1161.58544921875
+        },
+        {
+          "token": " Zeichen",
+          "score": 1121.215576171875
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 868.771240234375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht.",
+          "top_tokens": [
+            {
+              "token": " die",
+              "activation": 1435.5146484375
+            },
+            {
+              "token": ",",
+              "activation": 1420.818603515625
+            },
+            {
+              "token": ".",
+              "activation": 1390.209716796875
+            },
+            {
+              "token": " dich",
+              "activation": 991.010498046875
+            },
+            {
+              "token": " sieht",
+              "activation": 888.050048828125
+            },
+            {
+              "token": " keine",
+              "activation": 833.316162109375
+            },
+            {
+              "token": " ist",
+              "activation": 803.615966796875
+            },
+            {
+              "token": " Stelle",
+              "activation": 793.088623046875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S076",
+          "activation": 852.124755859375,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+          "top_tokens": [
+            {
+              "token": " haben",
+              "activation": 1796.674560546875
+            },
+            {
+              "token": " Sprache",
+              "activation": 1565.348388671875
+            },
+            {
+              "token": " fast",
+              "activation": 1407.071533203125
+            },
+            {
+              "token": " sind",
+              "activation": 1373.757568359375
+            },
+            {
+              "token": " und",
+              "activation": 1373.635498046875
+            },
+            {
+              "token": " wir",
+              "activation": 1312.480712890625
+            },
+            {
+              "token": " die",
+              "activation": 1197.032958984375
+            },
+            {
+              "token": " verloren",
+              "activation": 1161.58544921875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S075",
+          "activation": 777.943603515625,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Ein Zeichen sind wir, deutungslos.",
+          "top_tokens": [
+            {
+              "token": " sind",
+              "activation": 1952.816162109375
+            },
+            {
+              "token": ".",
+              "activation": 1666.871337890625
+            },
+            {
+              "token": ",",
+              "activation": 1398.367431640625
+            },
+            {
+              "token": "os",
+              "activation": 1200.406982421875
+            },
+            {
+              "token": " wir",
+              "activation": 1161.070068359375
+            },
+            {
+              "token": " Zeichen",
+              "activation": 1121.215576171875
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S062",
+          "activation": 716.033447265625,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Du mußt dein Leben ändern.",
+          "top_tokens": [
+            {
+              "token": "ßt",
+              "activation": 1758.529052734375
+            },
+            {
+              "token": ".",
+              "activation": 1686.339111328125
+            },
+            {
+              "token": " Leben",
+              "activation": 1599.709716796875
+            },
+            {
+              "token": " ändern",
+              "activation": 1332.581787109375
+            },
+            {
+              "token": " dein",
+              "activation": 617.573486328125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 534,
+      "explanation": "Feature f534 appears most consistent with negation, non-self, shadow, or nothingness.",
+      "top_tokens": [
+        {
+          "token": ".",
+          "score": 1664.4873046875
+        },
+        {
+          "token": " Esse",
+          "score": 1389.270263671875
+        },
+        {
+          "token": "ipi",
+          "score": 1326.21533203125
+        },
+        {
+          "token": " am",
+          "score": 1143.382568359375
+        },
+        {
+          "token": "'",
+          "score": 1108.36962890625
+        },
+        {
+          "token": " I",
+          "score": 999.878662109375
+        },
+        {
+          "token": " Perc",
+          "score": 929.17578125
+        },
+        {
+          "token": " more",
+          "score": 799.46142578125
+        },
+        {
+          "token": "s",
+          "score": 786.8115234375
+        },
+        {
+          "token": " shadow",
+          "score": 728.8408203125
+        },
+        {
+          "token": " entirely",
+          "score": 636.58349609375
+        },
+        {
+          "token": ",",
+          "score": 632.396484375
+        },
+        {
+          "token": " That",
+          "score": 612.3525390625
+        },
+        {
+          "token": "Thou",
+          "score": 598.9150390625
+        },
+        {
+          "token": " is",
+          "score": 586.337158203125
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S020",
+          "activation": 712.564208984375,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi.",
+          "top_tokens": [
+            {
+              "token": " Esse",
+              "activation": 1389.270263671875
+            },
+            {
+              "token": "ipi",
+              "activation": 1326.21533203125
+            },
+            {
+              "token": " Perc",
+              "activation": 929.17578125
+            },
+            {
+              "token": " is",
+              "activation": 586.337158203125
+            },
+            {
+              "token": ".",
+              "activation": 350.14697265625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S064",
+          "activation": 624.67919921875,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow.",
+          "top_tokens": [
+            {
+              "token": "'",
+              "activation": 1108.36962890625
+            },
+            {
+              "token": "s",
+              "activation": 786.8115234375
+            },
+            {
+              "token": " shadow",
+              "activation": 728.8408203125
+            },
+            {
+              "token": "Lear",
+              "activation": 483.113037109375
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 528.918701171875,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 712.80615234375
+            },
+            {
+              "token": " That",
+              "activation": 612.3525390625
+            },
+            {
+              "token": "Thou",
+              "activation": 598.9150390625
+            },
+            {
+              "token": " art",
+              "activation": 397.6494140625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S015",
+          "activation": 510.544921875,
+          "ref": "Nietzsche, Thus Spake Zarathustra",
+          "text": "Body am I entirely, and nothing more.",
+          "top_tokens": [
+            {
+              "token": " am",
+              "activation": 1143.382568359375
+            },
+            {
+              "token": " I",
+              "activation": 999.878662109375
+            },
+            {
+              "token": " more",
+              "activation": 799.46142578125
+            },
+            {
+              "token": " entirely",
+              "activation": 636.58349609375
+            },
+            {
+              "token": ",",
+              "activation": 632.396484375
+            },
+            {
+              "token": ".",
+              "activation": 601.5341796875
+            },
+            {
+              "token": " and",
+              "activation": 562.33251953125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 1993,
+      "explanation": "Feature f1993 appears most consistent with negation, non-self, shadow, or nothingness.",
+      "top_tokens": [
+        {
+          "token": ".",
+          "score": 6749.59765625
+        },
+        {
+          "token": " nada",
+          "score": 3954.4423828125
+        },
+        {
+          "token": " mim",
+          "score": 2575.985595703125
+        },
+        {
+          "token": " todos",
+          "score": 2436.699462890625
+        },
+        {
+          "token": " mundo",
+          "score": 2406.47021484375
+        },
+        {
+          "token": " tenho",
+          "score": 2397.3701171875
+        },
+        {
+          "token": " sonhos",
+          "score": 2156.1357421875
+        },
+        {
+          "token": " os",
+          "score": 2145.4326171875
+        },
+        {
+          "token": " sou",
+          "score": 1933.055908203125
+        },
+        {
+          "token": " em",
+          "score": 1764.8624267578125
+        },
+        {
+          "token": ",",
+          "score": 1724.22900390625
+        },
+        {
+          "token": " isso",
+          "score": 1632.1387939453125
+        },
+        {
+          "token": " do",
+          "score": 1516.1510009765625
+        },
+        {
+          "token": "Não",
+          "score": 1389.2584228515625
+        },
+        {
+          "token": "erei",
+          "score": 990.2550048828125
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S079",
+          "activation": 1654.816650390625,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "À parte isso, tenho em mim todos os sonhos do mundo.",
+          "top_tokens": [
+            {
+              "token": " mim",
+              "activation": 2575.985595703125
+            },
+            {
+              "token": ".",
+              "activation": 2544.445068359375
+            },
+            {
+              "token": " todos",
+              "activation": 2436.699462890625
+            },
+            {
+              "token": " mundo",
+              "activation": 2406.47021484375
+            },
+            {
+              "token": " tenho",
+              "activation": 2397.3701171875
+            },
+            {
+              "token": " sonhos",
+              "activation": 2156.1357421875
+            },
+            {
+              "token": " os",
+              "activation": 2145.4326171875
+            },
+            {
+              "token": " em",
+              "activation": 1764.8624267578125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 1543.32421875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 2453.027587890625
+            },
+            {
+              "token": " nada",
+              "activation": 2109.441650390625
+            },
+            {
+              "token": " sou",
+              "activation": 1933.055908203125
+            },
+            {
+              "token": "Não",
+              "activation": 1389.2584228515625
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S078",
+          "activation": 777.2857055664062,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Nunca serei nada.",
+          "top_tokens": [
+            {
+              "token": " nada",
+              "activation": 1845.000732421875
+            },
+            {
+              "token": ".",
+              "activation": 1752.125
+            },
+            {
+              "token": "erei",
+              "activation": 990.2550048828125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 267,
+      "explanation": "Feature f267 appears most consistent with negation, non-self, shadow, or nothingness.",
+      "top_tokens": [
+        {
+          "token": "'",
+          "score": 1464.5283203125
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S064",
+          "activation": 1226.57861328125,
+          "ref": "Shakespeare, King Lear",
+          "text": "Lear's shadow.",
+          "top_tokens": [
+            {
+              "token": "'",
+              "activation": 1464.5283203125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S030",
+          "activation": 778.27197265625,
+          "ref": "Chāndogya Upaniṣad",
+          "text": "Thou art That.",
+          "top_tokens": []
+        },
+        {
+          "stimulus_id": "S077",
+          "activation": 684.02685546875,
+          "ref": "Fernando Pessoa / Álvaro de Campos, Tabacaria",
+          "text": "Não sou nada.",
+          "top_tokens": []
+        },
+        {
+          "stimulus_id": "S020",
+          "activation": 633.65087890625,
+          "ref": "Berkeley, A Treatise Concerning the Principles of Human Knowledge",
+          "text": "Their Esse is Percipi.",
+          "top_tokens": []
+        }
+      ]
+    },
+    {
+      "feat_id": 3779,
+      "explanation": "Feature f3779 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": ".",
+          "score": 3279.136474609375
+        },
+        {
+          "token": " der",
+          "score": 2773.4945068359375
+        },
+        {
+          "token": " in",
+          "score": 2089.8800659179688
+        },
+        {
+          "token": " haben",
+          "score": 1803.8919677734375
+        },
+        {
+          "token": " wir",
+          "score": 1784.426025390625
+        },
+        {
+          "token": " fast",
+          "score": 1703.8226318359375
+        },
+        {
+          "token": " meiner",
+          "score": 1659.400146484375
+        },
+        {
+          "token": " sich",
+          "score": 1533.5693359375
+        },
+        {
+          "token": " und",
+          "score": 1423.8875732421875
+        },
+        {
+          "token": " die",
+          "score": 1414.053955078125
+        },
+        {
+          "token": " Sprache",
+          "score": 1369.6683349609375
+        },
+        {
+          "token": " von",
+          "score": 1317.0062255859375
+        },
+        {
+          "token": "ern",
+          "score": 1303.396728515625
+        },
+        {
+          "token": " will",
+          "score": 1269.1195068359375
+        },
+        {
+          "token": " unseres",
+          "score": 1046.1893310546875
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S076",
+          "activation": 758.1546020507812,
+          "ref": "Hölderlin, Mnemosyne",
+          "text": "Schmerzlos sind wir und haben fast die Sprache in der Fremde verloren.",
+          "top_tokens": [
+            {
+              "token": " haben",
+              "activation": 1803.8919677734375
+            },
+            {
+              "token": " fast",
+              "activation": 1703.8226318359375
+            },
+            {
+              "token": " und",
+              "activation": 1423.8875732421875
+            },
+            {
+              "token": " die",
+              "activation": 1414.053955078125
+            },
+            {
+              "token": " Sprache",
+              "activation": 1369.6683349609375
+            },
+            {
+              "token": " der",
+              "activation": 1174.5206298828125
+            },
+            {
+              "token": " wir",
+              "activation": 897.4811401367188
+            },
+            {
+              "token": " in",
+              "activation": 887.6653442382812
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S060",
+          "activation": 701.2103271484375,
+          "ref": "Goethe, Faust I",
+          "text": "Die eine will sich von der andern trennen.",
+          "top_tokens": [
+            {
+              "token": " der",
+              "activation": 1598.973876953125
+            },
+            {
+              "token": " sich",
+              "activation": 1533.5693359375
+            },
+            {
+              "token": " von",
+              "activation": 1317.0062255859375
+            },
+            {
+              "token": "ern",
+              "activation": 1303.396728515625
+            },
+            {
+              "token": " will",
+              "activation": 1269.1195068359375
+            },
+            {
+              "token": ".",
+              "activation": 988.1918334960938
+            },
+            {
+              "token": "nen",
+              "activation": 706.4863891601562
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S059",
+          "activation": 533.4872436523438,
+          "ref": "Goethe, Faust I",
+          "text": "Zwei Seelen wohnen, ach! in meiner Brust.",
+          "top_tokens": [
+            {
+              "token": " meiner",
+              "activation": 1659.400146484375
+            },
+            {
+              "token": " in",
+              "activation": 1202.2147216796875
+            },
+            {
+              "token": "en",
+              "activation": 1044.5191650390625
+            },
+            {
+              "token": " Brust",
+              "activation": 1031.2943115234375
+            },
+            {
+              "token": "!",
+              "activation": 1015.2496948242188
+            },
+            {
+              "token": ".",
+              "activation": 999.4326782226562
+            },
+            {
+              "token": ",",
+              "activation": 885.4375610351562
+            },
+            {
+              "token": "elen",
+              "activation": 835.8578491210938
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S074",
+          "activation": 455.0185546875,
+          "ref": "Novalis, Blüthenstaub",
+          "text": "Die Tiefen unseres Geistes kennen wir nicht.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 1291.511962890625
+            },
+            {
+              "token": " unseres",
+              "activation": 1046.1893310546875
+            },
+            {
+              "token": "istes",
+              "activation": 1010.4735717773438
+            },
+            {
+              "token": " wir",
+              "activation": 886.9448852539062
+            },
+            {
+              "token": " nicht",
+              "activation": 880.6731567382812
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 2139,
+      "explanation": "Feature f2139 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": ",",
+          "score": 2511.4456787109375
+        },
+        {
+          "token": ".",
+          "score": 2311.677947998047
+        },
+        {
+          "token": " Ich",
+          "score": 1358.380615234375
+        },
+        {
+          "token": " soll",
+          "score": 1219.3978271484375
+        },
+        {
+          "token": " ist",
+          "score": 1208.2586669921875
+        },
+        {
+          "token": " die",
+          "score": 1122.7313232421875
+        },
+        {
+          "token": " dich",
+          "score": 1091.3695068359375
+        },
+        {
+          "token": " da",
+          "score": 1068.203125
+        },
+        {
+          "token": " werden",
+          "score": 1000.167236328125
+        },
+        {
+          "token": "ßt",
+          "score": 941.6417236328125
+        },
+        {
+          "token": " nicht",
+          "score": 917.736083984375
+        },
+        {
+          "token": " ändern",
+          "score": 841.19189453125
+        },
+        {
+          "token": " dein",
+          "score": 811.1676025390625
+        },
+        {
+          "token": " Leben",
+          "score": 715.8416748046875
+        },
+        {
+          "token": "Denn",
+          "score": 640.0509033203125
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S061",
+          "activation": 798.166015625,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Denn da ist keine Stelle, die dich nicht sieht.",
+          "top_tokens": [
+            {
+              "token": ",",
+              "activation": 1379.11376953125
+            },
+            {
+              "token": " ist",
+              "activation": 1208.2586669921875
+            },
+            {
+              "token": " die",
+              "activation": 1122.7313232421875
+            },
+            {
+              "token": " dich",
+              "activation": 1091.3695068359375
+            },
+            {
+              "token": " da",
+              "activation": 1068.203125
+            },
+            {
+              "token": " nicht",
+              "activation": 917.736083984375
+            },
+            {
+              "token": ".",
+              "activation": 735.9755859375
+            },
+            {
+              "token": "Denn",
+              "activation": 640.0509033203125
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S080",
+          "activation": 628.358154296875,
+          "ref": "Freud, Neue Folge der Vorlesungen",
+          "text": "Wo Es war, soll Ich werden.",
+          "top_tokens": [
+            {
+              "token": " Ich",
+              "activation": 1358.380615234375
+            },
+            {
+              "token": " soll",
+              "activation": 1219.3978271484375
+            },
+            {
+              "token": ",",
+              "activation": 1132.3319091796875
+            },
+            {
+              "token": " werden",
+              "activation": 1000.167236328125
+            },
+            {
+              "token": " war",
+              "activation": 635.408935546875
+            },
+            {
+              "token": ".",
+              "activation": 431.9320983886719
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S062",
+          "activation": 611.6429443359375,
+          "ref": "Rilke, Archaischer Torso Apollos",
+          "text": "Du mußt dein Leben ändern.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 1143.770263671875
+            },
+            {
+              "token": "ßt",
+              "activation": 941.6417236328125
+            },
+            {
+              "token": " ändern",
+              "activation": 841.19189453125
+            },
+            {
+              "token": " dein",
+              "activation": 811.1676025390625
+            },
+            {
+              "token": " Leben",
+              "activation": 715.8416748046875
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "feat_id": 3624,
+      "explanation": "Feature f3624 appears most consistent with self-reference and identity markers.",
+      "top_tokens": [
+        {
+          "token": ".",
+          "score": 3007.3741455078125
+        },
+        {
+          "token": " sais",
+          "score": 1533.53466796875
+        },
+        {
+          "token": "je",
+          "score": 1443.836669921875
+        },
+        {
+          "token": "-",
+          "score": 1414.191650390625
+        },
+        {
+          "token": "’",
+          "score": 1238.6212158203125
+        },
+        {
+          "token": " est",
+          "score": 1016.4124755859375
+        },
+        {
+          "token": "?",
+          "score": 986.429443359375
+        },
+        {
+          "token": "iste",
+          "score": 980.1273193359375
+        },
+        {
+          "token": " à",
+          "score": 953.016357421875
+        },
+        {
+          "token": " de",
+          "score": 941.6092529296875
+        },
+        {
+          "token": "ass",
+          "score": 912.5887451171875
+        },
+        {
+          "token": " Je",
+          "score": 638.6514892578125
+        },
+        {
+          "token": " pensée",
+          "score": 589.4931640625
+        },
+        {
+          "token": " ma",
+          "score": 467.3975524902344
+        },
+        {
+          "token": " autre",
+          "score": 458.8954772949219
+        }
+      ],
+      "top_stimuli": [
+        {
+          "stimulus_id": "S042",
+          "activation": 836.604248046875,
+          "ref": "Montaigne, Essays",
+          "text": "Que sais-je?",
+          "top_tokens": [
+            {
+              "token": " sais",
+              "activation": 1533.53466796875
+            },
+            {
+              "token": "je",
+              "activation": 1443.836669921875
+            },
+            {
+              "token": "-",
+              "activation": 1414.191650390625
+            },
+            {
+              "token": "?",
+              "activation": 986.429443359375
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S058",
+          "activation": 552.49169921875,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "J’assiste à l’éclosion de ma pensée.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 1634.28369140625
+            },
+            {
+              "token": "’",
+              "activation": 1238.6212158203125
+            },
+            {
+              "token": "iste",
+              "activation": 980.1273193359375
+            },
+            {
+              "token": " à",
+              "activation": 953.016357421875
+            },
+            {
+              "token": " de",
+              "activation": 941.6092529296875
+            },
+            {
+              "token": "ass",
+              "activation": 912.5887451171875
+            },
+            {
+              "token": " pensée",
+              "activation": 589.4931640625
+            },
+            {
+              "token": " ma",
+              "activation": 467.3975524902344
+            }
+          ]
+        },
+        {
+          "stimulus_id": "S057",
+          "activation": 454.2640075683594,
+          "ref": "Rimbaud, Lettre à Paul Demeny",
+          "text": "Car Je est un autre.",
+          "top_tokens": [
+            {
+              "token": ".",
+              "activation": 1373.0904541015625
+            },
+            {
+              "token": " est",
+              "activation": 1016.4124755859375
+            },
+            {
+              "token": " Je",
+              "activation": 638.6514892578125
+            },
+            {
+              "token": " autre",
+              "activation": 458.8954772949219
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

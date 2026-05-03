@@ -1,0 +1,376 @@
+{{Textdaten
+|VORIGER=
+|NÄCHSTER=
+|AUTOR=[[Johann Wolfgang von Goethe]]
+|ILLUSTRATOR=
+|TITEL=Faust. Eine Tragödie von Goethe
+|SUBTITEL=Der Tragödie erster Teil
+|HERKUNFT= off
+|HERAUSGEBER=
+|AUFLAGE=
+|VERLAG=J. G. Cotta
+|DRUCKER=
+|ENTSTEHUNGSJAHR=1806 vorläufig beendet
+|ERSCHEINUNGSJAHR=1808
+|ERSCHEINUNGSORT=Tübingen
+|ÜBERSETZER=
+|ORIGINALTITEL=
+|ORIGINALSUBTITEL=
+|ORIGINALHERKUNFT=
+|WIKIPEDIA=Faust I
+|GND=4099197-0
+|BILD=Faust I (Goethe) 001.jpg
+|QUELLE={{HAAB|10014878767}} und [[commons:Category:Faust I (Goethe)|Scans auf Commons]], E-Text: [http://www.hs-augsburg.de/~harsch/germanica/Chronologie/18Jh/Goethe/goe_f000.html Bibliotheca Augustana]
+|KURZBESCHREIBUNG=Vorgänger von [[Faust - Der Tragödie zweiter Teil]]
+|SONSTIGES=
+|BENUTZERHILFE=ON
+|INDEXSEITE=Faust - Der Tragödie erster Teil
+|BEARBEITUNGSSTAND=fertig
+}}
+{{BlockSatzStart}}
+{{SeitePR|1|Faust I_(Goethe)_001.jpg}}
+{{SeitePR|2|Faust I_(Goethe)_002.jpg}}
+{{SeitePR|3|Faust I_(Goethe)_003.jpg}}
+{{SeitePR|4|Faust I_(Goethe)_004.jpg}}
+{{SeitePR|5|Faust I_(Goethe)_005.jpg}}
+{{SeitePR|6|Faust I_(Goethe)_006.jpg}}
+{{SeitePR|7|Faust I_(Goethe)_007.jpg}}
+{{SeitePR|8|Faust I_(Goethe)_008.jpg}}
+{{SeitePR|9|Faust I_(Goethe)_009.jpg}}
+{{PoemPR|10|Faust I_(Goethe)_010.jpg}}
+{{PoemPR|11|Faust I_(Goethe)_011.jpg}}
+{{PoemPR|12|Faust I_(Goethe)_012.jpg}}
+{{PoemPR|13|Faust I_(Goethe)_013.jpg}}
+{{PoemPR|14|Faust I_(Goethe)_014.jpg}}
+{{PoemPR|15|Faust I_(Goethe)_015.jpg}}
+{{PoemPR|16|Faust I_(Goethe)_016.jpg}}
+{{PoemPR|17|Faust I_(Goethe)_017.jpg}}
+{{PoemPR|18|Faust I_(Goethe)_018.jpg}}
+{{SeitePR|19|Faust I_(Goethe)_019.jpg}}
+{{SeitePR|20|Faust I_(Goethe)_020.jpg}}
+{{SeitePR|21|Faust I_(Goethe)_021.jpg}}
+{{SeitePR|22|Faust I_(Goethe)_022.jpg}}
+{{SeitePR|23|Faust I_(Goethe)_023.jpg}}
+{{PoemPR|24|Faust I_(Goethe)_024.jpg}}
+{{SeitePR|25|Faust I_(Goethe)_025.jpg}}
+{{PoemPR|26|Faust I_(Goethe)_026.jpg}}
+{{PoemPR|27|Faust I_(Goethe)_027.jpg}}
+{{SeitePR|28|Faust I_(Goethe)_028.jpg}}
+{{PoemPR|29|Faust I_(Goethe)_029.jpg}}
+{{SeitePR|30|Faust I_(Goethe)_030.jpg}}
+{{SeitePR|31|Faust I_(Goethe)_031.jpg}}
+{{SeitePR|32|Faust I_(Goethe)_032.jpg}}
+{{SeitePR|33|Faust I_(Goethe)_033.jpg}}
+{{PoemPR|34|Faust I_(Goethe)_034.jpg}}
+{{SeitePR|35|Faust I_(Goethe)_035.jpg}}
+{{PoemPR|36|Faust I_(Goethe)_036.jpg}}
+{{PoemPR|37|Faust I_(Goethe)_037.jpg}}
+{{PoemPR|38|Faust I_(Goethe)_038.jpg}}
+{{PoemPR|39|Faust I_(Goethe)_039.jpg}}
+{{SeitePR|40|Faust I_(Goethe)_040.jpg}}
+{{SeitePR|41|Faust I_(Goethe)_041.jpg}}
+{{SeitePR|42|Faust I_(Goethe)_042.jpg}}
+{{SeitePR|43|Faust I_(Goethe)_043.jpg}}
+{{PoemPR|44|Faust I_(Goethe)_044.jpg}}
+{{PoemPR|45|Faust I_(Goethe)_045.jpg}}
+{{PoemPR|46|Faust I_(Goethe)_046.jpg}}
+{{PoemPR|47|Faust I_(Goethe)_047.jpg}}
+{{PoemPR|48|Faust I_(Goethe)_048.jpg}}
+{{PoemPR|49|Faust I_(Goethe)_049.jpg}}
+{{PoemPR|50|Faust I_(Goethe)_050.jpg}}
+{{SeitePR|51|Faust I_(Goethe)_051.jpg}}
+{{PoemPR|52|Faust I_(Goethe)_052.jpg}}
+{{PoemPR|53|Faust I_(Goethe)_053.jpg}}
+{{SeitePR|54|Faust I_(Goethe)_054.jpg}}
+{{PoemPR|55|Faust I_(Goethe)_055.jpg}}
+{{PoemPR|56|Faust I_(Goethe)_056.jpg}}
+{{SeitePR|57|Faust I_(Goethe)_057.jpg}}
+{{SeitePR|58|Faust I_(Goethe)_058.jpg}}
+{{SeitePR|59|Faust I_(Goethe)_059.jpg}}
+{{PoemPR|60|Faust I_(Goethe)_060.jpg}}
+{{PoemPR|61|Faust I_(Goethe)_061.jpg}}
+{{SeitePR|62|Faust I_(Goethe)_062.jpg}}
+{{PoemPR|63|Faust I_(Goethe)_063.jpg}}
+{{PoemPR|64|Faust I_(Goethe)_064.jpg}}
+{{PoemPR|65|Faust I_(Goethe)_065.jpg}}
+{{PoemPR|66|Faust I_(Goethe)_066.jpg}}
+{{PoemPR|67|Faust I_(Goethe)_067.jpg}}
+{{SeitePR|68|Faust I_(Goethe)_068.jpg}}
+{{SeitePR|69|Faust I_(Goethe)_069.jpg}}
+{{PoemPR|70|Faust I_(Goethe)_070.jpg}}
+{{PoemPR|71|Faust I_(Goethe)_071.jpg}}
+{{PoemPR|72|Faust I_(Goethe)_072.jpg}}
+{{PoemPR|73|Faust I_(Goethe)_073.jpg}}
+{{PoemPR|74|Faust I_(Goethe)_074.jpg}}
+{{PoemPR|75|Faust I_(Goethe)_075.jpg}}
+{{PoemPR|76|Faust I_(Goethe)_076.jpg}}
+{{PoemPR|77|Faust I_(Goethe)_077.jpg}}
+{{SeitePR|78|Faust I_(Goethe)_078.jpg}}
+{{PoemPR|79|Faust I_(Goethe)_079.jpg}}
+{{SeitePR|80|Faust I_(Goethe)_080.jpg}}
+{{PoemPR|81|Faust I_(Goethe)_081.jpg}}
+{{PoemPR|82|Faust I_(Goethe)_082.jpg}}
+{{SeitePR|83|Faust I_(Goethe)_083.jpg}}
+{{PoemPR|84|Faust I_(Goethe)_084.jpg}}
+{{SeitePR|85|Faust I_(Goethe)_085.jpg}}
+{{SeitePR|86|Faust I_(Goethe)_086.jpg}}
+{{PoemPR|87|Faust I_(Goethe)_087.jpg}}
+{{PoemPR|88|Faust I_(Goethe)_088.jpg}}
+{{PoemPR|89|Faust I_(Goethe)_089.jpg}}
+{{PoemPR|90|Faust I_(Goethe)_090.jpg}}
+{{PoemPR|91|Faust I_(Goethe)_091.jpg}}
+{{PoemPR|92|Faust I_(Goethe)_092.jpg}}
+{{PoemPR|93|Faust I_(Goethe)_093.jpg}}
+{{PoemPR|94|Faust I_(Goethe)_094.jpg}}
+{{PoemPR|95|Faust I_(Goethe)_095.jpg}}
+{{PoemPR|96|Faust I_(Goethe)_096.jpg}}
+{{SeitePR|97|Faust I_(Goethe)_097.jpg}}
+{{PoemPR|98|Faust I_(Goethe)_098.jpg}}
+{{PoemPR|99|Faust I_(Goethe)_099.jpg}}
+{{PoemPR|100|Faust I_(Goethe)_100.jpg}}
+{{PoemPR|101|Faust I_(Goethe)_101.jpg}}
+{{PoemPR|102|Faust I_(Goethe)_102.jpg}}
+{{PoemPR|103|Faust I_(Goethe)_103.jpg}}
+{{SeitePR|104|Faust I_(Goethe)_104.jpg}}
+{{PoemPR|105|Faust I_(Goethe)_105.jpg}}
+{{SeitePR|106|Faust I_(Goethe)_106.jpg}}
+{{PoemPR|107|Faust I_(Goethe)_107.jpg}}
+{{PoemPR|108|Faust I_(Goethe)_108.jpg}}
+{{SeitePR|109|Faust I_(Goethe)_109.jpg}}
+{{PoemPR|110|Faust I_(Goethe)_110.jpg}}
+{{PoemPR|111|Faust I_(Goethe)_111.jpg}}
+{{PoemPR|112|Faust I_(Goethe)_112.jpg}}
+{{PoemPR|113|Faust I_(Goethe)_113.jpg}}
+{{PoemPR|114|Faust I_(Goethe)_114.jpg}}
+{{PoemPR|115|Faust I_(Goethe)_115.jpg}}
+{{SeitePR|116|Faust I_(Goethe)_116.jpg}}
+{{PoemPR|117|Faust I_(Goethe)_117.jpg}}
+{{PoemPR|118|Faust I_(Goethe)_118.jpg}}
+{{PoemPR|119|Faust I_(Goethe)_119.jpg}}
+{{SeitePR|120|Faust I_(Goethe)_120.jpg}}
+{{PoemPR|121|Faust I_(Goethe)_121.jpg}}
+{{SeitePR|122|Faust I_(Goethe)_122.jpg}}
+{{SeitePR|123|Faust I_(Goethe)_123.jpg}}
+{{PoemPR|124|Faust I_(Goethe)_124.jpg}}
+{{SeitePR|125|Faust I_(Goethe)_125.jpg}}
+{{SeitePR|126|Faust I_(Goethe)_126.jpg}}
+{{PoemPR|127|Faust I_(Goethe)_127.jpg}}
+{{SeitePR|128|Faust I_(Goethe)_128.jpg}}
+{{SeitePR|129|Faust I_(Goethe)_129.jpg}}
+{{PoemPR|130|Faust I_(Goethe)_130.jpg}}
+{{PoemPR|131|Faust I_(Goethe)_131.jpg}}
+{{SeitePR|132|Faust I_(Goethe)_132.jpg}}
+{{PoemPR|133|Faust I_(Goethe)_133.jpg}}
+{{PoemPR|134|Faust I_(Goethe)_134.jpg}}
+{{PoemPR|135|Faust I_(Goethe)_135.jpg}}
+{{SeitePR|136|Faust I_(Goethe)_136.jpg}}
+{{SeitePR|137|Faust I_(Goethe)_137.jpg}}
+{{PoemPR|138|Faust I_(Goethe)_138.jpg}}
+{{PoemPR|139|Faust I_(Goethe)_139.jpg}}
+{{SeitePR|140|Faust I_(Goethe)_140.jpg}}
+{{PoemPR|141|Faust I_(Goethe)_141.jpg}}
+{{SeitePR|142|Faust I_(Goethe)_142.jpg}}
+{{SeitePR|143|Faust I_(Goethe)_143.jpg}}
+{{SeitePR|144|Faust I_(Goethe)_144.jpg}}
+{{SeitePR|145|Faust I_(Goethe)_145.jpg}}
+{{SeitePR|146|Faust I_(Goethe)_146.jpg}}
+{{SeitePR|147|Faust I_(Goethe)_147.jpg}}
+{{SeitePR|148|Faust I_(Goethe)_148.jpg}}
+{{PoemPR|149|Faust I_(Goethe)_149.jpg}}
+{{PoemPR|150|Faust I_(Goethe)_150.jpg}}
+{{SeitePR|151|Faust I_(Goethe)_151.jpg}}
+{{PoemPR|152|Faust I_(Goethe)_152.jpg}}
+{{PoemPR|153|Faust I_(Goethe)_153.jpg}}
+{{SeitePR|154|Faust I_(Goethe)_154.jpg}}
+{{PoemPR|155|Faust I_(Goethe)_155.jpg}}
+{{SeitePR|156|Faust I_(Goethe)_156.jpg}}
+{{SeitePR|157|Faust I_(Goethe)_157.jpg}}
+{{SeitePR|158|Faust I_(Goethe)_158.jpg}}
+{{PoemPR|159|Faust I_(Goethe)_159.jpg}}
+{{SeitePR|160|Faust I_(Goethe)_160.jpg}}
+{{SeitePR|161|Faust I_(Goethe)_161.jpg}}
+{{PoemPR|162|Faust I_(Goethe)_162.jpg}}
+{{PoemPR|163|Faust I_(Goethe)_163.jpg}}
+{{SeitePR|164|Faust I_(Goethe)_164.jpg}}
+{{PoemPR|165|Faust I_(Goethe)_165.jpg}}
+{{SeitePR|166|Faust I_(Goethe)_166.jpg}}
+{{PoemPR|167|Faust I_(Goethe)_167.jpg}}
+{{SeitePR|168|Faust I_(Goethe)_168.jpg}}
+{{SeitePR|169|Faust I_(Goethe)_169.jpg}}
+{{SeitePR|170|Faust I_(Goethe)_170.jpg}}
+{{PoemPR|171|Faust I_(Goethe)_171.jpg}}
+{{SeitePR|172|Faust I_(Goethe)_172.jpg}}
+{{SeitePR|173|Faust I_(Goethe)_173.jpg}}
+{{PoemPR|174|Faust I_(Goethe)_174.jpg}}
+{{SeitePR|175|Faust I_(Goethe)_175.jpg}}
+{{SeitePR|176|Faust I_(Goethe)_176.jpg}}
+{{SeitePR|177|Faust I_(Goethe)_177.jpg}}
+{{SeitePR|178|Faust I_(Goethe)_178.jpg}}
+{{PoemPR|179|Faust I_(Goethe)_179.jpg}}
+{{SeitePR|180|Faust I_(Goethe)_180.jpg}}
+{{SeitePR|181|Faust I_(Goethe)_181.jpg}}
+{{PoemPR|182|Faust I_(Goethe)_182.jpg}}
+{{PoemPR|183|Faust I_(Goethe)_183.jpg}}
+{{SeitePR|184|Faust I_(Goethe)_184.jpg}}
+{{SeitePR|185|Faust I_(Goethe)_185.jpg}}
+{{PoemPR|186|Faust I_(Goethe)_186.jpg}}
+{{SeitePR|187|Faust I_(Goethe)_187.jpg}}
+{{SeitePR|188|Faust I_(Goethe)_188.jpg}}
+{{SeitePR|189|Faust I_(Goethe)_189.jpg}}
+{{SeitePR|190|Faust I_(Goethe)_190.jpg}}
+{{SeitePR|191|Faust I_(Goethe)_191.jpg}}
+{{PoemPR|192|Faust I_(Goethe)_192.jpg}}
+{{PoemPR|193|Faust I_(Goethe)_193.jpg}}
+{{SeitePR|194|Faust I_(Goethe)_194.jpg}}
+{{SeitePR|195|Faust I_(Goethe)_195.jpg}}
+{{SeitePR|196|Faust I_(Goethe)_196.jpg}}
+{{SeitePR|197|Faust I_(Goethe)_197.jpg}}
+{{PoemPR|198|Faust I_(Goethe)_198.jpg}}
+{{PoemPR|199|Faust I_(Goethe)_199.jpg}}
+{{SeitePR|200|Faust I_(Goethe)_200.jpg}}
+{{SeitePR|201|Faust I_(Goethe)_201.jpg}}
+{{SeitePR|202|Faust I_(Goethe)_202.jpg}}
+{{SeitePR|203|Faust I_(Goethe)_203.jpg}}
+{{SeitePR|204|Faust I_(Goethe)_204.jpg}}
+{{PoemPR|205|Faust I_(Goethe)_205.jpg}}
+{{SeitePR|206|Faust I_(Goethe)_206.jpg}}
+{{PoemPR|207|Faust I_(Goethe)_207.jpg}}
+{{SeitePR|208|Faust I_(Goethe)_208.jpg}}
+{{PoemPR|209|Faust I_(Goethe)_209.jpg}}
+{{SeitePR|210|Faust I_(Goethe)_210.jpg}}
+{{SeitePR|211|Faust I_(Goethe)_211.jpg}}
+{{SeitePR|212|Faust I_(Goethe)_212.jpg}}
+{{SeitePR|213|Faust I_(Goethe)_213.jpg}}
+{{SeitePR|214|Faust I_(Goethe)_214.jpg}}
+{{PoemPR|215|Faust I_(Goethe)_215.jpg}}
+{{PoemPR|216|Faust I_(Goethe)_216.jpg}}
+{{SeitePR|217|Faust I_(Goethe)_217.jpg}}
+{{SeitePR|218|Faust I_(Goethe)_218.jpg}}
+{{PoemPR|219|Faust I_(Goethe)_219.jpg}}
+{{PoemPR|220|Faust I_(Goethe)_220.jpg}}
+{{SeitePR|221|Faust I_(Goethe)_221.jpg}}
+{{PoemPR|222|Faust I_(Goethe)_222.jpg}}
+{{SeitePR|223|Faust I_(Goethe)_223.jpg}}
+{{SeitePR|224|Faust I_(Goethe)_224.jpg}}
+{{SeitePR|225|Faust I_(Goethe)_225.jpg}}
+{{SeitePR|226|Faust I_(Goethe)_226.jpg}}
+{{SeitePR|227|Faust I_(Goethe)_227.jpg}}
+{{SeitePR|228|Faust I_(Goethe)_228.jpg}}
+{{PoemPR|229|Faust I_(Goethe)_229.jpg}}
+{{SeitePR|230|Faust I_(Goethe)_230.jpg}}
+{{SeitePR|231|Faust I_(Goethe)_231.jpg}}
+{{SeitePR|232|Faust I_(Goethe)_232.jpg}}
+{{SeitePR|233|Faust I_(Goethe)_233.jpg}}
+{{PoemPR|234|Faust I_(Goethe)_234.jpg}}
+{{SeitePR|235|Faust I_(Goethe)_235.jpg}}
+{{SeitePR|236|Faust I_(Goethe)_236.jpg}}
+{{PoemPR|237|Faust I_(Goethe)_237.jpg}}
+{{PoemPR|238|Faust I_(Goethe)_238.jpg}}
+{{SeitePR|239|Faust I_(Goethe)_239.jpg}}
+{{SeitePR|240|Faust I_(Goethe)_240.jpg}}
+{{SeitePR|241|Faust I_(Goethe)_241.jpg}}
+{{SeitePR|242|Faust I_(Goethe)_242.jpg}}
+{{PoemPR|243|Faust I_(Goethe)_243.jpg}}
+{{PoemPR|244|Faust I_(Goethe)_244.jpg}}
+{{SeitePR|245|Faust I_(Goethe)_245.jpg}}
+{{PoemPR|246|Faust I_(Goethe)_246.jpg}}
+{{SeitePR|247|Faust I_(Goethe)_247.jpg}}
+{{PoemPR|248|Faust I_(Goethe)_248.jpg}}
+{{SeitePR|249|Faust I_(Goethe)_249.jpg}}
+{{SeitePR|250|Faust I_(Goethe)_250.jpg}}
+{{PoemPR|251|Faust I_(Goethe)_251.jpg}}
+{{SeitePR|252|Faust I_(Goethe)_252.jpg}}
+{{PoemPR|253|Faust I_(Goethe)_253.jpg}}
+{{PoemPR|254|Faust I_(Goethe)_254.jpg}}
+{{SeitePR|255|Faust I_(Goethe)_255.jpg}}
+{{SeitePR|256|Faust I_(Goethe)_256.jpg}}
+{{PoemPR|257|Faust I_(Goethe)_257.jpg}}
+{{SeitePR|258|Faust I_(Goethe)_258.jpg}}
+{{SeitePR|259|Faust I_(Goethe)_259.jpg}}
+{{PoemPR|260|Faust I_(Goethe)_260.jpg}}
+{{PoemPR|261|Faust I_(Goethe)_261.jpg}}
+{{PoemPR|262|Faust I_(Goethe)_262.jpg}}
+{{PoemPR|263|Faust I_(Goethe)_263.jpg}}
+{{SeitePR|264|Faust I_(Goethe)_264.jpg}}
+{{SeitePR|265|Faust I_(Goethe)_265.jpg}}
+{{PoemPR|266|Faust I_(Goethe)_266.jpg}}
+{{SeitePR|267|Faust I_(Goethe)_267.jpg}}
+{{PoemPR|268|Faust I_(Goethe)_268.jpg}}
+{{SeitePR|269|Faust I_(Goethe)_269.jpg}}
+{{PoemPR|270|Faust I_(Goethe)_270.jpg}}
+{{PoemPR|271|Faust I_(Goethe)_271.jpg}}
+{{SeitePR|272|Faust I_(Goethe)_272.jpg}}
+{{SeitePR|273|Faust I_(Goethe)_273.jpg}}
+{{PoemPR|274|Faust I_(Goethe)_274.jpg}}
+{{PoemPR|275|Faust I_(Goethe)_275.jpg}}
+{{PoemPR|276|Faust I_(Goethe)_276.jpg}}
+{{PoemPR|277|Faust I_(Goethe)_277.jpg}}
+{{PoemPR|278|Faust I_(Goethe)_278.jpg}}
+{{SeitePR|279|Faust I_(Goethe)_279.jpg}}
+{{SeitePR|280|Faust I_(Goethe)_280.jpg}}
+{{SeitePR|281|Faust I_(Goethe)_281.jpg}}
+{{PoemPR|282|Faust I_(Goethe)_282.jpg}}
+{{PoemPR|283|Faust I_(Goethe)_283.jpg}}
+{{SeitePR|284|Faust I_(Goethe)_284.jpg}}
+{{PoemPR|285|Faust I_(Goethe)_285.jpg}}
+{{PoemPR|286|Faust I_(Goethe)_286.jpg}}
+{{PoemPR|287|Faust I_(Goethe)_287.jpg}}
+{{SeitePR|288|Faust I_(Goethe)_288.jpg}}
+{{PoemPR|289|Faust I_(Goethe)_289.jpg}}
+{{PoemPR|290|Faust I_(Goethe)_290.jpg}}
+{{SeitePR|291|Faust I_(Goethe)_291.jpg}}
+{{SeitePR|292|Faust I_(Goethe)_292.jpg}}
+{{SeitePR|293|Faust I_(Goethe)_293.jpg}}
+{{SeitePR|294|Faust I_(Goethe)_294.jpg}}
+{{SeitePR|295|Faust I_(Goethe)_295.jpg}}
+{{SeitePR|296|Faust I_(Goethe)_296.jpg}}
+{{PoemPR|297|Faust I_(Goethe)_297.jpg}}
+{{PoemPR|298|Faust I_(Goethe)_298.jpg}}
+{{PoemPR|299|Faust I_(Goethe)_299.jpg}}
+{{PoemPR|300|Faust I_(Goethe)_300.jpg}}
+{{SeitePR|301|Faust I_(Goethe)_301.jpg}}
+{{PoemPR|302|Faust I_(Goethe)_302.jpg}}
+{{PoemPR|303|Faust I_(Goethe)_303.jpg}}
+{{PoemPR|304|Faust I_(Goethe)_304.jpg}}
+{{PoemPR|305|Faust I_(Goethe)_305.jpg}}
+{{SeitePR|306|Faust I_(Goethe)_306.jpg}}
+{{SeitePR|307|Faust I_(Goethe)_307.jpg}}
+{{PoemPR|308|Faust I_(Goethe)_308.jpg}}
+{{SeitePR|309|Faust I_(Goethe)_309.jpg}}
+
+== Anmerkungen (Wikisource) ==
+{{references}}
+
+{{BlockSatzEnd}}
+
+Die beiden Kapitel ''Zueignung'' und ''Auf dem Theater'' existieren auch als Audiodatei:
+{{Gesprochener Text|datei=De-Faust - Der Tragödie erster Teil-Prolog und Auf dem Theater-wikisource.ogg|länge=14 min|größe= 9,36 MB|sprecher=Slartidan}}
+Das dritte Kapitel ''Prolog im Himmel'' existiert auch als Audiodatei: {{Gesprochener Text|datei=DE-Faust - Der-Tragödie erster Teil - 02 - Im Himmel.ogg|länge= 6:49 min|größe= 5,41 MB|sprecher=Tomisachef}}
+
+{|{{Prettytable}}
+| 
+* Als Grundlage dienen die allgemeinen [[Wikisource:Editionsrichtlinien|Editionsrichtlinien]]. Zusätzlich folgende projektspezifische Richtlinien:
+** Kapitelüberschriften werden zentriert, fett und in Schriftgröße 130% vollständig in einer Zeile gesetzt. Dazu kann die Vorlage {{[[Vorlage:LineCenterSize|LineCenterSize]]}} genutzt werden: <tt><nowiki>{{LineCenterSize|130|25|'''Überschrift.'''}}</nowiki></tt>
+** Personenaufzählungen werden zentriert gesetzt. Dazu kann die Vorlage {{[[Vorlage:Center|Center]]}} verwendet werden; die Personen werden <nowiki>'''''</nowiki>'''''fettkursiv'''''<nowiki>'''''</nowiki>, anderweitiger Text bleibt in normaler Schriftstärke.
+** Regieanweisungen stehen <nowiki>''</nowiki>''kursiv''<nowiki>''</nowiki> und außerhalb der <tt><nowiki><poem></nowiki></tt>-Umgebung.
+** Sprecher im Text stehen innerhalb der <tt><nowiki><poem></nowiki></tt>-Umgebung, und sind <nowiki>'''</nowiki>'''fett'''<nowiki>'''</nowiki> gedruckt.
+** {{SperrSchrift|SperrSchrift}} innerhalb des Textes wird ''kursiv'' wiedergegeben.
+** <tt>Antiqua-Schrift</tt> wird mit <nowiki><tt></nowiki> und <nowiki></tt></nowiki> wiedergegeben.
+** [[w:Geviertstrich|Geviertstriche]] „—“ werden als normale [[w:Gedankenstrich|Gedankenstriche]] „–“ wiedergegeben.
+** Zeilennummern werden in jeder fünften Zeile mit der Vorlage {{[[Vorlage:Zeile|Zeile]]}} eingetragen. Die Zählung orientiert sich hierbei an [http://www.hs-augsburg.de/~harsch/germanica/Chronologie/18Jh/Goethe/goe_f000.html].
+** Einrückungen aus der Vorlage werden mit "idt" vorgenommen. 
+** [[w:Antilabe|Antilabe]]n werden mit der Vorlage'' <nowiki>{{idt2|}}</nowiki> ''in den Weiten 80, 150 … gesetzt.
+** Offensichtliche Druckfehler (z.B. Buchstabendreher) werden korrigiert, die Korrektur per Fußnote kenntlich gemacht.
+**'''Ausführlicher und c&p Beispiel siehe [[Index_Diskussion:Faust - Der Tragödie erster Teil|hier]]'''
+----
+<div align="center"><small>Alle redaktionellen Texte dieses Projektes stehen unter der Lizenz [https://creativecommons.org/licenses/by-sa/2.0/de/ CC-BY-SA 2.0 Deutschland]</small></div>
+|}
+
+
+{{SORTIERUNG:Faust Der Tragodie erster Teil}}
+[[Kategorie:19. Jahrhundert]]
+[[Kategorie:Deutschland]]
+[[Kategorie:Drama]]
+[[Kategorie:Neuhochdeutsch]]
+[[Kategorie:Deutsche Philologie]]
+[[Kategorie:Johann Wolfgang von Goethe]]
